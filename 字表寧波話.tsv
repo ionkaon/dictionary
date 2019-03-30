@@ -4218,7 +4218,7 @@ k	k	khe1		1
 愾	忾	khe5	kʽæ	9			
 慨	慨	khe5	kʽæ	2			
 嘅	慨	khe5	kʽæ	2			
-看	看	khe5	kʽen	1		用在動詞或動詞結構後面，表示試一試(前面的動詞常用重疊式)	
+看	看	khe5	kʽen	1	0.05	用在動詞或動詞結構後面，表示試一試(前面的動詞常用重疊式)	
 墈	墈	khe5		1		高的堤岸	
 戤	戤	ge4	gæ	1		戤叉	
 隑	隑	ge4		1		斜靠；倚	
@@ -6843,6 +6843,7 @@ k	k	khe1		1
 筤	筤	laon2	lông	9			
 躴	躴	laon2	lông	9			
 螺	螺	laon2		3	0.00	僅限於“搣陀螺”	
+落	落	laon2		1	0.00	僅限於“打蓮花落”	
 浪	浪	laon6	lông	1			
 狼	狼	laon6	lông	2			
 㫰	㫰	laon6	lông	1		㫰衣裳	
@@ -7632,6 +7633,7 @@ k	k	khe1		1
 砰	砰	phin1	pʽing	9			
 品	品	phin3	pʽing	1			
 聘	聘	phin3	pʽing	1			
+併	并	phin3		1	0.05	打併	
 娉	娉	phin5	pʽing	9			
 平	平	bin2	bing	1			
 評	评	bin2	bing	1			

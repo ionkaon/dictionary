@@ -5346,6 +5346,7 @@
 退	退	thei5	tʽe	1			
 褪	褪	thei5	tʽe	2			
 蛻	蜕	thei5		2			
+蜕	蜕	thei5		2			
 探	探	thei5	tʽen	1			
 㶒	㶒	thei5	tʽen	1			
 僋	僋	thei5	tʽen	9			
@@ -5363,6 +5364,7 @@
 禫	禫	dei4	den	9			
 隊	队	dei6	de	1			
 兌	兑	dei6	de	1			
+兑	兑	dei6	de	1			
 𩊭	𩊭	dei6	de	9			
 鐓	镦	dei6	de	9			
 薱	薱	dei6	de	9			
@@ -5472,12 +5474,14 @@
 誶	谇	sei5	se	9			
 萃	萃	sei5	se	9			
 稅	税	sei5	se	2			
+税	税	sei5	se	2			
 帨	帨	sei5	se	9			
 歲	岁	sei5	se	1	0.06	文讀	
 嵗	岁	sei5		1	0.06	文讀	
 祟	祟	sei5	se	9			
 糝	糁	sei5		1		飯糝	
 說	说	sei5	se	9	0.01	説客	
+説	说	sei5	se	9	0.01	説客	
 煞	煞	sei5	sah	3	0.00	又音 僅限於“後煞來”	
 賽	赛	sei5	sæ	3	0.00	又音 僅限於“賽過”	
 隨	随	zei2	ze	1			
@@ -5521,6 +5525,7 @@
 睟	睟	zei6	ze	9			
 錊	錊	zei6	ze	9			
 銳	锐	zei6	ze	2			
+鋭	锐	zei6	ze	2			
 睿	睿	zei6	ze	9			
 叡	睿	zei6		9			
 蚋	蚋	zei6	ze	9			
@@ -5691,7 +5696,6 @@
 幑	徽	huei1		2			
 諱	讳	huei1	hwe	2			
 誨	诲	huei1	hwe	2			
-賄	贿	huei1	hwe	2			
 隳	隳	huei1	hwe	9			
 虺	虺	huei1	hwe	9			
 昏	昏	huei1	hweng	3	0.00	又音 僅限於“黃昏頭”	
@@ -5701,6 +5705,7 @@
 譭	毁	huei3	hwe	2			
 燬	毁	huei3	hwe	2			
 虫	虫	huei3	hwe	9			
+賄	贿	huei5	hwe	1			
 嘒	嘒	huei5	hwe	9			
 晦	晦	huei5	hwe	1			
 喙	喙	huei5	hwe	9			
@@ -7741,7 +7746,7 @@
 停	停	din2	ding	1			
 婷	婷	din2	ding	9			
 𦝞	𦝞	din2	ding	9			
-成	成	din2		3	0.00	又音 僅限於“成糖”	
+成	成	din2		3	0.00	又音 僅限於“成糖”	#
 梃	梃	din4		9			
 鋌	铤	din4	ding	9			
 珽	珽	din4	ding	9			

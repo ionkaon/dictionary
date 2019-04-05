@@ -399,6 +399,7 @@
 駐	驻	dzyu6	djü	9			
 縋	缒	dzyu6		1		縋落	
 槌	槌	dzyu6		2		練槌	
+墜	坠	dzyu6		1	0.05	耳朵墜	
 滯	滞	dzyu6		1	0.05	滯膯	
 樹	树	dzyu6	jü	3	0.00	僅限於“解樹螂”	
 書	书	syu1	shü	1			
@@ -6935,6 +6936,7 @@
 幢	幢	dzaon4		1			
 藏	藏	dzaon6	dzông	1			
 臟	脏	dzaon6	dzông	1			
+臓	脏	dzaon6		1			
 撞	撞	dzaon6	djông	1			
 ⿱串皿	⿱串皿	dzaon6		3			
 霜	霜	saon1	sông	1			
@@ -10261,6 +10263,7 @@
 鞸	鞸	piq7	pih	9			
 㮿	㮿	piq7	pih	9			
 別	别	piq7	pih	9	0.00	同“彆”	
+别	别	piq7	pih	9	0.00	同“彆”	
 彆	别	piq7	pih	9			
 𨂅	𨂅	piq7		3			
 必	必	piq7	pih	1			
@@ -10308,6 +10311,7 @@
 𩪧	𩪧	phiq7	pʽih	9			
 𨵩	𨸆	phiq7	pʽih	9			
 別	别	biq8	bih	1			
+别	别	biq8	bih	1			
 弼	弼	biq8	bih	2			
 鼻	鼻	biq8	bih	1	0.06	文讀	
 䕗	䕗	biq8	bih	9			
@@ -10505,6 +10509,7 @@
 㘍	㘍	ciq7	tsih	9			
 灼	灼	ciq7	tsiah	1			
 着	着	ciq7		3	0.05	①涂（颜色） ②下（棋）	
+𢆚	𢆚	ciq7		1		量詞，捆	
 指	指	ciq7	ts	3	0.00	又音 僅限於“腳指末頭”	
 今	今	ciq7		1	0.00	僅限於“今末”等詞	
 結	结	ciq7	kyih	1			
@@ -10711,6 +10716,7 @@
 息	息	shiq7	sih	1			
 媳	媳	shiq7	sih	2			
 熄	熄	shiq7	sih	2			
+瘜	瘜	shiq7		1		“息肉”也作“瘜肉”	
 式	式	shiq7	sih	1			
 拭	拭	shiq7	sih	9			
 軾	轼	shiq7	sih	2			
@@ -10930,6 +10936,7 @@
 旭	旭	shiuq7	hyüoh	2			
 噱	噱	shiuq7		1		逗引；哄騙	
 悅	悦	yuq8	yüih	2			
+悦	悦	yuq8	yüih	2			
 閱	阅	yuq8	yüih	2			
 戉	戉	yuq8					
 鉞	钺	yuq8	yüih	9			

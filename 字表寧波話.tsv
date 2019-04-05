@@ -2491,7 +2491,9 @@
 靴	靴	shiu1		1			
 鞾	靴	shiu1	hyü	1			
 虛	虚	shiu1	hyü	1			
+虚	虚	shiu1	hyü	1			
 噓	嘘	shiu1	hyü	2			
+嘘	嘘	shiu1	hyü	2			
 墟	墟	shiu1	hyü	2			
 譃	譃	shiu1	hyü	9			
 歔	歔	shiu1	hyü	9			
@@ -2519,6 +2521,7 @@
 詡	诩	shiu3	hyü	9			
 烜	烜	shiu3		9			
 毀	毁	shiu5		1	0.05	舊時指小孩換乳齒	
+毁	毁	shiu5		1	0.05	舊時指小孩換乳齒	
 㧦	㧦	shiu5		1			
 揎	揎	shiu5		3			
 酗	酗	shiu5	hyü	9			
@@ -5706,6 +5709,7 @@
 昬	昏	huei1		3	0.00	又音 僅限於“黃昏頭”	
 悔	悔	huei3	hwe	1			
 毀	毁	huei3		2			
+毁	毁	huei3		2			
 譭	毁	huei3	hwe	2			
 燬	毁	huei3	hwe	2			
 虫	虫	huei3	hwe	9			

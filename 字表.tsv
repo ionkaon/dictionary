@@ -2694,7 +2694,7 @@
 牠	它	tha1		1			
 它	它	tha1		1			
 鉈	铊	tha1				化學元素	
-舑	舑	tha3		1		舑舌頭	
+舑	舑	tha1		1		舑舌頭	
 討	讨	tha3		3	0.05	僅限於“討饒”	
 太	太	tha5	tʽa	1			
 鈦	钛	tha5				化學元素	
@@ -5237,7 +5237,7 @@
 𦈧	杯	pei1	pe	1			
 桮	杯	pei1		1			
 盃	杯	pei1		1			
-背	背	pei1	pe	1			
+揹	背	pei1	pe	1			
 褙	褙	pei1	pe	1			
 陂	陂	pei1	pe	9			
 貝	贝	pei1	pe	2			
@@ -5422,6 +5422,7 @@
 淚	泪	lei6	le	2	0.06	文讀	
 泪	泪	lei6		2	0.06	文讀	
 擂	擂	lei6	le	1		擂倒	
+𢺢	𢺢	lei6		1			
 攂	攂	lei6	le	9			
 洡	洡	lei6		1			
 累	累	lei6	le	3	0.05	沾;沾上污物	
@@ -6940,6 +6941,7 @@
 鱨	鲿	dzaon2		3			
 償	偿	dzaon2	djông	9	0.06	文讀	
 幢	幢	dzaon4		1			
+狀	状	dzaon4	jông	1		形狀	
 藏	藏	dzaon6	dzông	1			
 臟	脏	dzaon6	dzông	1			
 臓	脏	dzaon6		1			
@@ -6984,7 +6986,7 @@
 嘗	尝	zaon2		1		嘗鹹淡	
 嚐	尝	zaon2		1		嚐鹹淡	
 甞	尝	zaon2		1		嚐鹹淡	
-狀	状	zaon4	jông	1			
+狀	状	zaon4	jông	1		狀子	
 上	上	zaon4	zông	1			
 晌	晌	zaon4		1			
 上	上	zaon6	zông	1			
@@ -8405,6 +8407,7 @@
 醺	醺	shiun1	hyüing	9			
 訓	训	shiun5	hyüing	2			
 勻	匀	yun2	yüing	1			
+匀	匀	yun2	yüing	1			
 筠	筠	yun2	yüing	9			
 鋆	鋆	yun2	yüing	9			
 𧥺	𧥺	yun2	yüing	9			
@@ -9423,7 +9426,8 @@
 石	石	zaq8		1			
 閘	闸	zaq8	zah	1			
 牐	闸	zaq8	zah	1			
-煠	煠	zaq8	zah	1		油煠	
+煠	煠	zaq8	zah	1		白煠蛋	
+炸	炸	zaq8		1		油炸	
 𧾁	𧾁	zaq8		1			
 𧼰	𧼰	zaq8		1		𧼰時	
 鍘	铡	zaq8		2			

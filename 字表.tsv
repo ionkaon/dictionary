@@ -7150,6 +7150,7 @@
 半	半	pun5	pun	1			
 𩢔	𩢔	pun5	pun	9			
 潘	潘	phun1	pʽun	2			
+盤	盘	phun1		1	0.05	又音 全部貨物折價一次出售	
 𧺾	𧺾	phun3	pʽun	9			
 半	半	phun5		1	0.00	僅限於“半個”	
 判	判	phun5	pʽun	7			
@@ -7158,7 +7159,7 @@
 牉	牉	phun5	pʽun	9			
 𠯘	𠯘	phun5	pʽun	9			
 詊	𫟟	phun5	pʽun	9			
-判	判	bun2		7		全部貨物折價一次出售	
+判	判	bun2		7	0.05	又音 全部貨物折價一次出售	
 盤	盘	bun2	bun	1			
 蟠	蟠	bun2	bun	1			
 磐	盘	bun2	bun	1			
@@ -7395,6 +7396,7 @@
 凳	凳	ten5	teng	1			
 櫈	凳	ten5	teng	1			
 燉	炖	ten5	teng	1			
+敦	敦	ten5	teng	1	0.05	①動詞：豎立；挺。②形容詞，直。	
 撉	撉	ten5		2		撉撉齊	
 澄	澄	ten5		2			
 膯	膯	ten5		1		滯膯	

@@ -72,7 +72,7 @@
 
 ## 反饋
 
-限於本人的水平，字表中難免會有錯漏。如果使用者有任何問題或是發現了任何錯誤，歡迎提交[issue](https://github.com/shinzoqchiuq/gninpou-dictionary/issues)，也可以通過以下郵箱直接與我聯繫。
+限於本人水平，字表中難免會有錯漏。如果使用者有任何問題或是發現了任何錯誤，歡迎提交[issue](https://github.com/shinzoqchiuq/gninpou-dictionary/issues)，或是通過以下郵箱直接與我聯繫。
 
 本人郵箱：1613023143@qq.com
 

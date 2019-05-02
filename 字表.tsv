@@ -1439,7 +1439,7 @@
 捻	捻	gni2					
 鮎	鲇	gni2	nyin	7			
 妍	妍	gni2	nyin	7			
-研	研	gni2	nyin	1			
+研	研	GNi2	nyin	1			
 䂴	䂴	gni2	nyin	7			
 然	然	gni2	jün	3	0.00	又音 僅限於“勿然”	
 你	你	gni4		2			
@@ -1693,7 +1693,6 @@
 痍	痍	yi2	yi	7			
 遺	遗	yi2	yi	1			
 痬	痬	yi2		1		疾病傳染	
-易	易	yi2	yi	1	0.01	“痬”本作“易”	
 肄	肄	yi2	yi	1			
 蚰	蚰	yi2		1		蜒蚰螺	
 頤	颐	yi2	yi	7			
@@ -6130,7 +6129,7 @@
 侔	侔	meu2	meo	7			
 蛑	蛑	meu2	meo	7			
 拇	拇	meu2		2			
-姆	姆	meu2		1			
+姆	姆	meu2		1	0.05		
 𧉯	𧉯	meu2	meo	7			
 畝	亩	meu2	meo	2		文讀	
 畮	亩	meu2		2		文讀	
@@ -6874,6 +6873,7 @@
 臧	臧	tsaon1	tsông	2			
 髒	脏	tsaon1	tsông	2			
 贜	赃	tsaon1	tsông	2			
+贓	赃	tsaon1	tsông	2			
 𢈜	𢈜	tsaon1	tsông	2			
 章	章	tsaon1	công	1			
 樟	樟	tsaon1	công	1			
@@ -7731,7 +7731,7 @@
 靪	靪	tin1	ting	7			
 疔	疔	tin1	ting	1			
 酊	酊	tin1	ting	7		化學用字	
-汀	汀	tin1		1		水汀	
+汀	汀	tin1		1	0.05	水汀	
 玎	玎	tin1	ting	7			
 䟓	䟓	tin1	ting	7			
 頂	顶	tin3	ting	1			
@@ -8488,6 +8488,7 @@
 鎭	镇	tsyun5	cing	1			
 震	震	tsyun5	cing	2			
 圳	圳	tsyun5					
+甽	甽	tsyun5					
 春	春	tshyun1	cʽing	1			
 旾	春	tshyun1		1			
 椿	椿	tshyun1	cʽing	1			
@@ -8671,6 +8672,7 @@
 𩍅	𩍅	don2	dong	7			
 獞	獞	don2	dong	7			
 佟	佟	don2					
+咚	咚	don2			0.00		
 彤	彤	don2	dong	7			
 動	动	don4	dong	1			
 桶	桶	don4	dong	1			
@@ -10728,6 +10730,7 @@
 褻	亵	shiq7	sih	7			
 𣊓	𣊓	shiq7	sih	7			
 悉	悉	shiq7	sih	2			
+窸	窸	shiq7					
 蟋	蟋	shiq7	sih	7			
 膝	膝	shiq7	sih	2			
 𧀬	𧀬	shiq7	sih	7			

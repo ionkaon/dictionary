@@ -426,7 +426,7 @@
 須	须	syu1	shü	1		文讀	
 鬚	须	syu1	shü	7	0.00	文讀	
 尿	尿	syu1		1		白讀	
-⿰口舒	⿰口舒	syu1		3		表示疼痛	
+⿰口舒	⿰口舒	syu1		3		音舒吸气。表示疼痛	#
 水	水	syu3		1		白讀	
 暑	暑	syu3	shü	1			
 黍	黍	syu3	shü	2			
@@ -7539,9 +7539,9 @@
 僧	僧	sen1	seng	2			
 森	森	sen1	seng	1			
 參	参	sen1	seng	1	0.10	人參	
-蔘	参	sen1	seng	1	0.10	人參	
-葠	参	sen1		1	0.10	人參	
-蓡	参	sen1		1	0.10	人參	
+蔘	参	sen1	seng	1		人參	
+葠	参	sen1		1		人參	
+蓡	参	sen1		1		人參	
 猻	狲	sen1	seng	1		活猻	
 飧	飧	sen1		7			
 飱	飧	sen1	seng	7			
@@ -7552,7 +7552,7 @@
 胜	胜	sen1	seng	7			
 苼	苼	sen1	seng	7			
 泩	泩	sen1	seng	7			
-聲	声	sen1	sing	3	0.00	僅限於“回聲”	
+聲	声	sen1	sing	3	0.00	僅限於“回聲”	#
 損	损	sen3	seng	2			
 矧	矧	sen3	seng	7			
 哂	哂	sen3	seng	7			
@@ -9764,7 +9764,7 @@
 屋	屋	uaq7	oh	3	0.00	又音 僅限於“屋裏”	
 北	北	poq7	poh	2			
 鉳	锫	poq7				化學元素，又稱“錇”	
-波	波	poq7		1		寧波	
+波	波	poq7		1	0.05	寧波	
 卜	卜	poq7	poh	1			
 卟	卟	poq7				化學用字	
 剝	剥	poq7	poh	1			

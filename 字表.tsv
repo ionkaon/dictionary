@@ -1663,7 +1663,7 @@
 紺	绀	kI5	ken	7			
 侅	侅	khI1	kæ	3			
 看	看	khI5	kʽen	1			
-堪	堪	khI5	kʽæn	3		堪好	
+堪	堪	khI5	kʽæn	3	0.01	堪好	
 墈	墈	khI5		3		高峻的堤岸;高地的崖壁	
 携	携	yi2		2			
 攜	携	yi2	yi	2			
@@ -2738,7 +2738,7 @@
 籟	籁	la6					
 瀨	濑	la6					
 垃	垃	la6		1			
-拉	拉	la6		1			
+拉	拉	la6		1	0.01	粗拉柴	
 啦	啦	la6		3			
 拉	拉	lha1		1			
 啦	啦	lha1		1			
@@ -4925,7 +4925,7 @@
 舩	船	zOE2		1			
 羨	羡	zoe2		2			
 羡	羡	zoe2	jün	2			
-單	单	zoe2	jün	2		姓	
+單	单	zoe2	jün	2	0.01	姓	
 嬋	婵	zoe2	jün	2			
 禪	禅	zoe2	jün	2			
 蟬	蝉	zoe2	jün	2			
@@ -7419,7 +7419,7 @@
 庉	庉	den2	deng	1			
 吨	吨	den2	deng	7			
 窀	窀	den2	deng	7			
-停	停	den2		6			
+停	停	den2		6	0.05		
 囤	囤	den2	deng	2			
 飩	饨	den2	deng	1			
 魨	鲀	den2	deng	7			

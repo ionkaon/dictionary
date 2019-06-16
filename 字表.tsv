@@ -1810,7 +1810,7 @@
 菸	烟	i1	in	1			
 烟	烟	i1	in	7			
 湮	湮	i1					
-殷	殷	i1				黑紅色	
+殷	殷	i1		6	0.05	紫紅色	
 胭	胭	i1	in	1			
 臙	胭	i1		1			
 閼	阏	i1					
@@ -10617,6 +10617,7 @@
 澈	澈	chiq7	tsʽih	7			
 輒	辄	chiq7		7			
 輙	辄	chiq7	tsʽih	7			
+出	出	chiq7	cʽih	6	0.00	僅限於“一佛出世”	
 乞	乞	chiq7	kyʽih	2			
 訖	讫	chiq7	kyʽih	2			
 迄	迄	chiq7	kyʽih	2			

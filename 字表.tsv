@@ -2979,6 +2979,7 @@
 歪	歪	ua1		2	0.00	文讀	
 竵	歪	ua1		2	0.00	文讀	
 窪	洼	ua1		2			
+洼	洼	ua1		2			
 蛙	蛙	ua1		2	0.05	文讀	
 鼃	蛙	ua1		2	0.05	文讀	
 娃	娃	ua1		2	0.06	文讀	
@@ -5339,9 +5340,9 @@
 沬	沬	mei6	me	7			
 𩎟	𩎟	mei6	me	7			
 妹	妹	mhei5		2			
-浮	浮	vei6	veo	4	0.00	僅限於“浮屍”	
 𣍐	𠊉	vei2		1			
 𣍐	𫧃	vei2		1			
+浮	浮	vei6	veo	4	0.00	僅限於“浮屍”	
 堆	堆	tei1	te	1			
 𠡒	𠡒	tei3		1			
 對	对	tei5	te	1			
@@ -8610,6 +8611,7 @@
 酆	酆	fon1					
 灃	沣	fon1					
 封	封	fon1	fong	1			
+湗	湗	fon1		6			
 峯	峰	fon1	fong	2			
 峰	峰	fon1		2			
 烽	烽	fon1	fong	2			
@@ -9616,7 +9618,6 @@
 爵	爵	ciaq7	tsiah	2			
 爝	爝	ciaq7	tsiah	7			
 婥	婥	ciaq7		7			
-杓	杓	ciaq7	tsiah	7			
 妁	妁	ciaq7	tsiah	7			
 趵	趵	ciaq7	tsiah	7			
 酌	酌	ciaq7	tsiah	2			
@@ -9630,8 +9631,9 @@
 腳	脚	ciaq7		1			
 甲	甲	ciaq7	kyiah	1			
 鉀	钾	ciaq7	kyiah	7		化學元素	
-玾	玾	ciaq7		7			
+玾	玾	ciaq7	kyiah	7			
 𥑐	𥑐	ciaq7	kyiah	7			
+岬	岬	ciaq7					
 戛	戛	ciaq7	kyiah	7			
 戞	戛	ciaq7		7			
 筴	筴	ciaq7	kyiah	7			
@@ -10133,7 +10135,7 @@
 碩	硕	zoq8		2			
 若	若	zoq8		6			
 勺	勺	zoq8		1			
-杓	杓	zoq8		7			
+杓	杓	zoq8	tsiah			同“勺”	
 芍	芍	zoq8	ziah	1			
 國	国	koq7	koh	1			
 幗	帼	koq7	koh	7			

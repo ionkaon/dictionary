@@ -4187,6 +4187,7 @@
 財	财	dze2	dzæ	1			
 材	材	dze2	dzæ	1		木材	
 在	在	dze4	dzæ	1			
+扗	在	dze4		1			
 腮	腮	se1	sæ	1			
 顋	腮	se1		1			
 鰓	鳃	se1	sæ	2			
@@ -8786,7 +8787,7 @@
 囪	囱	tshon1	tsʽong	1			
 囱	囱	tshon1	tsʽong	1			
 聰	聪	tshon1	tsʽong	2			
-從	从	tshon1	tsʽong	2		從容	
+從	从	tshon1	tsʽong	2	0.05	從容	
 鏦	𫓩	tshon1	tsʽong	7			
 充	充	tshon1	cʽong	1			
 𥅻	𥅻	tshon1		1			

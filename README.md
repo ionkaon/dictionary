@@ -1,6 +1,6 @@
 # 寧波話字表
 
-文件[`字表.tsv`](字表.tsv)是一份寧波話字表。這份字表是爲了製作[寧波話吳語拼音輸入方案](https://github.com/NGLI/rime-wugniu_gninpou)而作的。表中「吳拼」一欄的注音爲吳語學堂式吳拼。
+本倉庫包含兩份寧波話的同音字表，[`字表.tsv`](字表.tsv)和[`字表_pure.tsv`](字表_pure.tsv)。其中文件[`字表.tsv`](字表.tsv)是完整的字表，爲了製作[寧波話吳語拼音輸入方案](https://github.com/NGLI/rime-wugniu_gninpou)而作。文件[`字表_pure.tsv`](字表_pure.tsv)由[`字表.tsv`](字表.tsv)刪減而來，爲[吳語學堂](https://www.wugniu.com/)的寧波話字音查詢提供數據。兩者的差別請見[pure版](https://github.com/shinzoqchiuq/gninpou-dictionary#pure版)一節。兩張表的註音均使用吳語學堂式吳拼。
 
 ## 音系與拼音方案
 
@@ -72,7 +72,7 @@
 
 ## pure版
 
-上文[說明](https://github.com/shinzoqchiuq/gninpou-dictionary#說明)中第5條以及第7 - 12條提到，[`字表.tsv`](字表.tsv)有諸多超出方言志和方言詞典的內容。如果使用者不需要這些內容，也可以查看文件[`字表_pure.tsv`](字表_pure.tsv)。pure版字表只收錄來自前5種[參考資料](https://github.com/shinzoqchiuq/gninpou-dictionary#參考資料)的字音，不區分陽上和陽去，也沒有爲兼容鍾公廟進行改動，更接近原始的參考資料。同時，pure版字表也不提供字頻等用於輸入法的信息，僅僅提供繁體、简体、吳拼、出處和備註這五列信息。
+上文[說明](https://github.com/shinzoqchiuq/gninpou-dictionary#說明)中第5條以及第7 - 12條提到，[`字表.tsv`](字表.tsv)有諸多超出方言志和方言詞典的內容。如果使用者不需要這些內容，也可以查看文件[`字表_pure.tsv`](字表_pure.tsv)。pure版字表只收錄來自前5種[參考資料](https://github.com/shinzoqchiuq/gninpou-dictionary#參考資料)的字音，不區分陽上和陽去，也沒有爲兼容鍾公廟進行改動，更接近原始的參考資料。同時，pure版字表也不提供字頻等用於輸入法的信息，僅僅提供繁體、简体、吳拼、出處和備註這五列信息。[吳語學堂](https://www.wugniu.com/)中寧波話字音查詢的數據源便是這張表，網站上的查詢結果僅僅是在本表的基礎上加上了IPA一欄，刪去了出處一欄。
 
 ## 反饋
 

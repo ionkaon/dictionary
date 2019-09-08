@@ -212,6 +212,7 @@
 肆	肆	sy5	s	2			
 試	试	sy5	s	1			
 弑	弑	sy5	s	7			
+弒	弑	sy5	s	7			
 㳏	㳏	sy5	s	7			
 時	时	sy5	z	3	0.00	僅限於“日長時久”	
 旹	时	sy5		3	0.00	僅限於“日長時久”	
@@ -2333,7 +2334,7 @@
 熩	熩	u5		3			
 居	居	ciu1	kyü	2			
 鋸	锯	ciu1	kyü	2	0.06	文讀	
-据	据	ciu1	kyü	2			
+据	据	ciu1	kyü	2		拮据	
 拘	拘	ciu1	kyü	2			
 駒	驹	ciu1	kyü	2			
 蒟	蒟	ciu1	kyü	7			
@@ -2686,7 +2687,7 @@
 買	买	ma4	mæ	1			
 馬	马	ma4		1	0.00	僅限於“馬馬虎虎”一詞	
 嗎	吗	ma4				化學用字	
-瑪	玛	ma4			0.06		
+瑪	玛	ma4			0.05		
 賣	卖	ma6	ma	2			
 𧻲	𧻲	mha1		3			
 埋	埋	mha1		3	0.05	把盛有食物的器皿放入熱飯或熱灰中使熱	
@@ -7783,6 +7784,7 @@
 錠	锭	din6	ding	1			
 啶	啶	din6				化學用字	
 靈	灵	lin2	ling	1			
+櫺	棂	lin2	ling	7			
 欞	棂	lin2	ling	7			
 菱	菱	lin2	ling	1			
 蓤	菱	lin2		1			
@@ -9935,6 +9937,7 @@
 鍩	锘	noq8				化學元素	
 𢜪	𢜪	noq8	noh	7			
 錄	录	loq8	loh	2			
+録	录	loq8	loh	2			
 綠	绿	loq8	loh	1			
 菉	绿	loq8	loh	1			
 碌	碌	loq8	loh	1			
@@ -10693,6 +10696,7 @@
 孼	孽	gniq8		1			
 糵	糵	gniq8	nyih	7			
 蘖	蘖	gniq8	nyih	7			
+櫱	蘖	gniq8	nyih	7			
 溺	溺	gniq8	nyih	2			
 愵	愵	gniq8	nyih	7			
 匿	匿	gniq8	nyih	2			

@@ -78,6 +78,7 @@
 胏	胏	tsy3	ts	7			
 訾	訾	tsy3	ts	7			
 徵	徵	tsy3	ts	7	0.05	五音之一	
+徴	徴	tsy3		7	0.05	五音之一	
 飳	飳	tsy3		3	0.00	又音 僅限於“窩飳”	
 至	至	tsy5	ts	1			
 致	致	tsy5	cü	2			
@@ -207,6 +208,8 @@
 賜	赐	sy5	s	2			
 澌	澌	sy5					
 四	四	sy5	s	1			
+亖	四	sy5	s	1			
+𦉭	四	sy5	s	1			
 泗	泗	sy5	s	7			
 駟	驷	sy5	s	7			
 肆	肆	sy5	s	2			
@@ -665,6 +668,7 @@
 㝥	㝥	mi4		1		𡬍花眼𥉻	
 𡬍	㝥	mi4		1		𡬍花眼𥉻	
 羋	芈	mi4					
+芈	芈	mi4					
 弭	弭	mi4	mi	7			
 乜	乜	mi4	mi	7			
 沔	沔	mi4	min	7			
@@ -1229,6 +1233,7 @@
 僉	佥	chi1	tsʽin	2			
 簽	签	chi1	tsʽin	1			
 籤	签	chi1	tsʽin	2			
+籖	签	chi1		2			
 仟	仟	chi1	tsʽin	7			
 阡	阡	chi1	tsʽin	7			
 芊	芊	chi1	tsʽin	7			
@@ -1471,6 +1476,7 @@
 義	义	gni6	yi	2			
 二	二	gni6		1		白讀	
 貳	贰	gni6		2			
+弍	弍	gni6					
 膩	腻	gni6	nyi	1			
 睨	睨	gni6	nyi	7			
 鶃	鶃	gni6	nyi	7			
@@ -4628,6 +4634,8 @@
 三	三	sae1	sæn	1			
 𭆻	𭆻	sae1	sæn	7			
 叁	叁	sae1		2			
+叄	叁	sae1		2			
+弎	弎	sae1					
 參	参	sae1			0.00		
 剼	剼	sae1	sæn	7			
 彡	彡	sae1	sæn	7			
@@ -6823,6 +6831,7 @@
 唐	唐	daon2	dông	1			
 糖	糖	daon2	dông	1			
 餹	糖	daon2		1			
+醣	糖	daon2		1			
 塘	塘	daon2	dông	1			
 𠗶	𠗶	daon2		1			
 溏	溏	daon2	dông	1			
@@ -7940,6 +7949,7 @@
 癥	症	cin5	tsing	2			
 征	征	cin5	tsing	2			
 徵	征	cin5	tsing	2			
+徴	征	cin5		2			
 証	证	cin5		1			
 證	证	cin5	tsing	1			
 震	震	cin5		1			
@@ -9041,6 +9051,7 @@
 雍	雍	ion5	üong	2			
 雝	雍	ion5	üong	2			
 八	八	paq7		1			
+丷	八	paq7		1			
 捌	捌	paq7	pah	7			
 䤢	䤢	paq7	pah	7			
 百	百	paq7	pah	1			
@@ -9407,6 +9418,7 @@
 襍	杂	dzaq8		2	0.06	文讀	
 殺	杀	saq7	sah	1			
 剎	刹	saq7	sah	7			
+刹	刹	saq7	sah	7			
 脎	脎	saq7				化學用字	
 薩	萨	saq7	sah	2			
 煞	煞	saq7	sah	1			
@@ -10483,6 +10495,7 @@
 裡	里	liq8		3	0.00	又音 僅限於“花裏花繃”	
 接	接	ciq7	tsih	1			
 即	即	ciq7	tsih	1			
+卽	即	ciq7		1			
 節	节	ciq7	tsih	1			
 櫛	栉	ciq7	tsih	7			
 鯽	鲫	ciq7	tsih	2	0.00	文讀	
@@ -10866,6 +10879,7 @@
 鎰	镒	yiq8	yih	7			
 覡	觋	yiq8	yih	7			
 一	一	iq7		1			
+弌	弌	iq7					
 乙	乙	iq7	ih	1			
 釔	钇	iq7				化學元素	
 益	益	iq7	ih	2			
@@ -10938,6 +10952,7 @@
 恪	恪	chiuq7	kyʽüoh	7			
 躩	躩	chiuq7	kyʽüoh	7			
 慤	悫	chiuq7	kyʽüoh	7			
+愨	悫	chiuq7		7			
 䕮	䕮	chiuq7	kyʽüoh	7			
 確	确	chiuq7	kyʽüôh	2		文讀	
 榷	榷	chiuq7		2			
@@ -11121,6 +11136,7 @@
 邇	迩	er4	r	7			
 二	二	er6	r	1	0.06	文讀	
 貳	贰	er6	r	2	0.06	文讀	
+弍	弍	er6	r		0.06	文讀	
 𢄽	𢄽	er6	r	7			
 樲	樲	er6	r	7			
 咡	咡	er6	r	7			
@@ -11145,6 +11161,7 @@
 魚	鱼	ng2		1		白讀	
 吳	吴	ng2		6	0.00	白讀	
 五	五	ng4		1		白讀	
+𠄡	五	ng4		1		白讀	
 耳	耳	ng4		1			
 午	午	ng4		1	0.00	限於“端午”	
 尾	尾	ng4		1		白讀 船尾巴	

@@ -1408,7 +1408,7 @@
 畸	畸	ji2	gyi	7			
 錡	锜	ji2	gyi	7			
 祈	祈	ji2	gyi	2			
-其	其	ji2	gyi	1		其他	
+其	其	ji2	gyi	1	59071	其他	
 期	期	ji2	gyi	2			
 棋	棋	ji2	gyi	1			
 棊	棋	ji2		1			
@@ -1492,8 +1492,8 @@
 苧	苎	ji6	djü	1		苧麻	
 芧	芧	ji6				同“苎”	
 惎	惎	ji6	gyi	7			
-其	其	ji6	gyi	3			
-渠	渠	ji6		1			
+其	其	ji6	gyi	3	608894		
+渠	渠	ji6		1	304447		
 厩	厩	ji6		1			
 廐	厩	ji6		1			
 廄	厩	ji6		1			
@@ -2875,7 +2875,7 @@
 埋	埋	mha1		3	0.05	把盛有食物的器皿放入熱飯或熱灰中使熱	
 媽	妈	mha5		2			
 孟	孟	mha5	meng	3	0.00	僅限於“長孟孟”	
-𠲎	𠲎	va2		1		“勿”“啦”合音	
+𠲎	𠲎	va2		1	110540	“勿”“啦”合音	
 帶	带	ta5	tæ	1			
 㯂	㯂	ta5	ta	7			
 戴	戴	ta5		1		戴帽子	
@@ -3259,7 +3259,7 @@
 卯	卯	mau4	mao	1			
 夘	卯	mau4		1			
 茆	卯	mau4		1			
-莫	莫	mau4		1			
+莫	莫	mau4		1	12192		
 鉚	铆	mau4		2			
 昴	昴	mau4	mao	7			
 冒	冒	mau6	mao	1			
@@ -3275,7 +3275,7 @@
 耄	耄	mau6	mao	7			
 芼	芼	mau6	mao	7			
 眊	眊	mau6	mao	7			
-莫	莫	mhau1		1			
+莫	莫	mhau1		1	36576		
 貓	猫	mhau1		1	0.00	僅限於“張貓”	
 猫	猫	mhau1		1	0.00	僅限於“張貓”	
 毛	毛	mhau1	mao	3	0.00	又音 僅限於“毛黴”	
@@ -3787,7 +3787,7 @@
 稍	稍	so1		1		稍勢	
 蓑	蓑	so1	so	1			
 簑	蓑	so1	so	1			
-啥	啥	so1	shô	1			
+啥	啥	so1	shô	1	73981		
 奢	奢	so1	shæ	2			
 畲	畲	so1					
 舍	舍	so1	shæ	1			
@@ -4290,7 +4290,7 @@
 䅿	䅿	wo2	wô	7			
 活	活	wo2		3	0.05	又音 僅限於“生活”	
 踝	踝	wo4					
-話	话	wo6	wô	1			
+話	话	wo6	wô	1	228952		
 諙	话	wo6		1			
 華	华	wo6	wô	2			
 鏵	铧	wo6	wô	2			
@@ -4409,7 +4409,7 @@
 罱	罱	ne6	nen	1		罱河泥	
 奶	奶	nhe5		1		兒化殘留	
 嬭	奶	nhe5	næ	1		兒化殘留	
-來	来	le2	læ	1			
+來	来	le2	læ	1	1209309		
 萊	莱	le2	læ	7			
 徠	徕	le2	læ	7			
 唻	唻	le2	læ	7			
@@ -4475,7 +4475,7 @@
 塞	塞	se5	sæ	7	0.05	要塞	
 裁	裁	ze2		1			
 材	材	ze2	zæ	1		棺材	
-該	该	ke1	kæ	1			
+該	该	ke1	kæ	1	49284		
 陔	陔	ke1					
 垓	垓	ke1	kæ	7			
 賅	赅	ke1	kæ	3			
@@ -6257,10 +6257,10 @@
 䴱	𫜒	thou1		3		䴱黃魚	
 妥	妥	thou3	tʽo	1			
 橢	椭	thou3		2			
-忒	忒	thou5		1		又音	
+忒	忒	thou5		1	48020	又音	
 太	太	thou5		3		表示程度過頭	#
 墮	堕	dou2	do	2			
-馱	驮	dou2		1			
+馱	驮	dou2		1	39456		
 駄	驮	dou2		1			
 䭾	䭾	dou2	do	7			
 駝	驼	dou2		1			
@@ -6294,7 +6294,7 @@
 挪	挪	nou2	no	7	0.06	文讀	
 㑚	㑚	nou2	no	7			
 娜	娜	nou4	no	7			
-儂	侬	nou6		1			
+儂	侬	nou6		1	775056		
 糯	糯	nou6	no	1			
 穤	糯	nou6		1			
 稬	糯	nou6		1			
@@ -6364,7 +6364,7 @@
 𩊮	𩊮	sou1	so	7			
 䤬	䤬	sou1	so	7			
 傞	傞	sou1	so	7			
-啥	啥	sou1		1			
+啥	啥	sou1		1	9247		
 鎖	锁	sou3	so	1			
 鎻	锁	sou3		1			
 瑣	琐	sou3	so	2			
@@ -6751,11 +6751,11 @@
 堠	堠	gheu6	ʽeo	7			
 歐	欧	eu1	eo	2			
 甌	瓯	eu1	eo	2			
-嘔	呕	eu1	eo	1			
+嘔	呕	eu1	eo	1	56532		
 區	区	eu1		2	0.05	姓	
 漚	沤	eu1	eo	2			
 毆	殴	eu1	eo	2			
-謳	讴	eu1	eo	7			
+謳	讴	eu1	eo	7	56532		
 鷗	鸥	eu1	eo	7			
 饇	饇	eu1	eo	7			
 瞘	眍	eu1	eo	7			
@@ -7252,11 +7252,11 @@
 鏜	镗	daon2	tʽông	1			
 膛	膛	daon2	dông	1			
 摚	摚	daon2	dông	7			
-蕩	荡	daon4		1			
+蕩	荡	daon4		1		90888	
 盪	荡	daon4	dông	1			
 碭	砀	daon6					
 𥸈	𥸈	daon6	dông	7			
-宕	宕	daon6	dông	1			
+宕	宕	daon6	dông	1	90888		
 趤	趤	daon6		1		𧻴趤公子	
 菪	菪	daon6					
 凼	凼	daon6					
@@ -7452,7 +7452,7 @@
 茳	茳	kaon1	kyüông	0			
 罡	罡	kaon1	kông	7			
 牨	牨	kaon1	kông	7			
-講	讲	kaon3		1		白讀	
+講	讲	kaon3		1	170166	白讀	
 港	港	kaon3	kông	2			
 槓	杠	kaon5		1	0.00	杠箱	
 杠	杠	kaon5	kông	1	0.00	杠箱	
@@ -7977,7 +7977,7 @@
 瞋	嗔	tshen1	cing	3			
 嗔	嗔	tshen1		3			
 琛	琛	tshen1					
-忖	忖	tshen3	tsʽeng	1			
+忖	忖	tshen3	tsʽeng	1	142577		
 刌	刌	tshen3	tsʽeng	7			
 蹭	蹭	tshen5					
 谶	谶	tshen5					
@@ -8709,7 +8709,7 @@
 澠	渑	zhin2	zing	7			
 乘	乘	zhin2		2	0.05	乘涼	
 晴	晴	zhin2	zing	1			
-尋	寻	zhin2	zing	1			
+尋	寻	zhin2	zing	1	78886		
 潯	浔	zhin2	zing	7			
 撏	挦	zhin2	zing	7			
 樳	桪	zhin2	zing	7			
@@ -9269,7 +9269,7 @@
 壠	垅	lon4		2			
 儱	儱	lon6					
 躘	𨀁	lon6	long	1			
-弄	弄	lon6	long	1			
+弄	弄	lon6	long	1	40736		
 挵	弄	lon6		1			
 𢙱	𢙱	lon6		1		呆剝𢙱倲	
 哢	哢	lon6	long	7			
@@ -9611,7 +9611,7 @@
 掰	掰	paq7					
 不	不	paq7	peh	1			
 鈈	钚	paq7				化學元素	
-撥	拨	paq7	peh	1			
+撥	拨	paq7	peh	1	331919		
 癶	癶	paq7	peh	7			
 鱍	鱍	paq7	peh	7			
 蹳	𫏆	paq7	peh	7			
@@ -9737,17 +9737,17 @@
 罰	罚	vaq8	vah	1			
 罸	罚	vaq8		1			
 伐	伐	vaq8	vah	2			
-𠲎	𠲎	vaq8		2			
+𠲎	𠲎	vaq8		2	110540		
 筏	筏	vaq8	vah	2			
 栰	筏	vaq8	vah	2			
 閥	阀	vaq8	vah	2			
 𤇰	𤇰	vaq8	vah	7			
 茷	茷	vaq8	vah	7			
 垡	垡	vaq8	vah	7			
-勿	勿	vaq8		1			
+勿	勿	vaq8		1	295400		
 物	物	vaq8	veh	1			
 伆	伆	vaq8	veh	7			
-弗	弗	vaq8		3		不，字也作“勿”	
+弗	弗	vaq8		3	590801	不，字也作“勿”	
 佛	佛	vaq8	veh	1			
 鉘	鉘	vaq8	veh	7			
 妲	妲	taq7	tah	7			
@@ -9763,7 +9763,7 @@
 啄	啄	taq7		1	0.05	又音 禽類用嘴叩擊、夾食	
 答	答	taq7	teh	2			
 荅	荅	taq7	teh	7			
-搭	搭	taq7		1			
+搭	搭	taq7		1	831253		
 溚	溚	taq7		1		溚溚渧	
 嗒	嗒	taq7		1		品味兒	
 㿯	㿯	taq7		3		寬㿯㿯	
@@ -9808,7 +9808,7 @@
 禿	秃	thaq7		1			
 秃	秃	thaq7	tʽeh	1			
 鵚	𪉍	thaq7	tʽeh	7			
-忒	忒	thaq7	tʽeh	1			
+忒	忒	thaq7	tʽeh	1	24009		
 鋱	铽	thaq7				化學元素	
 忑	忑	thaq7	tʽeh	7			
 慝	慝	thaq7	tʽeh	7			
@@ -9871,7 +9871,7 @@
 ⿰舟巤	⿰舟巤	laq8		3		⿰舟巤子	
 攔	拦	laq8		2	0.00	白讀	
 迾	迾	laq8		1		遮攔；阻擋	
-勒	勒	laq8	leh	1			
+勒	勒	laq8	leh	1	45114		
 了	了	laq8		3			
 嘞	嘞	laq8					
 鰳	鳓	laq8	leh	7			
@@ -10738,7 +10738,7 @@
 倏	倏	soq7					
 式	式	soq7		1	0.00	啥…式	
 什	什	soq7		2	0.00	什麼	
-啥	啥	soq7		1			
+啥	啥	soq7		1	263257		
 爍	烁	soq7	siah	2			
 鑠	铄	soq7	siah	2			
 叔	叔	soq7	shoh	1			
@@ -10814,7 +10814,7 @@
 酷	酷	khoq7	kʽôh	2			
 牿	牿	khoq7	kʽôh	7			
 殼	壳	khoq7		1			
-個	个	goq8	go	1			
+個	个	goq8	go	1	1607642		
 箇	个	goq8		1			
 个	个	goq8		1			
 擱	搁	goq8		1			
@@ -10886,7 +10886,7 @@
 㬦	㬦	ghoq8	ʽôh	7			
 彠	彟	ghoq8					
 矱	矱	ghoq8	wu				
-個	个	ghoq8	go	3		又音	
+個	个	ghoq8	go	3	3215286	又音	
 箇	个	ghoq8		3		又音	
 个	个	ghoq8		3		又音	
 屋	屋	oq7	oh	1			
@@ -11488,7 +11488,7 @@
 䖨	䖨	zhiq8	zih	7			
 𦁎	𦁎	zhiq8	zih	7			
 襲	袭	zhiq8	jih	2			
-該	该	kiq7		1			
+該	该	kiq7		1	452555		
 頁	页	yiq8	yih	1			
 枼	枼	yiq8		1			
 葉	叶	yiq8	yih	1			
@@ -11848,13 +11848,13 @@
 耳	耳	ng4		1			
 午	午	ng4		1	0.00	限於“端午”	
 尾	尾	ng4		1		白讀 船尾巴	
-爾	尔	ng6		1		“俉”的本字爲“爾”	
+爾	尔	ng6		1	243244	“俉”的本字爲“爾”	
 你	你	ng6		2	0.05	白讀 單數	
 妳	你	ng6		2	0.05	白讀 單數	
 伱	你	ng6		2	0.05	白讀 單數	
-俉	俉	ng6	ng	1		“俉”的本字爲“爾”	
+俉	俉	ng6	ng	1	121622	“俉”的本字爲“爾”	
 孲	孲	nk1		1		孲𤘅	
 嗯	嗯	nk1		1			
 唔	唔	nk1				唔唔 兒童用語 大便	
 㕶	㕶	nk1		6		㕶㕶 兒童用語 大便	
-嘸沒	呒没	mhiq7		1			
+嘸沒	呒没	mhiq7		1	296233		

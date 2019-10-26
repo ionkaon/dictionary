@@ -1848,7 +1848,8 @@
 咸	咸	yi2	yin	2		咸祥	
 檐	檐	yi2		1			
 簷	檐	yi2	yin	1			
-顏	颜	yi2	yin	6			
+顏	颜	yi2	yin	6	0.05		
+顔	颜	yi2	yin	6	0.05		
 㘖	㘖	yi2	yin	7			
 癇	痫	yi2					
 癎	痫	yi2					
@@ -5016,6 +5017,7 @@
 巗	岩	ngae2		1			
 癌	癌	ngae2		2			
 顏	颜	ngae2		1			
+顔	颜	ngae2		1			
 銜	衔	ngae2	ngæn	2	0.00	僅限於“頭銜”	
 啣	衔	ngae2		2	0.00	僅限於“頭銜”	
 衘	衔	ngae2		2	0.00	僅限於“頭銜”	
@@ -6385,7 +6387,7 @@
 鍋	锅	kou1	ko	1			
 堝	埚	kou1					
 蝸	蜗	kou1		2			
-柯	柯	kou1	ko	7			
+柯	柯	kou1	ko	7	0.01		
 果	果	kou3	ko	1			
 菓	菓	kou3	ko	7			
 蜾	蜾	kou3	ko	7			

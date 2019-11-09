@@ -5900,7 +5900,7 @@
 嶲	嶲	sei3					
 碎	碎	sei5	se	1			
 誶	谇	sei5	se	7			
-萃	萃	sei5	se	7			
+萃	萃	sei5	se	7	0.00		
 稅	税	sei5	se	2			
 税	税	sei5	se	2			
 帨	帨	sei5	se	7			
@@ -10471,6 +10471,7 @@
 甩	甩	huaq7		1			
 濊	濊	huaq7					
 劃	划	waq8	wah	1			
+划	划	waq8		2	0.10		
 嫿	婳	waq8	wah	7			
 㗲	𠵾	waq8	wah	7			
 繣	繣	waq8	wah	7			
@@ -10557,7 +10558,7 @@
 𩍩	𩍩	boq8	boh	7			
 亳	亳	boq8	boh	7			
 僰	僰	boq8					
-伏	伏	boq8		1		白讀	
+伏	伏	boq8		1	0.10	白讀	
 袱	袱	boq8		2		白讀	
 栿	栿	boq8		1		地栿	
 𢫯	𢫯	boq8	boh	7			
@@ -10586,7 +10587,7 @@
 穆	穆	moq8	moh	2			
 万	万	moq8	moh	7	0.00	万俟	
 睦	睦	moq8	moh	7			
-鶩	鹜	moq8	moh	7			
+鶩	鹜	moq8	moh	7	0.05		
 楘	楘	moq8	moh	7			
 麻	麻	moq8	mô	3	0.00	又音 僅限於“癢麻嘍搜”	
 摩	摩	moq8	mo	1	0.00	僅限於“摩托車”	
@@ -10605,7 +10606,7 @@
 𥷱	𥷱	foq7	foh	7			
 服	服	voq8	voh	1			
 菔	菔	voq8		1		老菔乾	
-伏	伏	voq8	voh	1	0.06	文讀	
+伏	伏	voq8	voh	1		文讀	
 茯	茯	voq8	voh	2			
 袱	袱	voq8	voh	7	0.00	文讀	
 𩢰	𩢰	voq8	voh	7			
@@ -10917,7 +10918,7 @@
 覺	觉	koq7		2		覺着	
 覚	觉	koq7		2		覺着	
 梏	梏	koq7	koh	7			
-鵠	鹄	koq7	koh	7			
+鵠	鹄	koq7	koh	7	0.05		
 咯	咯	koq7	koh	7	0.05		
 各	各	koq7	kôh	1			
 𣫀	𣫀	koq7	kôh	7			

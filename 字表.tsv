@@ -33,6 +33,7 @@
 梔	栀	tsy1	ts	1			
 孜	孜	tsy1	ts	2			
 窒	窒	tsy1		4			
+膣	膣	tsy1					
 氏	氏	tsy1			0.00	“閼氏”“月氏”	
 胝	胝	tsy1					
 祗	祗	tsy1		7			
@@ -728,6 +729,7 @@
 湎	湎	mi4	min	7			
 緬	缅	mi4	min	2			
 靦	腼	mi4					
+腼	腼	mi4					
 澠	渑	mi4					
 冕	冕	mi4	min	7			
 未	未	mi6		1		還需要很長時間；還早着	
@@ -877,7 +879,8 @@
 㥏	㥏	thi3	tʽin	7			
 𧌎	𧌎	thi3	tʽin	7			
 捵	捵	thi3	tʽin	7			
-靦	腼	thi3					
+靦	腼	thi3		7			
+腼	腼	thi3		7			
 餂	餂	thi3	tʽin	7			
 㐁	㐁	thi3	tʽin	7			
 剃	剃	thi5	tʽi	1			
@@ -1221,6 +1224,7 @@
 剪	剪	ci3	tsin	2			
 㨵	㨵	ci3	tsin	7			
 譾	谫	ci3					
+揃	揃	ci3					
 展	展	ci3	tsin	2		又音	
 搌	搌	ci3	tsin	7			
 輾	辗	ci3	tsin	7			
@@ -1318,6 +1322,7 @@
 蹊	蹊	chi1	yi	3			
 鸂	㶉	chi1	kyʽi	7			
 崎	崎	chi1	kyʽi	7			
+攲	攲	chi1					
 䀘	䀘	chi1	kyʽi	7			
 豈	岂	chi1	kyʽi	2			
 弃	弃	chi1		2			
@@ -1390,7 +1395,6 @@
 愒	愒	chi5	kyʽi	7			
 亟	亟	chi5	kyʽi	7	0.00	屢次	
 蟿	蟿	chi5	kyʽi	7			
-掎	掎	chi5					
 茜	茜	chi5	tsʽin	7			
 塹	堑	chi5	tsʽin	7			
 蒨	蒨	chi5	tsʽin	7			
@@ -1549,7 +1553,6 @@
 猊	猊	gni2	nyi	7			
 鯢	鲵	gni2	nyi	7			
 沂	沂	gni2	nyi	2		白讀	
-藝	艺	gni2	nyi	1			
 囈	呓	gni2		2			
 閻	阎	gni2	yin	1			
 嚴	严	gni2	nyin	2			
@@ -1592,6 +1595,8 @@
 齞	齞	gni4					
 癮	瘾	gni4		1		白讀 上癮	
 黏	黏	gni4	nyin	3	0.00	僅限於“黏饞”	
+藝	艺	gni6	nyi	1			
+蓺	蓺	gni6			同“藝”		
 襼	襼	gni6	nyi	7			
 義	义	gni6	yi	2			
 二	二	gni6		1		白讀	
@@ -1671,6 +1676,7 @@
 膻	膻	shi1		7			
 羶	膻	shi1	sin	7			
 羴	膻	shi1		7			
+埏	埏	shi1					
 憸	𪫺	shi1	sin	7			
 銛	铦	shi1	sin	7			
 韱	韱	shi1	sin	7			
@@ -1858,6 +1864,7 @@
 鋋	鋋	yi2	yin	7			
 唌	唌	yi2	yin	7			
 䀽	䀽	yi2	yin	7			
+埏	埏	yi2					
 鹽	盐	yi2	yin	2			
 塩	盐	yi2		2			
 賢	贤	yi2	yin	2			
@@ -1973,6 +1980,7 @@
 椅	椅	i3	i	1			
 猗	猗	i3	i	7			
 倚	倚	i3	i	7			
+掎	掎	i3		7			
 旖	旖	i3					
 扆	扆	i3	i	7			
 以	以	i3		1	0.05	又音	
@@ -2229,6 +2237,7 @@
 孥	孥	nu2	nu	7			
 駑	驽	nu2	nu	7			
 吾	吾	NU2	ngwu	2			
+峿	峿	nu2					
 梧	梧	nu2	ngwu	2			
 鼯	鼯	nu2					
 齬	龉	nu2	ngwu	7			
@@ -2444,6 +2453,7 @@
 吴	吴	wu2		2			
 呉	吴	wu2		2			
 蜈	蜈	WU2	ngwu	2	0.10	文讀	
+峿	峿	wu2					
 鼯	鼯	wu2					
 齬	龉	wu2	ngwu	7			
 娪	娪	wu2	ngwu	7			
@@ -2673,6 +2683,7 @@
 嫄	嫄	gniu2	nyün	7			
 塬	塬	gniu2					
 螈	螈	gniu2					
+羱	羱	gniu2					
 元	元	gniu2	nyün	1			
 芫	芫	gniu2	nyün	7			
 阮	阮	gniu2	nyün	2			
@@ -3134,6 +3145,7 @@
 架	架	cia5	kyüô	6	0.06	文讀	
 㗎	㗎	cia5	kyüô	0		文讀	
 佉	佉	chia1				文讀	
+呿	呿	chia1				文讀	
 笡	笡	chia3		1		不正；斜；偏	
 趄	趄	chia3		3	0.00	“笡”也作“趄”	
 且	且	chia5	tsʽiæ	1		白讀 且顧	
@@ -3728,6 +3740,7 @@
 駡	骂	mo6		2			
 罵	骂	mo6	mô	2			
 傌	骂	mo6		2			
+禡	祃	mo6					
 嬤	嬷	mho1		1			
 朵	朵	to1		1	0.05	量詞	
 朶	朵	to1	tô	1	0.05	量詞	
@@ -4401,6 +4414,7 @@
 架	架	cio5	kyüô	7	0.00	舊文讀	
 㗎	㗎	cio5	kyüô	7	0.00	舊文讀	
 佉	佉	chio1				舊文讀	
+呿	呿	chio1				舊文讀	
 襾	襾	shio5	hyüô	7	0.00	舊文讀	
 罅	罅	shio5	hyüô	7	0.00	舊文讀	
 𥕕	𥕕	shio5	hyüô	7	0.00	舊文讀	
@@ -5092,6 +5106,7 @@
 岩	岩	ngae2		1			
 巖	岩	ngae2	ngæn	1			
 喦	岩	ngae2		1			
+嵒	岩	ngae2		1			
 碞	岩	ngae2	ngæn	1			
 巗	岩	ngae2		1			
 癌	癌	ngae2		2			
@@ -5119,6 +5134,8 @@
 𩿼	鸭	ae3	æn	1		兒化殘留	
 𪀌	鸭	ae3		1		兒化殘留	
 晏	晏	ae5		1		遲；晚	
+鴳	𫛩	ae5					
+鷃	鷃	ae5					
 揞	揞	ae5		3	0.05	又音	
 關	关	kuae1	kwæn	1			
 関	关	kuae1		1			
@@ -5226,6 +5243,7 @@
 篅	篅	tsoe1	cün	7			
 𩤚	𩤚	tsoe1	cün	7			
 纂	纂	tsoe1	cün	2			
+朘	朘	tsoe1					
 篹	纂	tsoe1	sön	2			
 纘	缵	tsoe3	cün	7			
 籫	籫	tsoe3	cün	7			
@@ -5312,6 +5330,7 @@
 𥶷	𥶷	soe3	shün	7			
 陝	陕	soe3	sin	2			
 算	算	soe5	sön	1			
+筭	筭	soe5				古同“算”	
 蒜	蒜	soe5	sön	1			
 渲	渲	soe5					
 喧	喧	soe5	hyün	2			
@@ -5458,6 +5477,7 @@
 觩	觩	jieu2	gyiu	7			
 脙	脙	jieu2	gyiu	7			
 裘	裘	jieu2	gyiu	2			
+賕	赇	jieu2					
 虬	虬	jieu2	gyiu	7			
 虯	虬	jieu2		7			
 仇	仇	jieu2	gyiu	2			
@@ -5712,6 +5732,7 @@
 誖	悖	bei6		7			
 備	备	bei6	be	2			
 俻	备	bei6		2			
+鞴	鞴	bei6					
 背	背	bei6	be	1		背誦	
 苝	苝	bei6				化學用字	
 佩	佩	bei2	be	2			
@@ -5827,6 +5848,7 @@
 𤿏	𤿏	nei6		1			
 婻	婻	nEI6	nen	7			
 雷	雷	lei2	le	1			
+靁	靁	lei2				古同“雷”	
 𡀂	𡀂	lei2		1			
 檑	檑	lei2					
 畾	畾	lei2					
@@ -6173,6 +6195,7 @@
 昏	昏	huei1	hweng	3	0.00	又音 僅限於“黃昏頭”	
 昬	昏	huei1		3	0.00	又音 僅限於“黃昏頭”	
 睢	睢	huei1					
+倠	倠	huei1					
 悔	悔	huei3	hwe	1			
 毀	毁	huei3		2			
 毁	毁	huei3		2			
@@ -6216,10 +6239,7 @@
 桅	桅	wei2	we	1			
 烠	烠	wei2	we	7			
 慧	慧	wei2	we	2			
-惠	惠	wei2	we	2			
-恵	惠	wei2		2			
 蕙	蕙	wei2	we	2			
-蟪	蟪	wei6					
 慰	慰	wei2	w̆e	2			
 彙	汇	wei2	we	2			
 巍	巍	wei2	ngwe	7			
@@ -6249,6 +6269,7 @@
 痏	痏	wei4	we	7			
 頠	頠	wei4	ngwe	7			
 硊	硊	wei4	ngwe	7			
+隗	隗	wei4					
 彗	彗	wei6	we	7			
 胃	胃	wei6	we	1			
 猬	猬	wei6	we	7			
@@ -6266,6 +6287,9 @@
 僞	伪	wei6	ngwe	2			
 偽	伪	wei6		2			
 魏	魏	wei6	ngwe	2			
+惠	惠	wei6	we	1			
+恵	惠	wei6		1			
+蟪	蟪	wei6					
 威	威	uei1	w̆e	1			
 葳	葳	uei1	w̆e	7			
 畏	畏	uei1	w̆e	2			
@@ -6493,6 +6517,7 @@
 粿	粿	kou3	ko	7			
 裹	裹	kou3	ko	1			
 錁	锞	kou3					
+餜	馃	kou3					
 管	管	kou3	kwun	3	0.00	又音 僅限於“咋管”	
 過	过	kou5	ko	1			
 個	个	kou5		1	0.06		
@@ -6537,6 +6562,7 @@
 譌	讹	ngou2		2			
 吪	吪	ngou2	ngo	7			
 鈋	𨱂	ngou2	ngo	7			
+囮	囮	ngou2					
 㛂	㛂	ngou4	ngo	7			
 臥	卧	ngou6		2			
 餓	饿	ngou6	ngo	1			
@@ -6642,6 +6668,7 @@
 不	不	feu3	feo	7	0.00	古同“否”	
 否	否	feu3	feo	2			
 缶	缶	feu3					
+缹	缹	feu3					
 負	负	veu2	veo	2			
 浮	浮	veu2	veo	1		白讀	
 蜉	蜉	veu2	veo	7			
@@ -6676,6 +6703,7 @@
 敨	敨	theu3		2			
 紏	紏	theu3	tʽeo	7			
 䚵	䚵	theu3	tʽeo	7			
+黈	黈	theu3					
 透	透	theu5	tʽeo	1			
 頭	头	deu2	deo	1			
 投	投	deu2	deo	1			
@@ -6797,15 +6825,17 @@
 耉	耉	keu3	keo	7			
 笱	笱	keu3	keo	7			
 岣	岣	keu3					
+冓	冓	keu5					
 遘	遘	keu5	keo	1		一遘晝	
 傋	傋	keu5	keo	7			
 覯	觏	keu5	keo	7			
-䝭	𫎧	keu5	keo	7			
 姤	姤	keu5	keo	7			
 詬	诟	keu5	keo	7			
 彀	彀	keu5	keo	7			
 夠	够	keu5	keo	1			
 够	够	keu5		1			
+雊	雊	keu5					
+䝭	𫎧	keu5	keo	7			
 口	口	kheu3	kʽeo	1			
 摳	抠	kheu5	kʽeo	2			
 叩	叩	kheu5	kʽeo	7			
@@ -7321,6 +7351,7 @@
 鐺	铛	taon1	tông	1			
 簹	筜	taon1					
 蟷	蟷	taon1					
+儅	儅	taon1					
 黨	党	taon3	tông	2			
 党	党	taon3		2			
 讜	谠	taon3	tông	7			
@@ -7800,6 +7831,7 @@
 灌	灌	kun5	kwun	1			
 罐	罐	kun5	kwun	1			
 鑵	罐	kun5	kwun	1			
+毌	毌	kun5					
 貫	贯	kun5	kwun	2			
 冠	冠	kun5	kwun	2		冠軍	
 寬	宽	khun1	kwʽun	1			
@@ -8111,6 +8143,7 @@
 櫬	榇	tshen5	tsʽeng	7			
 嚫	嚫	tshen5	tsʽeng	7			
 𧭼	𧭼	tshen5	tsʽeng	7			
+儭	𠋆	tshen5					
 讖	谶	tshen5					
 存	存	dzen2	dzeng	1			
 曾	曾	dzen2	dzeng	2			
@@ -8598,6 +8631,7 @@
 氰	氰	chin1				化學用字	
 鯖	鲭	chin1	tsʽing	7			
 鶄	䴖	chin1	tsʽing	7			
+圊	圊	chin1					
 駸	骎	chin1	tsʽing	7			
 頳	頳	chin1	tsʽing	7			
 䞓	𫎭	chin1	tsʽing	7			
@@ -9044,7 +9078,8 @@
 㨡	㨡	wen2	weng	7			
 㮯	㮯	wen2	weng	7			
 混	混	wen4	weng	1			
-溷	混	wen6	weng	1			
+圂	圂	wen6					
+溷	溷	wen6					
 慁	慁	wen6	weng	7			
 𦞢	𦞢	wen6	weng	7			
 諢	诨	wen6	weng	7			
@@ -9054,6 +9089,8 @@
 薀	蕰	uen1	w̆eng	1			
 塭	塭	uen1					
 轀	辒	uen1					
+輼	辒	uen1					
+豱	豱	uen1					
 穩	稳	uen3	w̆eng	1			
 穏	稳	uen3		1			
 渾	浑	uen3		3	0.00	僅限於“打渾”	
@@ -9547,6 +9584,7 @@
 淞	淞	son1	song	2			
 忪	忪	son1	song	7			
 蜙	蜙	son1	song	7			
+崧	崧	son1					
 𪁿	𪁿	son1	song	7			
 嵩	嵩	son1	song	2			
 叔	叔	son1		1	0.05	兒化殘留	
@@ -9843,6 +9881,7 @@
 襪	袜	maq8	mah	1			
 韈	袜	maq8		1			
 韤	袜	maq8		1			
+袜	袜	maq8		1			
 陌	陌	maq8	meh	1			
 沒	没	maq8	meh	1			
 歿	殁	maq8		7			
@@ -10090,6 +10129,7 @@
 側	侧	tsaq7	tseh	1	0.05		
 鍘	铡	tsaq7	tseh	2	0.05	又音	
 𢯩	𢯩	tsaq7	tseh	7			
+夨	夨	tsaq7					
 仄	仄	tsaq7	tseh	1			
 昃	昃	tsaq7		7			
 卒	卒	tsaq7	tseh	1			
@@ -10567,8 +10607,9 @@
 髆	髆	poq7	poh	7			
 襮	襮	poq7					
 撥	拨	poq7	peh	3	0.05	又音	
-樸	朴	phoq7	pʽoh	1			
 撲	扑	phoq7	pʽoh	1			
+扑	扑	phoq7	pʽoh	1			
+樸	朴	phoq7	pʽoh	1			
 朴	朴	phoq7	pʽoh	2			
 仆	仆	phoq7		2			
 釙	钋	phoq7				化學元素	
@@ -10908,6 +10949,7 @@
 𤸴	𤸴	soq7	sôh	7			
 𧛻	𧛻	soq7	sôh	7			
 倏	倏	soq7					
+儵	倏	soq7					
 式	式	soq7		1	0.00	啥…式	
 什	什	soq7		2	0.00	什麼	
 啥	啥	soq7		1	263257		
@@ -11365,6 +11407,7 @@
 褶	褶	ciq7	tsih	2			
 慴	慴	ciq7					
 晢	晢	ciq7	tsih	7			
+讋	詟	ciq7					
 質	质	ciq7	tsih	2			
 鑕	锧	ciq7	tsih	7			
 櫍	櫍	ciq7	tsih	7			

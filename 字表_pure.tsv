@@ -483,6 +483,7 @@
 㮇	㮇	thi1	3	
 栝	栝	thi1	2	火栝
 體	体	thi3	1	
+軆	体	thi3	1	
 舔	舔	thi3	1	
 剃	剃	thi5	1	
 鬀	剃	thi5	1	
@@ -650,6 +651,7 @@
 雞	鸡	ci3	1	
 鷄	鸡	ci3	1	
 鶏	鸡	ci3	1	
+鳮	鸡	ci3	1	
 幾	几	ci3	1	幾個
 蟣	虮	ci3	1	
 己	己	ci3	1	
@@ -829,7 +831,6 @@
 霓	霓	gni2	2	
 蜺	霓	gni2	2	
 沂	沂	gni2	2	白讀
-藝	艺	gni2	1	
 囈	呓	gni2	2	
 閻	阎	gni2	1	
 嚴	严	gni2	2	
@@ -854,6 +855,7 @@
 碾	碾	gni6	1	
 癮	瘾	gni6	1	白讀 上癮
 黏	黏	gni6	3	僅限於“黏饞”
+藝	艺	gni6	1	
 義	义	gni6	2	
 二	二	gni6	1	白讀
 貳	贰	gni6	2	
@@ -1422,6 +1424,7 @@
 櫃	柜	jiu6	1	白讀
 虞	虞	gniu2	2	
 娛	娱	gniu2	2	
+娯	娱	gniu2	2	
 愚	愚	gniu2	1	
 喁	喁	gniu2	3	
 遇	遇	gniu2	2	
@@ -2851,6 +2854,7 @@
 岩	岩	ngae2	1	
 巖	岩	ngae2	1	
 喦	岩	ngae2	1	
+嵒	岩	ngae2	1	
 碞	岩	ngae2	1	
 巗	岩	ngae2	1	
 癌	癌	ngae2	2	
@@ -2880,6 +2884,7 @@
 揞	揞	ae5	3	又音
 關	关	kuae1	1	
 関	关	kuae1	1	
+闗	关	kuae1	1	
 鰥	鳏	kuae1	2	
 乖	乖	kuae1	2	文讀
 慣	惯	kuae5	1	
@@ -3261,9 +3266,9 @@
 𤿏	𤿏	nei6	1	
 雷	雷	lei2	1	
 𡀂	𡀂	lei2	1	
-了	了	lei2	3	
 累	累	lei2	2	
 纍	累	lei2	2	
+了	了	lei2	3	
 儡	儡	lei6	2	
 蕾	蕾	lei6	2	
 癗	癗	lei6	1	
@@ -3447,6 +3452,7 @@
 囘	回	wei2	1	
 𡇌	回	wei2	1	
 迴	回	wei2	1	
+逥	回	wei2	1	
 廻	回	wei2	1	
 廽	回	wei2	1	
 𢌞	回	wei2	1	
@@ -3461,8 +3467,6 @@
 為	为	wei2	2	行為
 桅	桅	wei2	1	
 慧	慧	wei2	2	
-惠	惠	wei2	2	
-恵	惠	wei2	2	
 蕙	蕙	wei2	2	
 慰	慰	wei2	2	
 彙	汇	wei2	2	
@@ -3489,6 +3493,8 @@
 僞	伪	wei6	2	
 偽	伪	wei6	2	
 魏	魏	wei6	2	
+惠	惠	wei6	1	
+恵	惠	wei6	1	
 威	威	uei1	1	
 畏	畏	uei1	2	
 煨	煨	uei1	1	
@@ -4935,6 +4941,7 @@
 寧	宁	gnin2	1	
 甯	宁	gnin2	1	
 寗	宁	gnin2	1	
+寜	宁	gnin2	1	
 寕	宁	gnin2	1	
 吟	吟	gnin2	2	
 唫	吟	gnin2	2	
@@ -5095,7 +5102,6 @@
 餛	馄	wen2	1	
 渾	浑	wen2	1	
 混	混	wen6	1	
-溷	混	wen6	1	
 溫	温	uen1	1	
 温	温	uen1	1	
 瘟	瘟	uen1	1	
@@ -5341,6 +5347,7 @@
 囪	囱	tshon1	1	
 囱	囱	tshon1	1	
 聰	聪	tshon1	2	
+聡	聪	tshon1	2	
 從	从	tshon1	2	從容
 従	从	tshon1	2	從容
 充	充	tshon1	1	
@@ -5533,6 +5540,7 @@
 襪	袜	maq8	1	
 韈	袜	maq8	1	
 韤	袜	maq8	1	
+袜	袜	maq8	1	
 陌	陌	maq8	1	
 沒	没	maq8	1	
 默	默	maq8	1	
@@ -5901,6 +5909,7 @@
 豁	豁	huaq7	1	開豁
 甩	甩	huaq7	1	
 劃	划	waq8	1	
+划	划	waq8	2	
 滑	滑	waq8	1	
 𠿭	𠿭	waq8	3	耕地時吆喝牛停住的聲音
 猾	猾	waq8	2	
@@ -5925,8 +5934,9 @@
 搏	搏	poq7	2	
 膊	膊	poq7	2	
 撥	拨	poq7	3	又音
-樸	朴	phoq7	1	
 撲	扑	phoq7	1	
+扑	扑	phoq7	1	
+樸	朴	phoq7	1	
 朴	朴	phoq7	2	
 仆	仆	phoq7	2	
 璞	璞	phoq7	2	
@@ -6124,7 +6134,10 @@
 勺	勺	zoq8	1	
 芍	芍	zoq8	1	
 國	国	koq7	1	
+国	国	koq7	1	
 囯	国	koq7	1	
+圀	国	koq7	1	
+圐	国	koq7	1	
 閣	阁	koq7	1	
 擱	搁	koq7	1	
 ⿰火閣	⿰火阁	koq7	3	食物加少量油，用微火炒制

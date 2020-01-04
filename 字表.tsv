@@ -1814,6 +1814,7 @@
 看	看	khI5	kʽen	1			
 堪	堪	khI5	kʽæn	3	0.01	堪好	
 墈	墈	khI5		3		高峻的堤岸；高地的崖壁	
+幹	干	khI5	ken		0.00	又音 僅限於“啥幹”	
 携	携	yi2		2			
 攜	携	yi2	yi	2			
 擕	携	yi2		2			
@@ -3908,6 +3909,7 @@
 抲	抲	kho5		1			
 㰤	㰤	kho5		1		“㰤㰤”睡覺，兒童用語	
 咖	咖	go2		3	0.00	①形容罵聲、鼾聲、水聲等②名詞。開水，兒童用語	
+茶	茶	go2	dzô		0.00	兒童用語“茶茶”	
 牙	牙	ngo2		1			
 芽	芽	ngo2		1			
 衙	衙	ngo2	ngô	1			
@@ -4491,6 +4493,7 @@
 岱	岱	de6	dæ	7			
 黛	黛	de6	dæ	7			
 䒫	䒫	de6	dæ	7			
+來	来	ne2	læ	5	0.00	僅限於“來年子”	
 耐	耐	ne6	næ	1			
 廿	廿	nE6	nyiæn	1			
 念	念	nE6	nyiæn	1			
@@ -4823,6 +4826,7 @@
 疸	疸	tae3	tæn	7			
 撣	掸	tae3		1			
 亶	亶	tae3	tæn	7			
+打	打	tae3	tang		0.00	又音 僅限於“打賬”、“打埋”	
 擔	担	tae5	tæn	1		挑擔	
 担	担	tae5	tæn	1		挑擔	
 笪	笪	tae5	tæn	7			
@@ -5131,6 +5135,7 @@
 銜	衔	ghae2		2			
 啣	衔	ghae2		2			
 衘	衔	ghae2		2			
+言	言	ghae2			0.00	僅限於“言話”	
 餡	馅	ghae4		1			
 限	限	ghae4		1			
 陷	陷	ghae6		1			
@@ -6568,6 +6573,7 @@
 吪	吪	ngou2	ngo	7			
 鈋	𨱂	ngou2	ngo	7			
 囮	囮	ngou2					
+和	和	ngou2	ʽo		0.00	又音 僅限於“嬲和”	
 㛂	㛂	ngou4	ngo	7			
 臥	卧	ngou6		2			
 餓	饿	ngou6	ngo	1			
@@ -8421,6 +8427,7 @@
 婷	婷	din2	ding	7			
 𦝞	𦝞	din2	ding	7			
 成	成	din2		3	0.00	又音 僅限於“成糖”	#
+凌	凌	din2			0.00	凌凙	
 梃	梃	din4		7			
 鋌	铤	din4	ding	7			
 珽	珽	din4	ding	7			
@@ -8716,6 +8723,7 @@
 螓	螓	jin2					
 嗪	嗪	jin2				化學用字	
 辰	辰	jin2	jing	3	0.00	又音 僅限於“辰光”	
+凌	凌	jin2			0.00	凌凙	
 琴	琴	jin2	gying	1			
 琹	琴	jin2		1			
 芩	芩	jin2	gying	7			
@@ -9907,6 +9915,7 @@
 𥿉	𥿉	maq8	meh	7			
 秣	秣	maq8					
 枚	枚	maq8	me	3	0.05	又音 量詞	
+貌	貌	maq8	mao		0.00	介貌	
 沒	没	mhaq7	meh	2			
 發	发	faq7	fah	1			
 発	发	faq7		1			

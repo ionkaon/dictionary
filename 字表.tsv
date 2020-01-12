@@ -2368,7 +2368,7 @@
 愫	愫	su5					
 訴	诉	su5		1			
 愬	诉	su5	su	1			
-塑	塑	su5	su	1		塑子	
+塑	塑	su5	su	1	0.01	塑子	
 溯	溯	su5	su	7			
 疏	疏	su5	su	2		稀疏	
 疎	疏	su5	su	2		稀疏	
@@ -2428,7 +2428,7 @@
 袴	裤	khu5		1			
 秙	秙	khu5	kwʽu	7			
 跍	跍	gu2	gwu	1		蹲	
-咕	咕	gu6		1		嘮裏嘮叨地責備	
+咕	咕	gu6		1	0.01	嘮裏嘮叨地責備	
 和	和	wu2		1	0.01	玩麻將時某一方的牌合乎規定的要求贏了全局	
 喖	喖	wu2					
 胡	胡	wu2	wu	1			
@@ -8026,7 +8026,7 @@
 等	等	ten3	teng	1			
 戥	戥	ten3	teng	1		用手托着東西上下晃動來估量輕重	
 躉	趸	ten3	teng	1		躉注	
-頂	顶	ten3		1	0.05		
+頂	顶	ten3		1	0.01		
 盹	盹	ten3					
 頓	顿	ten5	teng	1			
 訰	訰	ten5		3			
@@ -8048,7 +8048,7 @@
 庉	庉	den2	deng	1			
 吨	吨	den2	deng	7			
 窀	窀	den2	deng	7			
-停	停	den2		6	0.05		
+停	停	den2		6	0.01		
 囤	囤	den2	deng	2			
 飩	饨	den2	deng	1			
 魨	鲀	den2	deng	7			

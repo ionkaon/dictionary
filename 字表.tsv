@@ -3520,7 +3520,7 @@
 艄	艄	sau1	sao	2			
 梢	梢	sau1	sao	1		梢頭	
 稍	稍	sau1	sao	2		稍息	
-哨	哨	sau1		2	0.05	又音	
+哨	哨	sau1		2		又音	
 捎	捎	sau1	sao	1			
 筲	筲	sau1	sao	1			
 蕱	筲	sau1		1			
@@ -5921,7 +5921,7 @@
 摧	摧	tshei1	tsʽe	2			
 磪	磪	tshei1	tsʽe	7			
 蓷	蓷	tshei1					
-吹	吹	tshei1	tsʽe	2	0.06	文讀	
+吹	吹	tshei1	tsʽe	2	0.01	文讀	
 炊	炊	tshei1	tsʽe	2			
 衰	衰	tshei1	tsʽe	7	0.00		
 榱	榱	tshei1	tsʽe	7			
@@ -5951,8 +5951,8 @@
 睢	睢	sei1					
 濉	濉	sei1					
 碎	碎	sei1	se	3	0.01	亂扔；亂放	
-水	水	sei3	se	2	0.06	文讀	
-氵	氵	sei3			0.06	文讀	
+水	水	sei3	se	2	0.01	文讀	
+氵	氵	sei3			0.01	文讀	
 毨	毨	sei3	shün	3	0.05	又音	
 嶲	嶲	sei3					
 碎	碎	sei5	se	1			

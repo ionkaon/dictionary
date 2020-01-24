@@ -564,7 +564,7 @@
 徐	徐	zhi2	
 齊	齐	zhi2	白讀
 前	前	zhi2	
-系	系	zhi6	嘸納關係：不要緊，沒關係
+係	系	zhi6	嘸納關係：不要緊，沒關係
 自	自	zhi6	白讀
 賤	贱	zhi6	
 鋸	锯	ki1	白讀
@@ -687,9 +687,7 @@
 吳	吴	vu2	文讀
 蜈	蜈	vu2	蜈蚣，文讀
 吾	吾	vu2	
-梧	梧	vu2	
-梧	梧	vu2	
-桐	桐	vu2	
+梧	梧	vu2	梧桐
 胡	胡	vu2	
 湖	湖	vu2	
 狐	狐	vu2	
@@ -868,6 +866,7 @@
 噓	嘘	shiu1	
 吁	吁	shiu1	
 喧	喧	shiu1	
+諠	喧	shiu1	
 許	许	shiu3	文讀
 絮	絮	shiu5	
 楦	楦	shiu5	鞋楦
@@ -967,17 +966,17 @@
 介	介	ka5	
 界	界	ka5	
 芥	芥	ka5	
-尬	尬	ka5	
-尷	尴	ka5	尬疥
+尬	尬	ka5	尷尬
+疥	疥	ka5	
 屆	届	ka5	
 戒	戒	ka5	
 隘	隘	ka5	
 揩	揩	kha1	
 楷	楷	kha3	
-懈	懈	kha6	懈悶：不感興趣
-外	外	kha6	
-捱	捱	kha6	拖延
-雁	雁	kha6	白讀；雁鵝：大雁
+懈	懈	ga6	懈悶：不感興趣
+外	外	nga6	
+捱	捱	nga6	拖延
+雁	雁	nga6	白讀；雁鵝：大雁
 哈	哈	ha1	哈腰
 蟹	蟹	ha3	
 鞋	鞋	gha2	
@@ -1240,9 +1239,7 @@
 假	假	ko3	真假
 寡	寡	ko3	白讀
 剮	剐	ko3	白讀
-假	假	ko5	
-放	放	ko5	
-假	假	ko5	
+假	假	ko5	放假
 架	架	ko5	
 駕	驾	ko5	白讀
 嫁	嫁	ko5	
@@ -1345,12 +1342,12 @@
 橋	桥	jiau2	
 蕎	荞	jiau2	
 轎	轿	jiau6	
-饒	饶	ngiau2	
-堯	尧	ngiau2	
-擾	扰	ngiau6	
-繞	绕	ngiau6	
-鳥	鸟	ngiau6	文讀
-尿	尿	ngiau6	
+饒	饶	gniau2	
+堯	尧	gniau2	
+擾	扰	gniau6	
+繞	绕	gniau6	
+鳥	鸟	gniau6	文讀
+尿	尿	gniau6	
 消	消	shiau1	
 宵	宵	shiau1	
 霄	霄	shiau1	
@@ -1388,7 +1385,7 @@
 邀	邀	iau1	
 腰	腰	iau1	
 要	要	iau1	要求
-麼	么	iau1	麼二三
+幺	幺	iau1	幺二三
 吆	吆	iau1	吆喝
 舀	舀	iau3	舀水
 杳	杳	iau3	
@@ -1409,9 +1406,7 @@
 樺	桦	wo6	
 畫	画	wo6	
 話	话	wo6	
-鴉	鸦	uo1	
-白	白	uo1	
-讀	读	uo1	
+鴉	鸦	uo1	白讀
 丫	丫	uo1	丫頭
 椏	椏	uo1	椏杈
 划	划	uo1	划船
@@ -1423,7 +1418,7 @@
 呆	呆	te1	呆滯
 戴	戴	te5	姓，愛戴
 胎	胎	the1	
-臺	台	the1	天台，台州
+台	台	the1	天台，台州
 苔	苔	the1	舌苔
 梯	梯	the1	白讀
 態	态	the5	
@@ -1474,11 +1469,11 @@
 慨	慨	khe3	
 看	看	khe5	表嘗試的標記詞，如：試試看
 戤	戤	ge6	斜靠，依仗
-呆	呆	ge2	代辦
-捱	捱	ge2	捱打，捱罵
-礙	碍	ge6	
-艾	艾	ge6	
-岸	岸	ge6	
+呆	呆	nge2	呆板
+捱	捱	nge2	捱打，捱罵
+礙	碍	nge6	
+艾	艾	nge6	
+岸	岸	nge6	
 海	海	he3	
 孩	孩	ghe2	
 諧	谐	ghe2	又音
@@ -2243,12 +2238,12 @@
 迸	迸	pan5	迸裂
 烹	烹	phan1	
 碰	碰	phan5	白讀，又音
-朋	朋	phan2	
-彭	彭	phan2	
-膨	膨	phan2	
-棚	棚	phan2	
-蚌	蚌	phan6	
-碰	碰	phan6	白讀
+朋	朋	ban2	
+彭	彭	ban2	
+膨	膨	ban2	
+棚	棚	ban2	
+蚌	蚌	ban6	
+碰	碰	ban6	白讀
 ☐	☐	mhan5	囗囗：飯；兒童語
 虻	虻	man2	黃虻：牛虻
 猛	猛	man6	
@@ -2337,6 +2332,7 @@
 𤃀	𤃀	jian6	洗，白讀
 鮎	鲇	gnian2	鮎魚，兒化
 娘	娘	gnian2	
+孃	娘	gnian2	
 瓤	瓤	gnian2	
 釀	酿	gnian6	
 壤	壤	gnian6	
@@ -2601,7 +2597,7 @@
 凳	凳	ten5	
 鐙	镫	ten5	
 吞	吞	then1	
-汆	汆	then3	油炸
+氽	氽	then3	油炸
 褪	褪	then5	
 屯	屯	den2	
 豚	豚	den2	
@@ -3074,10 +3070,10 @@
 從	从	dzon2	跟從
 重	重	dzon2	
 仲	仲	dzon6	
-齈	齈	dzon5	多涕鼻疾
-膿	脓	dzon2	
-農	农	dzon2	
-儂	侬	dzon2	
+齈	齈	nhon5	多涕鼻疾
+膿	脓	non2	
+農	农	non2	
+儂	侬	non2	
 身	身	son1	
 申	申	son1	
 娠	娠	son1	
@@ -3357,14 +3353,14 @@
 瞎	瞎	haq7	
 黑	黑	haq7	
 赫	赫	haq7	
-合	合	haq8	
-盒	盒	haq8	
-狹	狭	haq8	
-峽	峡	haq8	
-洽	洽	haq8	
-匣	匣	haq8	
-轄	辖	haq8	
-核	核	haq8	覈對，審覈
+合	合	ghaq8	
+盒	盒	ghaq8	
+狹	狭	ghaq8	
+峽	峡	ghaq8	
+洽	洽	ghaq8	
+匣	匣	ghaq8	
+轄	辖	ghaq8	
+核	核	ghaq8	覈對，審覈
 阿	阿	aq7	阿哥，又音
 鴨	鸭	aq7	
 押	押	aq7	
@@ -3768,6 +3764,7 @@
 屈	屈	chioq7	
 確	确	chioq7	文讀
 吃	吃	chioq7	
+喫	吃	chioq7	
 曲	曲	chioq7	
 榷	榷	chioq7	
 掘	掘	jioq8	

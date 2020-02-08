@@ -8854,7 +8854,7 @@
 㨆	㨆		lin2	3								刮去（魚鱗）	
 霖	霖	ling	lin2	7	lin2	9							
 啉	啉		lin2									化學用字	
-輪	轮	leng	lin2	3	len2	9	len2	10	len2	11	0.05	吃輪飯	
+輪	轮	leng	lin2	3	len2	9	len2	10	len2	11	0.05	喫輪飯	
 棱	棱	leng	lin2	3	len2	9			len2	11	0.05	量詞	
 稜	棱		lin2	3							0.05	量詞	
 嶺	岭	ling	lin4	2	lin6	9	lin6	10	lin4	11			
@@ -10735,7 +10735,7 @@
 疙	疙		kaq7	1	kaq7	9			kaq7	11			
 仡	仡		kaq7										
 虼	虼		kaq7										
-吃	吃		kaq7	3							0.00	僅限於“吃舌頭”	
+吃	吃		kaq7	3								僅限於“吃舌頭”	
 客	客	kʽah	khaq7	1	khaq7	9	khaq7	10	khaq7	11			
 喀	喀	kʽah	khaq7	7									
 揢	揢	kʽah	khaq7	1								量詞，拇指和食指合成的圈兒的大小	
@@ -11539,7 +11539,7 @@
 瓦	瓦		ngoq8	1							0.00	僅限於“硯瓦爿”一詞	
 霍	霍	hoh	hoq7	1	hoq7	9	hoq7	10	hoq7	11			
 藿	藿	hoh	hoq7	2	hoq7	9	hoq7	10	hoq7	11			
-𢞕	𢞕		hoq7	3								吃𢞕	
+𢞕	𢞕		hoq7	3								喫𢞕	
 嚯	嚯		hoq7	3									
 臛	臛	hoh	hoq7	7									
 攉	攉	hoh	hoq7	7									
@@ -11600,7 +11600,6 @@
 𪅴	𪅴	ôh	oq7	7									
 阿	阿	o	oq7	1							0.00	僅限於“阿講”一詞	
 喫	吃		chioq7	1	chioq7	9	chioq7	10	chiuq7	11			
-吃	吃		chioq7	1	chioq7	9	chioq7	10	chiuq7	11			
 玉	玉	nyüoh	gnioq8	1	gnioq8	9	gnioq8	10	gniuq8	11			
 鈺	钰	nyüoh	gnioq8	7									
 𧉣	𧉣	nyüoh	gnioq8	7									
@@ -12000,8 +11999,7 @@
 契	契	kyʽih	chiq7	7							0.00	契丹	
 挈	挈	kyʽih	chiq7	1	chiq7	9			chiq7	11			
 𤷾	𤷾		chiq7	1									
-吃	吃	kyʽih	chiq7	1	chiq7	9			chiq7	11	0.00	僅限於“喫力”一詞	
-喫	吃		chiq7	1					chiq7	11	0.00	僅限於“喫力”一詞	
+喫	吃	kyʽih	chiq7	1	chiq7	9			chiq7	11	0.00	僅限於“喫力”一詞	
 鍥	锲		chiq7										
 掣	掣	kyʽih	chiq7	7									
 綌	绤	kyʽih	chiq7	7									

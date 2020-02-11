@@ -7373,7 +7373,6 @@
 奬	奖		cian3	2									
 獎	奖	tsiang	cian3	2	cian3	9	cian3	10					
 長	长	tsiang	cian3	1	cian3	9	cian3	10			0.30	長輩	
-張	张	tsiang	cian3	2	cian1	9	cian1	10	cian1	11	0.05	量詞	
 漲	涨	tsiang	cian3	1	cian3	9	cian3	10					
 槳	桨	tsiang	cian3	1	cian3	9	cian3	10	cian3	11			
 䒂	䒂	tsiang	cian3	7									
@@ -7441,7 +7440,7 @@
 象	象		jian4	1							0.00	僅用於地名“象山”	
 丈	丈	dziang	jian4	1	jian6	9	jian6	10	jian4	11			
 杖	杖	dziang	jian4	1	jian6	9	jian6	10	jian6	11			
-張	张		jian4	3							0.05	量詞	
+張	张		jian4	3							0.01	量詞	
 滰	滰		jian4	2	jian6	9						洗	
 ⿰氵丈	⿰氵丈		jian4	1								洗	
 𤃀	𤃀						jian6	10			0.00	洗，白讀	#

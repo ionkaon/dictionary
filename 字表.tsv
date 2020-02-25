@@ -2627,8 +2627,8 @@
 莒	莒	kyü	ciu1	7									
 車	车	kyü	ciu1	1	ciu1	9	ciu1	10	ciu1	11	0.05	象棋子的名稱	
 硨	砗	kyü	ciu1	7									
-龜	龟		ciu1	1	ciu1	9	ciu1	10	ciu1	11		白讀	
-亀	龟		ciu1	1								白讀	
+龜	龟		ciu1	1	ciu1	9	ciu1	10	ciu1	11	0.01	白讀	
+亀	龟		ciu1	1							0.01	白讀	
 琚	琚	kyü	ciu1	7									
 裾	裾	kyü	ciu1	7									
 椐	椐	kyü	ciu1	7									
@@ -5689,7 +5689,7 @@
 蝵	蝵	tsʽiu	chieu1	7									
 䐐	䐐	tsʽiu	chieu1	7									
 瘳	瘳	tsʽiu	chieu1	7									
-龜	龟		chieu1								0.00	龜兹	
+龜	龟		chieu1								0.00	龜茲	
 丘	丘		chieu1	1	chieu1	9	chieu1	10	chieu1	11			
 坵	丘		chieu1	1									
 丠	丘		chieu1	1									
@@ -6371,8 +6371,8 @@
 鮭	鲑		kuei1										
 硅	硅		kuei1									化學元素	
 邽	邽	kwe	kuei1	7									
-龜	龟	kwe	kuei1	2	kuei1	9	kuei1	10	kuei1	11	0.06	文讀	
-亀	龟		kuei1	2							0.06	文讀	
+龜	龟	kwe	kuei1	2	kuei1	9	kuei1	10	kuei1	11		文讀	
+亀	龟		kuei1	2								文讀	
 歸	归	kwe	kuei1	2	kuei1	9	kuei1	10	kuei1	11		文讀	
 帰	归		kuei1	2								文讀	
 巋	岿	kwe	kuei1	7									

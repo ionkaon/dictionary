@@ -6054,7 +6054,7 @@
 𩎟	𩎟	me	mei6	7									
 黴	霉				mei6	9					0.00	黴麩(鎮海)	
 霉	霉				mei6	9					0.00	黴麩(鎮海)	
-妹	妹		mhei5	2	mhei5	9			mhei5	11			
+妹	妹		mhei5	2	mhei5	9			mhei5	11	0.05		
 𣍐	𠊉		vei2	1	vei6	9	vei2	10	vei6	11			
 𣍐	𫧃		vei2	1	vei6	9	vei2	10	vei6	11			
 浮	浮	veo	vei6	4							0.00	僅限於“浮屍”	
@@ -10714,7 +10714,7 @@
 袼	袼		kaq7										
 𪄎	𪄎	kah	kaq7	7									
 介	介		kaq7	1									
-溢	溢		kaq7	2								溢出	
+溢	溢		kaq7	2							0.05	溢出	
 革	革	keh	kaq7	1	kaq7	9	kaq7	10					
 緙	缂	keh	kaq7	7									
 𢯹	𢯹	keh	kaq7	7									

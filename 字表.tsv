@@ -759,7 +759,7 @@
 澠	渑		mi4				mi6	10	mien2	11			
 冕	冕	min	mi4	7									
 脗	吻								mien4	11		脗縫(定海)	
-未	未		mi6	1	mi6	9	mi6	10	mi6	11		還需要很長時間；還早着	
+未	未		mi6	1	mi6	9	mi6	10	mi6	11	0.05	還需要很長時間；還早着	
 味	味		mi6	1	mi6	9	mi6	10	mi6	11		白讀	
 彌	弥	mi	mi6	1	mi2	9	mi2	10	mi2	11		彌海碗	
 面	面	min	mi6	1	mii6	9	mi6	10	mien6	11			
@@ -1363,7 +1363,7 @@
 谿	溪		chi1	1									
 蹊	蹊	yi	chi1	3									
 鸂	㶉	kyʽi	chi1	7									
-崎	崎	kyʽi	chi1	7									
+崎	崎	kyʽi	chi1	7							0.05		
 攲	攲		chi1										
 䀘	䀘	kyʽi	chi1	7									
 豈	岂	kyʽi	chi1	2	chi5	9	chi3	10	chi3	11			
@@ -1769,7 +1769,7 @@
 癬	癣	sin	shi3	1	shii3	9	shi3	10	shien3	11			
 燹	燹	sin	shi3	7									
 閃	闪	sin	shi3	1	shii1	9	shi3	10	shien3	11			
-陝	陕	sin	shi3	2	shii3	9							
+陝	陕	sin	shi3	2	shii3	9					0.01		
 烍	烍	sin	shi3	7									
 熌	𤇄	sin	shi3	7									
 𣟲	𣟲	sin	shi3	7									
@@ -2296,7 +2296,7 @@
 圖	图	du	du2	1	du2	9	du2	10	du2	11			
 図	图		du2	1									
 菟	菟	du	du2	7									
-堵	堵		du2	3	tu3	9	tu3	10	tu3	11		量詞	
+堵	堵		du2	3	tu3	9	tu3	10	tu3	11	0.05	量詞	
 杜	杜	du	du4	1	du6	9	du6	10	du4	11			
 𨧀	𬭊		du4									化學元素	
 肚	肚	du	du4	1	du6	9	du6	10	du4	11			
@@ -2677,7 +2677,7 @@
 駈	驱		chiu1	2									
 軀	躯	kyʽü	chiu1	2	chiu1	9							
 樞	枢	kyʽü							chiu1	11			
-虧	亏		chiu1	1	chiu5	9							
+虧	亏		chiu1	1	chiu5	9					0.05		
 袪	袪	kyʽü	chiu1	7									
 祛	祛	kyʽü	chiu1	7									
 胠	胠		chiu1										
@@ -2695,7 +2695,7 @@
 埍	埍	kyʽün	chiu3	7									
 圈	圈	kyʽün	chiu3	1									
 圏	圈		chiu3	1									
-去	去	kyʽü	chiu5	1	chiu5	9			chiu5	11	0.06	文讀	
+去	去	kyʽü	chiu5	1	chiu5	9			chiu5	11	0.05	文讀	
 蕖	蕖	gyü	jiu2	7									
 磲	磲	gyü	jiu2	7									
 巨	巨	gyü	jiu2	2	jiu6	9	jiu6	10	jiu4	11			
@@ -3273,7 +3273,7 @@
 魪	魪	kyiæ	cia5	7									
 芥	芥	kyiæ	cia5	2							0.05	文讀	
 界	界	kyiæ	cia5	2					cia5	11	0.05	文讀	
-价	价	kyiæ	cia5	2							0.05	文讀	
+价	价	kyiæ	cia5	2								文讀	
 價	价	kyüô	cia5	2					cia5	11	0.05	文讀	
 駕	驾	kyüô	cia5	2					cia5	11		文讀	
 假	假	kyüô							cia5	11	0.10	放假(定海)	
@@ -4698,8 +4698,8 @@
 𦁤	𦁤	nyiæn	nE6	7									
 䧔	䧔	nyiæn	nE6	7									
 罱	罱	nen	ne6	1								罱河泥	
-奶	奶		nhe5	1	nhe5	9	nhae5	10	nhae5	11		兒化殘留	
-嬭	奶	næ	nhe5	1								兒化殘留	
+奶	奶		nhe5	1	nhe5	9	nhae5	10	nhae5	11	0.01	兒化殘留	
+嬭	奶	næ	nhe5	1							0.01	兒化殘留	
 來	来	læ	le2	1	le2	9	le2	10	le2	11	1209309		
 萊	莱	læ	le2	7									
 徠	徕	læ	le2	7									
@@ -6307,7 +6307,7 @@
 厂	厂	hen	hEI5	7							0.00		
 漢	汉	hen	hEI5	1							0.00	又音	
 熯	熯	hen	hEI5	1								利用水蒸氣的熱力使食物熟或熱	
-旰	旰	hen	hEI5	7									
+旰	旰	hen	hEI5	7							0.00		
 哎	哎		ghEI2	1								嘆詞，用於招呼及應答	
 含	含	ʽen	ghEI2	1	ghei2	9	ghei2	10	ghei2	11			
 焓	焓		ghEI2	1								熱力學用字	
@@ -7370,7 +7370,7 @@
 韁	缰		cian1	2									
 絳	绛	kyüông	cian1	1									
 糨	糨		cian1	3									
-雀	雀		cian3	1	cian1	9	cian1	10	cian5	11		兒化殘留	
+雀	雀		cian3	1	cian1	9	cian1	10	cian5	11	0.05	兒化殘留	
 蔣	蒋	tsiang	cian3	2	cian1	9	cian3	10	cian1	11			
 奬	奖		cian3	2									
 獎	奖	tsiang	cian3	2	cian3	9	cian3	10					
@@ -9164,7 +9164,7 @@
 崟	崟	nying	gnin2	7									
 人	人		gnin2	1	gnin2	9	gnin2	10	gnin2	11		白讀	
 亻	亻		gnin2									白讀	
-仁	仁		gnin2	1	gnin2	9			gnin2	11			
+仁	仁		gnin2	1	gnin2	9			gnin2	11	0.05		
 鄞	鄞	nying	gnin2	2	gnin2	9							
 檸	柠	nying	gnin2	2	gnin2	9							
 嚀	咛	nying	gnin2	2									
@@ -10868,7 +10868,7 @@
 鱲	𫚭	liah	liaq8	7									
 躐	躐	liah	liaq8	7									
 劣	劣	lih	liaq8	2	liq8	9	liq8	10	liq8	11			
-雀	雀	tsiah	ciaq7	1									
+雀	雀	tsiah	ciaq7	1							0.05		
 爵	爵	tsiah	ciaq7	2	ciq7	9	ciq7	10	ciaq7	11			
 爝	爝	tsiah	ciaq7	7									
 婥	婥		ciaq7	7									
@@ -12456,6 +12456,7 @@
 𨪎	𨪎	üôh	iuq7	7									
 薁	薁	üôh	iuq7	7									
 䉛	䉛	üôh	iuq7	7									
+尉	尉		iuq7								0.00	尉遲	
 這	这		tsyuq7	2	tsyuq7	9							
 拙	拙	cih	tsyuq7	2	ciuq7	9	tsoq7	10	tsoq7	11		白讀	
 𠷅	𠷅	cih	tsyuq7	7									

@@ -580,7 +580,7 @@
 箄	箄	pi	pi3	7									
 吡	吡		pi3									化學用字	
 芘	芘		pi3									化學用字	
-彼	彼		pi3				pi3	10	pi3	11	0.05	文讀	
+彼	彼		pi3				pi3	10	pi3	11	0.10	文讀	
 俾	俾								pi3	11			
 扁	扁	pin	pi3	1	pii3	9	pi3	10	pien3	11			
 匾	匾	pin	pi3	1	pii3	9	pi3	10	pien3	11			
@@ -1881,7 +1881,7 @@
 傒	傒		yi2										
 圯	圯	yi	yi2	7									
 畦	畦	yi	yi2	7					zhi2	11			
-鮭	鲑	yi	yi2	7									
+鮭	鲑	yi	yi2	7							0.01		
 移	移	yi	yi2	1	yi2	9	yi2	10	yi2	11			
 迻	移		yi2	1									
 𣻗	𣻗	yi	yi2	7									
@@ -3080,7 +3080,7 @@
 挐	拿		na2	2								拿手好戲	
 拏	拿		na2	2								拿手好戲	
 鎿	镎		na2									化學元素	
-淖	淖		na2	1			na2	10				淖泥	
+淖	淖		na2	1			na2	10			0.00	淖泥	
 艿	艿	na	na2	1									
 南	南		na2								0.00	南無阿彌陀佛	
 奶	奶	na	na4	1	na6	9	na6	10	na4	11			
@@ -3595,7 +3595,7 @@
 ⿰閙	⿰闹		nau6	3								踩；踏	
 ⿰鬧	⿰闹		nau6	3								踩；踏	
 踔	踔		nau6	2								踔殺	
-淖	淖	nao	nau6	7							0.06	文讀	
+淖	淖	nao	nau6	7								文讀	
 橈	桡	nao	nau6	7									
 勞	劳	lao	lau2	1	lau2	9	lau2	10	lau2	11			
 澇	涝	lao	lau2	2	lhau5	9	lau6	10	lau2	11			
@@ -3634,7 +3634,7 @@
 澡	澡	tsao	tsau3	2	tsau1	9	tsau3	10	tsau3	11			
 藻	藻	tsao	tsau3	7	tsau1	9							
 爪	爪	tsao	tsau3	1	tsau3	9	tsau3	10	tsau3	11			
-爪	爪	tsao	tsau5	3	tsau3	9	tsau3	10	tsau3	11		禽類用爪子撥拉；也指用手抓撓	
+爪	爪	tsao	tsau5	3							0.00	禽類用爪子撥拉；也指用手抓撓	
 笊	笊	tsao	tsau5	7			tsau5	10	tsau5	11			
 竈	灶	tsao	tsau5	1	tsau5	9	tsau5	10	tsau5	11			
 灶	灶		tsau5	1					tsau5	11			
@@ -5762,7 +5762,7 @@
 酎	酎	dziu	jieu6	7									
 舊	旧	gyiu	jieu6	1	jieu6	9	jieu6	10	jieu6	11			
 柩	柩	gyiu	jieu6	2	cieu5	9	jieu6	10	jieu6	11			
-牛	牛	nyiu	gnieu2	2	gnieu2	9	gnieu2	10	gnieu2	11	0.06	文讀	
+牛	牛	nyiu	gnieu2	2	gnieu2	9	gnieu2	10	gnieu2	11	0.01	文讀	
 揉	揉		gnieu2										
 妞	妞		gnieu2										
 原	原		gnieu2	1							0.00	僅限於“原舊”	
@@ -6207,7 +6207,7 @@
 湊	凑	tsʽeo	tshei5	1							0.05	又音	
 粹	粹						tshei5	10			0.00		
 凑	凑		tshei5	1							0.05	又音	
-參	参		tshae1	2			tshei1	10			0.00	白讀；參隊(北侖)	#
+參	参						tshei1	10			0.00	白讀；參隊(北侖)	#
 𪙞	𪙞		tshei5	3							0.05	又音 𪙞牙	
 ⿱咋會	⿱咋会		dzei2	1								“咋會”的合音詞，怎麼會	
 墜	坠		dzei6	2								又音	
@@ -6953,7 +6953,7 @@
 哞	哞		meu2										
 鉾	𫓴		meu2										
 拇	拇		meu2	2			meu6	10	mei6	11			
-姆	姆		meu2	1							0.05		
+姆	姆		meu2	1							0.10		
 𧉯	𧉯	meo	meu2	7									
 畝	亩	meo	meu2	2	mei2	9	meu6	10	mei4	11		文讀	
 畮	亩		meu2	2								文讀	
@@ -11169,7 +11169,7 @@
 洑	洑	voh	voq8	7									
 絥	𫄢	voh	voq8	7									
 垘	垘	voh	voq8	7									
-復	复	voh	voq8	2	voq8	9	voq8	10	voq8	11			
+復	复	voh	voq8	2	voq8	9	voq8	10	voq8	11	0.05		
 鰒	鳆	voh	voq8	7									
 縛	缚						voq8	10			0.05	文讀	
 篤	笃	toh	toq7	1	toq7	9	toq7	10	toq7	11			

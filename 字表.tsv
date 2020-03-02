@@ -2371,7 +2371,7 @@
 艣	橹		lu6	1									
 樐	橹		lu6	1									
 氌	氇		lu4										
-賂	赂	lu	lu6	7							0.05		
+賂	赂	lu	lu6	7							0.10		
 輅	辂	lu	lu6	7									
 路	路	lu	lu6	1	lu6	9	lu6	10	lu6	11			
 潞	潞	lu	lu6	7									
@@ -4766,7 +4766,7 @@
 賽	赛	sæ	se5	1	se5	9	sae5	10	se5	11			
 塞	塞	sæ	se5	7							0.01	要塞	
 裁	裁		ze2	1	ze2	9	ze2	10	ze2	11			
-材	材	zæ	ze2	1	ze2	9						棺材	
+材	材	zæ	ze2	1	ze2	9					0.01	棺材	
 載	载				ze2	9					0.00	載子(鎮海)	
 該	该	kæ	ke1	1	ke3	9	ke1	10	ke1	11	49284		
 陔	陔		ke1										
@@ -7321,7 +7321,7 @@
 亨	亨	heng	han1	1	han1	9	han1	10	han1	11			
 哼	哼	hang	han1	2			hen1	10	hen1	11			
 夯	夯	hông	han5	2	han5	9	han5	10	han1	11			
-行	行	ʽang	ghan2	1	ghan2	9	ghan2	10	ghan2	11	0.20	行車	
+行	行	ʽang	ghan2	1	ghan2	9	ghan2	10	ghan2	11	0.06	行車	
 桁	桁	ʽang	ghan2	1	ghan2	9							
 杏	杏		ghan4	1	ghan6	9	ghan2	10	ghan4	11			
 行	行						ghan6	10			0.05	品行(北侖)	
@@ -7669,7 +7669,7 @@
 放	放	fông	faon5	1	faon5	9	faon5	10	faon5	11			
 妨	妨	fông	faon5	2	faon1	9	faon3	10	faon1	11			
 房	房	vông	vaon2	1	vaon2	9	vaon2	10	vaon2	11			
-防	防		vaon2	2					faon1	11		文讀	
+防	防		vaon2	2					faon1	11	0.20	文讀	
 罔	罔	vông	vaon4	7									
 惘	惘	vông	vaon4	7									
 輞	辋	vông	vaon4	7									
@@ -9201,7 +9201,7 @@
 陞	升	sing	shin1	1									
 身	身								shin1	11	0.00	擔雙身(定海)	
 身	身	sing	shin1	1	syun1	9	son1	10	son1	11			
-申	申	sing	shin1	1									
+申	申	sing	shin1	1							0.10		
 伸	伸								shin1	11	0.00	伸懶腰	
 伸	伸	sing	shin1	2	syun1	9	shin1	10	son1	11			
 珅	珅		shin1										
@@ -10904,7 +10904,7 @@
 挾	挟								ciq7	11	0.05	挾菜(定海)	
 雀	雀		chiaq7	1	chiq7	9	chiq7	10	chiaq7	11			
 鵲	鹊	tsʽiah	chiaq7	1	chiq7	9	chiq7	10	chiaq7	11			
-綽	绰	tsʽiah	chiaq7	7	chiq7	9						綽號	
+綽	绰	tsʽiah	chiaq7	7	chiq7	9					0.01	綽號	
 卻	却		chiaq7	2	chiq7	9	chiq7	10	chiaq7	11			
 却	却	kyʽiah	chiaq7	2									
 洽	洽		chiaq7	2					chiaq7	11			
@@ -11507,7 +11507,7 @@
 個	个	go	goq8	1					goq8	11	3215286		
 箇	个		goq8	1									
 个	个		goq8	1									
-擱	搁		goq8	1	goq8	9	goq8	10	gau6	11			
+擱	搁		goq8	1	goq8	9	goq8	10	gau6	11	0.05		
 埆	埆		goq8	3							0.05	又音 墝埆	
 岳	岳	ngoh	ngoq8	2									
 嶽	岳	ngoh	ngoq8	2	ngoq8	9	ngoq8	10	ngoq8	11			

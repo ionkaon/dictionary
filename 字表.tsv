@@ -991,7 +991,7 @@
 靛	靛	din	di6	7									
 淀	淀		di6										
 澱	淀		di6		dii2	9							
-鈿	钿	din	di6	1	dii2	9			dien2	11			
+鈿	钿	din	di6	1	dii2	9			dien2	11	10000		
 滇	滇				dii6	9					0.00		#
 黎	黎	li	li2	2	li6	9	li2	10	li2	11			
 藜	藜	li	li2	7									
@@ -3140,7 +3140,7 @@
 查	查								dza2	11	0.05		
 茶	茶								dza2	11	0.05		
 搽	搽								dza2	11	0.05		
-咋	咋		dza4	1	dza6	9	dza6	10	dza6	11			
+咋	咋		dza4	1	dza6	9	dza6	10	dza6	11	100000		
 怎	怎				dza6	9					0.00	白讀(鎮海)	#
 咱	咱		dza4	3								“咋挔”也作“咱伊”	
 ⿸尸查	⿸尸查		dza4	1									
@@ -6055,8 +6055,8 @@
 黴	霉				mei6	9					0.00	黴麩(鎮海)	
 霉	霉				mei6	9					0.00	黴麩(鎮海)	
 妹	妹		mhei5	2	mhei5	9			mhei5	11	0.05		
-𣍐	𠊉		vei2	1	vei6	9	vei2	10	vei6	11			
-𣍐	𫧃		vei2	1	vei6	9	vei2	10	vei6	11			
+𣍐	𠊉		vei2	1	vei6	9	vei2	10	vei6	11	60000		
+𣍐	𫧃		vei2	1	vei6	9	vei2	10	vei6	11	60000		
 浮	浮	veo	vei6	4							0.00	僅限於“浮屍”	
 堆	堆	te	tei1	1	tei1	9	tei1	10	tei1	11			
 𠡒	𠡒		tei3	1	tei1	9	tei1	10	tei3	11	578		
@@ -9665,7 +9665,7 @@
 瞤	𥆧		zyun2										
 循	循	jing	zyun2	1	zyun2	9	zon2	10	zon2	11			
 楯	楯		zyun2	1								檐楯	
-純	纯	jing	zyun2	1	zyun2	9	zon2	10	zon2	11			
+純	纯	jing	zyun2	1	zyun2	9	zon2	10	zon2	11	10000		
 蒓	莼		zyun2	2									
 蓴	莼	jing	zyun2	2	zyun2	9	zon2	10					
 脣	唇		zyun2	2	zyun2	9	zon2	10	zon2	11			
@@ -10474,7 +10474,7 @@
 腯	腯	deh	daq8	7									
 遝	遝		daq8										
 陀	陀		daq8	3							0.00	僅限於“搣陀螺”	
-倷	倷		naq8	1									
+倷	倷		naq8	1							90000		
 捺	捺	nah	naq8	2	naq8	9	naq8	10	naq8	11			
 𤷈	𤷈	nah	naq8	7									
 䖧	䖧	nah	naq8	7									

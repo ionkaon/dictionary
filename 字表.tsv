@@ -2328,7 +2328,7 @@
 悞	悮	ngwu	nu6	7									
 娛	娱	ngwu	nu6	6	nu6	9	nu2	10	nu2	11			
 娯	娱	ngwu	nu6	6									
-捂	捂	ngwu	nu6	7									
+捂	捂	ngwu	nu6	7							0.01		
 晤	晤	ngwu	nu6	7	nu6	9							
 寤	寤	ngwu	nu6	7									
 痦	痦		nu6										
@@ -2477,7 +2477,7 @@
 皷	鼓		ku3	2									
 瞽	瞽	kwu	ku3	7									
 蠱	蛊	kwu	ku3	7									
-賈	贾	kwu	ku3	2								商賈	
+賈	贾	kwu	ku3	2							0.01	商賈	
 固	固	kwu	ku5	2	ku5	9	ku5	10	ku5	11			
 錮	锢	kwu	ku5	7			ku5	10	ku5	11			
 痼	痼	kwu	ku5	7									
@@ -2579,7 +2579,7 @@
 悞	悮	ngwu	wu6	7							0.10	又音	
 娛	娱	ngwu	wu6	6					wu2	11	0.10	又音	
 娯	娱	ngwu	wu6	6							0.10	又音	
-捂	捂	ngwu	wu6	7							0.10	又音	
+捂	捂	ngwu	wu6	7							0.01	又音	
 梧	梧	ngwu	wu6	1			vu2	10	wu2	11	0.10	又音	
 晤	晤	ngwu	wu6	7							0.10	又音	
 寤	寤	ngwu	wu6	7							0.10	又音	
@@ -3222,7 +3222,7 @@
 還	还		gha2	2							0.10	白讀 還有	
 啊	啊		gha4	2	gha2	9						表驚疑	
 也	也		gha4				gha6	10					
-捱	挨		a1	1									
+捱	挨		a1	1							0.00		
 挨	挨	a	a1	1	a1	9	a1	10	a1	11			
 啊	啊		a1	2	gha2	9						又音	
 阿	阿				a1	9			a1	11	0.01		
@@ -5678,8 +5678,8 @@
 鰍	鳅		chieu1	1	chieu1	9							
 鰌	鳅	tsʽiu	chieu1	1									
 揫	揫		chieu1	1								揫水桶	
-揪	揫	tsʽiu	chieu1	1					chieu1	11		揫水桶	
-箍	箍						chieu1	10			0.05	白讀	#
+揪	揫	tsʽiu	chieu1	1					chieu1	11	0.00	揫水桶	
+箍	箍						chieu1	10			0.00	白讀	#
 抽	抽	tsʽiu	chieu1	1	chieu1	9	chieu1	10	chieu1	11			
 𥻤	𥻤		chieu1	1					chieu1	11		用布包好濕物置於灰中使乾燥，或掛起來瀝乾其中水分	
 湫	湫	tsʽiu	chieu1	7	chieu1	9							
@@ -6202,7 +6202,7 @@
 淬	淬	tsʽe	tshei5	7									
 倅	倅	tsʽe	tshei5	7									
 毳	毳	tsʽe	tshei5	7									
-橇	橇	tsʽe	tshei5	7									
+橇	橇	tsʽe	tshei5	7							0.01		
 𢂕	𢂕	tsʽe	tshei5	7									
 湊	凑	tsʽeo	tshei5	1							0.05	又音	
 粹	粹						tshei5	10			0.00		
@@ -7173,7 +7173,7 @@
 吼	吼				hei3	9	heu3	10	hei3	11			
 鱟	鲎	heo	heu5	1	hei1	9	heu5	10	hei5	11			
 虹	虹								hei5	11	0.05		
-煦	煦		heu5										
+煦	煦		heu5	3							0.05		
 侯	侯	ʽeo	gheu2	2	ghei2	9	gheu2	10	ghei2	11			
 喉	喉	ʽeo	gheu2	1	ghei2	9	gheu2	10	ghei2	11			
 猴	猴	ʽeo	gheu2	1	ghei2	9	gheu2	10	ghei2	11			
@@ -8436,6 +8436,7 @@
 錀	𬬭		len2									化學元素	
 䑳	䑳	leng	len2	7									
 蜦	蜦	leng	len2	7									
+掄	抡	leng	len2	7									
 倰	倰		len2	1								狹倰倰	
 薐	薐		len2	1									
 𦼊	𦼊		len2	3									
@@ -8468,7 +8469,7 @@
 椹	椹		tsen1										
 爭	争	tseng	tsen1	2	tsen1	9	tsen1	10	tsen1	11	0.06	文讀	
 箏	筝		tsen1	2	tsen1	9	tsen1	10	tsen1	11			
-掙	挣		tsen1	2	tsen1	9					0.06	文讀	
+掙	挣		tsen1	2	tsen1	9						文讀	
 睜	睁		tsen1	2	tsen1	9	tsen1	10			0.06	文讀	
 錚	铮	tseng	tsen1	7									
 猙	狰	tseng	tsen1	7	tsen1	9							
@@ -10556,7 +10557,7 @@
 賾	赜	tsah	tsaq7	7									
 拶	拶		tsaq7										
 隻	只	tsah	tsaq7	1	tsaq7	9	tsaq7	10	tsaq7	11		量词	
-著	着		tsaq7	3								同“着”	
+著	着		tsaq7	3							0.00	同“着”	
 着	着		tsaq7	3									
 眨	眨	tsah	tsaq7	7			tsaq7	10					
 𠰏	𠰏	tsah	tsaq7	7									
@@ -10877,7 +10878,7 @@
 酌	酌	tsiah	ciaq7	2	ciq7	9	tsoq7	10	ciaq7	11			
 圴	圴	tsiah	ciaq7	7									
 彴	彴	tsiah	ciaq7	7									
-著	着	tsiah	ciaq7	1								同“着”	
+著	着	tsiah	ciaq7	1							0.00	同“着”	
 着	着		ciaq7	1	ciq7	9							
 辵	辵		ciaq7	7									
 碏	碏		ciaq7	7									
@@ -10912,7 +10913,7 @@
 掐	掐								chiaq7	11	0.00	文讀	
 愜	惬	kyʽiah	chiaq7	7									
 篋	箧		chiaq7										
-著	着		jiaq8	1								同“着”	
+著	着		jiaq8	1							0.00	同“着”	
 着	着	dziah	jiaq8	1	jiq8	9						火着	
 𢜭	𢜭		jiaq8	1								𢜭力	
 臄	臄	gyiah	jiaq8	7									
@@ -10928,7 +10929,7 @@
 篛	篛	nyiah	gniaq8	7									
 蒻	蒻	nyiah	gniaq8	7									
 搦	搦	nyiah	gniaq8	7									
-捻	捻	nyiah	gniaq8	7									
+捻	捻	nyiah	gniaq8	7							0.00		
 敜	敜	nyiah	gniaq8	7									
 惗	惗	nyiah	gniaq8	7									
 踗	踗	nyiah	gniaq8	7									
@@ -11285,7 +11286,7 @@
 𧋥	𧋥		tsoq7	3									
 作	作	tsoh	tsoq7	1	tsoq7	9	tsoq7	10	tsoq7	11			
 筰	筰	tsoh	tsoq7	7									
-撮	撮		tsoq7	1								撮藥	
+撮	撮		tsoq7	1							0.00	撮藥	
 喌	喌	tsôh	tsoq7	3									
 粥	粥	coh	tsoq7	1	tsoq7	9	tsoq7	10	tsoq7	11			
 祝	祝	coh	tsoq7	2	tsoq7	9	tsoq7	10	tsoq7	11			
@@ -11365,7 +11366,7 @@
 柞	柞	dzoh	dzoq8	7							0.05	“櫟”的通稱	
 酢	酢	dzoh	dzoq8	7									
 砟	砟		dzoq8										
-著	着		dzoq8	2								同“着”	
+著	着		dzoq8	2							0.00	同“着”	
 着	着		dzoq8	2			dzoq8	10	dzoq8	11			
 逐	逐	djoh	dzoq8	1	dzoq8	9	dzoq8	10					
 蓫	蓫		dzoq8	7									
@@ -12522,7 +12523,7 @@
 集	集	jih	zyuq8	2	zyuq8	9							
 隰	隰	jih	zyuq8	7									
 踅	踅		zyuq8										
-著	着		zyuq8	1								同“着”	
+著	着		zyuq8	1							0.00	同“着”	
 着	着		zyuq8	1									
 兒	儿	r	er2	1	er2	9	er2	10	er2	11		文讀	
 児	儿		er2	1								文讀	

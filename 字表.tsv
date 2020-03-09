@@ -2428,7 +2428,7 @@
 甦	苏		su1	2					su1	11			
 囌	苏	su	su1	2									
 酥	酥	su	su1	1	su1	9	su1	10	su1	11			
-梳	梳	su	su1	2			su1	10	su1	11		文讀 梳理	
+梳	梳	su	su1	2			su1	10	su1	11	0.01	文讀 梳理	
 疏	疏	su	su1	2	su1	9	su1	10	su1	11		疏通	
 疎	疏	su	su1	2								疏通	
 數	数	su	su3	1	su3	9			su3	11		清點	
@@ -2610,6 +2610,7 @@
 惡	恶		u1	1	u5	9			u5	11	0.00	可惡	
 悪	恶		u1	1							0.00	可惡	
 罅	罅								u1	11	0.00	豁罅：裂縫	#
+於	于		u1								0.00		
 椅	椅		u3	1	u3	9					0.05	“椅子”一詞中又音	
 瑦	瑦	u	u3	7									
 鄔	邬	u	u5	2									
@@ -2666,6 +2667,7 @@
 狷	狷	kyün	ciu5	7									
 獧	狷		ciu5	7									
 睊	睊	kyün	ciu5	7									
+罥	罥		ciu5										
 卷	卷	kyün	ciu5	1	cioe5	9							
 巻	卷		ciu5	1									
 睠	眷		ciu5	1									
@@ -3738,7 +3740,7 @@
 鎬	镐		kau3	2									
 搞	搞		kau3	2					kau3	11	0.05	又音	
 皜	皜	kao	kau3	7									
-攪	搅		kau3	2			kau3	10				白讀	
+攪	搅		kau3	2			kau3	10			0.05	白讀	
 叫	叫		kau5	1	kau5	9					0.00	僅限於“叫花子”一詞	
 告	告		kau5	1	kau5	9	kau5	10	kau5	11			
 吿	告	kao	kau5	1									
@@ -3766,8 +3768,8 @@
 鮳	鲓		khau5	1					khau5	11		“鮳”，本字當爲“薧”	
 薧	薧		khau5	1								“鮳”，本字當爲“薧”	
 犒	犒	kʽao	khau5	2	khau5	9	khau5	10					
-搞	搞		gau4	1			gau6	10	kau3	11			
-攪	搅		gau4	1	gau6	9	kau3	10					
+搞	搞		gau4	1			gau6	10					
+攪	搅		gau4	1	gau6	9					0.00		
 絞	绞		gau4	1					gau4	11			
 交	交		gau6	1							0.05	指傳家產給後代	
 峧	峧	gao	gau6	7									
@@ -4328,7 +4330,7 @@
 姣	姣	kyiao	ciau3	7	ciau1	9							
 䘨	䘨	kyiao	ciau3	7									
 皎	皎	kyiao	ciau3	7	ciau1	9							
-攪	搅	kyiao	ciau3	2							0.06	文讀	
+攪	搅	kyiao	ciau3	2								文讀	
 繳	缴	kyiao	ciau3	1	ciau1	9	ciau3	10	ciau3	11			
 皦	皦	kyiao	ciau3	7									
 儌	儌		ciau3										
@@ -4501,17 +4503,18 @@
 姚	姚	yiao	yau2	2	yau6	9	yau2	10	yau2	11			
 珧	珧	yiao	yau2	7									
 耀	耀	yiao	yau2	2	yau2	9	yau6	10	yau6	11			
+洨	洨		yau2										
+筊	筊		yau2										
 杳	杳	iao	yau4	2	iau5	9	iau3	10	iau3	11			
 曜	曜		yau6										
 效	效	yiao	yau6	2	yau6	9	yau6	10					
 傚	效	yiao	yau6	2									
 効	效	yiao	yau6	2									
 校	校	yiao	yau6	2	yau6	9	yau6	10	yau6	11		學校	
-洨	洨		yau2										
-筊	筊		yau2										
 斆	敩	yiao	yau6	7									
 斅	敩		yau6	7									
 燿	燿		yau6										
+樂	乐	yiao	yau6	7							0.00	智者樂水	
 召	召						yau6	10	yau6	11			
 要	要	iao	iau1				iau1	10	iau1	11		要求	
 腰	腰	iao	iau1	1	iau1	9	iau1	10	iau1	11			
@@ -4972,7 +4975,7 @@
 幡	幡	fæn	fae1	1									
 旙	旙	fæn	fae1	7									
 拚	拚	fæn	fae1	7									
-藩	藩	v					fae1	10	fae1	11			
+藩	藩						fae1	10	fae1	11			
 反	反	fæn	fae3	1	fae3	9	fae3	10	fae3	11			
 返	返	fæn	fae3	2	fae3	9							
 翻	翻								fae3	11	0.00		
@@ -6009,7 +6012,7 @@
 珮	珮	be	bei6	7									
 邶	邶	be	bei6	7									
 薜	薜	be	bei6	7									
-眉	眉	me	mei2	1	mei2	9	mei2	10	mei2	11	0.06	文讀	
+眉	眉	me	mei2	1	mei2	9	mei2	10	mei2	11		文讀	
 楣	楣	me	mei2	2	mei2	9	mei2	10					
 嵋	嵋	me	mei2	7									
 鶥	鹛		mei2										
@@ -7851,7 +7854,7 @@
 愴	怆		tshaon5										
 娼	娼	cʽông	tshaon5	2									
 唱	唱	cʽông	tshaon5	1	tshaon5	9	tshaon5	10	tshaon5	11			
-暢	畅	cʽông	tshaon5	7	tshaon5	9			tshaon5	11	0.05		
+暢	畅	cʽông	tshaon5	7	tshaon5	9			tshaon5	11			
 鬯	鬯	cʽông	tshaon5	7									
 摐	𪭢		tshaon5	1								用棍棒等垂直擊物	
 藏	藏	dzông	dzaon2	2	dzaon2	9	dzaon2	10	dzaon2	11			
@@ -8377,7 +8380,7 @@
 燉	炖	teng	ten5	1	ten5	9			ten1	11			
 敦	敦	teng	ten5	1	ten1	9	ten1	10	ten1	11	0.05	①動詞：豎立；挺。②形容詞，直。	
 撉	撉		ten5	2								撉撉齊	
-澄	澄		ten5	2					ten5	11			
+澄	澄		ten5	2					ten5	11		0.06	
 膯	膯		ten5	1								滯膯	
 肫	肫								ten5	11	0.00	脹肫	#
 𩞬	𩞬	teng	ten5	7									
@@ -8467,7 +8470,7 @@
 墫	墫	tseng	tsen1	7									
 斟	斟		tsen1	2								又音	
 椹	椹		tsen1										
-爭	争	tseng	tsen1	2	tsen1	9	tsen1	10	tsen1	11	0.06	文讀	
+爭	争	tseng	tsen1	2	tsen1	9	tsen1	10	tsen1	11		文讀	
 箏	筝		tsen1	2	tsen1	9	tsen1	10	tsen1	11			
 掙	挣		tsen1	2	tsen1	9						文讀	
 睜	睁		tsen1	2	tsen1	9	tsen1	10			0.06	文讀	
@@ -8750,7 +8753,7 @@
 汀	汀		tin1	1							0.05	水汀	
 玎	玎	ting	tin1	7									
 䟓	䟓	ting	tin1	7									
-頂	顶	ting	tin3	1	tin3	9	tin3	10	tin3	11			
+頂	顶	ting	tin3	1	tin3	9	tin3	10	tin3	11	60000		
 酊	酊	ting	tin3	7									
 鼎	鼎	ting	tin3	2	tin3	9	tin3	10	tin3	11			
 濎	濎		tin5	1								沉澱	
@@ -10579,7 +10582,7 @@
 冊	册	tsʽah	tshaq7	2	tshaq7	9	tshaq7	10	tshaq7	11			
 册	册		tshaq7	2									
 笧	笧	tsʽah	tshaq7	7									
-赤	赤		tshaq7	1	tshaq7	9	tshaq7	10				赤豆	
+赤	赤		tshaq7	1	tshaq7	9	tshaq7	10			0.05	赤豆	
 哧	哧		tshaq7										
 漆	漆		tshaq7	2	tshaq7	9	chiq7	10			0.05	漆黑	
 黢	黢						tshaq7	10			0.00	黢黑	#
@@ -10628,8 +10631,8 @@
 㳐	㳐	dzah	dzaq8	7									
 澤	泽	dzeh	dzaq8	2	dzaq8	9	dzaq8	10	dzaq8	11			
 擇	择	dzeh	dzaq8	2	dzaq8	9	dzaq8	10	dzaq8	11			
-雜	杂	dzeh	dzaq8	2					dzaq8	11	0.06	文讀	
-襍	杂		dzaq8	2							0.06	文讀	
+雜	杂	dzeh	dzaq8	2					dzaq8	11		文讀	
+襍	杂		dzaq8	2								文讀	
 殺	杀	sah	saq7	1	saq7	9	saq7	10	saq7	11			
 剎	刹	sah	saq7	7	saq7	9							
 刹	刹	sah	saq7	7									
@@ -10691,8 +10694,8 @@
 鰂	鲗	dzeh	zaq8	7									
 鱡	鱡	dzeh	zaq8	7									
 𨆎	𨆎	dzeh	zaq8	7									
-雜	杂	dzeh	zaq8	2	zaq8	9	zaq8	10				白讀	
-襍	杂		zaq8	2								白讀	
+雜	杂	dzeh	zaq8	2	zaq8	9	zaq8	10			0.10	白讀	
+襍	杂		zaq8	2							0.10	白讀	
 擇	择				zaq8	9					0.00	家擇科(鎮海)	
 夾	夹		kaq7	1	kaq7	9	kaq7	10	kaq7	11			
 裌	夹		kaq7	1									
@@ -11947,7 +11950,7 @@
 亟	亟	kyih	ciq7	7									
 殛	殛	kyih	ciq7	7									
 夾	夹		ciq7	3							0.00	僅限用筷子夾取食物一義	
-莢	荚	kyiah	ciq7	3	ciq7	9			ciq7	11		量詞	
+莢	荚	kyiah	ciq7	3	ciq7	9			ciq7	11	0.01	量詞	
 砌	砌		chiq7	2					chiq7	11			
 輯	辑	jih	chiq7	2	chiq7	9	jiq8	10	chiq7	11			
 緝	缉	tsʽih	chiq7	1	chiq7	9			chiq7	11			

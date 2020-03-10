@@ -1385,7 +1385,7 @@
 覘	觇		chi1										
 釺	钎		chi1										
 汧	汧		chi1										
-殲	歼	sin	chi1	2	chii1	9	ci1	10	chien1	11		白讀	
+殲	歼	sin	chi1	2							0.05	白讀	
 鑯	鑯	tsʽin	chi1	7									
 槧	椠	tsʽin	chi1	1								削	
 倩	倩		chi1	2									
@@ -7864,7 +7864,7 @@
 嘗	尝	djông	dzaon2	2	dzaon2	9	dzaon2	10	dzaon2	11	0.05	未嘗	
 甞	尝		dzaon2	2							0.05	未嘗	
 鱨	鲿		dzaon2	3									
-償	偿	djông	dzaon2	7	dzaon2	9	dzaon2	10	saon1	11	0.06	文讀	
+償	偿	djông	dzaon2	7	dzaon2	9	dzaon2	10	saon1	11		文讀	
 徜	徜		dzaon2										
 幢	幢		dzaon4	1	dzaon2	9	dzaon6	10	dzaon6	11			
 狀	状	jông	dzaon4	1								形狀	
@@ -7900,7 +7900,7 @@
 爽	爽	shông	saon3	1	saon3	9	saon3	10	saon3	11			
 塽	塽		saon3										
 賞	赏	shông	saon3	2	saon3	9	saon3	10	saon3	11			
-償	偿		saon3	2					saon1	11		又音	
+償	偿		saon3	2					saon1	11	0.06	又音	
 䫪	䫪	shông	saon3	7									
 𥱶	𥱶	shông	saon3	7									
 㩳	㧐	shông	saon3	7									
@@ -9055,7 +9055,7 @@
 卿	卿	kyʽing	chin5	2	chin5	9	chin1	10	chin1	11			
 岑	岑		jin2	2	jin2	9							
 忱	忱	dzing	jin2	7	jin2	9							
-沈	沉		jin2	1							0.05		
+沈	沉		jin2	1							0.00		
 沉	沉	dzing	jin2	1	jin2	9	jin2	10	jin2	11			
 霃	𩂸		jin2	7									
 𩂸	𩂸	dzing	jin2	7									
@@ -10337,7 +10337,7 @@
 枚	枚	me	maq8	3							0.05	又音 量詞	
 貌	貌	mao	maq8								0.00	介貌	
 麼	么								maq8	11	0.00	格麼	#
-沒	没	meh	mhaq7	2									
+沒	没	meh	mhaq7	2							0.05		
 發	发	fah	faq7	1	faq7	9	faq7	10	faq7	11			
 発	发		faq7	1									
 髮	发	fah	faq7	1	faq7	9			faq7	11			
@@ -11020,7 +11020,7 @@
 甩	甩		huaq7	1									
 濊	濊		huaq7										
 劃	划	wah	waq8	1	waq8	9	waq8	10	waq8	11			
-划	划		waq8	2							0.10		
+划	划		waq8	2									
 嫿	婳	wah	waq8	7									
 㗲	𠵾	wah	waq8	7									
 繣	繣	wah	waq8	7									

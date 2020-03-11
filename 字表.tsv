@@ -10560,8 +10560,6 @@
 賾	赜	tsah	tsaq7	7									
 拶	拶		tsaq7										
 隻	只	tsah	tsaq7	1	tsaq7	9	tsaq7	10	tsaq7	11		量词	
-著	着		tsaq7	3							0.00	同“着”	
-着	着		tsaq7	3									
 眨	眨	tsah	tsaq7	7			tsaq7	10					
 𠰏	𠰏	tsah	tsaq7	7									
 茁	茁	tsah	tsaq7	7									
@@ -10882,7 +10880,7 @@
 圴	圴	tsiah	ciaq7	7									
 彴	彴	tsiah	ciaq7	7									
 著	着	tsiah	ciaq7	1							0.00	同“着”	
-着	着		ciaq7	1	ciq7	9							
+着	着		ciaq7	1	ciq7	9					0.01		
 辵	辵		ciaq7	7									
 碏	碏		ciaq7	7									
 脚	脚	kyiah	ciaq7	1	ciq7	9							
@@ -10917,7 +10915,7 @@
 愜	惬	kyʽiah	chiaq7	7									
 篋	箧		chiaq7										
 著	着		jiaq8	1							0.00	同“着”	
-着	着	dziah	jiaq8	1	jiq8	9						火着	
+着	着	dziah	jiaq8	1	jiq8	9					0.05	火着	
 𢜭	𢜭		jiaq8	1								𢜭力	
 臄	臄	gyiah	jiaq8	7									
 醵	醵	gyiah	jiaq8	7									
@@ -11902,7 +11900,6 @@
 婕	婕		ciq7										
 摭	摭		ciq7										
 灼	灼	tsiah	ciq7	1									
-着	着		ciq7	3	ciq7	9					0.05	①涂（颜色） ②下（棋）	
 𢆚	𢆚		ciq7	1								量詞，捆	
 指	指	ts	ciq7	3							0.00	又音 僅限於“腳指末頭”	
 㽺	㽺								ciq7	11	0.01	虛㽺病(定海)	
@@ -12527,7 +12524,7 @@
 隰	隰	jih	zyuq8	7									
 踅	踅		zyuq8										
 著	着		zyuq8	1							0.00	同“着”	
-着	着		zyuq8	1									
+着	着		zyuq8	1							0.10		
 兒	儿	r	er2	1	er2	9	er2	10	er2	11		文讀	
 児	儿		er2	1								文讀	
 唲	唲	r	er2	7									

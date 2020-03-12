@@ -887,7 +887,7 @@
 坫	坫	tin	ti5	1									
 痁	痁	tin	ti5	1									
 惦	惦		ti5		tii1	9							
-殿	殿	tin	ti5	7	dii6	9	di6	10	dien6	11	0.05	殿後	
+殿	殿	tin	ti5	7							0.00	殿後	
 梯	梯	tʽi	thi1	2	thi1	9	thi1	10	thi1	11			
 涕	涕	tʽi	thi1	2	thi5	9	thi5	10					
 銻	锑		thi1									化學元素	
@@ -992,7 +992,6 @@
 淀	淀		di6										
 澱	淀		di6		dii2	9							
 鈿	钿	din	di6	1	dii2	9			dien2	11	10000		
-滇	滇				dii6	9					0.00		#
 黎	黎	li	li2	2	li6	9	li2	10	li2	11			
 藜	藜	li	li2	7									
 蔾	藜		li2	7									
@@ -1402,6 +1401,7 @@
 慳	悭		chi1										
 榿	桤		chi1										
 啓	启		chi3	2	chi3	9	chi3	10	chi3	11			
+棨	棨		chi3										
 啟	启	kyʽi	chi3	2	chi3	9	chi3	10					
 唘	启		chi3	2									
 启	启		chi3	2									
@@ -1787,6 +1787,7 @@
 卋	世		shi5	1									
 絮	絮		shi5	1	shi5	9			syu5	11		白讀 花絮	
 戲	戏		shi5	1	shi5	9	shi5	10	shi5	11			
+嚱	嚱		shi5										
 戱	戏		shi5	1									
 戯	戏	hyi	shi5	1									
 系	系	yi	shi5	2			shi5	10	shi5	11			
@@ -3691,12 +3692,12 @@
 蛸	蛸	sao	sau1	7									
 掃	扫	sao	sau3	1	sau3	9	sau3	10	sau3	11			
 嫂	嫂	sao	sau3	1	sau3	9	sau3	10	sau3	11			
-少	少		sau3	2					sau3	11	0.05	文讀	
+少	少		sau3	2					sau3	11	0.01	文讀	
 潲	潲		sau5	1			sau5	10				雨斜着落進來	
 燥	燥	sao	sau5	1	sau1	9					5000		
 𢜶	𢜶		sau5	1					sau5	11			
 掃	扫	sao	sau5		sau5	9	sau5	10	sau5	11			
-少	少	sao					sau5	10	sau5	11	0.05	文讀	
+少	少	sao					sau5	10	sau5	11	0.01	文讀	
 皂	皂		zau2	2			zau6	10	zau4	11			
 皁	皂		zau2	2	zau2	9	zau6	10	zau4	11			
 梍	梍		zau2	7									
@@ -4032,7 +4033,7 @@
 蜡	蜡	dzô	dzo6	7									
 侘	侘	dzô	dzo6	7							0.00		
 紗	纱	sô	so1	1	so1	9	so1	10	so1	11			
-沙	沙	sô	so1	1	so1	9	so1	10	so1	11			
+沙	沙	sô	so1	1	so1	9	so1	10	so1	11	5000		
 鯊	鲨	sô	so1	7					so1	11			
 砂	砂	sô	so1	1					so1	11			
 莎	莎	so	so1	2	so1	9							
@@ -4225,6 +4226,7 @@
 糶	粜	tʽiao	thiau1	2	thiau1	9	thiau5	10	thiau5	11			
 𣂁	𣂁		thiau3	1								給人輕易可得的好處	
 挑	挑	tʽiao	thiau3	3			thiau3	10	thiau3	11		給人機會或好處	
+朓	朓		thiau3										
 跳	跳	tʽiao	thiau5	1	thiau5	9	thiau5	10	thiau5	11			
 趒	趒	tʽiao	thiau5	7					thiau5	11			
 䠷	䠷	diao	thiau5	1					thiau3	11		出䠷	
@@ -5177,7 +5179,7 @@
 賛	赞		tsae5	2									
 㜺	赞		tsae5	1					tsae1	11	1000	好，用於贊賞事物	
 灒	𪷽		tsae5	1			tsae5	10	tsae5	11		濺	
-濺	溅	tsæn	tsae5	7	tsae5	9							
+濺	溅	tsæn	tsae5	7	tsae5	9					0.00		
 饡	饡		tsae5	1								油饡子	
 饊	馓		tsae5	3								油饊子	
 斬	斩	tsæn	tsae5	1	tsae5	9	tsae1	10	tsae3	11		斬肉	
@@ -5393,13 +5395,13 @@
 筷	筷	kwʽæn	khuae5	1	khuae1	9	khuae5	10	khuae5	11			
 環	环		guae2	1			guae6	10	guae2	11	0.05	籃環	
 𫩙	𫩙		guae2	3								提樑，器物上用手提挈的環或把	
-甩	甩		guae2	3	guae6	9			guae6	11	0.05	提樑，器物上用手提挈的環或把	
+甩	甩		guae2	3	guae6	9			guae6	11	0.00	提樑，器物上用手提挈的環或把	
 摜	掼	gwæn	guae6	1	guae6	9	guae6	10	guae6	11			
 儇	儇	hwæn	huae1	1			huae1	10			20000		
 嬛	嬛		huae1										
 乖	乖				huae1	9			huae1	11	0.00		#
 咺	咺	hwæn	huae3	7									
-甩	甩	hwæn	huae5	3			huae5	10	huae1	11		搖	
+甩	甩	hwæn	huae5	3			huae5	10	huae1	11	0.05	搖	
 還	还	wæn	wae2	1	wae2	9	wae2	10				歸還	
 環	环	wæn	wae2	2	wae2	9	wae6	10					
 圜	圜	wæn	wae2	7									
@@ -6091,7 +6093,7 @@
 𧝋	𧝋	de	dei2	7									
 魋	魋	de	dei2	7									
 覃	覃		dei2	1									
-潭	潭	den	dei2	2	dei2	9			dei2	11		白讀 酒潭	
+潭	潭	den	dei2	2	dei2	9			dei2	11	0.05	白讀 酒潭	
 窞	窞		dei2	1			dei2	10				窞窞	
 頭	头	deo	dei2	1			dei2	10			0.05	兒化變音	
 紿	绐		dei4	1					de4	11		綳緊的物體由於受壓而鬆弛凹下	
@@ -8380,7 +8382,7 @@
 燉	炖	teng	ten5	1	ten5	9			ten1	11			
 敦	敦	teng	ten5	1	ten1	9	ten1	10	ten1	11	0.05	①動詞：豎立；挺。②形容詞，直。	
 撉	撉		ten5	2								撉撉齊	
-澄	澄		ten5	2					ten5	11	0.06		
+澄	澄		ten5	2					ten5	11	0.01		
 膯	膯		ten5	1								滯膯	
 肫	肫								ten5	11	0.00	脹肫	#
 𩞬	𩞬	teng	ten5	7									
@@ -8526,7 +8528,7 @@
 鴆	鸩	dzeng	dzen6	7									
 生	生	seng	sen1	1	sen1	9	sen1	10	sen1	11		文讀	
 牲	牲	seng	sen1	1	sen1	9			sen1	11		文讀	
-甥	甥	seng	sen1	2	sen1	9						文讀	
+甥	甥	seng	sen1	2	sen1	9					0.01	文讀	
 笙	笙	seng	sen1	2	sen1	9	sen1	10	sen1	11			
 孫	孙	seng	sen1	1	sen1	9	sen1	10	sen1	11			
 遜	逊	seng	sen1	2	sen5	9	sen5	10	sen5	11			
@@ -8757,7 +8759,7 @@
 酊	酊	ting	tin3	7									
 鼎	鼎	ting	tin3	2	tin3	9	tin3	10	tin3	11			
 濎	濎		tin5	1								沉澱	
-澄	澄		tin5	3					tin5	11	0.05	使水中雜質沉下去	
+澄	澄		tin5	3					tin5	11	0.01	使水中雜質沉下去	
 釘	钉	ting	tin5	2	tin5	9	tin5	10	tin5	11		動詞	
 訂	订	ting	tin5	2	tin5	9	tin5	10	tin5	11			
 碇	碇		tin5	7									
@@ -9400,7 +9402,7 @@
 裀	裀	ing	in1	7									
 銦	铟		in1									化學元素	
 蠅	蝇	ing	in1	1	in1	9	yin2	10	in1	11			
-湮	湮	ing	in1	7	in5	9							
+湮	湮	ing	in1	7	in5	9					0.01	同“洇”	
 垔	堙	ing	in1	7									
 堙	堙		in1	7									
 陻	堙		in1	7									
@@ -10710,7 +10712,7 @@
 翮	翮	kah	kaq7	7									
 䛿	䛿	kah	kaq7	7									
 㾸	㾸	kah	kaq7	1								㾸𤶁	
-甲	甲		kaq7	2	kaq7	9	kaq7	10	kaq7	11		白讀	
+甲	甲		kaq7	2	kaq7	9	kaq7	10	kaq7	11	0.05	白讀	
 胛	胛		kaq7	1	kaq7	9	kaq7	10					
 格	格	kah	kaq7	1	kaq7	9	kaq7	10	kaq7	11			
 袼	袼		kaq7										
@@ -11018,6 +11020,7 @@
 甩	甩		huaq7	1									
 濊	濊		huaq7										
 劃	划	wah	waq8	1	waq8	9	waq8	10	waq8	11			
+畫	画	wah	waq8	7							0.00	同“劃”	
 划	划		waq8	2									
 嫿	婳	wah	waq8	7									
 㗲	𠵾	wah	waq8	7									

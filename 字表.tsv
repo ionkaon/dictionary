@@ -1279,7 +1279,7 @@
 柬	柬	kyin	ci3	2	cii1	9	ci3	10	cien3	11			
 撿	捡		ci3	2									
 瞼	睑		ci3										
-揀	拣	kyin	ci3	2					cien3	11		文讀	
+揀	拣	kyin	ci3	2					cien3	11	0.10	文讀	
 搴	搴		ci3										
 蹇	蹇		ci3										
 謇	謇		ci3										
@@ -4124,7 +4124,7 @@
 搲	搲		o1	1							578		
 哦	哦		o1										
 阿	阿		o1	1	o1	9					0.00	僅限於“阿彌陀佛”一詞	
-堊	垩	oh	o1	1									
+堊	垩	oh	o1	1							0.05		
 家	家		o1	3							0.00	又音 僅限於“頭家”	
 啞	哑		o3	1	o3	9	uo3	10	o3	11			
 瘂	哑		o3	1									
@@ -4873,7 +4873,7 @@
 鑀	锿		e5									化學元素，又稱“鎄”	
 案	案		e5	1							0.00	僅限於“人案”	
 爹	爹				tie1	9	te1	10			0.05		
-皆	皆	kyiæ	cie1	2	cie1	9	tse1	10			0.05	文讀	
+皆	皆	kyiæ	cie1	2	cie1	9	tse1	10				文讀	
 階	阶	kyiæ	cie1	2	cie1	9	tse1	10			0.05	文讀	
 堦	阶		cie1	2							0.05	文讀	
 偕	偕	kyiæ	cie1	7							0.00		
@@ -5609,7 +5609,7 @@
 髥	髯		zoe2	0									
 蚺	蚺		zoe2										
 蚦	蚺		zoe2										
-纏	缠	dzin	zoe2	1	zoe2	9						盤纏	
+纏	缠	dzin	zoe2	1	zoe2	9					0.01	盤纏	
 旋	旋	cün	zoe2	1					zoen2	11			
 漩	漩		zoe2						zoen2	11			
 璇	璇	cün	zoe2	0									
@@ -6823,7 +6823,7 @@
 餜	馃		kou3				kou3	10	kou3	11			
 管	管	kwun	kou3	3							0.00	又音 僅限於“咋管”	
 過	过	ko	kou5	1	kou5	9	kou5	10	kou5	11			
-個	个		kou5	1	kou5	9	kou5	10	kou5	11	0.06		
+個	个		kou5	1	kou5	9	kou5	10	kou5	11	300000		
 箇	个		kou5	1							0.06		
 个	个	ko	kou5	1							0.06		
 軻	轲	kʽo	khou1	2									
@@ -9251,7 +9251,7 @@
 嬸	婶	sing	shin3	1	shin1	9	shin3	10	shin3	11			
 瀋	沈		shin3	2									
 沈	沈	sing	shin3	2	shin3	9	shin3	10	shin3	11			
-省	省	sing	shin3	2	shin3	9	shin3	10	shin3	11	0.06	反省	
+省	省	sing	shin3	2	shin3	9	shin3	10	shin3	11	0.05	反省	
 𢜫	𢜫	sing	shin3	7									
 渻	渻	sing	shin3	7									
 箵	箵	sing	shin3	7									
@@ -9607,7 +9607,7 @@
 盹	盹	cing	tsyun3	7									
 隽	隽		tsyun5	7									
 雋	隽	cing	tsyun5	7									
-皴	皴		tsyun5	1	tshyun5	9	tshon1	10	tshon1	11		皺鼻；皺眉	
+皴	皴		tsyun5	1							0.05	皺鼻；皺眉	
 餕	餕	cing	tsyun5	7									
 畯	畯	cing	tsyun5	7									
 焌	焌	cing	tsyun5	7									
@@ -11594,7 +11594,7 @@
 幄	幄	oh	oq7	7									
 渥	渥	oh	oq7	7									
 齷	龌	oh	oq7	2	oq7	9			oq7	11			
-堊	垩	oh	oq7	7							0.05		
+堊	垩	oh	oq7	7									
 沃	沃	oh	oq7	2	oq7	9	oq7	10	oq7	11			
 鋈	鋈	oh	oq7	7									
 𪁕	𪁕	oh	oq7	7									
@@ -11950,7 +11950,6 @@
 亟	亟	kyih	ciq7	7									
 殛	殛	kyih	ciq7	7									
 夾	夹		ciq7	3							0.00	僅限用筷子夾取食物一義	
-莢	荚	kyiah	ciq7	3	ciq7	9			ciq7	11	0.01	量詞	
 砌	砌		chiq7	2					chiq7	11			
 輯	辑	jih	chiq7	2	chiq7	9	jiq8	10	chiq7	11			
 緝	缉	tsʽih	chiq7	1	chiq7	9			chiq7	11			

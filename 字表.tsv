@@ -4044,7 +4044,7 @@
 𧋊	𧋊	sô	so1	7									
 硰	硰	sô	so1	7									
 賒	赊	sô	so1	1	so1	9	so1	10	so1	11			
-稍	稍		so1	1							0.10	稍勢	
+稍	稍		so1	1							0.05	稍勢	
 蓑	蓑	so	so1	1	so1	9	so1	10	so1	11			
 簑	蓑	so	so1	1									
 啥	啥	shô	so1	1					so5	11	73981		
@@ -4439,7 +4439,7 @@
 鮹	鮹	siao	shiau1	7									
 翛	翛	siao	shiau1	7									
 鞘	鞘	siao	shiau1	2			shiau5	10	shiau5	11			
-稍	稍		shiau1	2									
+稍	稍		shiau1	2							0.05		
 繅	缫	tsʽao	shiau1	3									
 枵	枵	hyiao	shiau1	2			shiau1	10	shiau1	11			
 鴞	鸮	hyiao	shiau1	7									
@@ -10717,7 +10717,7 @@
 格	格	kah	kaq7	1	kaq7	9	kaq7	10	kaq7	11			
 袼	袼		kaq7										
 𪄎	𪄎	kah	kaq7	7									
-介	介		kaq7	1									
+介	介		kaq7	1							0.05		
 溢	溢		kaq7	2							0.05	溢出	
 革	革	keh	kaq7	1	kaq7	9	kaq7	10					
 緙	缂	keh	kaq7	7									
@@ -11614,7 +11614,7 @@
 揉	揉				gnioq8	9					0.00		#
 掿	掿		gnioq8	3									
 浴	浴		gnioq8	2	gnioq8	9					0.05	白讀	
-箬	箬		gnioq8	2								箬鰈魚	
+箬	箬		gnioq8	2							0.00	箬鰈魚	
 鰙	鰙		gnioq8	2									
 育	育		gnioq8	1							0.00	僅限於“阿育王寺”一詞	
 褥	褥				gnioq8	9							
@@ -12080,7 +12080,6 @@
 嚙	啮		gniq8	7									
 囓	啮		gniq8	7									
 齧	啮	nyih	gniq8	7									
-箬	箬		gniq8	3	gniq8	9			gniq8	11		箬殼	
 昵	昵		gniq8	7									
 暱	昵	nyih	gniq8	7									
 臬	臬	nyih	gniq8	7									

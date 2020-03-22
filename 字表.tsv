@@ -1030,7 +1030,7 @@
 驢	驴		li2	1									
 閭	闾	li	li2	7									
 櫚	榈	li	li2	7									
-蔞	蒌	li	li2	7									
+蔞	蒌	li	li2	7							0.05		
 藘	藘		li2										
 聯	联	lin	li2	2	lii2	9	li2	10	lien2	11			
 憐	怜	lin	li2	1	lii2	9	li2	10	lien2	11			
@@ -1519,7 +1519,7 @@
 瀍	瀍		ji2										
 踐	践	dzin	ji2	2	jii6	9	ji6	10	jien6	11		文讀	
 漸	渐	dzin	ji2	2	jii6	9	ji6	10	jien6	11			
-賤	贱	dzin	ji2	2									
+賤	贱	dzin	ji2	2							0.01		
 餞	饯	tsin	ji2	2	cii1	9	ji6	10					
 黔	黔	gyin	ji2	7	jii6	9							
 鉗	钳	gyin	ji2	1	jii2	9	ji2	10	jien2	11			
@@ -1659,6 +1659,7 @@
 議	议	nyi	gni6	7	gni6	9	gni6	10	gni6	11			
 乂	乂	nyi	gni6	7									
 刈	刈	nyi	gni6	7									
+艾	艾		gni6								0.00	通“乂”	
 釅	酽	nyin	gni6	2	gnii6	9	gni6	10					
 硯	砚	nyin	gni6	1	gnii6	9	gni6	10	gnien6	11			
 𨁍	𨁍	nyin	gni6	7									
@@ -1911,7 +1912,7 @@
 鮧	鮧	yi	yi2	7									
 跠	跠	yi	yi2	7									
 𢂒	𢂒	yi	yi2	7									
-沂	沂		yi2	2							0.05	文讀	
+沂	沂		yi2	2							0.10	文讀	
 矣	矣	yi	yi2	2	yi2	9	yi6	10	yi4	11			
 易	易	yi	yi2	2	yi2	9	yi6	10	yi6	11		容易	
 懿	懿	i	yi2	2									
@@ -2664,7 +2665,7 @@
 屨	屦	kyü	ciu5	7									
 倨	倨		ciu5										
 鄄	鄄		ciu5										
-苣	苣	gyü	ciu5	1								“萵苣”中常快讀成清聲母	
+苣	苣	gyü	ciu5	1							0.00	“萵苣”中常快讀成清聲母	
 狷	狷	kyün	ciu5	7									
 獧	狷		ciu5	7									
 睊	睊	kyün	ciu5	7									
@@ -5816,7 +5817,7 @@
 獸	兽	siu	shieu5	2	shieu5	9			shieu5	11			
 宿	宿	siu	shieu5	2	shieu5	9					0.05	星宿	
 臭	臭		shieu5	7	chieu5	9	chieu5	10	chieu5	11	0.05	氣味的總稱	
-嗅	嗅		shieu5	2			shieu5	10	shieu5	11	0.00	文讀	
+嗅	嗅		shieu5	2			shieu5	10	shieu5	11	800	文讀	
 𧽒	𧽒		shieu5	7									
 齅	齅		shieu5	7									
 溴	溴		shieu5									化學元素	
@@ -6006,7 +6007,7 @@
 備	备	be	bei6	2	bei6	9	bei6	10	bei6	11			
 俻	备		bei6	2									
 鞴	鞴		bei6										
-背	背	be	bei6	1	bei6	9	bei6	10	bei6	11		背誦	
+背	背	be	bei6	1	bei6	9	bei6	10	bei6	11	0.10	背誦	
 苝	苝		bei6									化學用字	
 佩	佩	be	bei2	2	bei6	9	bei6	10	bei6	11			
 焙	焙		bei6	1	bei6	9	bei6	10	bei6	11			
@@ -7616,7 +7617,7 @@
 旁	旁	bông	baon2	1	baon2	9	baon2	10	baon2	11			
 螃	螃	bông	baon2	1			baon2	10	baon4	11			
 滂	滂	bông	baon2	2	baon2	9	baon2	10	baon2	11			
-膀	膀	bông	baon2	1	baon2	9							
+膀	膀	bông	baon2	1	baon2	9					0.10		
 磅	磅	bông	baon2	7	paon1	9			paon1	11	0.05	磅礴	
 蒡	蒡	bông	baon2	7									
 䅭	䅭	bông	baon2	7									
@@ -7891,7 +7892,7 @@
 傷	伤	shông	saon1	1	saon1	9	saon1	10	saon1	11			
 殤	殇	shông	saon1	7									
 觴	觞	shông	saon1	7									
-舂	舂	shông	saon1	1	saon1	9	tshon1	10				把東西放在石臼或乳缽裏搗去皮殼或搗碎	
+舂	舂	shông	saon1	1	saon1	9						把東西放在石臼或乳缽裏搗去皮殼或搗碎	
 螪	螪	shông	saon1	7									
 蔏	蔏	shông	saon1	7									
 摏	摏	shông	saon1	7									
@@ -9964,7 +9965,7 @@
 忡	忡	cʽong	tshon1	7									
 憧	憧	cʽong	tshon1	7									
 罿	罿	cʽong	tshon1	7									
-舂	舂		tshon1	2	saon1	9	tshon1	10					
+舂	舂		tshon1	2			tshon1	10					
 寵	宠	cʽong	tshon3	2	tshon1	9	tshon3	10	tshon3	11			
 種	种	cong	tshon3	3							0.00	僅限於“火种彭生”	
 銃	铳	cʽong	tshon5	1	tshon5	9	tshon5	10	tshon5	11			
@@ -10037,7 +10038,7 @@
 躳	躬		kon1	2									
 肱	肱	kong	kon1	7									
 疘	肛		kon1	1								胴肛	
-肛	肛		kon1	1					kon1	11		胴肛	
+肛	肛		kon1	1					kon1	11	0.05	胴肛	
 弓	弓	kong	kon1	1	kon1	9	kon1	10	kon1	11			
 貢	贡	kong	kon1	1	kon5	9	kon5	10	kon5	11			
 珙	珙		kon1										
@@ -10267,7 +10268,7 @@
 魄	魄	pʽah	phaq7	1	phaq7	9	phaq7	10	phaq7	11			
 珀	珀	pʽah	phaq7	2									
 泊	泊		phaq7	2			phaq7	10	phaq7	11		湖泊	
-舶	舶		phaq7	2	boq8	9							
+舶	舶		phaq7	2									
 迫	迫		phaq7				phaq7	10			0.01		
 蘗	蘗	pʽah	phaq7	7			paq7	10					
 𤖼	𤖼		phaq7	1					phaq7	11	418	𤖼開	

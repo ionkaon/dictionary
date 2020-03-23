@@ -598,7 +598,7 @@
 嬖	嬖	pi	pi5	7									
 貱	貱	pi	pi5	7									
 費	费	pi	pi5	7							0.00	地名	
-賁	贲	pi	pi5	7									
+賁	贲	pi	pi5	7							0.06		
 陛	陛	be	pi5	2	bi2	9	bi6	10	bi2	11			
 譬	譬								pi5	11	0.00	譬方(定海)	#
 變	变	pin	pi5	2	pii5	9	pi5	10	pien5	11			
@@ -609,6 +609,7 @@
 砒	砒	pʽi	phi1	1	phi1	9							
 蚍	蚍	pʽi	phi1	7									
 披	披	pʽi	phi1	1	phi1	9	phi1	10	phi1	11			
+被	被		phi1								0.00	古同“披”	
 鮍	鲏	pʽi	phi1	7									
 𣬼	𣬼	pʽi	phi1	7									
 帔	帔		phi1										
@@ -1904,7 +1905,7 @@
 遺	遗	yi	yi2	1	yi2	9	yi2	10	yi2	11			
 痬	痬		yi2	1								疾病傳染	
 肄	肄	yi	yi2	1	yi2	9	yi6	10					
-蚰	蚰		yi2	1								蜒蚰螺	
+蚰	蚰		yi2	1							0.00	蜒蚰螺	
 頤	颐	yi	yi2	7	yi2	9			yi2	11			
 彝	彝		yi2	7									
 彜	彝	yi	yi2	7									
@@ -2531,7 +2532,7 @@
 吳	吴	ngwu	wu2	2	vu2	9	vu2	10	wu2	11			
 吴	吴		wu2	2									
 呉	吴		wu2	2									
-蜈	蜈	ngwu	WU2	2			vu2	10	wu2	11	0.10	文讀	
+蜈	蜈	ngwu	WU2	2			vu2	10	wu2	11		文讀	
 峿	峿		wu2										
 鼯	鼯		wu2										
 齬	龉	ngwu	wu2	7									
@@ -2540,7 +2541,7 @@
 无	无	vu	Wu2	1							0.10	又音	
 亡	亡	vu	Wu2	7							0.00	古同“無”	
 巫	巫						u1	10	wu2	11			
-誣	诬		Wu2	1	vu6	9			wu2	11	0.10	又音	
+誣	诬		Wu2	1					wu2	11	0.10	又音	
 腐	腐								wu2	11			
 毋	毋	vu	Wu2	2									
 鳧	凫		Wu2	1								水鳧鷺	
@@ -3043,7 +3044,7 @@
 痲	痲								mo5	11	0.05		
 買	买	mæ	ma4	1	ma6	9	ma6	10	ma4	11			
 馬	马		ma4	1					ma4	11	0.00	僅限於“馬馬虎虎”一詞	
-嗎	吗		ma4		mo2	9						化學用字	
+嗎	吗		ma4									化學用字	
 瑪	玛		ma4								0.05		
 碼	码								ma4	11	0.05		
 賣	卖	ma	ma6	2	ma6	9	ma6	10	ma6	11			
@@ -4941,7 +4942,7 @@
 鋬	鋬	pʽæn	phae5	7									
 爿	爿	bæn	bae2	1	bae6	9	bae2	10	bae2	11		量詞	
 𤖭	𤖭	bæn	bae2	7									
-牌	牌		bae2	1	bae2	9	bae6	10				兒化殘留	
+牌	牌		bae2	1	bae2	9	bae6	10			0.10	兒化殘留	
 瓪	瓪								bae2	11	0.00	瓦瓪(定海)	#
 𨂝	𨂝	bæn	bae6	1					bae2	11		跨；邁	
 辦	办	bæn	bae6	1	bae6	9	bae6	10	bae6	11			
@@ -7327,7 +7328,7 @@
 亨	亨	heng	han1	1	han1	9	han1	10	han1	11			
 哼	哼	hang	han1	2			hen1	10	hen1	11			
 夯	夯	hông	han5	2	han5	9	han5	10	han1	11			
-行	行	ʽang	ghan2	1	ghan2	9	ghan2	10	ghan2	11	0.06	行車	
+行	行	ʽang	ghan2	1	ghan2	9	ghan2	10	ghan2	11	0.01	行李	
 桁	桁	ʽang	ghan2	1	ghan2	9							
 杏	杏		ghan4	1	ghan6	9	ghan2	10	ghan4	11			
 行	行						ghan6	10			0.05	品行(北侖)	
@@ -8286,7 +8287,7 @@
 蚊	蚊		men2	1	men2	9	men2	10	men2	11		白讀	
 螡	蚊		men2	1								白讀	
 蟁	蚊		men2	1								白讀	
-蜈	蜈		men2	2	men2	9	men2	10				白讀	
+蜈	蜈		men2	2	men2	9	men2	10			0.00	白讀	
 氓	氓	meng	men2	7	maon2	9					0.00	古代稱民	
 甍	甍		men2										
 亹	亹	meng	men2	7									
@@ -8334,7 +8335,7 @@
 汾	汾	veng	ven2	7									
 棼	棼	veng	ven2	7									
 鼢	鼢	veng	ven2	7									
-賁	贲	veng	ven2	7									
+賁	贲	veng	ven2	7							0.00		
 蕡	蕡	veng	ven2	7									
 鐼	𫔁	veng	ven2	7									
 璺	璺		ven6										
@@ -12158,7 +12159,7 @@
 卌	卌		shiq7										
 奭	奭	sih	shiq7	7									
 襫	襫	sih	shiq7	7									
-螫	螫	sih	shiq7	7									
+螫	螫	sih	shiq7	7							0.30		
 鶒	𫛶	sih	shiq7	7									
 歇	歇	hyih	shiq7	1	shiq7	9	shiq7	10	shiq7	11			
 蠍	蝎	hyih	shiq7	2	shiq7	9	shiq7	10	shiq7	11			

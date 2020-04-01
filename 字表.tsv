@@ -37,7 +37,7 @@
 氏	氏		tsy1								0.00	“閼氏”“月氏”	
 胝	胝		tsy1										
 祗	祗		tsy1	7									
-秖	祇	ts	tsy1	7								古同“祇”	
+秖	祇	ts	tsy1	7								古同“祇”	x
 眦	眦		tsy1	7									
 眥	眦	ts	tsy1	7									
 髭	髭	ts	tsy1	7									
@@ -50,6 +50,7 @@
 黹	黹	ts	tsy1	7									
 齍	齍		tsy1										
 癡	痴		tsy1	1							0.00	“假癡假呆”中，“癡”快讀時有時讀成[tsɿ53]	
+痴	痴		tsy1	1							0.00	“假癡假呆”中，“癡”快讀時有時讀成[tsɿ53]	
 煮	煮		tsy3	1	tsy3	9	tsy3	10	tsy3	11			
 煑	煮	ts	tsy3	1									
 翥	翥	ts	tsy3	7									
@@ -344,6 +345,7 @@
 致	致	cü	tsyu1	3	tsyu1	9					0.00	情致	
 滋	滋	ts	tsyu1	3							0.00	又音 僅限於“酸滋滋”	
 癡	痴		tsyu1	1							0.00	“假癡假呆”中，“癡”快讀時有時讀成[tsʮ53]	
+痴	痴		tsyu1	1							0.00	“假癡假呆”中，“癡”快讀時有時讀成[tsʮ53]	
 錐	锥				tsyu1	9					0.00	白讀 錐鞋(鎮海)	
 猪	猪	cü	tsyu3	1									
 豬	猪		tsyu3	1	tsyu3	9	tsyu3	10	tsyu3	11			
@@ -2310,7 +2312,7 @@
 𦳔	𦳔	du	du6	7									
 奴	奴	nu	nu2	2	nu6	9	nu2	10	nu2	11			
 伮	伮	nu	nu2	7									
-努	努	nu	nu2	2	nu6	9	nu6	10	nu4	11			
+努	努	nu	nu2	2									
 孥	孥	nu	nu2	7	no2	9							
 駑	驽	nu	nu2	7									
 吾	吾	ngwu	NU2	2	nu6	9			nu2	11			
@@ -2444,6 +2446,8 @@
 愬	诉	su	su5	1									
 塑	塑	su	su5	1	su5	9	su5	10	su5	11	0.01	塑子	
 溯	溯	su	su5	7									
+泝	溯		su5	7									
+遡	溯		su5	7									
 疏	疏	su	su5	2			su5	10	su5	11		稀疏	
 疎	疏	su	su5	2								稀疏	
 蔬	蔬	su	su5	2	su1	9	su1	10	su1	11			
@@ -3209,7 +3213,7 @@
 𤘅	𤘅		nga6	1								孲𤘅	
 伢	伢		nga6						ngo4	11		同“𤘅”	
 雁	雁		nga6	3	nga6	9	nga6	10			0.05	雁鵝	
-鴈	雁		nga6	3								雁鵝	
+鴈	雁		nga6	3							0.05	雁鵝	
 𩂢	𩂢		nga6	3								汗𩂢𩂢響	
 𤘅	𤘅		nka5	6								孲𤘅	
 伢	伢		nka5									同“𤘅”	
@@ -3458,7 +3462,8 @@
 炮	炮	pʽao	phau5	1	phau5	9	phau5	10	phau5	11			
 砲	炮	pʽao	phau5	1									
 礮	炮		phau5	1									
-炰	炮	bao	bau2	7									
+炮	炮	bao	bau2	7							0.00	炮製	
+炰	炮	bao	bau2	7								炮製	x
 袍	袍	bao	bau2	2	bau2	9	bau2	10	bau2	11			
 曝	曝		bau2	2					bau6	11			
 爆	爆		bau2	2	bau6	9	bau6	10	bau6	11		爆炸	
@@ -5283,7 +5288,7 @@
 姦	奸		kae1	2									
 監	监		kae1	1			kae1	10					
 間	间		kae1	2	kae5	9	kae1	10	kae5	11		房間	
-鑑	鑑		kae1	2							0.00	地名用字	
+鑑	𰾫		kae1	2							0.00	地名用字	
 階	阶		kae1	1							0.00	僅限於“格步階”一詞	
 堦	阶		kae1	1							0.00	僅限於“格步階”一詞	
 减	减		kae3	1									
@@ -6827,7 +6832,6 @@
 過	过	ko	kou5	1	kou5	9	kou5	10	kou5	11			
 個	个		kou5	1	kou5	9	kou5	10	kou5	11	300000		
 箇	个		kou5	1							0.06		
-个	个	ko	kou5	1							0.06		
 軻	轲	kʽo	khou1	2									
 苛	苛	ho	khou1	2	khou1	9							
 䯊	䯊		khou1	1					khou1	11		腳䯊頭	
@@ -6886,8 +6890,8 @@
 𧬱	𧬱	ho	hou5	7									
 貨	货	ho	hou5	1	hou5	9	hou5	10	hou5	11			
 火	火	ho	hou5	3			hou1	10			0.00	僅限於“動火”	
-伙	夥	ho	hou5	3					hou5	11	0.00	僅限於“有夥”	
-夥	夥	ho	hou5	3					hou5	11	0.00	僅限於“有夥”	
+伙	伙	ho	hou5	3					hou5	11	0.00	僅限於“有夥”	
+夥	伙	ho	hou5	3					hou5	11	0.00	僅限於“有夥”	
 河	河	ʽo	ghou2	1	ghou2	9	ghou2	10	ghou2	11			
 何	何	ʽo	ghou2	2	ghou2	9	ghou2	10	ghou2	11			
 荷	荷	ʽo	ghou2	1	ghou2	9	ghou2	10	ghou2	11			
@@ -9166,7 +9170,7 @@
 寗	宁		gnin2	1									
 寜	宁		gnin2	1									
 寕	宁		gnin2	1									
-薴	苧	nying	gnin2	7								化學用字	
+薴	苧	nying	gnin2	7								化學用字	x
 吟	吟	nying	gnin2	2	gnin2	9	gnin2	10	gnin2	11			
 唫	吟	nying	gnin2	2									
 崟	崟	nying	gnin2	7									
@@ -9661,7 +9665,7 @@
 徇	徇	shing	syun5	7									
 仁	仁	jing	zyun2	2	zyun2	9	zon2	10	zon2	11			
 人	人	jing	zyun2	1	zyun2	9	zon2	10	zon2	11		文讀	
-儿	儿	jing	zyun2	7							0.00	同“人”	
+儿	儿	jing	zyun2	7								同“人”	
 亻	亻		zyun2									文讀	
 吮	吮		zyun2										
 淳	淳	jing	zyun2	7	zyun2	9							
@@ -9878,7 +9882,7 @@
 儱	儱		lon6										
 躘	𨀁	long	lon6	1									
 弄	弄	long	lon6	1	lon6	9	lon6	10	lon6	11	40736		
-挵	弄		lon6	1									
+挵	弄		lon6	1									x
 𢙱	𢙱		lon6	1								呆剝𢙱倲	
 哢	哢	long	lon6	7									
 路	路				lon2	9					0.00	兒化變讀 引路幡(鎮海)	
@@ -10038,7 +10042,7 @@
 躬	躬	kong	kon1	2	kon1	9	kon1	10	kon1	11			
 躳	躬		kon1	2									
 肱	肱	kong	kon1	7									
-疘	肛		kon1	1								胴肛	
+疘	肛		kon1	1							0.05	胴肛	
 肛	肛		kon1	1					kon1	11	0.05	胴肛	
 弓	弓	kong	kon1	1	kon1	9	kon1	10	kon1	11			
 貢	贡	kong	kon1	1	kon5	9	kon5	10	kon5	11			
@@ -10355,9 +10359,9 @@
 琺	珐		faq7	2	faq7	9							
 鍅	钫		faq7									化學元素，又稱“鈁”	
 弗	弗	feh	faq7	1	faq7	9			faq7	11			
-彿	佛	feh	faq7	2								彷彿	
+彿	佛	feh	faq7	2								彷彿	x
 佛	佛		faq7	2			faq7	10			0.02	彷彿	
-髴	佛		faq7	2								彷彿	
+髴	佛		faq7	2								彷彿	x
 拂	拂	feh	faq7	2	faq7	9						拂曉	
 氟	氟		faq7									化學元素	
 咈	咈	feh	faq7	7									
@@ -11404,8 +11408,6 @@
 塑	塑		soq7	2									
 槊	槊	soh	soq7	7									
 嗍	嗍	soh	soq7	3									
-泝	溯		soq7										
-遡	溯		soq7										
 搠	搠	soh	soq7	7									
 蒴	蒴		soq7										
 宿	宿	soh	soq7	2	soq7	9	soq7	10	soq7	11			
@@ -11513,7 +11515,6 @@
 殼	壳		khoq7	1	khoq7	9	khoq7	10	khoq7	11			
 個	个	go	goq8	1					goq8	11	3215286		
 箇	个		goq8	1									
-个	个		goq8	1									
 擱	搁		goq8	1	goq8	9	goq8	10	gau6	11	0.05		
 埆	埆		goq8	3							0.05	又音 墝埆	
 岳	岳	ngoh	ngoq8	2									
@@ -11588,7 +11589,6 @@
 矱	矱	wu	ghoq8										
 個	个	go	ghoq8	3							1607642	又音	
 箇	个		ghoq8	3								又音	
-个	个		ghoq8	3								又音	
 屋	屋	oh	oq7	1	oq7	9	oq7	10	oq7	11			
 屋	屋				uoq7	9					0.00	屋裏(鎮海)	
 握	握	oh	oq7	2	oq7	9	oq7	10	oq7	11			

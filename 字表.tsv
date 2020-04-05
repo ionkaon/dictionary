@@ -2578,8 +2578,8 @@
 婦	妇								wu4	11			
 腐	腐								wu4	11			
 五	五				vu6	9			wu4	11		文讀	
-惡	恶		wu6	2			vu6	10			0.00	可惡	
-悪	恶		wu6	2							0.00	可惡	
+惡	恶		wu6	2			vu6	10			0.01	可惡	
+悪	恶		wu6	2							0.01	可惡	
 濩	濩	wu	wu6	7									
 頀	頀	wu	wu6	7									
 瓠	瓠	wu							wu6	11	0.00	瓠瓜(定海)	
@@ -2614,8 +2614,8 @@
 熓	𤆡	u	u1	1	u3	9			u5	11			
 糊	糊	wu	u1	3	vu2	9			wu6	11	0.00	僅限於“爛泥糊漿”	
 胡	胡	wu	u1	3							0.00	又音 僅限於“胡嚨”	
-惡	恶		u1	1	u5	9			u5	11	0.00	可惡	
-悪	恶		u1	1							0.00	可惡	
+惡	恶		u1	1	u5	9			u5	11	0.01	可惡	
+悪	恶		u1	1							0.01	可惡	
 罅	罅								u1	11	0.00	豁罅：裂縫	#
 於	于		u1								0.00		
 椅	椅		u3	1	u3	9					0.05	“椅子”一詞中又音	
@@ -2626,7 +2626,7 @@
 熩	熩		u5	3									
 埡	垭		u5										
 居	居	kyü	ciu1	2	ciu1	9	ciu1	10	ciu1	11			
-鋸	锯	kyü	ciu1	2	ciu5	9	ciu1	10	ciu5	11	0.06	文讀	
+鋸	锯	kyü	ciu1	2	ciu5	9	ciu1	10	ciu5	11		文讀	
 据	据	kyü	ciu1	2								拮据	
 拘	拘	kyü	ciu1	2	ciu1	9	ciu1	10	ciu1	11			
 駒	驹	kyü	ciu1	2	ciu1	9	ciu1	10	ciu1	11			
@@ -4030,6 +4030,7 @@
 𡨀	𡨀	djô	dzo2	7									
 蛇	蛇	jæ	dzo2	1	zo2	9	zo2	10	dzo2	11			
 虵	蛇		dzo2	1									
+闍	阇		dzo2										
 遮	遮	tsô	dzo2	3							0.00	遮蔭遮日	
 社	社	jæ	dzo4	2	zo6	9	dzo6	10	dzo4	11			
 槎	槎	dzô	dzo4	7									
@@ -5918,7 +5919,7 @@
 段	段	dön	thoe1	3	doe6	9	deu6	10	doen6	11	0.00	僅限於“段頭”“一段路”等	
 團	团	dön	doe2	1	doe2	9	deu2	10	doen2	11			
 団	团		doe2	1									
-糰	团	dön	doe2	1			deu2	10	doen2	11			
+糰	𰪶	dön	doe2	1			deu2	10	doen2	11			
 摶	抟		doe2	7									
 斷	断	dön	doe4	1	doe6	9	deu6	10	doen4	11			
 段	段	dön	doe6	1	doe6	9	deu6	10	doen6	11			
@@ -6307,7 +6308,7 @@
 蕞	蕞		zei6										
 蚶	蚶	hen	hEI1	2							0.00	又音	
 酣	酣	hen	hEI1	2							0.00	又音	
-邯	邯	hen	hEI1	7									
+邯	邯	hen	hEI1	7							0.00		
 鼾	鼾	hen	hEI1	2							0.00	又音	
 頇	顸		hEI1								0.00		
 憨	憨	hen	hEI1	7							0.00		
@@ -6930,10 +6931,10 @@
 咼	呙	o	ou3	7					ou5	11			
 屙	屙	o	ou5	1			ou5	10				大便	
 倭	倭	o	ou5	3	ou1	9	ou1	10	ou1	11	0.00	“屙”形容脾氣倔和事情糟糕時也作“倭”	
-惡	恶		ou5	3							0.05	大便	
-污	污		ou5	3							0.05	大便	
-汙	污		ou5	3							0.05	大便	
-汚	污	u	ou5	3							0.05	大便	
+惡	恶		ou5	3							0.01	大便	
+污	污		ou5	3							0.01	大便	
+汙	污		ou5	3							0.01	大便	
+汚	污	u	ou5	3							0.01	大便	
 涴	涴		ou5				ou5	10			2000	大便	
 褒	褒	peo			pei1	9							
 吥	吥	pʽeo	pheu1	7									
@@ -7633,6 +7634,7 @@
 彷	彷		baon2	2									
 雱	雱	bông	baon2	7									
 𤧭	𤧭	bông	baon2	7									
+房	房		baon2								0.00	阿房	
 蟛	蟛	beng	baon2	3								蟛蚏蟹	
 棒	棒	bông	baon4	1	baon6	9	baon6	10	baon4	11			
 傍	傍	bông	baon6	1	baon2	9	baon6	10	baon2	11			
@@ -7973,6 +7975,7 @@
 㰠	㰠	kʽông	khaon1	7									
 吭	吭	kʽông	khaon1	7	haon5	9							
 殼	壳		khaon1	3	khaon1	9					0.00	又音 僅限於“紫殼蟹”	
+殻	壳		khaon1	3	khaon1	9					0.00	又音 僅限於“紫殼蟹”	
 亢	亢	kʽông	khaon5	7	khaon1	9							
 伉	伉		khaon5										
 囥	囥	kʽông	khaon5	1	khaon5	9	khaon5	10	khaon5	11			
@@ -11513,6 +11516,7 @@
 酷	酷	kʽôh	khoq7	2	khoq7	9	khoq7	10	khoq7	11			
 牿	牿	kʽôh	khoq7	7									
 殼	壳		khoq7	1	khoq7	9	khoq7	10	khoq7	11			
+殻	壳		khoq7	1	khoq7	9	khoq7	10	khoq7	11			
 個	个	go	goq8	1					goq8	11	3215286		
 箇	个		goq8	1									
 擱	搁		goq8	1	goq8	9	goq8	10	gau6	11	0.05		
@@ -12523,7 +12527,7 @@
 𧐔	𧐔	jih	zyuq8	7									
 霫	霫	jih	zyuq8	7									
 戢	戢	jih	zyuq8	7					ciq7	11			
-集	集	jih	zyuq8	2	zyuq8	9							
+集	集	jih	zyuq8	2	zyuq8	9					0.10		
 隰	隰	jih	zyuq8	7									
 踅	踅		zyuq8										
 著	着		zyuq8	1							0.00	同“着”	

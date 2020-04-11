@@ -412,6 +412,7 @@
 處	处	cʽü	tshyu5	2	tshyu5	9	tshyu5	10	tshyu5	11		到處	
 趣	趣		tshyu5	1	tshyu1	9	tshyu5	10	tshyu5	11			
 覷	觑	hyü	tshyu5	1									
+覰	觑		tshyu5	1									
 粢	粢		tshyu5	1					tshyu3	11		粢飯	
 餈	糍				tshyu1	9					0.00	餈飯	#
 糍	糍				tshyu1	9					0.00	餈飯	#
@@ -723,7 +724,7 @@
 瀰	弥	mi	mi2	7									
 彌	弥	mi	mi2	1	mi2	9	mi2	10	mi2	11		阿彌陀佛	
 眉	眉		mi2	1	mi2	9	mi6	10	mi2	11		白讀	
-楣	楣								mi2	11			
+楣	楣		mi2	6					mi2	11	0.01		
 湄	湄								mi2	11			
 眠	眠	min	mi2	1	mii2	9	mi2	10	mien2	11			
 棉	棉	min	mi2	1	mii2	9	mi2	10	mien2	11			
@@ -732,6 +733,7 @@
 丏	丏		mi2										
 宀	宀	min	mi2	7									
 蝒	蝒	min	mi2	7									
+櫋	櫋		mi2	6									
 鮸	𩾃	min							mien2	11			
 明	明	ming	mi2	3							0.00	僅限於“明朝”	
 米	米	mi	mi4	1	mi6	9	mi6	10	mi4	11			
@@ -1286,6 +1288,7 @@
 搴	搴		ci3										
 蹇	蹇		ci3										
 謇	謇		ci3										
+皽	皽		ci3	6									
 囝	囝		ci3										
 鯽	鲫		ci5	1			ci5	10				河鯽魚	
 祭	祭	tsi	ci5	1	ci5	9	ci5	10	ci5	11			
@@ -1423,7 +1426,8 @@
 譴	谴	kyʽin	chi3	7									
 繾	缱	kyʽin	chi3	7									
 𥉻	𥉻		chi5	1					chi1	11		近𥉻眼	
-覷	觑	hyü	chi5	1					chi5	11	0.00	又音 眯覷眼	
+覷	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
+覰	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
 䀙	䀙	tsʽi	chi5	7									
 砌	砌		chi5		chi3	9	chi5	10	chi5	11			
 契	契	kyʽi	chi5	1	chi5	9	chi5	10	chi5	11			
@@ -2735,6 +2739,7 @@
 蘧	蘧	gyü	jiu2	7									
 籧	籧	gyü	jiu2	7									
 蜷	蜷		jiu2	7									
+瘸	瘸		jiu2										
 鬈	鬈	gyün	jiu2	7									
 惓	惓	gyün	jiu2	7									
 踡	踡	gyün	jiu2	7									
@@ -3128,6 +3133,7 @@
 渣	渣								tsa1	11	0.05		
 追	追				tsa1	9					0.00	白讀(鎮海)	
 債	债	tsa	tsa5	1	tsa5	9	tsa5	10	tsa5	11			
+瘵	瘵	tsa	tsa5	6									
 𨝋	𨝋	tsa	tsa5	7									
 祭	祭		tsa5								0.00	姓	
 炸	炸								tsa5	11	0.05		
@@ -3376,6 +3382,7 @@
 拐	拐	kwa	kua3	1	kua3	9	kua3	10	kua3	11			
 柺	拐	kwa	kua3	7			kua3	10	kua3	11			
 枴	拐		kua3	7									
+𦫳	拐		kua3	6								古同“拐”	
 箉	箉	kwa	kua3	7									
 寡	寡		kua3	2			kua3	10	kua1	11	0.06	文讀	
 剮	剐		kua3	2			kua3	10			0.06	文讀	
@@ -4071,7 +4078,8 @@
 赦	赦	shæ	so3	2	so3	9	so5	10	so5	11			
 啥	啥								so3	11		爲啥(定海)	
 沙	沙		so5	3							3000	滑行	
-廈	厦								so5	11	0.05	前廊後廈	
+厙	厙		so5	6									
+廈	厦		so5	6					so5	11	0.01	前廊後廈	
 佘	佘	djô	zo2	2	zo2	9	zo2	10					
 婼	婼		zo2										
 惹	惹	zô	zo4	1	zo6	9	zo6	10	zo4	11			
@@ -5588,6 +5596,7 @@
 栓	栓		soe1	2									
 拴	拴		soe1	2			seu1	10	soen1	11			
 閂	闩	shün	soe1	1	soe1	9	seu1	10	soen1	11			
+𢩠	闩		soe1	6									
 宣	宣	shün	soe1	1	soe1	9	seu1	10	soen5	11			
 𩤡	𩤡	shün	soe1	7									
 舍	舍				soe1	9					0.00	文讀 宿舍	
@@ -6847,6 +6856,7 @@
 蝌	蝌	kʽo	khou1	2									
 箍	箍		khou1	2								箍桶	
 薖	薖	kʽo	khou1	7									
+𨗲	𨗲		khou1	6									
 可	可	kʽo	khou3	1	khou3	9	khou3	10	khou3	11			
 坷	坷	kʽo	khou3	7									
 舸	舸	kʽo	khou3	7									
@@ -7007,6 +7017,7 @@
 鬥	斗		teu5	1	tei5	9	teu5	10	tei5	11			
 鬦	斗		teu5	1									
 鬭	斗	teo	teu5	1									
+鬬	斗		teu5	1									
 闘	斗		teu5	1									
 枓	枓	teo	teu5	7									
 偷	偷	tʽeo	theu1	1	thei1	9	theu1	10	thei1	11			
@@ -7296,6 +7307,7 @@
 撑	撑	tsʽang	tshan5	3	tshan1	9					0.05	形容詞。厲害，棒	
 掌	掌								tshan5	11	0.01		
 撐	撑		tshan5	3	tshan1	9	tshan5	10	tshan1	11	0.05	形容詞。厲害，棒	
+棖	枨		dzan2	6									
 鋥	锃		dzan4	1	dzan2	9			dzan6	11			
 䂻	䂻		dzan6	1			dzan6	10	dzan6	11	55	䂻狗洞	
 瞠	瞠		dzan6	1									
@@ -11987,7 +11999,7 @@
 飭	饬	tsʽih	chiq7	7			chiq7	10					
 沏	沏		chiq7										
 葺	葺	tsʽih	chiq7	7									
-瘵	瘵	tsa	chiq7	3								癆瘵	
+瘵	瘵		chiq7	3								癆瘵	
 皵	皵	tsʽiah	chiq7	1								指甲或竹木等表皮裂開成絲或翹起	
 趞	趞		chiq7	3								形容走路輕快的樣子	
 撤	撤	tsʽih	chiq7	1	tshyuq7	9							

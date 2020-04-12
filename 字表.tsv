@@ -257,6 +257,7 @@
 鉏	锄		zy2	1								白讀	
 餈	糍		zy2	3					zy2	11		𩞁餈	
 糍	糍		zy2	3					zy2	11		𩞁餈	
+𩝐	𩝐		zy2	6								同“糍”	
 俟	俟	z	zy2	2	zy6	9	zy6	10					
 竢	俟		zy2	2									
 氏	氏	z	zy2	2	zy6	9	zy2	10	zy4	11			
@@ -288,6 +289,7 @@
 兕	兕	z	zy4	7									
 柿	柿	z	zy4	1	zy6	9	zy6	10	zy4	11			
 柹	柿		zy4	1									
+𣏕	𣏕		zy4									同“柿”	
 是	是	z	zy4	1	zy6	9	zy2	10	zy4	11			
 昰	是		zy4	1									
 耜	耜	z	zy4	7	zy2	9							
@@ -517,6 +519,7 @@
 藷	薯		zyu2	1									
 餈	糍		zyu2	1								𩞁餈	
 糍	糍		zyu2	1								𩞁餈	
+𩝐	𩝐		zyu2	6								同“糍”	
 豉	豉		zyu2	2	zyu6	9					0.05	又音	
 鋤	锄		zyu2	3			dzyu2	10			0.05	又音	
 耡	锄		zyu2	3							0.05	又音	
@@ -994,6 +997,8 @@
 墊	垫		di6	1	dii6	9	di6	10	dien6	11			
 電	电	din	di6	1	dii6	9	di6	10					
 靛	靛	din	di6	7									
+𪑩	𪑩		di6	6									
+𪒮	𪒮		di6										
 淀	淀		di6										
 澱	淀		di6		dii2	9							
 鈿	钿	din	di6	1	dii2	9			dien2	11	10000		
@@ -1425,6 +1430,8 @@
 慊	慊	kyʽin	chi3	7									
 譴	谴	kyʽin	chi3	7									
 繾	缱	kyʽin	chi3	7									
+䭤	䭤		chi3	6								𩝡粉	
+𩝡	𬳈		chi3	6								𩝡粉	
 𥉻	𥉻		chi5	1					chi1	11		近𥉻眼	
 覷	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
 覰	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
@@ -1608,6 +1615,7 @@
 沂	沂	nyi	gni2	2			gni2	10	gni2	11		白讀	
 囈	呓		gni2	2									
 閻	阎	yin	gni2	1	gnii2	9	gni2	10	gnien2	11			
+臡	臡		gni2	6									
 嚴	严	nyin	gni2	2	gnii2	9	gni2	10	gnien2	11			
 儼	俨	nyin	gni2	5	gnii2	9	gni6	10	gnien2	11			
 䉷	䉷	nyin	gni2	7									
@@ -2520,6 +2528,7 @@
 湖	湖	wu	wu2	1	vu2	9	vu2	10	wu2	11			
 糊	糊	wu	wu2	1	vu2	9			wu6	11			
 餬	糊	wu	wu2	1									
+𪏻	𪏻		wu2	6								同“糊”	
 葫	葫	wu	wu2	2	vu2	9	vu2	10					
 蝴	蝴	wu	wu2	1	vu2	9							
 猢	猢	wu	wu2	7									
@@ -3196,6 +3205,7 @@
 疥	疥		ka5	1	ka5	9	ka5	10	ka5	11		疥櫥	
 尬	尬		ka5	1	ka5	9	ka5	10	ka5	11			
 庎	庎		ka5	1									
+楐	楐		ka5	6									
 届	届		ka5	1								白讀	
 屆	届		ka5	1	ka5	9	ka5	10	ka5	11		白讀	
 戒	戒		ka5	1	ka5	9	ka5	10	ka5	11		白讀	
@@ -3703,6 +3713,7 @@
 捎	捎	sao	sau1	1			sau1	10	sau1	11			
 筲	筲	sao	sau1	1					sau1	11			
 蕱	筲		sau1	1									
+䈰	筲		sau1	1									
 蛸	蛸	sao	sau1	7									
 掃	扫	sao	sau3	1	sau3	9	sau3	10	sau3	11			
 嫂	嫂	sao	sau3	1	sau3	9	sau3	10	sau3	11			
@@ -4011,6 +4022,7 @@
 杈	杈	tsʽô	tsho1	2	tsho1	9	tsho1	10	tsho1	11			
 汊	汊	tsʽô	tsho1	1									
 衩	衩	tsʽô	tsho1	1									
+紁	紁		tsho1	1								古同“衩”	
 釵	钗		tsho1	1	tsho1	9						軋釵	
 䟕	䟕		tsho1	3								踩；腳踏人	
 差	差	tsʽô	tsho1	1	tsho1	9	tsho1	10					
@@ -4174,6 +4186,7 @@
 俵	俵	piao	piau5	7									
 飄	飘	pʽiao	phiau1	1	phiau1	9	phiau1	10	phiau1	11			
 飃	飘		phiau1	1									
+彯	彯		phiau1	6									
 漂	漂	pʽiao	phiau1	2	phiau1	9							
 嘌	嘌	pʽiao	phiau1	7								化學用字	
 慓	慓	pʽiao	phiau1	7									
@@ -4267,6 +4280,7 @@
 蓧	𦰏		diau6	7									
 嬥	嬥	diao	diau6	7									
 莜	莜		diau6										
+銚	铫		diau6	6								銅銚	
 療	疗	liao	liau2	2	liau2	9	liau6	10	liau2	11			
 瞭	瞭	liao	liau2	1	liau6	9	liau6	10	liau2	11			
 撩	撩	liao	liau2	1	liau6	9	liau2	10	liau2	11			
@@ -5184,6 +5198,8 @@
 盞	盏	tsæn	tsae3	1	tsae5	9	tsae3	10	tsae3	11			
 琖	盏		tsae3	1									
 醆	盏		tsae3	1									
+𧣴	𬢕		tsae3	6								同“盞”	
+𦈻	𦈻		tsae3	6								同“盞”	
 趲	趱		tsae3	3								挪動；變換（時間或位置）	
 攢	攒	cün	tsae3	2									
 撍	撍		tsae3	3					tsae5	11		兩手有節奏地簸動盛物器具，使裏面的東西調勻或簸去雜質	
@@ -5310,6 +5326,7 @@
 間	间		kae3	1								量詞	
 襇	裥		kae3	1	kae3	9			kae3	11		打襇	
 襉	裥		kae3	1	kae3	9	kae3	10	kae3	11		打襇	
+𧟉	裥		kae3	1	kae3	9	kae3	10	kae3	11		打襇	
 橄	橄	ken	kae3	1	kae3	9	kae3	10					
 柬	柬				kae3	9					0.00	白讀	
 諫	谏		kae5	1							0.05	教育訓誡	
@@ -5621,6 +5638,7 @@
 禪	禅	jün	zoe2	2	zoe6	9	zeu6	10	zoen2	11			
 蟬	蝉	jün	zoe2	2	zoe6	9	dzeu2	10	zoen2	11			
 贍	赡	jün	zoe2	2									
+㼷	㼷		zoe2	6									
 蟾	蟾	zin	zoe2	0	zoe2	9							
 髯	髯	zin	zoe2	0									
 髥	髯		zoe2	0									
@@ -8164,6 +8182,7 @@
 叛	叛	bun	bun2	2	boe6	9	beu6	10	bun6	11			
 瞞	瞒	mun	mun2	2	moe2	9	meu2	10	mun2	11			
 饅	馒	mun	mun2	1	moe2	9	meu2	10	mun2	11			
+䊡	䊡		mun2	6								同“饅”	
 鰻	鳗	mun	mun2	1	moe2	9			moen2	11			
 𧜞	𧜞	mun	mun2	7									
 鞔	鞔	mun	mun2	1									
@@ -8198,6 +8217,7 @@
 錧	錧	kwun	kun3	7									
 脘	脘		kun3	3	kuoe1	9			kun3	11			
 莞	莞		kun3								0.05	東莞	
+䘾	䘾		kun3	6									
 瓜	瓜				kuoe3	9					0.00	兒化變讀 黃金瓜(鎮海)	
 哥	哥				kuoe3	9					0.00	兒化變讀 阿哥(鎮海)	
 果	果				kuoe3	9	kueu5	10	kun3	11	0.00	兒化變讀 祭竈果(鎮海)	
@@ -8827,6 +8847,7 @@
 霊	灵		lin2	1									
 櫺	棂	ling	lin2	7									
 欞	棂	ling	lin2	7									
+醽	醽		lin2	6									
 酃	酃		lin2										
 菱	菱	ling	lin2	1	lin2	9	lin2	10	lin2	11			
 蓤	菱		lin2	1									
@@ -8901,6 +8922,7 @@
 拎	拎	ling	lhin1	1			lhin1	10	lhin1	11			
 針	针		cin1	1	cin1	9	cin1	10	cin1	11			
 鍼	针	tsing	cin1	1									
+箴	箴		cin1	6								同“針”	
 抌	抌		cin1	1								將小木片敲入卯榫縫隙，使鬆動的器物牢固，或用小木塊等堵塞小洞孔	
 貞	贞	tsing	cin1	2	cin1	9	cin1	10	cin1	11			
 幀	帧		cin1		cin1	9							
@@ -10531,6 +10553,7 @@
 劣	劣		laq8	2	laq8	9			laq8	11	0.00	白讀	
 獵	猎		laq8	2	laq8	9	laq8	10	laq8	11			
 鑞	镴	lah	laq8	1			laq8	10	laq8	11			
+𨭛	𨭛		laq8	6								同“鑞”	
 邋	邋	lah	laq8	1	laq8	9			laq8	11			
 擸	擸	lah	laq8	7									
 爉	爉	lah	laq8	7									
@@ -10564,6 +10587,7 @@
 札	札	tsah	tsaq7	2	tsaq7	9	tsaq7	10	tsaq7	11			
 剳	札		tsaq7	2									
 劄	札	tsah	tsaq7	2									
+箚	札	tsah	tsaq7	2									
 𧉹	𧉹		tsaq7	3								䗫𧉹	
 摘	摘	tsah	tsaq7	1	tsaq7	9	tsaq7	10	tsaq7	11			
 謫	谪	tsah	tsaq7	7									
@@ -10870,6 +10894,7 @@
 蝶	蝶	diah	diaq8	2	diq8	9	diq8	10	diq8	11			
 蜨	蝶		diaq8	2									
 碟	碟	diah	diaq8	1	diq8	9	diq8	10	diq8	11			
+楪	楪		diaq8	6								同“碟”	
 牒	牒	diah	diaq8	2	diq8	9	diq8	10	diq8	11			
 諜	谍		diaq8	2	diq8	9	diq8	10	diq8	11			
 喋	喋	diah	diaq8	7									
@@ -10877,7 +10902,6 @@
 惵	惵	diah	diaq8	7									
 堞	堞	diah	diaq8	7									
 渫	渫	diah	diaq8	7									
-鍱	鍱	diah	diaq8	7									
 㻡	㻡	diah	diaq8	7									
 蹀	蹀		diaq8										
 叠	叠		diaq8	1									
@@ -12152,6 +12176,7 @@
 熄	熄	sih	shiq7	2	shiq7	9			shiq7	11			
 瘜	瘜		shiq7	1								“息肉”也作“瘜肉”	
 螅	螅		shiq7										
+䭒	𬳋		shiq7	6									
 式	式	sih	shiq7	1	shiq7	9	shiq7	10	shiq7	11			
 拭	拭	sih	shiq7	7									
 軾	轼	sih	shiq7	2									
@@ -12226,6 +12251,7 @@
 枼	枼		yiq8	1									
 葉	叶	yih	yiq8	1	yiq8	9	yiq8	10	yiq8	11			
 殜	殜		yiq8										
+鍱	鍱		yiq8	6									
 翊	翊		yiq8	7									
 翌	翌	yih	yiq8	7									
 液	液	yih	yiq8	2	yiq8	9	yiq8	10	yiq8	11			
@@ -12376,6 +12402,7 @@
 亅	亅	gyüih	jiuq8	7									
 橛	橛	gyüih	jiuq8	3					jiuq8	11		量詞。截；段	
 橜	橛		jiuq8	3								量詞。截；段	
+氒	氒		jiuq8	6								同“橛”	
 𧤼	𧤼		jiuq8	1								牛羊等用角頂人或觸物	
 截	截				jiuq8	9					0.00	半截	#
 局	局	gyüoh	jiuq8	1	jiuq8	9	jioq8	10	jiuq8	11			

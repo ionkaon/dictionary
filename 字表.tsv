@@ -2106,7 +2106,7 @@
 淹	淹	in	i5	2	ii1	9	i1	10	ien1	11			
 閹	阉	in	i5	2	ii5	9	i1	10	ien1	11			
 㛪	㛪	in	i5	7									
-䞁	䞁	in	i5	1					i5	11		䞁長短	
+䞁	𬥺	in	i5	1					i5	11		䞁長短	
 堰	堰	in	i5	1	ii5	9	i5	10					
 厭	厌	in	i5	1	ii5	9	i5	10	ien5	11			
 饜	餍	in	i5	7									
@@ -7087,7 +7087,7 @@
 漏	漏	leo	leu6	1	lei6	9	leu6	10	lei6	11			
 僂	偻	leo	leu6	1								僂勾師	
 瘻	瘘		leu6										
-𠞭	𠞭		lheu1	2					lhei1	11			
+𠞭	𫦉		lheu1	2					lhei1	11			
 摟	搂		lheu1	3	lhou5	9			lei2	11	0.00	“𠞭”也作“摟”	
 鏤	镂	leo	lheu1	1			lheu1	10	lhei1	11			
 瞜	䁖		lheu1	3								摳；挖取	
@@ -7190,7 +7190,7 @@
 敂	叩		kheu5	7									
 扣	扣	kʽeo	kheu5	1	khei5	9	kheu5	10	khei5	11			
 釦	扣	kʽeo	kheu5	1									
-𧥣	𧥣		kheu5	1					khei3	11		事先與人說定	
+𧥣	𬣚		kheu5	1					khei3	11		事先與人說定	
 筘	筘		kheu5										
 寇	寇		kheu5	2	khei5	9	kheu5	10	khei5	11			
 宼	寇	kʽeo	kheu5	2									
@@ -11547,7 +11547,7 @@
 確	确		khoq7	2			khoq7	10	khoq7	11		白讀	
 确	确		khoq7	2								白讀	
 𤿩	𤿩		khoq7	1					khoq7	11		東西乾後與粘着處脫開，中間凸起	
-窟	窟		khoq7	2			khoq7	10	khoq7	11	0.05	又音	
+窟	窟		khoq7	2			khoq7	10	khoq7	11	0.10	又音	
 窖	窖	kʽoh	khoq7	2									
 嚳	喾	kʽoh	khoq7	2									
 酷	酷	kʽôh	khoq7	2	khoq7	9	khoq7	10	khoq7	11			

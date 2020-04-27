@@ -2060,6 +2060,7 @@
 椅	椅	i	i3	1	i3	9			i3	11			
 猗	猗	i	i3	7									
 倚	倚	i	i3	7	i3	9	i3	10	i3	11			
+𠋣	𠋣		i3										
 掎	掎		i3	7									
 旖	旖		i3										
 扆	扆	i	i3	7									
@@ -2906,6 +2907,7 @@
 盂	盂	ü	yu2	1	yu2	9	yu2	10	yu2	11			
 于	于		yu2	2			yu2	10					
 於	于		yu2	2			yu2	10	yu2	11			
+扵	于		yu2	2			yu2	10	yu2	11			
 予	予	yü	yu2	7	yu6	9							
 妤	妤	yü	yu2	7									
 雩	雩	yü	yu2	7									
@@ -2978,6 +2980,7 @@
 淤	淤	ü	iu1	1	iu5	9	iu1	10	iu1	11			
 于	于	ü	iu1	2	iu1	9			iu1	11	0.05	姓	
 於	于				iu1	9							
+扵	于				iu1	9							
 迂	迂	ü	iu1	2	iu1	9	iu1	10	iu1	11			
 竽	竽	ü	iu1	2	yu2	9							
 紆	纡	ü	iu1	7									
@@ -9354,6 +9357,7 @@
 贏	赢	ying	yin2	1	yin2	9	yin2	10	yin2	11			
 嬴	嬴	ying	yin2	2	yin2	9							
 瀛	瀛		yin2		yin2	9							
+籯	籯		yin2										
 行	行	ying	yin2	1	yin2	9	yin2	10	yin2	11			
 烆	烆	ying	yin2	7									
 形	形	ying	yin2	1	yin2	9	yin2	10	yin2	11			

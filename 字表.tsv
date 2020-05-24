@@ -489,7 +489,8 @@
 𦄼	𦄼	shü	syu3	7									
 𨍐	𨍐	shü	syu3	7									
 世	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
-卋	世		syu5	1									
+卋	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
+丗	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
 勢	势	shü	syu5	1	syu5	9	syu5	10	syu5	11			
 歲	岁		syu5	1	syu1	9	syu5	10	syu5	11		白讀	
 嵗	岁		syu5	1								白讀	
@@ -1680,6 +1681,7 @@
 𨁍	𨁍	nyin	gni6	7									
 唁	唁	nyin	gni6	7									
 彥	彦	nyin	gni6	7	gnii2	9							
+彦	彦	nyin	gni6	7	gnii2	9							
 諺	谚	nyin	gni6	7	gnii2	9	yi6	10	yen2	11			
 偐	偐		gni6										
 𤜵	𤜵	nyin	gni6	7									
@@ -1800,7 +1802,8 @@
 婿	婿		shi5	1	shi5	9	shi5	10	shi5	11			
 壻	婿	si	shi5	1									
 世	世		shi5	1	shi1	9			shi5	11			
-卋	世		shi5	1									
+卋	世		shi5	1	shi1	9			shi5	11			
+丗	世		shi5	1	shi1	9			shi5	11			
 絮	絮		shi5	1	shi5	9			syu5	11		白讀 花絮	
 戲	戏		shi5	1	shi5	9	shi5	10	shi5	11			
 嚱	嚱		shi5										
@@ -2028,7 +2031,7 @@
 衣	衣	i	i1	1	i1	9	i1	10	i1	11			
 銥	铱		i1									化學元素	
 挔	挔		i1	3								咋挔	
-醫	医	i	i1	1	i1	9	i1	10	i1	11			
+醫	医	i	i1	1	i1	9	i1	10	i1	11			x
 𧕪	𧕪	i	i1	7									
 瞖	翳		i1	1					i5	11			
 翳	翳	i	i1	7									
@@ -2293,6 +2296,7 @@
 斁	斁	tu	tu5	7									
 都	都	tu	thu1	3							0.00	又音 僅限於“都整”	
 土	土	tʽu	thu3	1	thu3	9	thu3	10	thu3	11			
+圡	圡		thu3									古同“土”	
 吐	吐	tʽu	thu3	2	thu3	9	thu3	10	thu3	11		吞吐	
 釷	钍		thu3									化學元素	
 靯	靯	tʽu	thu3	7									
@@ -3119,6 +3123,7 @@
 娜	娜		na6										
 哪	哪		nha1	1			nha3	10					
 吶	呐		nha1	3									
+呐	呐		nha1	3									
 哪	哪		nha5	2					nha5	11			
 那	那		nha5	1	nha5	9	na6	10					
 挪	挪								nha5	11			
@@ -3261,6 +3266,7 @@
 鵶	鸦		a1	1	a1	9					0.00	僅限於“鴉片”	
 埃	埃		a1	2	a1	9	e1	10	e1	11			
 矮	矮	a	a3	1	a3	9	a3	10	a3	11			
+躷	躷		a3									古同“矮”	
 㢊	㢊		a3	1									
 阿	阿		a5	2	a5	9			a5	11		阿姆	
 靉	叆		a5	1			a5	10					
@@ -3877,6 +3883,7 @@
 抝	拗		au3	1									
 㑃	㑃	ao	au3	7									
 媼	媪		au3	7									
+媪	媪		au3	7									
 襖	袄	ao	au3	1	au3	9	au3	10	au3	11			
 懊	懊	ao	au5	1					au3	11	0.05	懊惱(定海)	
 奧	奥		au5	2	au5	9	au5	10					
@@ -4077,6 +4084,7 @@
 𧋊	𧋊	sô	so1	7									
 硰	硰	sô	so1	7									
 賒	赊	sô	so1	1	so1	9	so1	10	so1	11			
+賖	赊	sô	so1	1	so1	9	so1	10	so1	11			
 稍	稍		so1	1							0.05	稍勢	
 蓑	蓑	so	so1	1	so1	9	so1	10	so1	11			
 簑	蓑	so	so1	1									
@@ -4175,6 +4183,7 @@
 淲	淲		piau1	1								液體激射，本字作“淲”	
 猋	猋	piao	piau1	7									
 飆	飙	piao	piau1	7	piau1	9							
+飊	飊		piau1										
 飈	飚		piau1										
 颮	飑		piau1										
 驫	骉		piau1										
@@ -5234,6 +5243,7 @@
 菜	菜					tshae1	9				0.00	兒化變讀 花臉菜(鎮海)	
 慘	惨	tsʽæn	tshae3	2	tshae3	9	tshae3	10	tshae3	11			
 產	产	tsʽæn	tshae3	1	tshae3	9	tshae3	10	tshae3	11			
+産	产	tsʽæn	tshae3	1	tshae3	9	tshae3	10	tshae3	11			
 鏟	铲	tsʽæn	tshae3	1	tshae3	9	tshae3	10	tshae3	11			
 剷	铲		tshae3	2									
 㦃	㦃	tsʽæn	tshae3	7									
@@ -5293,6 +5303,7 @@
 姗	姗		sae1	7									
 䈀	䈀	sæn	sae1	7									
 產	产		sae1	2							0.05	做產	
+産	产		sae1	2							0.05	做產	
 芟	芟	sæn	sae1	7									
 潸	潸	sæn	sae1	7									
 傘	伞	sæn	sae1	1	sae1	9	sae5	10	sae5	11			
@@ -5630,6 +5641,7 @@
 捨	舍				soe3	9					0.00	文讀 捨去	
 算	算	sön	soe5	1	soe5	9	seu5	10	soen5	11			
 筭	筭		soe5									古同“算”	
+祘	祘		soe5									古同“算”	
 蒜	蒜	sön	soe5	1	soe5	9	seu5	10	soen5	11			
 渲	渲		soe5										
 喧	喧	hyün	soe5	2	soe1	9			soen5	11			
@@ -6163,6 +6175,7 @@
 湳	湳	nen	nEI4	7									
 耐	耐		nei6	4							0.00	僅限於“耐心耐相”	
 內	内	nen	nei6	2	nei6	9	nei6	10					
+内	内	nen	nei6	2	nei6	9	nei6	10					
 汭	汭		nei6	3									
 𤿏	𤿏		nei6	1							578		
 軟	软				nei6	9					0.00	白讀	#
@@ -7132,6 +7145,7 @@
 賺	赚						dzeu6	10			0.00	又音，舊(北侖)	
 叟	叟	seo	seu1	2	sei5	9	seu3	10	sei3	11			
 搜	搜	seo	seu1	2	sei5	9	seu1	10	sei1	11			
+捜	搜	seo	seu1	2	sei5	9	seu1	10	sei1	11			
 蒐	搜	seo	seu1	2									
 颼	飕	seo	seu1	1	sei5	9	seu1	10	sei1	11			
 艘	艘	seo	seu1	2	sei5	9			sei1	11			
@@ -7693,6 +7707,7 @@
 蟒	蟒	mông	maon4	2	maon6	9	maon6	10	maon2	11			
 漭	漭		maon4										
 網	网		maon4	1	maon6	9	maon6	10	maon4	11		白讀	
+网	网		maon4	1	maon6	9	maon6	10	maon4	11		白讀	
 望	望								maon4	11	0.00	望潮(定海)	
 夢	梦		maon6	1	maon6	9	maon6	10	maon6	11	0.05		
 忘	忘		maon6	2	maon6	9	maon6	10	maon6	11		白讀	
@@ -8470,6 +8485,7 @@
 砘	砘		den6										
 能	能	neng	nen2	1	nen2	9	nen2	10	nen2	11			
 寧	宁		nen4	6	nen2	9	nen6	10	gnin6	11	0.05	僅限於“寧可”“寧使”等	
+寍	宁		nen4	6	nen2	9	nen6	10	gnin6	11	0.05	僅限於“寧可”“寧使”等	
 寗	宁		nen4	6							0.05	僅限於“寧可”“寧使”等	
 寜	宁		nen4	6							0.05	僅限於“寧可”“寧使”等	
 寕	宁		nen4	6							0.05	僅限於“寧可”“寧使”等	
@@ -9212,6 +9228,7 @@
 凝	凝	nying	gnin2	1	gnin2	9	gnin2	10	gnin2	11			
 迎	迎	nying	gnin2	2	gnin2	9	gnin2	10	gnin2	11			
 寧	宁		gnin2	1	gnin2	9	gnin6	10	gnin2	11			
+寍	宁		gnin2	1	gnin2	9	gnin6	10	gnin2	11			
 甯	宁	nying	gnin2	1									
 寗	宁		gnin2	1									
 寜	宁		gnin2	1									
@@ -9249,6 +9266,7 @@
 韌	韧		gnin6	1	gnin6	9			gnin6	11		白讀	
 靭	韧		gnin6	1								白讀	
 靱	韧	nying	gnin6	1								白讀	
+肕	肕		gnin6									古同“韌”	
 濘	泞	nying	gnin6	7	gnin2	9							
 憗	憗	nying	gnin6	7									
 深	深	sing	shin1	1	shin1	9	shin1	10	shin1	11			
@@ -9613,6 +9631,7 @@
 孕	孕								yon4	11			
 耘	耘	yüing	yun6	1									
 閏	闰	jing	yun6	1	yon6	9	yon6	10	yon6	11			
+閠	閠		yun6									古同“閏”	
 韻	韵	yüing	yun6	2	yun2	9	yon6	10	yon6	11			
 韵	韵		yun6	2									
 鄆	郓		yun6										
@@ -9748,6 +9767,9 @@
 紉	纫	jing	zyun6	7	zyun2	9	zon6	10					
 仞	仞	jing	zyun6	1	zyun2	9			zon6	11			
 韌	韧	jing	zyun6	7	zyun6	9	zon6	10			0.05		
+靭	韧		zyun6	7									
+靱	韧		zyun6	7									
+肕	肕		zyun6								0.05	古同“韌”	
 認	认	jing	zyun6	2	zyun6	9	zon6	10	zon6	11	0.06	文讀	
 潤	润	jing	zyun6	2	zyun6	9	zon6	10	zon6	11			
 慎	慎		zyun6	2	zyun2	9	zon6	10	zon6	11			
@@ -10002,7 +10024,8 @@
 聰	聪	tsʽong	tshon1	2	tshon1	9	tshon1	10	tshon1	11			
 聡	聪	tsʽong	tshon1	2									
 從	从	tsʽong	tshon1	2			tshon1	10	tshon1	11	0.05	從容	
-従	从		tshon1	2							0.05	從容	
+従	从	tsʽong	tshon1	2			tshon1	10	tshon1	11	0.05	從容	
+从	从	tsʽong	tshon1	2			tshon1	10	tshon1	11	0.05	從容	
 鏦	𫓩	tsʽong	tshon1	7									
 樅	枞		tshon1										
 充	充	cʽong	tshon1	1	tshon1	9	tshon1	10	tshon1	11			
@@ -10027,7 +10050,8 @@
 𥬱	𥬱	cʽong	tshon5	7									
 𨖼	𨖼	cʽong	tshon5	7									
 從	从	dzong	dzon2	1	dzon2	9	dzon2	10	dzon2	11			
-従	从		dzon2	1									
+従	从	dzong	dzon2	1	dzon2	9	dzon2	10	dzon2	11			
+从	从	dzong	dzon2	1	dzon2	9	dzon2	10	dzon2	11			
 叢	丛	dzong	dzon2	2	dzon2	9	dzon2	10	dzon2	11			
 崇	崇	dzong	dzon2	2	dzon2	9	dzon2	10					
 戎	戎	dzong	dzon2	7							0.10	文讀	
@@ -10375,7 +10399,9 @@
 袜	袜		maq8	1									
 陌	陌	meh	maq8	1	maq8	9	maq8	10	maq8	11			
 沒	没	meh	maq8	1	maq8	9	maq8	10	maq8	11			
+没	没	meh	maq8	1	maq8	9	maq8	10	maq8	11			
 歿	殁		maq8	7	maq8	9							
+殁	殁		maq8	7	maq8	9							
 莈	莈	meh	maq8	7									
 默	默	meh	maq8	1	maq8	9	maq8	10	maq8	11			
 黙	默		maq8										
@@ -10539,6 +10565,7 @@
 䖧	䖧	nah	naq8	7									
 哪	哪		naq8	1							0.05		
 吶	呐	neh	naq8	3									
+呐	呐	neh	naq8	3									
 鈉	钠		naq8									化學元素	
 納	纳	neh	naq8	1	naq8	9	naq8	10	naq8	11			
 衲	衲	neh	naq8	1	naq8	9							
@@ -10940,6 +10967,7 @@
 著	着	tsiah	ciaq7	1							0.00	同“着”	
 着	着		ciaq7	1	ciq7	9					0.01		
 辵	辵		ciaq7	7									
+辶	辶		ciaq7										
 碏	碏		ciaq7	7									
 脚	脚	kyiah	ciaq7	1	ciq7	9							
 腳	脚		ciaq7	1	ciq7	9	ciq7	10	ciaq7	11			
@@ -11113,6 +11141,7 @@
 卜	卜	poh	poq7	1	poq7	9	poq7	10	poq7	11			
 卟	卟		poq7									化學用字	
 剝	剥	poh	poq7	1	poq7	9	poq7	10	poq7	11			
+剥	剥	poh	poq7	1	poq7	9	poq7	10	poq7	11			
 駁	驳	poh	poq7	1	poq7	9	poq7	10	poq7	11			
 駮	驳		poq7	1									
 博	博	poh	poq7	1	poq7	9	poq7	10	poq7	11			

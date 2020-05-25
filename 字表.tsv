@@ -2933,7 +2933,8 @@
 鱮	𫚈	yü	yu2	7									
 緣	缘	yün	yu2	2	yoe2	9	yu2	10	yoen2	11			
 圓	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
-円	圆		yu2	1									
+円	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
+圎	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
 員	员	yün	yu2	2	yoe2	9	yu2	10	yoen2	11			
 貟	贠		yu2									古同“員”	
 玄	玄	yün	yu2	1	yoe2	9	yu6	10	yoen2	11			
@@ -8582,7 +8583,7 @@
 𦼏	𦼏	dzeng	dzen2	7									
 䉕	䉕	dzeng	dzen2	7									
 嶒	嶒		dzen2										
-岑	岑	dzeng					dzen2	10	dzen2	11			
+岑	岑	dzeng	dzen2	7			dzen2	10	dzen2	11			
 橙	橙						dzen2	10	dzen2	11			
 涔	涔	dzeng	dzen2	7									
 䫈	䫈	dzeng	dzen2	7									
@@ -9208,7 +9209,8 @@
 陣	阵	dzing	jin6	1	jin2	9	jin6	10	jin6	11			
 鄭	郑	dzing	jin6	1	jin2	9	jin6	10	jin6	11			
 剩	剩		jin6	1	jin3	9	jin6	10	jin6	11			
-賸	剩	dzing	jin6	1									
+賸	剩	dzing	jin6	1	jin3	9	jin6	10	jin6	11			
+剰	剩		jin6	1	jin3	9	jin6	10	jin6	11			
 嵊	嵊	dzing	jin6	7					jin6	11			
 贐	赆	dzing	jin6	7									
 燼	烬	dzing	jin6	7									
@@ -11029,7 +11031,7 @@
 弱	弱	ziah	zhiaq8	2	zhiq8	9	zhiq8	10	yaq8	11			
 蒻	蒻	ziah	zhiaq8	7									
 叒	叒		zhiaq8										
-芍	芍	ziah					zhiq8	10	yiq8	11			
+芍	芍	ziah	zhiaq8				zhiq8	10	yiq8	11			
 葯	药		yaq8	2					yaq8	11			
 藥	药	yiah	yaq8	1	yiq8	9	yiq8	10	yaq8	11			
 薬	药		yaq8	1									
@@ -12480,6 +12482,7 @@
 䟠	䟠	yüih	yuq8	7									
 樾	樾	yüih	yuq8	7									
 粵	粤	yüih	yuq8	2	yuq8	9	yoq8	10	yuq8	11			
+粤	粤	yüih	yuq8	2	yuq8	9	yoq8	10	yuq8	11			
 穴	穴	yüih	yuq8	2	yuq8	9	yoq8	10	yuq8	11			
 㧒	㧒	yüih	yuq8	7									
 月	月	yüih	yuq8	1	yuq8	9	yoq8	10	yuq8	11			

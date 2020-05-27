@@ -8605,6 +8605,7 @@
 蔘	参	seng	sen1	1	sen1	9						人參	
 葠	参		sen1	1								人參	
 蓡	参		sen1	1								人參	
+莘	莘		sen1										
 猻	狲	seng	sen1	1	sen1	9			sen1	11		活猻	
 飧	飧		sen1	7									
 飱	飧	seng	sen1	7									
@@ -9301,7 +9302,7 @@
 忄	心	sing	shin1	1									
 芯	芯	sing	shin1	7	shin1	9							
 辛	辛	sing	shin1	1	shin1	9	shin1	10	shin1	11			
-莘	莘	sing	shin1	7	shin1	9							
+莘	莘	sing	shin1	7	shin1	9					0.10		
 鋅	锌		shin1		shin1	9						化學元素	
 騂	骍	sing	shin1	7									
 新	新	sing	shin1	1	shin1	9	shin1	10	shin1	11			

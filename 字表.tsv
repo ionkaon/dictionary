@@ -4068,6 +4068,7 @@
 𠷒	𠷒	tsa	tsa1	7									
 抓	抓		tsa1	2			tsa1	10	tsa1	11	0.06	文讀	
 髽	髽		tsa1										
+喳	喳		tsa1										
 渣	渣								tsa1	11	0.05		
 追	追				tsa1	9					0.00	白讀(鎮海)	
 債	债	tsa	tsa5	1	tsa5	9	tsa5	10	tsa5	11			
@@ -4155,7 +4156,8 @@
 佧	佧		kha3										
 嘎	嘎		ga2		ga2	9							
 嘠	嘎		ga2										
-茄	茄	gyiæn	ga2	1			gaq8	10	ga2	11		番茄	
+茄	茄		ga2	1			gaq8	10	ga2	11		番茄	
+伽	伽		ga2									0.10	
 懈	懈		ga4	1			ga6	10			0.00	懈門	
 解	解		ga4	1	ga6	9					0.01	解兩刀	
 𨮂	𨱕		ga4	3									
@@ -4264,7 +4266,8 @@
 伽	伽	dzia	jia2	7									
 笳	笳	gyia	jia2	7									
 茄	茄	gyiæn	jia2	1	jia2	9	jia2	10	jia2	11			
-⿰口茄	⿰口茄		jia2	3									
+⿰口茄	⿰口茄		jia2	3									#
+喳	喳		jia2								0.05		
 弶	弶	gyiang	jia2	3							0.01	又音 欺侮	
 岈	岈		shia1										
 疨	疨		shia1										

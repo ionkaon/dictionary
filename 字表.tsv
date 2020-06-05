@@ -6891,6 +6891,7 @@
 彎	弯	w̆æn	uae1	1	uae1	9	uae1	10	uae1	11			
 灣	湾	w̆æn	uae1	2	uae1	9	uae1	10	uae1	11			
 娃	娃		uae3	3	uae1	9	uae3	10				小娃	
+頑	顽		uae3	1							0.00	僅限於意項爲“小孩”的詞語	#
 囝	囝								uae1	11	0.00	小囝：男孩	#
 輓	挽	w̆æn	uae3	1								輓子	
 挽	挽	w̆æn	uae3	1	uae3	9	uae3	10	uae3	11			
@@ -6900,7 +6901,6 @@
 綰	绾	w̆æn	uae3	7									
 捾	捾	w̆æn	uae3	7									
 贃	𧹗		uae5										
-頑	顽		uae3	1							0.00	僅限於意項爲“小孩”的詞語	
 丢	丢	tiu	tieu1	2									
 丟	丢		tieu1	2	tieu1	9	tieu1	10	tieu1	11			
 銩	铥		tieu1									化學元素	
@@ -9236,6 +9236,7 @@
 虻	虻		man4	3			man2	10			0.00	僅限於“黃虻”	
 蝱	虻		man4	3							0.00	僅限於“黃虻”	
 孟	孟	meng	man6	1	man6	9	man6	10	man6	11			
+厖	厖		man6	3							0.01	“金孟”又作“金厖”	
 𩜠	𩜠		mhan1										
 𩛎	𩛎		mhan1										
 飯	飯		mhan1	6	mhan5	9					0.00	飯飯 兒童用語	

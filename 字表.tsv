@@ -144,6 +144,8 @@
 杘	杘		tsy5										
 駤	𫘠		tsy5										
 騺	騺		tsy5										
+寘	寘		tsy5										
+忮	忮		tsy5										
 嗤	嗤		tshy1	2									
 差	差	tsʽ	tshy1	2	tshy5	9	tshy1	10	tshy1	11	0.01	參差	
 鈭	鈭	tsʽ	tshy1	7									
@@ -1654,7 +1656,6 @@
 劑	剂	tsi	ci5	2	ci5	9	ci5	10	ci5	11			
 穧	穧	tsi	ci5	7									
 痣	痣						ci5	10					
-寘	寘		ci5										
 稷	稷		ci5	3									
 季	季	kyi	ci5	2	ci5	9	ci5	10	ci5	11			
 悸	悸	kyi	ci5	7	ci1	9							
@@ -1806,6 +1807,7 @@
 婍	婍		chi3										
 綮	綮	kyʽi	chi3	7									
 跂	跂		chi3										
+𢺵	𢺵		chi3										
 淺	浅	tsʽin	chi3	1	chii3	9	chi3	10	chien3	11			
 蕆	蒇	tsʽin	chi3	7									
 諂	谄	tsʽin	chi3	7									
@@ -1992,9 +1994,13 @@
 妓	妓	gyi	ji4	2	ji6	9	ji6	10	ji4	11			
 伎	伎	gyi	ji4	7					ji6	11			
 芰	芰	gyi	ji4	7									
+𢺵	𢺵		ji6	1									#
+忮	忮		ji6	1									#
 䗁	䗁	gyi	ji4	7									
 跱	跱		ji4									舊讀	
 蔪	蔪	dzin	ji4	7									
+纏	缠	dzin	ji4								0.01	歪斜、固執	
+纒	缠	dzin	ji4								0.01	歪斜、固執	
 件	件	gyin	ji4	1	jii2	9	ji6	10	jien4	11			
 楗	楗	gyin	ji4	7									
 鞬	鞬	gyin	ji4	7									
@@ -2002,7 +2008,6 @@
 寋	寋		ji4										
 鑳	鑳		ji4										
 滯	滞		ji6	1	dzyu6	9							
-忮	忮		ji6	1									
 嚌	哜		ji6										
 彘	彘	dzi	ji6	7									
 苧	苎	djü	ji6	1	ji2	9	zyu6	10	ji6	11		苧麻	
@@ -2024,7 +2029,6 @@
 梞	梞		ji6										
 誋	𫍪		ji6										
 鵋	鵋		ji6										
-𢺵	𢺵		ji6	1									
 崎	崎		ji6		ji6	9							
 垍	垍		ji6										
 臮	臮		ji6										
@@ -7105,7 +7109,7 @@
 袡	袡		zoe2										
 蛅	蛅		zoe2										
 肰	肰		zoe2										
-纏	缠	dzin	zoe2	1	zoe2	9					0.01	盤纏	
+纏	缠		zoe2	1	zoe2	9					0.01	盤纏	
 旋	旋	cün	zoe2	1					zoen2	11			
 漩	漩		zoe2						zoen2	11			
 璇	璇	cün	zoe2	0									

@@ -5329,7 +5329,6 @@
 鰾	鳔	pʽiao	biau6	2	biau6	9	biau6	10	biau4	11			
 苗	苗	miao	miau2	1	miau2	9	miau2	10	miau2	11			
 描	描	miao	miau2	1	miau2	9	miau2	10	miau2	11			
-喵	喵		miau2										
 鶓	鹋		miau2										
 秒	秒	miao	miau4	2	miau6	9	miau6	10	miau4	11			
 杪	杪	miao	miau4	7									
@@ -5347,6 +5346,7 @@
 謬	谬	miu	miau6	2	miau2								
 繆	缪	miu	miau6	7	miau6	9			miau6	11			
 瞄	瞄		mhiau1	1	miau2	9			miau2	11		瞥；掃視	
+喵	喵		mhiau1										
 刁	刁	tiao	tiau1	1	tiau1	9	tiau1	10	tiau1	11			
 叼	叼		tiau1										
 貂	貂	tiao	tiau1	2	tiau1	9	tiau1	10	tiau1	11			
@@ -9514,6 +9514,7 @@
 央	央		gnian2	1	gnian2	9					0.00	僅限於表“當中”義的數詞	
 梁	梁		gnian2	3							0.00	鼻頭梁	
 樑	梁		gnian2	3							0.00	鼻頭樑	
+喵	喵		gnian2								0.00	喵嗚貓	
 仰	仰	nyiang	gnian4	1	gnian6	9	gnian6	10	gnian4	11			
 壤	壤		gnian4	1	gnian2	9	gnian6	10	gnian4	11		地壤	
 嚷	嚷		gnian2	2			gnian6	10	gnian4	11			
@@ -9526,6 +9527,7 @@
 亮	亮		gnian6	1	gnian2	9					0.00	天亮 當清晨講，聲母特殊	
 樣	样	yiang	gnian6	3							0.01	又音 僅限於“別樣”	
 様	样		gnian6	3							0.00	又音 僅限於“別樣”	
+喵	喵		knian1								0.00	喵嗚貓	
 商	商		shian1	2	shian5	9					0.05	白讀	
 相	相	siang	shian1	1	shian1	9	shian1	10	shian1	11		相信	
 湘	湘	siang	shian1	2	shian1	9	shian1	10	shian1	11			

@@ -4386,6 +4386,7 @@
 快	快	kwʽa	khua5	1	khua5	9	khua5	10	khua5	11			
 噲	哙		khua5	7									
 懷	怀		gua2	1	gua2						0.00	僅限於“懷裏”一詞	
+懐	怀		gua2	1	gua2						0.00	僅限於“懷裏”一詞	
 拐	拐		gua4	3	kua3	9	kua3	10	kua3	11	0.05	搖動；不穩而會搖擺	
 嘩	哗		hua1										
 譁	哗		hua1										
@@ -4395,6 +4396,7 @@
 化	化								hua5	11	0.00	文讀	
 還	还		wa2	1								還好	
 懷	怀		wa2	5			wa2	10	wa2	11			
+懐	怀		wa2	5			wa2	10	wa2	11			
 蘹	蘹		wa2										
 槐	槐	wæ					wa2	10	wa2	11			
 華	华								wa2	11	0.00	文讀	
@@ -4403,9 +4405,11 @@
 瓦	瓦								wa4	11	0.00	文讀	
 淮	淮						wa2	10	wa2	11	0.10		
 壞	坏		wa6	1	wae2	9	wa6	10	wa6	11			
+壊	坏		wa6	1	wae2	9	wa6	10	wa6	11			
 話	话								wa6	11	0.00	文讀	
 畫	画								wa6	11	0.00	文讀	
 壞	坏		ua1	1									
+壊	坏		ua1	1									
 孬	孬	w̆a	ua1	7									
 歪	歪		ua1	2	ua1	9					0.00	文讀	
 竵	歪		ua1	2							0.00	文讀	
@@ -6876,6 +6880,7 @@
 抏	抏	ngwun	wae2	7									
 岏	岏	ngwun	wae2	7									
 懷	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11		文讀	
+懐	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11		文讀	
 蘹	蘹		wae2									文讀	
 瀤	瀤	wæ	wae2	7									
 櫰	櫰	wæ	wae2	7									

@@ -8869,6 +8869,7 @@
 貿	贸	meo	meu2	2	mei2	9	meu6	10					
 茂	茂	meo	meu2	2	mei6	9	meu6	10					
 鄮	鄮	meo	meu2	2									
+繆	缪		meu2								0.00	綢繆	
 牡	牡	meo	meu4	1	mei6	9	meu6	10	mei6	11			
 母	母	meo	meu4	2	mei6	9	meu6	10	mei4	11			
 姥	姥		meu4										
@@ -13176,7 +13177,7 @@
 帕	帕		phaq7	2	phoq7	9	phaq7	10	phaq7	11			
 魄	魄	pʽah	phaq7	1	phaq7	9	phaq7	10	phaq7	11			
 珀	珀	pʽah	phaq7	2									
-泊	泊		phaq7	2			phaq7	10	phaq7	11		湖泊	
+泊	泊		phaq7	2			phaq7	10	phaq7	11	0.10	湖泊	
 舶	舶		phaq7	2									
 迫	迫		phaq7				phaq7	10			0.01		
 蘗	蘗	pʽah	phaq7	7			paq7	10					
@@ -14300,7 +14301,7 @@
 袱	袱		boq8	2	boq8	9						白讀	
 栿	栿		boq8	1					voq8	11		地栿	
 𢫯	𢫯	boh	boq8	7									
-泊	泊	boh	boq8	7	boq8	9	boq8	10			0.05	停泊	
+泊	泊	boh	boq8	7	boq8	9	boq8	10				停泊	
 舶	舶	boh	boq8	7	boq8	9							
 𦤣	𦤣		boq8	3								餲𦤣	
 踣	踣		boq8										

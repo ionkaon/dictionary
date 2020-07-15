@@ -4243,6 +4243,7 @@
 斝	斝	kyüô	cia3	0								文讀	
 藉	借		cia5	2									
 借	借	tsiæ	cia5	1	cia5	9	cia5	10	cia5	11			
+縩	縩		cia5	6								縩孔籃	
 嫁	嫁	kyüô	cia5	2					cia5	11	0.05	文讀	
 介	介	kyiæ	cia5	2	cie5	9			cia5	11	0.05	文讀	
 玠	玠	kyiæ	cia5	7									
@@ -9422,9 +9423,9 @@
 痮	𪽪	tsiang	cian5	7									
 𥇔	𥇔	tsiang	cian5	7									
 醬	酱	tsiang	cian5	1	cian5	9	cian5	10	cian5	11			
+縩	縩		cian5	6								縩孔籃	
 仗	仗		cian5	2	cian5	9						打仗	
 借	借	tsiæ	cian5	3	cia5	9	cia5	10	cia5	11	0.00	又音 僅限於“借米聾”	
-家	家	kyüô	cian5	3							0.00	又音 僅限於“家空籃”	
 槍	枪	tsʽiang	chian1	1	chian1	9	chian1	10	chian1	11			
 鎗	枪		chian1	1									
 嗆	呛		chian1	3	chian5	9			chian5	11	0.00	僅限於“嗆拍”	
@@ -12174,6 +12175,7 @@
 窘	窘								cion3	11			
 桊	桊		ciun5	1					chioen5	11		牛鼻桊	
 棬	桊		ciun5	2								牛鼻棬	
+牶	牶		ciun5									同“桊”	
 呁	呁		ciun5										
 捃	捃		ciun5										
 攈	攈		ciun5										
@@ -13625,7 +13627,7 @@
 側	侧		tshaq7	2	tshaq7	9	tshaq7	10	tshaq7	11		側面	
 惻	恻	tsʽeh	tshaq7	7									
 𡍫	𡍫	tsʽeh	tshaq7	7									
-撮	撮	tsʽeh	tshaq7	1	tshaq7	9	tshaq7	10	tshaq7	11			
+撮	撮	tsʽeh	tshaq7	1	tshaq7	9	tshaq7	10	tshaq7	11	2500		
 猝	猝	tsʽeh	tshaq7	2			tshoq7	10	tshoq7	11			
 策	策	tsʽeh	tshaq7	2	tshaq7	9	tshaq7	10	tshaq7	11			
 鏼	鏼	tsʽeh	tshaq7	7									
@@ -14530,7 +14532,7 @@
 穱	穱		tsoq7										
 作	作	tsoh	tsoq7	1	tsoq7	9	tsoq7	10	tsoq7	11			
 筰	筰	tsoh	tsoq7	7									
-撮	撮		tsoq7	1							0.00	撮藥	
+撮	撮		tsoq7	1							10	撮藥	
 糳	糳		tsoq7										
 傶	傶		tsoq7										
 喌	喌	tsôh	tsoq7	3									
@@ -14592,7 +14594,7 @@
 嗾	嗾	tsʽoh	tshoq7	7									
 瘯	瘯		tshoq7										
 閦	閦		tshoq7										
-撮	撮		tshoq7	2							0.10	文讀	
+撮	撮		tshoq7	2							1000	文讀	
 矠	矠	tsʽoh	tshoq7	7									
 剒	剒		tshoq7										
 逪	逪		tshoq7										
@@ -15305,6 +15307,8 @@
 厔	厔		ciq7										
 陟	陟	tsih	ciq7	7									
 騭	骘	tsih	ciq7	1	ciq7	9							
+𨽥	𨽥		ciq7									同“騭”	
+隲	𱀑		ciq7									同“騭”	
 轍	辙		ciq7	2			dzaq8	10					
 折	折	tsih	ciq7	1	tsyuq7	9	tsoq7	10	ciq7	11			
 哲	哲	tsih	ciq7	2	tsyuq7	9	tsoq7	10					

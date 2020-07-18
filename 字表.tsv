@@ -5259,6 +5259,7 @@
 鵶	鸦		o1	1	o3	9						白讀 老鴉	
 下	下		o1	3							0.05	①使；投入②裝入③施（肥）	
 搲	搲		o1	1							578		
+攨	攨		o1									同“搲”	
 哦	哦		o1										
 阿	阿		o1	1	o1	9					0.00	僅限於“阿彌陀佛”一詞	
 堊	垩	oh	o1	1							0.05		
@@ -5877,7 +5878,7 @@
 窳	窳	w̆ô	uo1	7									
 畖	畖		uo1										
 搲	搲	w̆ô	uo5	7							0.05	挽	
-攨	攨		uo5										
+攨	攨		uo5								0.05	同“搲”	
 家	家	kyüô	cio1	1							0.00	舊文讀	
 傢	傢	kyüô	cio1	7							0.00	舊文讀	
 稼	稼	kyüô	cio1	7							0.00	舊文讀	
@@ -7723,6 +7724,7 @@
 煺	煺	tʽe	thei1	3									
 藬	藬		thei1										
 貪	贪	tʽen	thei1	2	thei1	9	thei1	10	thei1	11			
+胎	胎		thei1								0.00	僅限“輪胎”等詞	
 腿	腿	tʽe	thei3	1	thei3	9	thei3	10	thei3	11			
 骽	腿		thei3	1									
 嗿	嗿	tʽen	thei3	7									
@@ -14179,7 +14181,7 @@
 傄	傄		huaq7										
 眓	眓		huaq7										
 劃	划	wah	waq8	1	waq8	9	waq8	10	waq8	11			
-畫	画	wah	waq8	7							0.00	同“劃”	
+畫	画	wah	waq8	7							0.01	同“劃”	
 划	划		waq8	2									
 嫿	婳	wah	waq8	7									
 㗲	𠵾	wah	waq8	7									
@@ -14289,7 +14291,7 @@
 箔	箔	boh	boq8	1	boq8	9			boq8	11			
 暴	暴	boh	boq8	7							0.01	同“曝”	
 瀑	瀑	boh	boq8	2	boq8	9	boq8	10	boq8	11			
-曝	曝	boh	boq8	2			boq8	10					
+曝	曝	boh	boq8	2			boq8	10			0.05		
 㩧	㩧	boh	boq8	7									
 僕	仆	boh	boq8	2	boq8	9	boq8	10	boq8	11			
 鏷	镤		boq8									化學元素	
@@ -16296,7 +16298,7 @@
 耳	耳		ng4	1			ng6	10					
 午	午		ng4	1					ng4	11	0.00	限於“端午”	
 伍	伍						ng6	10	ng4	11	0.00	白讀	
-尾	尾		ng4	1	gni2	9	gni6	10				白讀 船尾巴	
+尾	尾		ng4	1	gni2	9	gni6	10			0.01	白讀 船尾巴	
 爾	尔		ng6	1			n6	10			243244	“俉”的本字爲“爾”	
 尒	尔		ng6	1								“俉”的本字爲“爾”	
 尓	尔		ng6	1								“俉”的本字爲“爾”	

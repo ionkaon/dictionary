@@ -631,6 +631,7 @@
 世	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
 卋	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
 丗	世	shü	syu5	1	syu5	9	syu5	10	syu5	11			
+笹	笹		syu5									日語漢字，音同“世”	
 勢	势	shü	syu5	1	syu5	9	syu5	10	syu5	11			
 歲	岁		syu5	1	syu1	9	syu5	10	syu5	11		白讀	
 嵗	岁		syu5	1								白讀	
@@ -1220,7 +1221,9 @@
 畋	畋	din	di2	7									
 䡘	䡘	din	di2	7									
 鿬	鿬		di2									化學元素	
-畑	畑		di2										
+畑	畑		di2									日語漢字，音同“田”	
+畠	畠		di2									日語漢字，音同“田”	
+鴫	鴫		di2									日語漢字，音同“田”	
 沺	沺		di2										
 殿	殿	din	di2	2	dii6	9	di6	10	dien6	11			
 奠	奠	din	di2	2	dii2	9	di6	10	dien6	11			
@@ -1442,6 +1445,7 @@
 櫔	櫔		li6										
 禲	禲		li6										
 蠇	蠇		li6										
+栃	栃		li6									日語漢字，音同“厲”	
 例	例	li	li6	2	li6	9	li6	10					
 吏	吏	li	li6	2	li2	9	li6	10	li6	11			
 隸	隶						li6	10			0.05		#
@@ -1562,6 +1566,7 @@
 縑	缣		ci1										
 堅	坚	kyin	ci1	1	cii1	9	ci1	10	cien1	11			
 鰹	鲣		ci1										
+樫	樫		ci1									日語漢字，音同“堅”	
 諫	谏	kyin	ci1	2	cii5	9	ci5	10	cien5	11			
 澗	涧	kyin	ci1	2	cii5	9	ci5	10	cien5	11			
 鐗	锏	kyin	ci1	2	cii5	9			cien5	11			
@@ -4159,6 +4164,7 @@
 鉲	鉲		kha3									化學元素，又稱“鐦”	
 咔	咔		kha3									化學用字	
 佧	佧		kha3										
+峠	峠		kha3									日語漢字，音同“卡”	
 嘎	嘎		ga2		ga2	9							
 嘠	嘎		ga2										
 茄	茄		ga2	1			gaq8	10	ga2	11		番茄	
@@ -4660,8 +4666,9 @@
 栳	栳	lao	lau4	7									
 咾	咾	lao	lau4	7									
 銠	铑		lau4									化學元素	
-潦	潦	lao	lau4	7							0.05		
 荖	荖		lau4										
+蛯	蛯		lau4									日語漢字，音同“老”	
+潦	潦	lao	lau4	7							0.05		
 轑	轑		lau4										
 嘮	唠	lao	lau6	3					lau2	11		重複叮囑	
 嫪	嫪	lao	lau6	7									
@@ -5245,6 +5252,7 @@
 廈	厦		gho4	2	gho6	9	wo6	10	gho4	11		白讀	
 下	下		gho4	1					gho4	11		白讀 下頭	
 丅	下		gho4	1								白讀	
+雫	雫		gho4									日語漢字，音同“下”	
 下	下		gho6	2	gho6	9	wo6	10	gho6	11		白讀 下飯	
 嗄	嗄	ʽô	gho6	3								“下飯”也作“嗄飯”	
 ⿰飠夏	⿰饣夏		gho6	3								“下飯”也作“⿰飠夏飯”	#
@@ -5841,6 +5849,7 @@
 花	花	hwô	huo1	1	huo1	9	huo1	10	huo1	11			
 蘤	花		huo1	1									
 芲	花		huo1	1									
+糀	糀		huo1									日語漢字，音同“花”	
 嘩	哗		huo1	7									
 譁	哗	hwô	huo1	7									
 颬	颬		huo1	3								撮攏嘴巴吐出熱氣	
@@ -6436,6 +6445,7 @@
 亶	亶	tæn	tae3	7									
 紞	紞		tae3										
 黵	黵		tae3										
+丼	丼		tae3										
 打	打	tang	tae3		tan3	9	tan3	10	tan3	11	0.00	又音 僅限於“打賬”、“打埋”	
 擔	担	tæn	tae5	1	tae5	9	tae5	10	tae5	11		挑擔	
 担	担	tæn	tae5	1								挑擔	
@@ -6619,6 +6629,7 @@
 懺	忏	tsʽæn	tshae1	1	tshae5	9							
 湌	湌		tshae1										
 飡	飡		tshae1										
+喰	喰		tshae1									日語漢字，音同“餐”	
 菜	菜					tshae1	9				0.00	兒化變讀 花臉菜(鎮海)	
 慘	惨	tsʽæn	tshae3	2	tshae3	9	tshae3	10	tshae3	11			
 產	产	tsʽæn	tshae3	1	tshae3	9	tshae3	10	tshae3	11			
@@ -6679,6 +6690,7 @@
 舢	舢	sæn	sae1	1					sae1	11			
 汕	汕	sæn	sae1	2									
 訕	讪	sæn	sae1	2									
+杣	杣		sae1									日語漢字，音同“山”	
 三	三	sæn	sae1	1	sae1	9	sae1	10	sae1	11			
 𭆻	𭆻	sæn	sae1	7									
 叁	叁		sae1	2									
@@ -7650,6 +7662,7 @@
 槑	梅		mei2	1									
 莓	莓	me	mei2	7									
 脢	脢		mei2										
+栂	栂		mei2									日語漢字，音同“莓”	
 枚	枚	me	mei2	2	mei2	9	mei2	10	mei2	11			
 玫	玫	me	mei2	1	mei2	9							
 溦	溦	me	mei2	7									
@@ -9364,6 +9377,7 @@
 樑	梁	liang	lian2	2	lian2	9	lian2	10	lian2	11			
 粱	粱	liang	lian2	2	lian2	9	lian2	10	lian2	11			
 墚	墚		lian2										
+簗	簗		lian2									日語漢字，音同“梁”	
 量	量	liang	lian2	1	lian2	9	lian2	10	lian2	11			
 糧	粮	liang	lian2	1	lian2	9	lian2	10	lian2	11			
 粮	粮		lian2	1	lian2	9	lian2	10	lian2	11			
@@ -9989,6 +10003,7 @@
 琩	琩		tshaon1										
 裮	裮		tshaon1										
 錩	锠		tshaon1										
+椙	椙		tshaon1									日語漢字，音同“昌”	
 窗	窗	cʽông	tshaon1	1	tshaon1	9	tshaon1	10	tshaon1	11			
 牎	窗		tshaon1	1									
 牕	窗		tshaon1	1									
@@ -11012,6 +11027,7 @@
 窉	窉		pin3										
 苪	苪		pin3										
 蛃	蛃		pin3										
+鞆	鞆		pin3									日語漢字，音同“丙”	
 餅	饼	ping	pin3	1	pin3	9	pin3	10	pin3	11			
 秉	秉	ping	pin3	2	pin3	9	pin3	10	pin3	11			
 禀	禀	ping	pin3	2									
@@ -11054,6 +11070,7 @@
 蚲	蚲	bing	bin2	7									
 鮃	鲆	bing	bin2	7									
 屏	屏	bing	bin2	1	bin2	9	bin2	10	bin2	11			
+塀	塀		bin2									日語漢字，音同“屏”	
 鵧	𫛨	bing	bin2	7									
 萍	萍	bing	bin2	2	bin2	9	bin2	10					
 枰	枰	bing	bin2	7									
@@ -11387,6 +11404,7 @@
 眞	真		cin1	1									
 禛	禛		cin1										
 蒖	蒖		cin1										
+槇	槇		cin1									日語漢字，音同“真”	
 旍	旍		cin1										
 兓	兓		cin1										
 瑧	瑧		cin1										
@@ -11404,6 +11422,7 @@
 驚	惊	kying	cin1	1			cin1	10	cin1	11			
 筋	筋	kying	cin1	1	cin1	9	cin1	10	cin1	11			
 巾	巾	kying	cin1	1	cin1	9	cin1	10	cin1	11			
+凧	凧		cin1									日語漢字，音同“巾”	
 禁	禁	kying	cin1	2	cin1	9	cin1	10	cin1	11			
 襟	襟	kying	cin1	1	cin1	9	cin1	10	cin1	11			
 兢	兢	kying	cin1	2									
@@ -11434,6 +11453,7 @@
 寖	寖	tsing	cin3	7									
 井	井	tsing	cin3	1	cin3	9	cin3	10	cin3	11			
 肼	肼		cin3									化學用字	
+丼	丼		cin3										
 盡	尽		cin3	3							0.00	僅限於“盡夠”	
 儘	尽		cin3	3							0.00	僅限於“盡夠”	
 堇	堇		cin3		jin2	9							
@@ -11809,6 +11829,7 @@
 騂	骍	sing	shin1	7									
 新	新	sing	shin1	1	shin1	9	shin1	10	shin1	11			
 薪	薪	sing	shin1	2	shin1	9	shin1	10	shin1	11			
+噺	噺		shin1									日語漢字，音同“新”	
 垶	垶		shin1										
 觪	觪		shin1										
 勝	胜								shin1	11	0.00	勝任(定海)	
@@ -12252,6 +12273,7 @@
 閠	閠		yun6									古同“閏”	
 韻	韵	yüing	yun6	2	yun2	9	yon6	10	yon6	11			
 韵	韵		yun6	2									
+匂	匂		yun6									日語漢字，音同“韻”	
 鄆	郓		yun6										
 運	运	yüing	yun6	1	yon6	9	yon6	10	yon6	11			
 貟	贠		yun6										
@@ -12392,6 +12414,7 @@
 唇	唇	jing	zyun2	2									
 漘	漘	jing	zyun2	7									
 神	神	jing	zyun2	1	zyun2	9	zon2	10					
+榊	榊		zyun2									日語漢字，音同“神”	
 辰	辰	jing	zyun2	1	zyun2	9	zon2	10	zon2	11			
 晨	晨	jing	zyun2	2	zyun2	9	zon2	10	zon2	11			
 宸	宸	jing	zyun2	2									
@@ -12418,6 +12441,7 @@
 靭	韧		zyun6	7									
 靱	韧		zyun6	7									
 肕	肕		zyun6								0.05	古同“韌”	
+籾	籾		zyun6									日語漢字，音同“刃”	
 認	认	jing	zyun6	2	zyun6	9	zon6	10	zon6	11	0.06	文讀	
 潤	润	jing	zyun6	2	zyun6	9	zon6	10	zon6	11			
 栠	栠		zyun4										
@@ -12602,6 +12626,7 @@
 鉖	鉖		don2										
 鉵	鉵		don2										
 動	动	dong	don4	1	don6	9	don6	10	don4	11			
+働	働		don4									日語漢字，音同“動”	
 桶	桶	dong	don4	1	don6	9	don6	10	don4	11			
 筒	筒	dong	don4	1	don2	9	don2	10	don4	11			
 筩	筒		don4	1									
@@ -13651,6 +13676,7 @@
 擇	择	dzeh	dzaq8	2	dzaq8	9	dzaq8	10	dzaq8	11			
 雜	杂	dzeh	dzaq8	2					dzaq8	11		文讀	
 襍	杂		dzaq8	2								文讀	
+枠	枠		dzaq8									日語漢字，音同“雜”	
 崱	崱		dzaq8										
 溭	溭		dzaq8										
 崪	崪		dzaq8										
@@ -14947,7 +14973,7 @@
 𢫭	𢫭		gnioq8	1					gniuq8	11			
 揉	揉				gnioq8	9					0.00		#
 掿	掿		gnioq8	3									
-浴	浴		gnioq8	2	gnioq8	9					0.05	白讀	
+浴	浴		gnioq8	2	gnioq8	9					0.00	白讀	
 箬	箬		gnioq8	2							0.00	箬鰈魚	
 鰙	鰙		gnioq8	2									
 鳿	鳿		gnioq8										
@@ -16094,7 +16120,8 @@
 欲	欲	yüoh	yuq8	2	yuq8	9	yoq8	10	yuq8	11			
 浴	浴	yüoh	yuq8	2	yuq8	9	yoq8	10	yuq8	11		文讀	
 鵒	鹆	yüoh	yuq8	7									
-峪	峪		yuq2										
+峪	峪		yuq8										
+硲	硲		yuq8									日語漢字，音同“浴”	
 曰	曰	yüoh	yuq8	2			yoq8	10	yuq8	11			
 域	域	yüoh	yuq8	2	yuq8	9	yoq8	10	yuq8	11			
 閾	阈	yüoh	yuq8	7									

@@ -1893,7 +1893,7 @@
 奇	奇	gyi	ji2	1	ji2	9	ji2	10	ji2	11			
 琦	琦	gyi	ji2	7									
 騎	骑	gyi	ji2	2	ji2	9	ji2	10	ji2	11			
-敧	敧		ji2	1								用筷子、鉗子夾取	
+敧	敧		ji2	1							578	用筷子、鉗子夾取	
 觭	觭	gyi	ji2	7									
 碕	埼	gyi	ji2	3									
 埼	埼		ji2	3									
@@ -3272,7 +3272,7 @@
 雇	雇		ku5	1									
 僱	雇	kwu	ku5	1	ku5	9	ku5	10	ku5	11			
 枯	枯	kwʽu	khu1	1	khu1	9	khu1	10	khu1	11			
-箍	箍	kwʽu	khu1	1			khu1	10	khu1	11		箍桶	
+箍	箍	kwʽu	khu1	1			khu1	10	khu1	11	0.05	箍桶	
 骷	骷	kwʽu	khu1	1	khu1	9							
 軲	轱		khu1										
 刳	刳	kwʽu	khu1	7									
@@ -7182,6 +7182,7 @@
 州	州	tsiu	cieu1	2	cieu1	9			cieu1	11			
 洲	洲	tsiu	cieu1	2	cieu1	9			cieu1	11			
 揪	揪		cieu1	2			cieu1	10	cieu1	11			
+揫	揪		cieu1	2									
 啾	啾		cieu1										
 鬏	鬏		cieu1										
 盩	盩	tsiu	cieu1	7									
@@ -7224,9 +7225,9 @@
 鞦	秋	tsʽiu	chieu1	2									
 鰍	鳅		chieu1	1	chieu1	9							
 鰌	鳅	tsʽiu	chieu1	1									
-揫	揫		chieu1	1								揫水桶	
-揪	揫	tsʽiu	chieu1	1					chieu1	11	0.00	揫水桶	
-箍	箍						chieu1	10			0.00	白讀	#
+揫	揫		chieu1	1								揫水桶	#
+揪	揫	tsʽiu	chieu1	1					chieu1	11	0.00	揫水桶	#
+箍	箍		chieu1				chieu1	10			0.05	白讀	
 抽	抽	tsʽiu	chieu1	1	chieu1	9	chieu1	10	chieu1	11			
 𥻤	𥻤		chieu1	1					chieu1	11		用布包好濕物置於灰中使乾燥，或掛起來瀝乾其中水分	
 湫	湫	tsʽiu	chieu1	7	chieu1	9							
@@ -8735,7 +8736,7 @@
 髁	髁		khou1										
 稞	稞		khou1										
 蝌	蝌	kʽo	khou1	2									
-箍	箍		khou1	2								箍桶	
+箍	箍		khou1	2							0.05	箍桶	
 薖	薖	kʽo	khou1	7									
 𨗲	𨗲		khou1	6									
 可	可	kʽo	khou3	1	khou3	9	khou3	10	khou3	11			

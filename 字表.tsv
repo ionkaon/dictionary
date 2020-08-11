@@ -3925,9 +3925,9 @@
 夗	夗		iu3										
 晼	晼		iu3										
 箢	箢		iu3										
-餵	喂		iu5										
-喂	喂		iu5		iu5	9	iu5	10	iu1	11			
-餧	喂		iu5										
+餵	喂		iu5										x
+喂	喂		iu5		iu5	9	iu5	10	iu1	11	0.00		x
+餧	喂		iu5										x
 瘀	瘀	ü	iu5	7	iu5	9							
 飫	饫	ü	iu5	7									
 嫗	妪		iu5										
@@ -8350,7 +8350,7 @@
 𨴓	𨴓	ngwe	wei2	7									
 磑	硙		wei2										
 槐	槐	wæ	wei2	1	wei2	9							
-喂	喂		wei2								0.00	應答電話	
+喂	喂		wei2									應答電話	x
 佪	佪		wei2										
 欈	欈		wei2										
 鮠	鮠		wei2										
@@ -8448,9 +8448,9 @@
 鍡	鍡		uei3										
 骫	骫		uei3										
 諉	诿	w̆e	uei5	7	uei5	9							
-餵	喂		uei5	2							0.00	文讀	
-喂	喂	w̆e	uei5	2	uei5	9	uei5	10			0.00	文讀	
-餧	喂	w̆e	uei5	2					uei1	11	0.00	文讀	
+餵	喂		uei5	2							0.01	文讀	x
+喂	喂	w̆e	uei5	2	uei5	9	uei5	10			0.10	文讀	x
+餧	喂	w̆e	uei5	2					uei1	11	0.01	文讀	x
 恚	恚		uei5	6					uei1	11		俗音	
 螱	螱	w̆e	uei5	7									
 薈	荟	w̆e	uei5	7									

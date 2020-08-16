@@ -1360,7 +1360,7 @@
 蠡	蠡	li	li4	7									
 欚	欚		li4										
 邐	逦	li	li4	7									
-攦	攦		li4	3								將動物等往地上猛摔使致死	
+攦	攦		li4	3							418	將動物等往地上猛摔使致死	
 豊	豊		li4									古同“禮”	
 禮	礼	li	li4	1	li6	9	li6	10	li4	11			
 礼	礼	li	li4	1	li6	9	li6	10	li4	11			
@@ -1406,7 +1406,7 @@
 璉	琏	lin	li4	7									
 鄻	鄻		li4										
 嬚	嬚		li4										
-稴	稴		li4	3								插秧時，每株秧苗插得少	
+稴	稴		li4	3							55	插秧時，每株秧苗插得少	
 軟	软	nyün	li4	3							0.00	又音 僅限於“欺軟怕惡”	
 旅	旅	li	li6	2	li2	9	li6	10	li4	11			
 荔	荔	li	li6	1	li2	9	li6	10	li6	11			
@@ -1450,9 +1450,9 @@
 吏	吏	li	li6	2	li2	9	li6	10	li6	11			
 隸	隶						li6	10			0.05		#
 𥷗	𥷗	li	li6	7									
-𤃀	𤃀		li6	1								液體往下滴	
-劙	劙		li6	3									
-剺	剺		li6	1					li2	11			
+𤃀	𤃀		li6	1							25	液體往下滴	
+劙	劙		li6	3							25		
+剺	剺		li6	1					li2	11	100		
 銐	銐	li	li6	7									
 砅	砅		li6										
 慮	虑	li	li6	2	li2	9	li6	10	li6	11			
@@ -1468,14 +1468,14 @@
 練	练	lin	li6	1	lii6	9	li6	10	lien6	11			
 㪝	㪝		li6	1								㪝槌	
 湅	湅	lin	li6	7									
-𣿊	𣿊		li6	1								燒得爛熟（一般指燒粥）	
+𣿊	𣿊		li6	1							55	燒得爛熟（一般指燒粥）	
 㼑	㼑		li6	1					lien6	11		瓜瓤	
 堜	堜		li6										
 萰	萰		li6										
 鰊	鰊		li6										
 鏈	链	lin	li6	1	lii6	9							
 戀	恋	lin	li6	2	lii2	9	li6	10	lien6	11			
-𪚁	𪚁		li6	1									
+𪚁	𪚁		li6	1							55		
 浰	浰		li6										
 立	立	lih	li6	3							0.00	又音 僅限於“軋立軋煞”	
 力	力	lih	li6	3							0.00	又音 僅限於“白白力力”	
@@ -4946,7 +4946,7 @@
 爊	爊		au1	3									
 噢	噢		au1	3									
 梎	梎		au1										
-詏	詏		au3	1					au5	11		毫無根據地說別人做了壞事	
+詏	𬣦		au3	1					au5	11		毫無根據地說別人做了壞事	
 拗	拗	ao	au3	1	au3	9			au1	11			
 抝	拗		au3	1									
 㑃	㑃	ao	au3	7									
@@ -6611,7 +6611,7 @@
 㜺	赞		tsae5	1					tsae1	11	1000	好，用於贊賞事物	
 灒	𪷽		tsae5	1			tsae5	10	tsae5	11		濺	
 濺	溅	tsæn	tsae5	7	tsae5	9					0.00		
-饡	饡		tsae5	1								油饡子	
+饡	𱄊		tsae5	1								油饡子	
 饊	馓		tsae5	3								油饊子	
 斬	斩	tsæn	tsae5	1	tsae5	9	tsae1	10	tsae3	11		斬肉	
 瓚	瓒	tsæn	tsae5	7									
@@ -7062,7 +7062,7 @@
 泉	泉	djün	DZOE2	1	dzoe2	9	dzeu2	10	dzoen2	11			
 椽	椽	djün	DZOE2	1	dzoe2	9	dzeu6	10	dzoen2	11			
 猭	猭	djün	dzoe2	7									
-諓	諓		dzoe2	1								因惦記而反復念叨	
+諓	𬣡		dzoe2	1								因惦記而反復念叨	
 欑	𪴙		dzoe2										
 椯	椯		dzoe2	7									
 輲	輲		dzoe2										
@@ -7747,7 +7747,7 @@
 蜕	蜕		thei5	2	thei5	9							
 駾	駾		thei5										
 探	探	tʽen	thei5	1	thei5	9	thei5	10	thei5	11			
-㶒	㶒	tʽen	thei5	1									
+㶒	𰛩	tʽen	thei5	1									
 僋	僋	tʽen	thei5	7									
 憛	憛		thei5										
 頹	颓	de	dei2	2	dei2	9							
@@ -9248,12 +9248,12 @@
 鵬	鹏	beng	ban2	2									
 趽	趽		ban2	3								矮趽狗	
 憉	憉		ban2										
-蟚	蟚		ban2										
 輣	輣		ban2										
 庄	庄		ban2										
 蚌	蚌	bang	ban4	1	ban6	9	ban6	10	ban6	11			
 䰷	䰷	bang	ban4	7									
 蟛	蟛	beng	ban4	1								蟛蟲	
+蟚	蟚		ban2									同“蟛”	
 甏	甏	bang	ban6	1	ban6	9			ban4	11			
 碰	碰	bang	ban6	1			ban6	10				碰着	
 踫	碰	bang	ban6	1								碰着	
@@ -9720,6 +9720,7 @@
 𤧭	𤧭	bông	baon2	7									
 房	房		baon2								0.00	阿房	
 蟛	蟛	beng	baon2	3								蟛蚏蟹	
+蟚	蟚		baon2									同“蟛”	
 舽	舽		baon2										
 逄	逄		baon2										
 棒	棒	bông	baon4	1	baon6	9	baon6	10	baon4	11			
@@ -10748,7 +10749,7 @@
 崘	仑		len2	2									
 淪	沦	leng	len2	2	len2	9	len2	10					
 輪	轮	leng	len2	1	len2	9	len2	10	len2	11			
-惀	惀		len2	1							578	想；估量	
+惀	𰑄		len2	1							578	想；估量	
 圇	囵	leng	len2	1	len2	9						囫圇	
 綸	纶	leng	len2	7	len2	9							
 錀	𬬭		len2									化學元素	
@@ -11821,7 +11822,7 @@
 曐	曐		shin1										
 煋	煋		shin1										
 篂	篂		shin1										
-鮏	鮏	sing	shin1	1								魚鮏	
+鮏	𱇡	sing	shin1	1								魚鮏	
 心	心	sing	shin1	1	shin1	9	shin1	10	shin1	11			
 忄	心	sing	shin1	1									
 芯	芯	sing	shin1	7	shin1	9							
@@ -12581,7 +12582,7 @@
 懂	懂	tong	ton3	1	ton3	9	ton3	10	ton3	11			
 董	董	tong	ton3	2	ton3	9	ton3	10	ton3	11			
 箽	箽		ton3										
-㖦	㖦		ton3	3									
+㖦	𰇎		ton3	3									
 䂢	䂢	tong	ton3	7									
 凍	冻	tong	ton5	1	ton5	9	ton5	10	ton5	11			
 棟	栋	tong	ton5	1	ton5	9	ton5	10	ton5	11			
@@ -12682,7 +12683,7 @@
 壠	垅		lon4	2					lon2	11			
 籠	笼	long	lon4		lon6	9					0.05	籠絡	
 竉	竉		lon4										
-儱	儱		lon6										
+儱	𫢒		lon6										
 躘	𨀁	long	lon6	1									
 贚	𫎦		lon6										
 弄	弄	long	lon6	1	lon6	9	lon6	10	lon6	11	40736		
@@ -13446,7 +13447,7 @@
 搭	搭		thaq7	3							0.05	又音	
 脦	脦		thaq7										
 侻	侻		thaq7										
-宊	宊		thaq7										
+宊	宊		thaq7	4									
 踏	踏	dah	daq8	1	daq8	9	daq8	10	daq8	11			
 達	达	dah	daq8	1	daq8	9	daq8	10	daq8	11			
 鐽	𫟼		daq8									化學元素	

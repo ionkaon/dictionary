@@ -2375,62 +2375,62 @@
 前	前		zhi2	1	zhii2	9	zhi2	10	zhien2	11			
 自	自		zhi6	1	zhi6	9	zhi6	10				白讀	
 賤	贱		zhi6	1	zhii6	9	zhi6	10	yen6	11		白讀	
-甘	甘	ken	kI1	1	kii1	9	ki1	10	kien1	11			
-泔	泔	ken	kI1	1	kii1	9	ki1	10	kien1	11			
-柑	柑	ken	kI1	2	kii1	9	ki1	10	kien1	11			
-苷	苷		kI1									化學用字	
-疳	疳	ken	kI1	7									
-坩	坩		kI1										
-乾	干	ken	kI1	1	jii2	9	ki1	10	kien1	11	0.20		
-干	干	ken	kI1	2	kii1	9	ki1	10	kien1	11			
-肝	肝	ken	kI1	1	kii1	9	ki1	10	kien1	11			
-竿	竿	ken	kI1	1	kii3	9	ki3	10	kien1	11			
-秆	秆		kI1	1									
-稈	秆	ken	kI1	1	kii3	9	ki3	10	kien3	11			
-杆	杆	ken	kI1	1	kii3	9	ki3	10	kien3	11			
-桿	杆	ken	kI1	1									
-酐	酐		kI1									化學用字	
-矸	矸		kI1									化學用字	
-玕	玕	ken	kI1	7									
-媣	媣		kI1										
-漧	漧		kI1										
-迀	迀		kI1										
-鳱	鳱		kI1										
-該	该	kæ	kI1	1							0.00	僅限於“該應”一詞	
-賅	赅	kæ	kI1	3									
-鋸	锯		kI1	1	ki5	9	ki1	10	kien5	11		白讀	
-𡨢	𡨢		kI1	1								又音	
-丐	丐	kæ	kI1	2			ke5	10	ke5	11	0.10	又音	
-匃	丐		kI1	2							0.10	又音	
-匄	丐	kæ	kI1	2							0.10	又音	
-敢	敢	ken	kI3	1	kii3	9	ki3	10	kien3	11			
-澉	澉		kI3										
-感	感	ken	kI3	1	kii3	9	ki3	10	kien3	11			
-擀	擀		kI3	2								擀麵	
-趕	赶	ken	kI3	1	kii3	9	ki3	10	kien3	11			
-鱤	鳡		kI3										
-仠	仠		kI3										
-皯	皯		kI3										
-簳	簳		kI3										
-衦	衦		kI3										
-狗	狗		kI3	1	kii1	9	ki3	10	kien3	11	0.05	兒化音殘留	
-幹	干	ken	kI5	1	kii3	9	ki1	10	kien5	11			
-榦	干	ken	kI5	1									
-𢁗	𢁗	ken	kI5	7									
+甘	甘	ken	ki-ke1	1	kii1	9	ki1	10	kien1	11			
+泔	泔	ken	ki-ke1	1	kii1	9	ki1	10	kien1	11			
+柑	柑	ken	ki-ke1	2	kii1	9	ki1	10	kien1	11			
+苷	苷		ki-ke1									化學用字	
+疳	疳	ken	ki-ke1	7									
+坩	坩		ki-ke1										
+乾	干	ken	ki-ke1	1	jii2	9	ki1	10	kien1	11	0.20		
+干	干	ken	ki-ke1	2	kii1	9	ki1	10	kien1	11			
+肝	肝	ken	ki-ke1	1	kii1	9	ki1	10	kien1	11			
+竿	竿	ken	ki-ke1	1	kii3	9	ki3	10	kien1	11			
+秆	秆		ki-ke1	1									
+稈	秆	ken	ki-ke1	1	kii3	9	ki3	10	kien3	11			
+杆	杆	ken	ki-ke1	1	kii3	9	ki3	10	kien3	11			
+桿	杆	ken	ki-ke1	1									
+酐	酐		ki-ke1									化學用字	
+矸	矸		ki-ke1									化學用字	
+玕	玕	ken	ki-ke1	7									
+媣	媣		ki-ke1										
+漧	漧		ki-ke1										
+迀	迀		ki-ke1										
+鳱	鳱		ki-ke1										
+該	该	kæ	ki-1	1							0.00	僅限於“該應”一詞	
+賅	赅	kæ	ki-1	3									
+鋸	锯		ki-ke1	1	ki5	9	ki1	10	kien5	11		白讀	
+𡨢	𡨢		ki-1	1								又音	
+丐	丐	kæ	ki-1	2			ke5	10	ke5	11	0.10	又音	
+匃	丐		ki-1	2							0.10	又音	
+匄	丐	kæ	ki-1	2							0.10	又音	
+敢	敢	ken	ki-ke3	1	kii3	9	ki3	10	kien3	11			
+澉	澉		ki-ke3										
+感	感	ken	ki-ke3	1	kii3	9	ki3	10	kien3	11			
+擀	擀		ki-ke3	2								擀麵	
+趕	赶	ken	ki-ke3	1	kii3	9	ki3	10	kien3	11			
+鱤	鳡		ki-ke3										
+仠	仠		ki-ke3										
+皯	皯		ki-ke3										
+簳	簳		ki-ke3										
+衦	衦		ki-ke3										
+狗	狗		ki-ke3	1	kii1	9	ki3	10	kien3	11	0.05	兒化音殘留	
+幹	干	ken	ki-ke5	1	kii3	9	ki1	10	kien5	11			
+榦	干	ken	ki-ke5	1									
+𢁗	𢁗	ken	ki-ke5	7									
 稈	秆								kien5	11	0.00	麥稈	
-倝	倝		kI5										
-盰	盰		kI5										
-淦	淦	ken	kI5	7									
-贛	赣		kI5										
-灨	赣		kI5										
-贑	赣		kI5										
-紺	绀	ken	kI5	7									
-侅	侅	kæ	khI1	3			khi1	10					
+倝	倝		ki-ke5										
+盰	盰		ki-ke5										
+淦	淦	ken	ki-ke5	7									
+贛	赣		ki-ke5										
+灨	赣		ki-ke5										
+贑	赣		ki-ke5										
+紺	绀	ken	ki-ke5	7									
+侅	侅	kæ	khi-1	3			khi1	10					
 看	看								khien1	11	0.00	看多：很多	#
-看	看	kʽen	khI5	1	khii1	9	khi5	10	khien5	11			
-堪	堪	kʽæn	khI5	3							0.01	堪好	
-墈	墈		khI5	3					khien5	11		高峻的堤岸；高地的崖壁	
-幹	干	ken	khI5		kii3	9	ki1	10	kien5	11	0.00	又音 僅限於“啥幹”	
+看	看	kʽen	khi-khe5	1	khii1	9	khi5	10	khien5	11			
+堪	堪	kʽæn	khi-khe5	3							0.01	堪好	
+墈	墈		khi-khe5	3					khien5	11		高峻的堤岸；高地的崖壁	
+幹	干	ken	khi-khe5		kii3	9	ki1	10	kien5	11	0.00	又音 僅限於“啥幹”	
 携	携		yi2	2									
 攜	携	yi	yi2	2			zhiq8	10	yi2	11			
 擕	携		yi2	2									
@@ -3042,7 +3042,7 @@
 努	努	nu	nu2	2									
 孥	孥	nu	nu2	7	no2	9							
 駑	驽	nu	nu2	7									
-吾	吾	ngwu	NU2	2	nu6	9			nu2	11			
+吾	吾	ngwu	nu-ngu2	2	nu6	9			nu2	11			
 峿	峿		nu2										
 梧	梧	ngwu	nu2	2	nu6	9			nu2	11			
 鼯	鼯		nu2										
@@ -3316,11 +3316,11 @@
 魱	魱		wu2										
 誤	误		wu2	2					wu6	11	0.10	又音	
 悟	悟	ngwu	wu2	2			vu6	10	wu6	11	0.10	又音	
-吾	吾	ngwu	WU2	2			vu2	10	wu2	11	0.10	又音	
+吾	吾	ngwu	wu-2	2			vu2	10	wu2	11	0.10	又音	
 吳	吴	ngwu	wu2	2	vu2	9	vu2	10	wu2	11			
 吴	吴		wu2	2									
 呉	吴		wu2	2									
-蜈	蜈	ngwu	WU2	2			vu2	10	wu2	11		文讀	
+蜈	蜈	ngwu	wu-ngu2	2			vu2	10	wu2	11		文讀	
 峿	峿		wu2										
 鼯	鼯		wu2										
 齬	龉	ngwu	wu2	7									
@@ -3330,17 +3330,17 @@
 祦	祦		wu2										
 郚	郚		wu2										
 鯃	鯃		wu2										
-無	无	vu	Wu2	1					wu2	11	0.10	又音	
-无	无	vu	Wu2	1							0.10	又音	
-亡	亡	vu	Wu2	7							0.00	古同“無”	
+無	无	vu	wu-2	1					wu2	11	0.10	又音	
+无	无	vu	wu-2	1							0.10	又音	
+亡	亡	vu	wu-2	7							0.00	古同“無”	
 巫	巫						u1	10	wu2	11			
-誣	诬		Wu2	1					wu2	11	0.10	又音	
+誣	诬		wu-vu2	1					wu2	11	0.10	又音	
 腐	腐								wu2	11			
-毋	毋	vu	Wu2	2									
-鳧	凫		Wu2	1								水鳧鷺	
-鳬	凫	vu	Wu2	1								水鳧鷺	
-舞	舞	vu	Wu2	2	vu6	9	vu6	10	wu4	11			
-鵡	鹉	vu	Wu2	2	vu6	9	vu6	10	wu4	11			
+毋	毋	vu	wu-vu2	2									
+鳧	凫		wu-vu2	1								水鳧鷺	
+鳬	凫	vu	wu-vu2	1								水鳧鷺	
+舞	舞	vu	wu-vu2	2	vu6	9	vu6	10	wu4	11			
+鵡	鹉	vu	wu-vu2	2	vu6	9	vu6	10	wu4	11			
 黃	黄		wu2	1							0.00	又音 僅限於“黃狗”及“嘸郎黃狗”	
 黄	黄		wu2	1							0.00	又音 僅限於“黃狗”及“嘸郎黃狗”	
 户	户		wu4	1	vu6	9	vu6	10					
@@ -3365,8 +3365,8 @@
 圄	圄	ngwu	wu4	7									
 牾	牾	ngwu	wu4	7									
 旿	旿		wu4										
-武	武	vu	Wu4	1	vu6	9	vu6	10	wu4	11			
-務	务	vu	Wu4	1					wu6	11	0.10	又音	
+武	武	vu	wu-vu4	1	vu6	9	vu6	10	wu4	11			
+務	务	vu	wu-4	1					wu6	11	0.10	又音	
 父	父								wu4	11			
 撫	抚								wu4	11			
 婦	妇								wu4	11			
@@ -3397,8 +3397,8 @@
 窹	窹		wu6										
 逜	逜		wu6										
 遻	遻		wu6										
-戊	戊	vu	Wu6	1	vu6	9							
-霧	雾	vu	Wu6	1	vu6	9	vu6	10	wu6	11	0.10	又音	
+戊	戊	vu	wu-vu6	1	vu6	9							
+霧	雾	vu	wu-6	1	vu6	9	vu6	10	wu6	11	0.10	又音	
 烏	乌	u	u1	1	u1	9	u1	10	u1	11			
 塢	坞	u	u1	2	u5	9	u5	10	u1	11			
 隖	坞		u1	2									
@@ -3691,6 +3691,7 @@
 庽	庽		gniu6										
 芋	芋 		gniu6	1							0.01	“芋”處在詞的末尾讀[ȵy˨˩˧]	
 餌	饵				gniu6	9						餌頭(鎮海)	
+原	原		kniu1	3							0.00	僅限於“原方”	
 靴	靴		shiu1	1	shiu1	9	shiu1	10	shiu5	11			
 鞾	靴	hyü	shiu1	1	shiu1	9							
 虛	虚	hyü	shiu1	1	shiu1	9	shiu1	10	shiu1	11			
@@ -4173,7 +4174,7 @@
 嘎	嘎		ga2		ga2	9							
 嘠	嘎		ga2										
 茄	茄		ga2	1			gaq8	10	ga2	11		番茄	
-伽	伽		ga2									0.10	
+伽	伽		ga2								0.10		
 懈	懈		ga4	1			ga6	10			0.00	懈門	
 解	解		ga4	1	ga6	9					0.01	解兩刀	
 𨮂	𨱕		ga4	3									
@@ -6019,14 +6020,14 @@
 嬭	奶		ne4								0.00	兒化殘留	
 耐	耐	næ	ne6	1	ne6	9	ne6	10	ne6	11			
 螚	螚		ne6										
-廿	廿	nyiæn	nE6	1	ne6	9			gniae6	11			
-念	念	nyiæn	nE6	1	ne6	9	ne6	10	gniae6	11			
-唸	念		nE6	1					gniae6	11			
-驗	验		nE6	2	ne6	9	ne6	10	gniae6	11			
-騐	验	nyiæn	nE6	2	ne6	9							
-験	验		nE6	2									
-𦁤	𦁤	nyiæn	nE6	7									
-䧔	䧔	nyiæn	nE6	7									
+廿	廿	nyiæn	ne-gnie6	1	ne6	9			gniae6	11			
+念	念	nyiæn	ne-gnie6	1	ne6	9	ne6	10	gniae6	11			
+唸	念		ne-gnie6	1					gniae6	11			
+驗	验		ne-gnie6	2	ne6	9	ne6	10	gniae6	11			
+騐	验	nyiæn	ne-gnie6	2	ne6	9							
+験	验		ne-gnie6	2									
+𦁤	𦁤	nyiæn	ne-gnie6	7									
+䧔	䧔	nyiæn	ne-gnie6	7									
 罱	罱	nen	ne6	1								罱河泥	
 奶	奶		nhe5	1	nhe5	9	nhae5	10	nhae5	11	0.01	兒化殘留	
 嬭	奶	næ	nhe5	1							0.01	兒化殘留	
@@ -6323,7 +6324,7 @@
 辦	办	bæn	bae6	1	bae6	9	bae6	10	bae6	11			
 瓣	瓣	bæn	bae6	1	bae6	9	bae6	10	bae6	11			
 釆	釆		bae6										
-埋	埋	mæ	mAE2	2	mae2	9	mae2	10	mae2	11			
+埋	埋	mæ	mae-me2	2	mae2	9	mae2	10	mae2	11			
 蠻	蛮	mæn	mae2	1	mae2	9	mae2	10	mae2	11		野蠻	
 鬘	鬘	mæn	mae2	7									
 爿	爿				mae2	9					0.00		
@@ -7034,7 +7035,7 @@
 詀	𧮪		tshoe1	1								暗中挑撥離間，本字當爲詀	
 篡	篡	tsʽön	tshoe1	2					tshoen1	11		篡位	
 簒	篡		tshoe1	2									
-穿	穿	cʽün	tshOE1	1	tshoe1	9	tsheu1	10	tshoen1	11			
+穿	穿	cʽün	tshoe1	1	tshoe1	9	tsheu1	10	tshoen1	11			
 川	川	cʽün	tshoe1	2	tshoe1	9	tsheu1	10	tshoen1	11			
 氚	氚		tshoe1									化學用字	
 筌	筌	cʽün	tshoe1	7									
@@ -7068,9 +7069,9 @@
 釧	钏	cʽün	tshoe5	7									
 全	全	djün	dzoe2	1	dzoe2	9	dzeu2	10	dzoen2	11			
 痊	痊	cʽün	dzoe2	2	dzoe2	9							
-傳	传	djün	dzOE2	2	dzoe2	9			dzoen2	11			
-泉	泉	djün	DZOE2	1	dzoe2	9	dzeu2	10	dzoen2	11			
-椽	椽	djün	DZOE2	1	dzoe2	9	dzeu6	10	dzoen2	11			
+傳	传	djün	dzoe2	2	dzoe2	9			dzoen2	11			
+泉	泉	djün	dzoe2	1	dzoe2	9	dzeu2	10	dzoen2	11			
+椽	椽	djün	dzoe2	1	dzoe2	9	dzeu6	10	dzoen2	11			
 猭	猭	djün	dzoe2	7									
 諓	𬣡		dzoe2	1								因惦記而反復念叨	
 欑	𪴙		dzoe2										
@@ -7084,7 +7085,7 @@
 禪	禅						dzeu2	10			0.00	禪宗	
 踹	踹		dzoe4										
 𩔊	𩔊	djün	dzoe4	7									
-篆	篆	djün	DZOE4	2	dzoe2	9	dzeu6	10	dzoen4	11			
+篆	篆	djün	dzoe4	2	dzoe2	9	dzeu6	10	dzoen4	11			
 瑑	瑑	djün	dzoe4	7									
 撰	撰	djün	dzoe4	2			dzeu6	10	dzoen4	11			
 譔	撰	djün	dzoe4	2									
@@ -7122,8 +7123,8 @@
 諠	喧	hyün	soe5	2	soe1	9			soen5	11			
 然	然	jün	zoe2	2	zoe6	9	zeu6	10					
 燃	燃	jün	zoe2	2	zoe6	9	zeu6	10					
-船	船	jün	ZOE2	1	zoe2	9	zeu2	10	zoen2	11			
-舩	船		ZOE2	1									
+船	船	jün	zoe2	1	zoe2	9	zeu2	10	zoen2	11			
+舩	船		zoe2	1									
 羨	羡		zoe2	2	zoe6	9	zeu6	10	zoen6	11			
 羡	羡	jün	zoe2	2									
 單	单	jün	zoe2	2	zoe6	9	zeu6	10	zoen2	11	0.01	姓	
@@ -7371,7 +7372,6 @@
 忸	忸		gnieu4										
 糅	糅		gnieu6										
 扭	扭		knieu1	1	gnieu6	9	gnieu6	10	gnieu4	11			
-原	原		knieu1	3	gnioe2	9	gniu2	10	gnioen2	11	0.00	僅限於“原方”	
 收	收	siu	shieu1	1	shieu1	9			shieu1	11			
 収	收		shieu1	1									
 修	修	siu	shieu1	1	shieu1	9	shieu1	10	shieu1	11			
@@ -7791,29 +7791,29 @@
 憞	憞		dei6										
 譈	譈		dei6										
 墜	坠				dei6	9					0.00	墜肚(鎮海)	
-南	南	nen	nEI2	2	nei2	9	nei2	10	nei2	11			
-楠	楠	nen	nEI2	1									
-枏	楠		nEI2	1									
-柟	楠		nEI2	1									
-腩	腩		nEI2						nei6	11			
-喃	喃	nen	nEI2	7									
-諵	諵	nen	nEI2	7									
-男	男	nen	nEI2	1	nei2	9	nei2	10	nei2	11			
-抩	抩		nEI2										
+南	南	nen	nei-nae2	2	nei2	9	nei2	10	nei2	11			
+楠	楠	nen	nei-nae2	1									
+枏	楠		nei-nae2	1									
+柟	楠		nei-nae2	1									
+腩	腩		nei-nae2						nei6	11			
+喃	喃	nen	nei-nae2	7									
+諵	諵	nen	nei-nae2	7									
+男	男	nen	nei-nae2	1	nei2	9	nei2	10	nei2	11			
+抩	抩		nei-nae2										
 餒	馁	ne	nei4	2					nei2	11			
 娞	娞		nei4										
 鮾	鮾		nei4										
-湳	湳	nen	nEI4	7									
-揇	揇		nEI4										
-萳	萳		nEI4										
-蝻	蝻		nEI4										
+湳	湳	nen	nei-nae4	7									
+揇	揇		nei-nae4										
+萳	萳		nei-nae4										
+蝻	蝻		nei-nae4										
 耐	耐		nei6	4							0.00	僅限於“耐心耐相”	
 內	内	nen	nei6	2	nei6	9	nei6	10					
 内	内	nen	nei6	2	nei6	9	nei6	10					
 汭	汭		nei6	3									
 𤿏	𤿏		nei6	1							578		
 軟	软				nei6	9					0.00	白讀	#
-婻	婻	nen	nEI6	7									
+婻	婻	nen	nei-nae6	7									
 雷	雷	le	lei2	1	lei2	9	lei2	10	lei2	11			
 靁	靁		lei2									古同“雷”	
 𡀂	𡀂		lei2	1					lei2	11			
@@ -7879,10 +7879,10 @@
 檇	檇		tsei1										
 嶉	嶉		tsei1										
 脧	脧		tsei1										
-簪	簪	tsen	tsEI1	1			tsei1	10	tsei5	11			
-簮	簪		tsEI1	1									
-𨯩	𨯩	tsen	tsEI1	7									
-鐕	鐕		tsEI1										
+簪	簪	tsen	tsei-tse1	1			tsei1	10	tsei5	11			
+簮	簪		tsei-tse1	1									
+𨯩	𨯩	tsen	tsei-tse1	7									
+鐕	鐕		tsei-tse1										
 昝	昝	tse	tsei3	7									
 趡	趡	tse	tsei3	7									
 踓	踓	tse	tsei3	7									
@@ -8003,8 +8003,8 @@
 瘁	瘁	ze	zei2	2	tshei1	9							
 睡	睡	ze	zei2	2	zei2	9	zei6	10	zei6	11	1000		
 瑞	瑞	ze	zei2	2	zei6	9	zei6	10	zei6	11			
-蠶	蚕	zen	zEI2	1	zei6	9	zei6	10	zei2	11			
-鏨	錾	zen	zEI2	7									
+蠶	蚕	zen	zei-ze2	1	zei6	9	zei6	10	zei2	11			
+鏨	錾	zen	zei-ze2	7									
 𨅔	𨅔	zen	zei2	7									
 惢	惢		zei4										
 蕊	蕊		zei4	2	zei2	9	zei6	10					
@@ -8041,103 +8041,103 @@
 篲	篲		zei6										
 鏏	鏏		zei6										
 蔧	蔧		zei6										
-蚶	蚶	hen	hEI1	2							0.00	又音	
-酣	酣	hen	hEI1	2							0.00	又音	
-邯	邯	hen	hEI1	7							0.00		
-炶	炶		hEI1								0.00		
-甝	甝		hEI1								0.00		
-魽	𫠐		hEI1								0.00		
-鼾	鼾	hen	hEI1	2							0.00	又音	
-頇	顸		hEI1								0.00		
-憨	憨	hen	hEI1	7							0.00		
-𩈣	𩈣		hEI1	5							0.00	又音 紅出𩈣𩈣	
-㟏	㟏		hEI1								0.00		
-谽	谽		hEI1								0.00		
-馠	馠		hEI1								0.00		
-罕	罕		hEI1	2							0.00	又音	
-許	许		hEI1	2							0.05	白讀 許願心	
-撼	撼	hen	hEI1	2							0.00	又音	
-憾	憾	ʽæn	hEI1	2							0.00	又音	
-咳	咳		hEI1	4							0.05	表示惋惜或後悔	
-蔊	蔊		hEI3								0.00		
-厂	厂	hen	hEI5	7							0.00		
-漢	汉	hen	hEI5	1							0.00	又音	
-熯	熯	hen	hEI5	1							55	利用水蒸氣的熱力使食物熟或熱	
-旰	旰	hen	hEI5	7							0.00		
-哎	哎		ghEI2	1								嘆詞，用於招呼及應答	
-含	含	ʽen	ghEI2	1	ghei2	9	ghei2	10	ghei2	11			
-焓	焓		ghEI2	1								熱力學用字	
-晗	晗		ghEI2										
-梒	梒		ghEI2										
-筨	筨		ghEI2										
-鋡	鋡		ghEI2										
-函	函		ghEI2	2	ghei2	9	ghei2	10	ghei2	11			
-圅	函		ghEI2	2									
-涵	涵	ʽen	ghEI2	7	ghei2	9							
-韓	韩	ʽen	ghEI2	2	ghei6	9	ghei2	10	ghei2	11			
-寒	寒	ʽen	ghEI2	1	ghei2	9	ghei2	10	ghei2	11			
-晐	晐		ghEI2	1								滿；遍	
-翰	翰	ʽen	ghEI2	2	ghei6	9	ghei6	10	ghei6	11			
-瀚	瀚	ʽen	ghEI2	2									
-邗	邗		ghEI2										
-頇	顸	ʽen	ghEI2	7									
-虷	虷		ghEI2										
-鶾	鶾		ghEI2										
-銜	衔		ghEI2	2					ghei2	11	0.05	又音	
-啣	衔		ghEI2	2							0.05	又音	
-衘	衔		ghEI2	2							0.05	又音	
-菡	菡	ʽen	ghEI4	7									
-𢃗	𢃗	ʽen	ghEI4	7									
-捍	捍	ʽen	ghEI4	7	ghei2	9							
-扞	捍		ghEI4	7									
-旱	旱	ʽen	ghEI4	1	ghei2	9	ghei6	10	ghei6	11			
-焊	焊		ghEI4	2	ghei6	9	ghei6	10	ghei6	11			
-銲	焊		ghEI4	2									
-釬	焊	ʽen	ghEI4	2									
-皔	皔		ghEI4										
-頷	颔	ʽen	ghEI4	7									
-汗	汗	ʽen	ghEI6	1	ghei6	9	ghei6	10	ghei6	11			
-悍	悍	ʽen	ghEI6	7	ghei2	9							
-猂	悍		ghEI6	7									
-馯	𫘛	ʽen	ghEI6	7									
-哻	哻	ʽen	ghEI6	7									
-閈	闬		ghEI6										
-垾	垾		ghEI6										
-駻	𫘣		ghEI6										
-螒	螒		ghEI6										
-雗	雗		ghEI6										
-浛	浛		ghEI6										
-琀	琀		ghEI6										
-哎	哎		EI1	1								嘆詞，用於招呼及應答	
-安	安	en	EI1	1	ei1	9	ei1	10	ei1	11			
+蚶	蚶	hen	hei-1	2							0.00	又音	
+酣	酣	hen	hei-1	2							0.00	又音	
+邯	邯	hen	hei-1	7							0.00		
+炶	炶		hei-1								0.00		
+甝	甝		hei-1								0.00		
+魽	𫠐		hei-1								0.00		
+鼾	鼾	hen	hei-1	2							0.00	又音	
+頇	顸		hei-1								0.00		
+憨	憨	hen	hei-1	7							0.00		
+𩈣	𩈣		hei-1	5							0.00	又音 紅出𩈣𩈣	
+㟏	㟏		hei-1								0.00		
+谽	谽		hei-1								0.00		
+馠	馠		hei-1								0.00		
+罕	罕		hei-1	2							0.00	又音	
+許	许		hei-1	2							0.05	白讀 許願心	
+撼	撼	hen	hei-1	2							0.00	又音	
+憾	憾	ʽæn	hei-1	2							0.00	又音	
+咳	咳		hei-1	4							0.05	表示惋惜或後悔	
+蔊	蔊		hei-3								0.00		
+厂	厂	hen	hei-5	7							0.00		
+漢	汉	hen	hei-5	1							0.00	又音	
+熯	熯	hen	hei-5	1							55	利用水蒸氣的熱力使食物熟或熱	
+旰	旰	hen	hei-5	7							0.00		
+哎	哎		ghei-ghe2	1								嘆詞，用於招呼及應答	
+含	含	ʽen	ghei-ghe2	1	ghei2	9	ghei2	10	ghei2	11			
+焓	焓		ghei-ghe2	1								熱力學用字	
+晗	晗		ghei-ghe2										
+梒	梒		ghei-ghe2										
+筨	筨		ghei-ghe2										
+鋡	鋡		ghei-ghe2										
+函	函		ghei-ghe2	2	ghei2	9	ghei2	10	ghei2	11			
+圅	函		ghei-ghe2	2									
+涵	涵	ʽen	ghei-ghe2	7	ghei2	9							
+韓	韩	ʽen	ghei-ghe2	2	ghei6	9	ghei2	10	ghei2	11			
+寒	寒	ʽen	ghei-ghe2	1	ghei2	9	ghei2	10	ghei2	11			
+晐	晐		ghei-ghe2	1								滿；遍	
+翰	翰	ʽen	ghei-ghe2	2	ghei6	9	ghei6	10	ghei6	11			
+瀚	瀚	ʽen	ghei-ghe2	2									
+邗	邗		ghei-ghe2										
+頇	顸	ʽen	ghei-ghe2	7									
+虷	虷		ghei-ghe2										
+鶾	鶾		ghei-ghe2										
+銜	衔		ghei-ghe2	2					ghei2	11	0.05	又音	
+啣	衔		ghei-ghe2	2							0.05	又音	
+衘	衔		ghei-ghe2	2							0.05	又音	
+菡	菡	ʽen	ghei-ghe4	7									
+𢃗	𢃗	ʽen	ghei-ghe4	7									
+捍	捍	ʽen	ghei-ghe4	7	ghei2	9							
+扞	捍		ghei-ghe4	7									
+旱	旱	ʽen	ghei-ghe4	1	ghei2	9	ghei6	10	ghei6	11			
+焊	焊		ghei-ghe4	2	ghei6	9	ghei6	10	ghei6	11			
+銲	焊		ghei-ghe4	2									
+釬	焊	ʽen	ghei-ghe4	2									
+皔	皔		ghei-ghe4										
+頷	颔	ʽen	ghei-ghe4	7									
+汗	汗	ʽen	ghei-ghe6	1	ghei6	9	ghei6	10	ghei6	11			
+悍	悍	ʽen	ghei-ghe6	7	ghei2	9							
+猂	悍		ghei-ghe6	7									
+馯	𫘛	ʽen	ghei-ghe6	7									
+哻	哻	ʽen	ghei-ghe6	7									
+閈	闬		ghei-ghe6										
+垾	垾		ghei-ghe6										
+駻	𫘣		ghei-ghe6										
+螒	螒		ghei-ghe6										
+雗	雗		ghei-ghe6										
+浛	浛		ghei-ghe6										
+琀	琀		ghei-ghe6										
+哎	哎		ei-e1	1								嘆詞，用於招呼及應答	
+安	安	en	ei-e1	1	ei1	9	ei1	10	ei1	11			
 揞	揞								ei3	11	0.00	放好	#
-桉	桉		EI1										
-鮟	𩽾		EI1										
-庵	庵		EI1	1	ei1	9	ei1	10	ei1	11			
-菴	庵	en	EI1	2									
-鵪	鹌		EI1										
-馣	馣		EI1										
-氨	氨		EI1									化學用字	
-侒	侒		EI1										
-諳	谙	en	EI1	7									
-堷	堷	en	EI1	7									
-腤	腤		EI1										
-盫	盫	en	EI1	7									
+桉	桉		ei-e1										
+鮟	𩽾		ei-e1										
+庵	庵		ei-e1	1	ei1	9	ei1	10	ei1	11			
+菴	庵	en	ei-e1	2									
+鵪	鹌		ei-e1										
+馣	馣		ei-e1										
+氨	氨		ei-e1									化學用字	
+侒	侒		ei-e1										
+諳	谙	en	ei-e1	7									
+堷	堷	en	ei-e1	7									
+腤	腤		ei-e1										
+盫	盫	en	ei-e1	7									
 暗	暗	en			ei1	9					0.00		
-銨	铵		EI3									化學用字	
-黯	黯	en	EI3	7									
-唵	唵		EI3										
-垵	埯		EI3										
-黭	黭		EI3										
-闇	暗	en	EI5	2									
-暗	暗	en	EI5	1	ei5	9	ei5	10	ei5	11			
-按	按	en	EI5	1	ei5	9	ei5	10	ei5	11			
-案	案	en	EI5	1	ei5	9	ei5	10	ei5	11			
-胺	胺		EI5									化學用字	
-鞍	鞍	en	EI5	2	ei1	9	ei1	10	ei1	11			
-鞌	鞍		EI5	2									
-洝	洝		EI5										
-荌	荌		EI5										
+銨	铵		ei-e3									化學用字	
+黯	黯	en	ei-e3	7									
+唵	唵		ei-e3										
+垵	埯		ei-e3										
+黭	黭		ei-e3										
+闇	暗	en	ei-e5	2									
+暗	暗	en	ei-e5	1	ei5	9	ei5	10	ei5	11			
+按	按	en	ei-e5	1	ei5	9	ei5	10	ei5	11			
+案	案	en	ei-e5	1	ei5	9	ei5	10	ei5	11			
+胺	胺		ei-e5									化學用字	
+鞍	鞍	en	ei-e5	2	ei1	9	ei1	10	ei1	11			
+鞌	鞍		ei-e5	2									
+洝	洝		ei-e5										
+荌	荌		ei-e5										
 揞	揞								ei5	11	0.00	揞杖棒	#
 癸	癸	kwe	kuei1	1	kuei1	9	kuei3	10	kuei3	11			
 葵	葵		kuei1	2	kuei1	9	kuei5	10			0.05	文讀	
@@ -9164,7 +9164,7 @@
 蕅	蕅		ngeu4										
 隅	隅				ngei6								#
 𩥋	𩥋	ngeo	ngeu6	7									
-吼	吼						heu1	10			0.00		
+吼	吼		heu1	3			heu1	10			0.00	急迫；着急	
 齁	齁	heo	heu1	7									
 呴	呴		heu1										
 𤘽	𤘽	heo	heu3	7									
@@ -9517,6 +9517,7 @@
 場	场		jian2	1	jian2	9	jian2	10	jian2	11			
 塲	场	dziang	jian2	1									
 戕	戕	dziang	jian2	7									
+庠	庠	dziang	jian2								0.00		
 薔	蔷	ziang	jian2	1	zhian2	9							
 强	强	gyiang	jian2	1	jian6	9	jian2	10					
 強	强		jian2	1	jian6	9	jian2	10	jian2	11			
@@ -10601,6 +10602,8 @@
 棻	棻	feng	fen1	7									
 𦐈	𦐈	feng	fen1	7									
 衯	衯	feng	fen1	7									
+帉	帉		fen1								0.00	拖帉 又音	
+𢁥	𢁥		fen1								0.00	拖帉 又音	
 餴	餴		fen1										
 饙	饙		fen1										
 鋒	锋	fong	fen1	3							0.00	僅限於“鋒快”	

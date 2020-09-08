@@ -7848,7 +7848,6 @@
 讄	讄		lei4										
 屢	屡	le	lei4	2	lei6	9	lei6	10					
 磊	磊	le	lei4	7	lei6	9							
-礌	礌		lei4						lei6	11		古同“磊”	
 耒	耒	le	lei4	7									
 誄	诔	le	lei4	7									
 頛	頛		lei4										
@@ -7860,9 +7859,12 @@
 纇	颣	le	lei6	7									
 淚	泪	le	lei6	2	lei2	9			lei6	11	0.06	文讀	
 泪	泪		lei6	2							0.06	文讀	
-擂	擂	le	lei6	1	lei6	9			lei6	11	578	擂倒	
+擂	擂	le	lei6	1	lei6	9			lei6	11	55	碾	
 𢺢	𢺢		lei6	1									
 攂	攂	le	lei6	7									
+礌	礌		lei6						lei6	11	578	滾動	
+㔣	㔣		lei6									滾動	
+𨀤	𨀤		lei6								55	躺	
 洡	洡		lei6	1									
 累	累	le	lei6	3	lei6	9	lei6	10	lei6	11	0.05	沾；沾上污物	
 瘰	瘰								lei6	11	0.00	小瘡	#
@@ -9487,9 +9489,9 @@
 𪁺	𪁺	tsʽiang	chian3	7									
 僘	僘		chian3										
 搶	抢	tsʽiang	chian3	1	chian3	9	chian3	10	chian3	11			
-𪰻	𪰻		chian3	3								一𪰻	
+𪰻	𪰻		chian3	3								一𪰻	#
 鋹	鋹		chian3										
-昶	昶	tsʽiang	chian3	7									
+昶	昶	tsʽiang	chian3	7							578	一段時間	
 摤	摤		chian3										
 羥	羟		chian3									化學用字	
 强	强	kyʽiang	chian3	7	chian1	9					0.05	強迫	
@@ -13563,8 +13565,8 @@
 菈	菈		laq8										
 砳	砳		laq8										
 ⿰舟巤	⿰舟巤		laq8	3								⿰舟巤子	
-迾	迾		laq8	1					laq8	11		遮攔；阻擋	
-攔	拦		laq8	2	laq8	9					0.00	白讀	
+迾	迾		laq8	1					laq8	11		遮攔；阻擋	#
+攔	拦		laq8	2	laq8	9						白讀	
 欄	栏				laq8	9					0.00	白讀 柵欄(鎮海)	
 勒	勒	leh	laq8	1	laq8	9	laq8	10	laq8	11	45114		
 了	了		laq8	3									
@@ -14451,12 +14453,13 @@
 𧰵	𧰵		toq7	1								𧰵鼓	
 剢	剢		toq7										
 厾	厾		toq7	6					toq7	11		厾落	
-𡰪	𡰪		toq7	1								𡰪底	
-㞘	㞘		toq7	1									
+䐁	䐁		toq7	1								䐁底	
+𡰪	𡰪		toq7	1								“䐁”俗作“𡰪”	
+㞘	㞘		toq7	1							10	“䐁”亦作“㞘”	
 沰	沰		toq7	1								量詞，指稠黏的液體或有較多水分的堆狀固體	
 啄	啄		toq7	1								禽類用嘴叩擊、夾食	
 裰	裰	toh	toq7										
-築	築	coh	toq7	3							0.05	“篤”本字爲“築”	
+築	築	coh	toq7	3							0.05	表豎、直插義的“篤”本字爲“築”	
 得	得	teh	toq7	3							0.00	僅限於“得知”	
 跌	跌	tih	toq7	3							0.00	又音 僅限於“跌落”	
 搭	搭		toq7	3							0.05	又音	
@@ -15284,6 +15287,7 @@
 趔	趔		liq8										
 茢	茢	lih	liq8	7									
 咧	咧		liq8										
+迾	迾		liq8										
 櫟	栎	lih	liq8	2									
 礫	砾	lih	liq8	2									
 躒	跞	lih	liq8	7									

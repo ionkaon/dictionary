@@ -12680,7 +12680,7 @@
 弄	弄								non6	11	0.00	咋弄弄(定海)	
 襛	襛		nhon1	1								穿得過多	
 齈	齈	nong	nhon5	1	nhon5	9	nhon5	10				黃齈鼻頭	
-齆	齆		nhon5	1									
+齆	齆		nhon5	1									#
 噥	哝	nong	nhon5	3									
 隆	隆	long	lon2	1	lon2	9	lon2	10	lon2	11			
 窿	窿		lon2										
@@ -13043,7 +13043,7 @@
 𤌏	𤌏	ong	on1	7									
 䩺	䩺	ong	on1	7									
 鶲	鹟		on1										
-齆	齆	ong	on1	7							0.01	文讀	
+齆	齆	ong	on1	7								文讀	
 紅	红		on1	3							0.00	僅限於“鼻頭紅”	
 屋	屋	oh	on1	3	on1	9	on1	10			0.00	又音 僅限於“五架屋”等	
 蓊	蓊	ong	on3	1			on3	10				芋艿蓊	
@@ -13215,7 +13215,7 @@
 哵	哵		paq7										
 玐	玐		paq7										
 釟	𫓥		paq7										
-不	不	peh	paq7	1	paq7	9	paq7	10	paq7	11			
+不	不	peh	paq7	1	paq7	9	paq7	10	paq7	11	100000		
 鈈	钚		paq7									化學元素	
 撥	拨	peh	paq7	1	paq7	9	paq7	10	paq7	11	331919		
 癶	癶	peh	paq7	7									
@@ -13347,7 +13347,7 @@
 珐	珐		faq7	2									
 琺	珐		faq7	2	faq7	9							
 鍅	钫		faq7									化學元素，又稱“鈁”	
-弗	弗	feh	faq7	1	faq7	9			faq7	11			
+弗	弗	feh	faq7	1	faq7	9			faq7	11	5000		
 彿	佛	feh	faq7	2								彷彿	x
 佛	佛		faq7	2			faq7	10			0.02	彷彿	
 髴	佛		faq7	2								彷彿	x
@@ -13374,7 +13374,7 @@
 笰	笰		faq7										
 紱	绂		faq7										
 翇	翇		faq7										
-勿	勿		faq7	3					faq7	11	0.05	又音 不	
+勿	勿		faq7	3					faq7	11	25	又音 不	
 乏	乏	vah	vaq8	2	vaq8	9	vaq8	10	vaq8	11			
 罰	罚	vah	vaq8	1	vaq8	9	vaq8	10	vaq8	11			
 罸	罚		vaq8	1									
@@ -13388,7 +13388,7 @@
 垡	垡	vah	vaq8	7									
 瞂	瞂		vaq8										
 藅	藅		vaq8										
-勿	勿		vaq8	1	faq7	9	vaq8	10	vaq8	11	295400		
+勿	勿		vaq8	1	faq7	9	vaq8	10	vaq8	11	100000		
 物	物	veh	vaq8	1	vaq8	9	vaq8	10	vaq8	11			
 伆	伆	veh	vaq8	7									
 弗	弗		vaq8	3	faq7	9			faq7	11	590801	不，字也作“勿”	

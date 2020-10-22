@@ -6776,6 +6776,7 @@
 𧟉	裥		kae3	1	kae3	9	kae3	10	kae3	11		打襇	
 橄	橄	ken	kae3	1	kae3	9	kae3	10					
 柬	柬				kae3	9					0.00	白讀	
+扴	扴		kae3								578	擦（屁股）	
 諫	谏		kae5	1							0.05	教育訓誡	
 鑒	鉴		kae5	2							0.05	白讀	
 鑑	鉴		kae5	2							0.05	白讀	
@@ -6785,7 +6786,7 @@
 椷	缄		kae5	2								白讀 緘默	
 尷	尴		kae5	1	kae1	9	kae1	10	kae1	11			
 尶	尴	kæn	kae5	1									
-揩	揩		kae5	3	kha1	9	kha1	10	kha1	11	0.05	擦（屁股）	
+揩	揩		kae5	3	kha1	9	kha1	10	kha1	11	0.05	擦（屁股）	#
 鉛	铅	kʽæn	khae1	1	khae1	9	khae1	10	khae1	11			
 鈆	铅		khae1	1									
 堪	堪	kʽæn	khae1	2	khae1	9	khae1	10					
@@ -13829,7 +13830,6 @@
 鵊	𫛥		kaq7										
 圿	圿		kaq7										
 忦	忦		kaq7										
-扴	扴		kaq7										
 鞂	鞂		kaq7										
 鴶	鴶		kaq7										
 介	介		kaq7	1							0.05		
@@ -13871,7 +13871,6 @@
 瞌	瞌	kʽah	khaq7	1	khaq7	9			khaq7	11			
 搕	搕		khaq7	3									
 溘	溘		khaq7										
-嗑	嗑		khaq8										
 嗑	嗑		khaq7										
 榼	榼		khaq7										
 掐	掐		khaq7	1	khaq7	9	khaq7	10	khaq7	11			

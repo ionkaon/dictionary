@@ -1962,6 +1962,7 @@
 九十一	cieu zyuq iq	153					
 九	cieu3	153					
 正氣	cin chi	265					
+正槍斃	cin chian bi				撲克牌中的大王		
 整張	cin cian						
 進賬	cin cian	266	186	135			
 整張頭	cin cian deu						
@@ -4002,6 +4003,7 @@
 麩皮	fu bi	44					
 夫妻	fu chi	44					
 夫妻分牀	fu chi fen zaon						
+副槍斃	fu chian bi				撲克牌中的小王		
 斧頭	fu deu	44					
 斧頭䗫𧉹	fu deu mo tsaq		112				55
 斧頭包	fu deu pau	44	78				55
@@ -7138,6 +7140,7 @@
 揢簍	khaq leu		106				55
 剋落	khaq loq	318	143	144			
 揢籮	khaq lou		106	389			55
+剋米	khaq mi				勒索財物		
 掐膿	khaq non	318					55
 客邊	khaq pi	318	23	281			55
 磕煞	khaq saq	318	166	464			578
@@ -13448,6 +13451,7 @@
 小喫	shiau chioq	117					
 少喫多滋味	shiau chioq tou tsy vi						
 小雞	shiau ci	114					
+肖雞	shiau ci				生肖屬雞		
 小姊妹道里	shiau ci mei dau li	114					55
 小雞活靈	shiau ci waq lin						
 小姐	shiau cia	115					
@@ -13470,7 +13474,11 @@
 小頭	shiau deu	116					
 小條	shiau diau	115					
 小肚	shiau du	114					
+肖蛇	shiau dzo				生肖屬蛇		
+肖虎	shiau fu				生肖屬虎		
 小寒	shiau ghei-ghe	116					
+肖猴	shiau gheu				生肖屬猴		
+肖猴子	shiau gheu tsy				生肖屬猴		
 𢳚鑊蓋	shiau ghoq ke						
 小個桌凳撩勿着	shiau ghoq tsoq ten liau vaq dzoq						
 小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq dzoq						1
@@ -13490,6 +13498,7 @@
 小娘頭	shiau gnian deu	116	20	19			418
 小娘蟹	shiau gnian ha	116	65	21			55
 小娘屄	shiau gnian pi	116	20	19			418
+肖嘵豬	shiau gniau tsyu				生肖屬豬		
 小人	shiau gnin	116	20	19			35000
 小人頭腦	shiau gnin deu nau		33				55
 小人跑春頭磕開	shiau gnin phau tshyun deu khaq khe						
@@ -13518,6 +13527,7 @@
 小格楞敦	shiau kaq len ten	114	223	22			55
 小教爛眼	shiau kau lae ngae						
 小狗	shiau keu	116					
+肖狗	shiau keu				生肖屬狗		
 小開	shiau khe	115					
 小苦	shiau khu	115	120				55
 小苦弗喫	shiau khu vaq chioq						1
@@ -13529,15 +13539,18 @@
 小懶	shiau lae						
 小懶差腳板	shiau lae tsha ciaq pae						
 小郎菜	shiau laon tshe		72	21			55
+肖老虎	shiau lau fu				生肖屬虎		
 小老𡢿生	shiau lau gnion san						
 小老嫌	shiau lau i	115					55
 小老鼠	shiau lau tsy						
+肖老鼠	shiau lau tsy				生肖屬鼠		
 小來	shiau le	115	17	19			55
 小羅嗦	shiau lhou sou			20			
 蕭梨	shiau li		74	344			55
 小鯉花	shiau li huo			21			
 小練練	shiau li li	117					55
 小零小碎	shiau lin shiau sei		131				55
+肖龍	shiau lon				生肖屬龍		
 小籠包子	shiau lon pau tsy	116					55
 小樂惠	shiau loq wei						
 小囉嗦	shiau lou sou	114					55
@@ -13551,12 +13564,14 @@
 小梅魚	shiau mei ng		68	21			55
 笑面虎	shiau mi fu	117	49	310			
 笑面老虎	shiau mi lau fu						
+肖馬	shiau mo				生肖屬馬		
 小木鬼	shiau moq ciu						
 小木師父	shiau moq sy vu						
 小滿	shiau mun	116					
 小兒子	shiau ng tsy	117					
 小兒子囡	shiau ng tsy noe						
 小魚游出大河江	shiau ng yeu tshyuq dou ghou kaon						
+肖牛	shiau ngeu				生肖屬牛		
 小牛㹙	shiau ngeu an			20			
 小鵝	shiau ngou	116					
 小囡	shiau noe	115					55
@@ -13589,6 +13604,8 @@
 小偷	shiau theu	116					
 小㪗卵	shiau theu loe	116					55
 小偷卵	shiau theu loe		23				
+肖兔	shiau thu				生肖屬兔		
+肖兔子	shiau thu tsy				生肖屬兔		
 小店	shiau ti	114					
 小吊碼子	shiau tiau mo tsy	115					55
 小鳥碼子	shiau tiau mo tsy		32	21			55
@@ -13597,11 +13614,13 @@
 小赤佬	shiau tshaq lau	117	33				55
 小菜	shiau tshe	115					
 小菜場	shiau tshe jian	115	88	21			578
+肖鼠	shiau tshyu				生肖屬鼠		
 小衆生	shiau tson san						
 小桌凳	shiau tsoq ten	117					55
 孝子	shiau tsy	117					
 小指末頭	shiau tsy maq deu	114					55
 小豬	shiau tsyu	114					
+肖豬	shiau tsyu				生肖屬豬		
 小胡嚨	shiau u lon		45				55
 小娃	shiau uae	115	20	19, 19			55
 小娃頭	shiau uae deu	115	20	19			418
@@ -13614,6 +13633,7 @@
 小胡嚨	shiau wu lon	115	45				578
 少爺	shiau ya	117					
 小羊	shiau yan	116					
+肖羊	shiau yan				生肖屬羊		
 小陽春	shiau yan tshyun						
 燒窯個	shiau yau ghoq						55
 燒窯個	shiau yau goq	114					55

@@ -1,4 +1,4 @@
-繁體	简体	清末	甬	出處（甬）	鎮	出處（鎮）	侖	出處（侖）	定	出處（定）	字頻	備註	篩選
+繁體	简体	清末	兼容格式	出處（甬）	鎮	出處（鎮）	侖	出處（侖）	定	出處（定）	字頻	備註	篩選
 支	支	ts	tsy1	2	tsy1	9			tsy1	11			
 枝	枝	ts	tsy1	2	tsy1	9	tsy1	10	tsy1	11			
 肢	肢	ts	tsy1	1	tsy1	9	tsy1	10	tsy1	11			
@@ -517,6 +517,7 @@
 馵	馵		tsyu5										
 壴	壴		tsyu5										
 軴	軴		tsyu5										
+窒	窒		tsyu5								0.05	堵塞 又音	
 #			tsyu5										
 趨	趋		tshyu1	2	tshyu1	9	tshyu1	10	tshyu1	11			
 痴	痴	cʽü	tshyu1	2									
@@ -1449,7 +1450,7 @@
 蠡	蠡	li	li4	7									
 欚	欚		li4										
 邐	逦	li	li4	7									
-攦	攦		li4	3							418	將動物等往地上猛摔使致死	
+攦	攦		li4	3							1000	將動物等往地上猛摔使致死	
 豊	豊		li4									古同“禮”	
 禮	礼	li	li4	1	li6	9	li6	10	li4	11			
 礼	礼	li	li4	1	li6	9	li6	10	li4	11			
@@ -1543,7 +1544,7 @@
 𥷗	𥷗	li	li6	7									
 𤃀	𤃀		li6	1							25	液體往下滴	
 劙	劙		li6	3							25		
-剺	剺		li6	1					li2	11	100		
+剺	剺		li6	1					li2	11	578		
 銐	銐	li	li6	7									
 砅	砅		li6										
 慮	虑	li	li6	2	li2	9	li6	10	li6	11			
@@ -1734,7 +1735,7 @@
 蠒	茧		ci3	1									
 𥀹	𥀹	kyin	ci3	7									
 襺	襺		ci3										
-𢆞	𢆞		ci3	6								𢆞麻	
+𢆞	𢆞		ci3	6							0.00	𢆞麻	
 檢	检	kyin	ci3	2	cii3	9	ci3	10	cien3	11			
 柬	柬	kyin	ci3	2	cii1	9	ci3	10	cien3	11			
 撿	捡		ci3	2									
@@ -2804,7 +2805,7 @@
 #			yi6									煙韻	
 衣	衣	i	i1	1	i1	9	i1	10	i1	11			
 銥	铱		i1									化學元素	
-挔	挔		i1	3								咋挔	
+挔	挔		i1	3							578	咋挔	
 醫	医	i	i1	1	i1	9	i1	10	i1	11			x
 𧕪	𧕪	i	i1	7									
 瞖	翳		i1	1					i5	11			
@@ -2892,7 +2893,7 @@
 殪	殪		i5										
 撎	撎		i5										
 鷧	鷧		i5										
-挔	挔		i5	3									
+挔	挔		i5	3							55		
 裔	裔	i	i5	7									
 㵝	㵝	i	i5	7									
 瘞	瘗	i	i5	7									
@@ -4341,6 +4342,8 @@
 誽	誽		na2										
 南	南		na2								0.00	南無阿彌陀佛	
 倷	倷		na2								55	“倷阿姆”合音，多用於詈語	
+吶	呐		na2	4									
+呐	呐		na2	3									
 #			na2										
 奶	奶	na	na4	1	na6	9	na6	10	na4	11			
 嬭	奶		na4	1									
@@ -4404,7 +4407,7 @@
 叉	叉		tsha1	3					tsha1	11	0.00	僅限於“軋叉”	
 杈	杈								tsha1	11			
 釵	钗	tsʽa	tsha1	7	tshe1	9	tsha1	10	tsha1	11		文讀	
-扠	扠		tsha1	3									
+扠	扠		tsha1	3							55	顺手拿走别人的东西	
 攃	攃		tsha1	3								攃眼	
 插	插		tsha1	3							0.00	“攃”通作“插”	#
 #			tsha1										
@@ -4982,6 +4985,7 @@
 逃	逃	dao	dau2	1	dau2	9	dau2	10	dau2	11			
 咷	咷	dao	dau2	7									
 鼗	鼗	dao	dau2	7									
+鞀	鼗		dau2										
 駣	駣	dao	dau2	7									
 陶	陶	dao	dau2	1	dau2	9	dau2	10	dau2	11			
 淘	淘	dao	dau2	1	dau2	9	dau2	10	dau2	11			
@@ -4998,9 +5002,9 @@
 匋	匋		dau2										
 裪	裪		dau2										
 錭	錭		dau2										
-鞀	鼗		dau2										
 鞉	鞉		dau2										
 騊	𫘦		dau2										
+蹈	蹈	dao	dau2								0.00	眼睛或眼皮向上翻動	
 #			dau2										
 道	道	dao	dau4	1	dau6	9	dau6	10	dau4	11			
 衜	衜	dao	dau4	7									
@@ -5047,6 +5051,7 @@
 橈	桡	nao	nau6	7									
 #			nau6										
 吶	呐		nhau1								0.05		
+呐	呐		nhau1								0.05		
 #			nhau1										
 勞	劳	lao	lau2	1	lau2	9	lau2	10	lau2	11			
 澇	涝	lao	lau2	2	lhau5	9	lau6	10	lau2	11			
@@ -6708,8 +6713,9 @@
 #			se5										
 裁	裁		ze2	1	ze2	9	ze2	10	ze2	11			
 材	材	zæ	ze2	1	ze2	9					0.01	棺材	
-載	载				ze2	9					0.00	載子(鎮海)	
 #			ze2										
+載	载		ze6	4	ze2	9					0.00	一船爲一載	
+#			ze6										
 該	该	kæ	ke1	1	ke3	9	ke1	10	ke1	11	49284		
 陔	陔		ke1										
 垓	垓	kæ	ke1	7									
@@ -8013,6 +8019,7 @@
 杽	杽		chieu3										
 #			chieu3									尖音	
 臭	臭		chieu5	1	chieu5	9	chieu5	10	chieu5	11			
+㾭	㾭		chieu5	4									
 #			chieu5									尖音	
 籌	筹	dziu	jieu2	2	jieu2	9	jieu2	10	jieu2	11			
 疇	畴	dziu	jieu2	2									
@@ -8769,7 +8776,6 @@
 夊	夊	se	sei1	7									
 睢	睢		sei1										
 濉	濉		sei1										
-碎	碎	se	sei1	3							0.01	亂扔；亂放	
 荾	荾		sei1										
 衰	衰								sei1	11			
 #			sei1										
@@ -11639,7 +11645,7 @@
 #			khun1										
 款	款		khun3	2	khuoe3	9	khueu3	10	khun1	11			
 欵	款	kwʽun	khun3	2									
-窾	窾	kwʽun	khun3	7									
+窾	窾	kwʽun	khun3	4									
 歀	歀		khun3										
 #			khun3										
 歡	欢	hwun	hun1	1	huoe1	9	hueu1	10	hun1	11			
@@ -12878,7 +12884,7 @@
 侵	侵	tsʽing	chin5	2	chin1	9	chin5	10	chin1	11			
 寢	寝	tsʽing	chin5	2	chin5	9	chin3	10	chin1	11			
 秤	秤		chin5	1	chin5	9	chin5	10	chin5	11			
-親	亲	tsʽing	chin5	3	chin5	9			chin5	11	0.05	表示位置上緊挨着	
+親	亲				chin5	9			chin5	11			
 㵾	𪷍	tsʽing	chin5	7									
 靗	靗		chin5										
 掅	掅		chin5										
@@ -14187,6 +14193,8 @@
 葱	葱	tsʽong	tshon1	1									
 蔥	葱		tshon1	1	tshon1	9	tshon1	10	tshon1	11			
 楤	楤		tshon1	1					tshon5	11		楤檐	
+樬	楤		tshon1	1					tshon5	11		楤檐	
+棇	楤		tshon1	1					tshon5	11		楤檐	
 熜	熜		tshon1	3								火熜	
 焧	焧		tshon1										
 揔	揔	tsʽong	tshon1	7					tshon3	11			
@@ -15960,9 +15968,9 @@
 𧰵	𧰵		toq7	1								𧰵鼓	
 剢	剢		toq7										
 厾	厾		toq7	6					toq7	11		厾落	
-䐁	䐁		toq7	1								䐁底	
-𡰪	𡰪		toq7	1								“䐁”俗作“𡰪”	
-㞘	㞘		toq7	1							25	“䐁”亦作“㞘”	
+㞘	㞘		toq7	1							25	㞘底	
+䐁	䐁		toq7	1								“㞘”亦作“䐁”	
+𡰪	𡰪		toq7	1								“㞘”俗作“𡰪”	
 沰	沰		toq7	1								量詞，指稠黏的液體或有較多水分的堆狀固體	
 啄	啄		toq7	1								禽類用嘴叩擊、夾食	
 裰	裰	toh	toq7										
@@ -16101,7 +16109,7 @@
 #			loq8										
 摝	摝		lhoq7	1	lhoq7	9	lhoq7	10	lhoq7	11		振動；搖動	
 睩	睩		lhoq7	1			lhoq7	10	lhoq7	11			
-碌	碌								lhoq7	11			
+碌	碌		lhoq7						lhoq7	11	0.01		
 #			lhoq7										
 足	足	tsoh	tsoq7	1	tsoq7	9	tsoq7	10	tsoq7	11			
 捉	捉	tsoh	tsoq7	1	tsoq7	9	tsoq7	10	tsoq7	11			
@@ -16944,7 +16952,7 @@
 婕	婕		ciq7										
 摭	摭		ciq7										
 灼	灼	tsiah	ciq7	1									
-𢆚	𢆚		ciq7	1								量詞，捆	
+𢆞	𢆞		ciq7	1								量詞，捆	
 樍	樍		ciq7										
 卩	卩		ciq7										
 幯	幯		ciq7										
@@ -17704,7 +17712,7 @@
 鈅	钥		yuq8										
 刖	刖	yüih	yuq8	7									
 玥	玥		yuq8										
-抈	抈	yüih	yuq8	7					iuq7	11			
+抈	抈	yüih	yuq8	7					iuq7	11	55		
 跀	跀		yuq8										
 矞	矞	yüih	yuq8	7									
 鷸	鹬	yüih	yuq8	7									

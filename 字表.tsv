@@ -898,6 +898,7 @@
 痺	痹	bi	bi2	2									
 幣	币	bi	bi2	2	bi2	9	bi6	10	pi6	11			
 弊	弊	bi	bi2	2	bi6	9	bi6	10	pi6	11			
+微	微		bi2	4							0.00	稍微，低微	
 #			bi2									衣韻	
 便	便	bin	bi2	1	bii2	9	bi2	10	bien2	11	0.03	便宜	
 箯	箯	bin	bi2	7									
@@ -6106,6 +6107,7 @@
 墽	墽		chiau1										
 郻	郻		chiau1										
 鄡	鄡		chiau1										
+巧	巧	kyʽiao	chiau1								10000	“卻要”合音	
 #			chiau1									團音	
 釥	釥		chiau3										
 麨	𪎊		chiau3										
@@ -10134,6 +10136,7 @@
 吼	吼		heu1	3			heu1	10			0.00	急迫；着急	
 齁	齁	heo	heu1	7									
 呴	呴		heu1										
+吽	吽		heu1									吆喝牛行走的聲音	
 #			heu1										
 𤘽	𤘽	heo	heu3	7									
 吽	吽		heu3										
@@ -10162,6 +10165,7 @@
 葔	葔		gheu2										
 骺	骺		gheu2										
 銗	銗		gheu2										
+哎	哎		gheu2	4							0.01		
 #			gheu2										
 厚	厚	ʽeo	gheu4	1	ghei6	9	gheu6	10	ghei4	11			
 後	后	ʽeo	gheu4	1	ghei6	9	gheu6	10	ghei4	11			
@@ -10189,7 +10193,7 @@
 櫙	櫙		eu1										
 膒	膒		eu1										
 鏂	鏂		eu1										
-哎	哎		eu1	1								嘆詞，用於招呼及應答，應答時，有時讀成[œʏ˥˧]	
+哎	哎		eu1	1							0.01	嘆詞，用於招呼及應答，應答時，有時讀成[œʏ˥˧]	
 鴉	鸦		eu1	3	oe1	9					0.00	又音 僅限於“老鴉”	
 鵶	鸦		eu1	3	oe1	9					0.00	又音 僅限於“老鴉”	
 #			eu1										
@@ -10491,6 +10495,7 @@
 牄	牄		chian1										
 篬	篬		chian1										
 謒	謒		chian1										
+昶	昶	tsʽiang	chian1								1000	一段時間	
 倀	伥	tsʽiang	chian1	7									
 鼚	鼚		chian1										
 蹌	跄	tsʽiang	chian1	7									
@@ -10515,7 +10520,7 @@
 搶	抢	tsʽiang	chian3	1	chian3	9	chian3	10	chian3	11			
 𪰻	𪰻		chian3	3								一𪰻	#
 鋹	鋹		chian3										
-昶	昶	tsʽiang	chian3	7							1000	一段時間	
+昶	昶	tsʽiang	chian3								701		
 摤	摤		chian3										
 #			chian3									尖音	
 羥	羟		chian3									化學用字	
@@ -11069,7 +11074,8 @@
 贜	赃	tsông	tsaon1	2									
 贓	赃	tsông	tsaon1	2	tsaon1	9	tsaon1	10					
 𢈜	𢈜	tsông	tsaon1	2									
-匨	匨		tsaon1										
+匨	匨		tsaon1	
+顙	顙		tsaon1	4							0.00	又音 䱀顙魚										
 #			tsaon1									平舌	
 章	章	công	tsaon1	1	tsaon1	9	tsaon1	10	tsaon1	11			
 樟	樟	công	tsaon1	1	tsaon1	9	tsaon1	10	tsaon1	11			
@@ -11555,6 +11561,7 @@
 縏	縏		bun2										
 鎜	鎜		bun2										
 耙	耙		bun2	3	boe2	9					0.05	又音 僅限於“火耙”	
+婆	婆		bun2	1	boe2	9	beu2	10	bu2	11	0.00	兒化	
 #			bun2										
 鉡	鉡	bun	bun4	7									
 伴	伴	bun	bun4	1	boe2	9	beu6	10	bun4	11			
@@ -12015,6 +12022,8 @@
 菱	菱		len2	4	len2	9			len2	11	0.05	又音	
 輘	輘		len2										
 塄	塄		len2										
+㔂	㔂		len2	3								刮去（樹皮、竹節）	
+㨆	㨆		len2	3								刮去（樹皮、竹節）	
 論	论	leng	len2				len2	10	len2	11	0.00	論語	
 #			len2										
 耣	耣		len4										
@@ -12025,8 +12034,6 @@
 稜	棱		len6	2									
 楞	楞		len6	1	len2	9	len6	10	len2	11			
 愣	愣		len6	1			len6	10					
-㔂	㔂		len6	3								刮去（樹皮、竹節）	
-㨆	㨆		len6	3								刮去（樹皮、竹節）	
 踜	踜		len6										
 #			len6										
 曾	曾	tseng	tsen1	2	tsen1	9	tsen1	10	tsen1	11		姓	
@@ -12312,6 +12319,7 @@
 苪	苪		pin3										
 蛃	蛃		pin3										
 鞆	鞆		pin3									日語漢字，音同“丙”	
+鈵	鈵		pin3	1					pin5	11		兩邊鈵住了	
 餅	饼	ping	pin3	1	pin3	9	pin3	10	pin3	11			
 秉	秉	ping	pin3	2	pin3	9	pin3	10	pin3	11			
 禀	禀	ping	pin3	2									
@@ -12333,7 +12341,6 @@
 臏	膑	ping	pin5	7									
 擯	摈		pin5		pin1	9							
 柄	柄	ping	pin5	1	pin5	9	pin5	10	pin5	11			
-鈵	鈵		pin5	2					pin5	11		兩邊鈵住了	
 棅	棅		pin5										
 #			pin5										
 乒	乒		phin1	1					phin1	11			

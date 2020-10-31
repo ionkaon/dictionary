@@ -2111,7 +2111,7 @@
 接接看	ciq ciq khe						
 接頭	ciq deu	357	175				
 結頭	ciq deu	358	120	285			55
-節頭節尾	ciq deu ciq mi	358	16	55			55
+節頭節尾	ciq deu ciq mi	358	16	55	節日裏	《鄞縣通志》p. 2787 作「節頭節尾」，可知末字爲「衣韻」。湯版作「節頭節面」，音不合。	55
 劫財神	ciq dze zyun						
 脊柱骨	ciq dzyu kuaq	357					55
 揭方巾	ciq faon cin	357					55
@@ -2127,7 +2127,7 @@
 節跟	ciq ken			54			
 羯狗娘	ciq keu gnian	358	109	473			55
 節肯	ciq khen	358	16	54			55
-急口令	ciq kheu lin	357	52	339			55
+急口令	ciq kheu lin	357	52	339	應答的口才	《鄞縣通志》p. 2823 作「急口令」，可知首字爲團音。湯版等作「接口令」，音不合。	55
 急鼓鼓	ciq ku ku	357		269			55
 結棍	ciq kuen	358	234	285			55
 只勒	ciq laq	357	300				55
@@ -2172,7 +2172,7 @@
 漬浞	ciq tsoq	357	133				55
 漬子	ciq tsy		133	375			418
 䥛子刀	ciq tsy tau	358	104	485			418
-結蛛	ciq tsyu	357	113	286			55
+結蛛	ciq tsyu	357	113	286		湯版作「結珠」，然 ciq tsyu loe maon 作「結蛛亂網」。刪去「結珠」，改作「結蛛」。	55
 羯豬	ciq tsyu	358					55
 結蛛亂網	ciq tsyu loe maon	357	113	286			55
 摺烏	ciq u	358					55
@@ -2740,7 +2740,7 @@
 地基石	di ci zaq	22					55
 甜漿漿	di cian cian	21	275	355			55
 甜漿咪咪	di cian mhi mhi		275				55
-地腳印	di ciaq in	23	4	92			55
+地腳印	di ciaq in	23	4	92		《阿拉寧波話》記又作「地腳引」，音不合。	55
 墊腳石	di ciaq zaq	23					
 蹄筋	di cin	22					
 甜津津	di cin cin	22					
@@ -3738,7 +3738,8 @@
 嘔活靈	eu waq lin		181				
 謳活靈	eu waq lin						55
 哎	eu1	172		347			
-嘔	eu1	202	138, 301	156			
+嘔	eu1	202	138, 301	156		湯版等作「嘔」。另有寫作「謳」（見《金華方言詞典》），「謳」陰平，音合。推薦以「謳」爲正。	
+謳	eu1	202	138, 301	156		湯版等作「嘔」。另有寫作「謳」（見《金華方言詞典》），「謳」陰平，音合。推薦以「謳」爲正。	
 傴	eu5		165	112			
 翻白	fae baq	132	136	492			
 翻白泥螺	fae baq gni lou	132	30	493			418
@@ -5374,7 +5375,7 @@
 佝仔	heu tsy						
 煦飯	heu vae		61	426			55
 吼	heu1	200	246, 302				
-吽	heu1		302	208			
+吽	heu1		302	208	吆喝牛行走的聲音		
 吼	heu3	200		159			
 煦	heu5	200	190	426			
 鱟	heu5	200	4	440			
@@ -7454,7 +7455,7 @@
 快過快足了	khua kou khua tsoq lei						
 快手快腳	khua shieu khua ciaq						
 快手勢弗及慢兩爹	khua shieu syu vaq jiq mae lian tia						1
-快速麪	khua soq mi						
+快速麪	khua soq mi				方便麪		
 快得利	khua taq li						
 快嘴快得	khua tsyu khua taq						
 快活	khua waq	72	217	178			
@@ -8165,7 +8166,7 @@
 價格	ko kaq	82					
 家口	ko kheu	102					
 𠺢𠺢	ko ko	102					
-𠺢𠺢雞	ko ko ci	102					
+𠺢𠺢雞	ko ko ci	102				湯版作「呱呱雞」。《鄞縣通志》作「𠺢」，可知爲 o 韻，非 uo 韻。	
 𠺢𠺢嗡	ko ko on						
 嫁老公	ko lau kon	102					55
 家裏家生	ko li ko san						
@@ -9206,7 +9207,7 @@
 連衫連褲	li sae li khu	24					55
 犁梢尾巴	li sau mi po	24					55
 犁梢尾巴	li sau ng po	24					55
-裏向	li shian	25	10	151			40000
+裏向	li shian	25	10	151	裏面	後字本爲團音，湯版等作「裏廂」，音不合。	40000
 泥鏽	li shieu		133				55
 犁身	li shin	24					55
 蓮心	li shin	24	76	295			
@@ -10088,8 +10089,8 @@
 梅	mei2	164					
 煤	mei2	164					
 黴	mei2	164					
-煝	mei6		213				
-𤈦	mei6	165		375			
+煝	mei6	165	213	375	1. 燒； 2. 抽（菸）	湯版作「𤈦」，《阿拉宁波话》作「煝」。 煝，《廣韻》明祕切，𤈄熱。音合，義不合。𤈦，《廣韻》許偉切，《說文》火也。義合，聲母不合。查上古音得知，白-沙 2015 將「𤈦」擬爲 *m̥əjʔ。寧波話今讀 mei 可能是上古清鼻音隨機分化的緣故。故推薦「𤈦」爲正。又「𤈦」位於 Unicode 擴展 B 區，「煝」位於基本區，在設備無法支持顯示時，也可用「煝」代替。	
+𤈦	mei6	165	213	375	1. 燒； 2. 抽（菸）	湯版作「𤈦」，《阿拉宁波话》作「煝」。 煝，《廣韻》明祕切，𤈄熱。音合，義不合。𤈦，《廣韻》許偉切，《說文》火也。義合，聲母不合。查上古音得知，白-沙 2015 將「𤈦」擬爲 *m̥əjʔ。寧波話今讀 mei 可能是上古清鼻音隨機分化的緣故。故推薦「𤈦」爲正。又「𤈦」位於 Unicode 擴展 B 區，「煝」位於基本區，在設備無法支持顯示時，也可用「煝」代替。	
 門牌號頭	men ba ghau deu	250					55
 悶勃勃	men baq baq		258				55
 門栿	men boq	250	85	23			55
@@ -10240,7 +10241,7 @@
 嘸采去	mh tshe chi	374	286				55
 嘸采好去	mh tshe hau chi						
 嘸趣相	mh tshyu shian	374	320	154			55
-嘸出產	mh tshyuq sae	375	319	152			55
+嘸出產	mh tshyuq sae	375	319	152		湯版作「嘸出山」。末字應爲「產」字白讀。	55
 嘸做	mh tsou	374	252	152			55
 嘸子靠阿侄	mh tsy khau aq jiq						
 嘸話嘸說	mh wo mh syuq	375	319				55
@@ -11296,7 +11297,7 @@
 魚泡泡	ng phau phau	377	114	216			418
 五三	ng sae	378					
 五傷鬼	ng saon ciu						
-魚鰓	ng se	377					
+魚鰓	ng se	377				湯版作「魚腮」，疑爲錯字。	
 五香粉	ng shian fen	378					
 魚鮏	ng shin	377		216			55
 魚腥氣	ng shin chi		278	216			55
@@ -11367,7 +11368,7 @@
 外甥新婦	nga san shin vu						
 外甥娃	nga san uae	67	22				418
 外甥皇帝	nga san waon ti		22				55
-外向	nga shian	67	10	67			
+外向	nga shian	67	10	67	1. 外面; 2. 性格開朗	含義 1 後字本爲團音，湯版等作「裏廂」，音不合。	
 捱辰光	nga zyun kuaon						
 外	nga6		9				
 捱	nga6	67	201				
@@ -11593,7 +11594,7 @@
 牙鬚	ngo su	103	44	32			578
 牙刷	ngo syuq	103					
 瓦刀	ngo tau	103					
-牙齒	ngo tsy	103	44				
+牙齒	ngo tsy	103	44			《寧波方言詞典》作「牙子」。後字應爲「齒」，類似的有「鼠」白讀 tsy。	
 牙齒垽	ngo tsy gnin	103					55
 牙齒朝北	ngo tsy jiau poq						
 牙齒屙	ngo tsy ou						418
@@ -11915,9 +11916,10 @@
 涴注蒼蠅	ou tsyu tshaon in						55
 捼	ou1	191	142	336			
 倭	ou5		243				
-屙	ou5	191	46, 243	330			
+屙	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩		
 惡	ou5		46	296			
 污	ou5		46	123			
+涴	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	通行作「屙」，聲調不合，「屙」字也無糞便義。《金華方言詞典》作「涴」，《廣韻》烏臥切，泥著物也。推薦寫「涴」，「屙」已較爲通行，仍保留。	
 擺平	pa bin	57		419			
 擺俏功	pa chiau kon	57					55
 拜見鈿	pa ci di		125	259			55
@@ -12230,7 +12232,7 @@
 跑馬燈	phau mo ten						
 泡泡糖	phau phau daon	75					
 泡湯	phau thaon	75	189	225			
-跑春	phau tshyun	75	248	398			55
+跑春	phau tshyun	75	248	398		《鄞縣通志》作「跑春」，前字爲清音phau，可與「跑馬燈」類比。《阿拉寧波話》作「泡衝」，後字音不合。	55
 泡飯	phau vae	75	61				
 泡	phau5	75					
 炮	phau5	75					
@@ -14017,7 +14019,7 @@
 速朗	soq laon	343	251	300			55
 縮攏	soq lon	344					55
 索落動	soq loq don						
-索麪	soq mi	343	62	39, 346			
+索麪	soq mi	343	62	346		湯版、朱版作「雪麪」，音不合。	
 叔伯姆	soq pa m		22	204			55
 叔伯姆	soq pan m	342	22	204			55
 叔伯兄弟	soq paq shion di	342					55
@@ -14192,10 +14194,12 @@
 私房	sy vaon	3					
 斯文	sy ven	3	238	389			
 施肥	sy vi	3					
-師父	sy vu	3					
+司務	sy vu	3			稱呼有專門技藝的人		
+師父	sy vu	3			1. 老師; 2. 稱呼有專門技藝的人	含義 2 一說作「司務」	
 師父徒弟	sy vu du di	3					55
 四圍	sy wei		48				
 司衛鐵	sy wei thiq		58	74			55
+司務	sy wu-	3			稱呼有專門技藝的人		
 師爺	sy ya	3					
 師爺頭	sy ya deu						
 試上加試	sy zaon ko sy		333				55
@@ -15254,7 +15258,7 @@
 聽明	thiq min		136	158			55
 鐵板新村	thiq pae shin tshen						
 鐵撲落	thiq phoq loq	355					55
-鐵鏽紅	thiq shieu ghon	355	272				55
+鐵鏽紅	thiq shieu ghon	355	272			《阿拉寧波話》作「鐵繡紅」，疑爲錯字。	55
 鐵絲揢籮	thiq sy khaq lou	355	36	307			55
 鐵凳	thiq ten	355					55
 踢土旁	thiq thu baon	355					55
@@ -15312,7 +15316,7 @@
 拖油瓶	thou yeu bin	178	22	191			
 䴱	thou1			383			
 拖	thou1	177	188, 204				
-忒	thou5	306	283	148			
+忒	thou5	306	283	148		《阿拉寧波話》作「太」，音不合。	
 土鯆魚	thu bu ng	45	70	11			55
 吐清水	thu chin syu	45					55
 土箕	thu ci	45	104	11			55
@@ -15371,7 +15375,7 @@
 搭其	ti3	305					
 點	ti3	18	149				
 店	ti5	19					
-渧	ti5	19		411			
+渧	ti5	19		411		《阿拉寧波話》作「滴」，音不合。	
 踮	ti5	19					
 爹頭娘腳	tia deu gnian ciaq			316			
 爹頭孃腳	tia deu gnian ciaq	69	254				55
@@ -17070,7 +17074,7 @@
 㰵指末頭	tsyuq tsy maq deu						
 㰵弗出	tsyuq vaq tshyuq						1
 㔃	tsyuq7	371					55
-㰵	tsyuq7	371		407			
+㰵	tsyuq7	371	136	407			
 都整	tu cin	45	283				55
 賭鬼	tu ciu		32				
 賭場撮引	tu jian tshaq yin						
@@ -17913,7 +17917,7 @@
 爲來爲去	wei le wei chi		328				55
 回門	wei men	174	180				
 回屋落	wei oq loq	174					20000
-回生	wei sen	174	89	109			
+回生	wei sen	174	89	109		whistle 的音譯。《阿拉寧波話》作「回聲」，「聲」字多數情況讀shin，僅在該詞中讀sen，不妥，改爲「回生」。	
 衛生間	wei sen kae	175					
 衛生褲	wei sen khu	175	59	24			
 衛生衫	wei sen sae	175	58	24			418
@@ -18120,7 +18124,7 @@
 野豬頭雲	ya tsyu deu yun	71	4	351			55
 夜飯	ya vae	71	62	218			
 夜活絡	ya waq loq						
-野狐臉	ya wu li		108	351			418
+野狐臉	ya wu li	71	108	351	1. 面具; 2. 很髒的臉	《鄞縣通志》作「野狐臉」，可知末字爲「煙韻」，《阿拉寧波話》作「野狐狸」，音不合。	418
 野糊野糟	ya wu ya tsau						
 夜夜摸	ya ya moq						
 夜遊神	ya yeu zyun						
@@ -18424,7 +18428,7 @@
 以上	yi zaon	40					
 檐楯	yi zyun	40	84	484			55
 檐楯口	yi zyun kheu	40	84	484			55
-延	yi2	39	206	112, 439			
+延	yi2	39, 40	171, 206	112, 437, 439	疾病传染	《字語彙解》p. 244，infectious 條下註 yin，字作「延」，可知爲「煙韻」。湯版等作「痬」，音不合。	
 沿	yi2	39	9	225			
 移	yi2	40					
 鹽	yi2	39, 40					

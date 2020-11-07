@@ -363,10 +363,10 @@
 鼻頭紅	baq deu on		44	450			418
 鼻頭紅血	baq deu on shiuq		44	450			578
 鼻頭紅出	baq deu on tshyuq						
-鼻頭屙	baq deu ou	300	43	450			418
-鼻頭涴	baq deu ou						418
+鼻頭屙	baq deu ou	300	43	450			
+鼻頭涴	baq deu ou	300	43	450			418
 鼻頭屙結嗝	baq deu ou ciq kaq						
-鼻頭涴結嗝	baq deu ou ciq kaq						
+鼻頭涴結嗝	baq deu ou ciq kaq						1
 鼻頭水	baq deu syu	300	43	450			578
 鼻頭涕汰	baq deu thi tha						
 白銅	baq don	299					
@@ -1654,10 +1654,10 @@
 甲魚	ciaq ng	324					
 着顏色	ciaq ngae saq	324					55
 腳糯	ciaq nou		47	366			55
-腳屙臭	ciaq ou chieu		277	367			55
-腳涴臭	ciaq ou chieu						55
-腳屙爛臭	ciaq ou lae chieu		277				55
-腳涴爛臭	ciaq ou lae chieu						55
+腳屙臭	ciaq ou chieu		277	367			
+腳涴臭	ciaq ou chieu		277	367			55
+腳屙爛臭	ciaq ou lae chieu		277				
+腳涴爛臭	ciaq ou lae chieu		277				55
 腳板	ciaq pae	325	24, 47	365			
 腳班	ciaq pae	325					55
 腳板面	ciaq pae mi	324	47				55
@@ -3249,9 +3249,9 @@
 舵	dou4	181					
 大	dou6	178					
 肚皮	du bi	46	45	166			
-肚皮射	du bi dza						55
-肚皮撒	du bi dza			167			55
-肚皮𠑞	du bi dza	46	172				55
+肚皮射	du bi dza						
+肚皮撒	du bi dza			167			
+肚皮𠑞	du bi dza	46	172	167			55
 肚皮官司	du bi kun sy						
 肚皮痛	du bi thon	46					55
 肚飢	du ci	46	221	166			
@@ -3288,9 +3288,9 @@
 度	du6	46	121	270			
 渡	du6		9				
 咋結煞	dza ciq saq	64	321	207			55
-射肚皮	dza du bi						55
-撒肚皮	dza du bi			458			55
-𠑞肚皮	dza du bi	64	172				55
+射肚皮	dza du bi						
+撒肚皮	dza du bi			458			
+𠑞肚皮	dza du bi	64	172	458			55
 咋呢	dza gni		41				55
 咋挔	dza i		40				578
 咱伊	dza i		40				55
@@ -3307,17 +3307,17 @@
 咋管大	dza kun dou						
 咋個長	dza kun jian						55
 咋管長	dza kun jian						
-射爛薄屙	dza lae boq ou						55
+射爛薄屙	dza lae boq ou						
 射爛薄涴	dza lae boq ou						55
-撒爛薄屙	dza lae boq ou						55
+撒爛薄屙	dza lae boq ou						
 撒爛薄涴	dza lae boq ou						55
-𠑞爛薄屙	dza lae boq ou						55
+𠑞爛薄屙	dza lae boq ou						
 𠑞爛薄涴	dza lae boq ou		172				55
-射爛屙	dza lae ou						55
+射爛屙	dza lae ou						
 射爛涴	dza lae ou						55
-撒爛屙	dza lae ou						55
+撒爛屙	dza lae ou						
 撒爛涴	dza lae ou						55
-𠑞爛屙	dza lae ou						55
+𠑞爛屙	dza lae ou						
 𠑞爛涴	dza lae ou	64	172				55
 射痢疾	dza li jiq						55
 撒痢疾	dza li jiq						55
@@ -3335,63 +3335,63 @@
 射唔唔	dza nk nk						
 撒㕶㕶	dza nk nk						
 撒唔唔	dza nk nk						
-𠑞㕶㕶	dza nk nk						
+𠑞㕶㕶	dza nk nk						1
 𠑞唔唔	dza nk nk						
-射屙	dza ou						55
-射涴	dza ou						55
-撒屙	dza ou						55
-撒涴	dza ou						55
-𠑞屙	dza ou						55
+射屙	dza ou						
+射涴	dza ou						
+撒屙	dza ou						
+撒涴	dza ou						
+𠑞屙	dza ou						
 𠑞涴	dza ou	64	170				55
 射屙壅伸草	dza ou ion shin tshau						
 射涴壅伸草	dza ou ion shin tshau						
 撒屙壅伸草	dza ou ion shin tshau						
 撒涴壅伸草	dza ou ion shin tshau						
 𠑞屙壅伸草	dza ou ion shin tshau						
-𠑞涴壅伸草	dza ou ion shin tshau						
+𠑞涴壅伸草	dza ou ion shin tshau						1
 射屙估堆頭	dza ou ku tei deu						
 射涴估堆頭	dza ou ku tei deu						
 撒屙估堆頭	dza ou ku tei deu						
 撒涴估堆頭	dza ou ku tei deu						
 𠑞屙估堆頭	dza ou ku tei deu						
-𠑞涴估堆頭	dza ou ku tei deu						
-射屙撲	dza ou phoq						55
-射屙樸	dza ou phoq						55
-射涴撲	dza ou phoq						55
-射涴樸	dza ou phoq						55
-撒屙撲	dza ou phoq						55
-撒屙樸	dza ou phoq			459			55
-撒涴撲	dza ou phoq						55
-撒涴樸	dza ou phoq						55
-𠑞屙撲	dza ou phoq						55
-𠑞屙樸	dza ou phoq						55
+𠑞涴估堆頭	dza ou ku tei deu						1
+射屙撲	dza ou phoq						
+射屙樸	dza ou phoq						
+射涴撲	dza ou phoq						
+射涴樸	dza ou phoq						
+撒屙撲	dza ou phoq						
+撒屙樸	dza ou phoq			459			
+撒涴撲	dza ou phoq						
+撒涴樸	dza ou phoq						
+𠑞屙撲	dza ou phoq						
+𠑞屙樸	dza ou phoq			459			
 𠑞涴撲	dza ou phoq	64					55
-𠑞涴樸	dza ou phoq		36				55
+𠑞涴樸	dza ou phoq		36	459			55
 射屙筆篤	dza ou piq toq						
 射涴筆篤	dza ou piq toq						
 撒屙筆篤	dza ou piq toq						
 撒涴筆篤	dza ou piq toq						
 𠑞屙筆篤	dza ou piq toq						
-𠑞涴筆篤	dza ou piq toq						
-射屙出	dza ou tshyuq						55
-射涴出	dza ou tshyuq						55
-撒屙出	dza ou tshyuq						55
-撒涴出	dza ou tshyuq						55
-𠑞屙出	dza ou tshyuq		170				55
-𠑞涴出	dza ou tshyuq	64					55
+𠑞涴筆篤	dza ou piq toq						1
+射屙出	dza ou tshyuq						
+射涴出	dza ou tshyuq						
+撒屙出	dza ou tshyuq						
+撒涴出	dza ou tshyuq						
+𠑞屙出	dza ou tshyuq		170				
+𠑞涴出	dza ou tshyuq	64	170				55
 𠑞屙做記認	dza ou tsou ci gnin						
-𠑞涴做記認	dza ou tsou ci gnin						
+𠑞涴做記認	dza ou tsou ci gnin						1
 射屙胡嚨癢	dza ou wu lon yan						
 射涴胡嚨癢	dza ou wu lon yan						
 撒屙胡嚨癢	dza ou wu lon yan						
 撒涴胡嚨癢	dza ou wu lon yan						
 𠑞屙胡嚨癢	dza ou wu lon yan						
-𠑞涴胡嚨癢	dza ou wu lon yan						
-射屁	dza phi						55
-撒屁	dza phi						55
+𠑞涴胡嚨癢	dza ou wu lon yan						1
+射屁	dza phi						
+撒屁	dza phi						
 𠑞屁	dza phi		170				55
-射屁蟲	dza phi dzon						55
-撒屁蟲	dza phi dzon						55
+射屁蟲	dza phi dzon						
+撒屁蟲	dza phi dzon						
 𠑞屁蟲	dza phi dzon	64					55
 射屁賴	dza phi la						
 撒屁賴	dza phi la						
@@ -3407,27 +3407,27 @@
 咋式貌	dza shiq mau		40				55
 咋式貌介	dza shiq mau kaq						55
 咋式貌格	dza shiq mau kaq		40				55
-射尿	dza syu						55
-撒尿	dza syu						418
-𠑞尿	dza syu	64	170				55
+射尿	dza syu						
+撒尿	dza syu						
+𠑞尿	dza syu	64	170				418
 射尿哚哚響	dza syu do do shian						
 撒尿哚哚響	dza syu do do shian						
-𠑞尿哚哚響	dza syu do do shian						
-射尿撲	dza syu phoq						55
-射尿樸	dza syu phoq						55
-撒尿撲	dza syu phoq						55
-撒尿樸	dza syu phoq			459			55
+𠑞尿哚哚響	dza syu do do shian						1
+射尿撲	dza syu phoq						
+射尿樸	dza syu phoq						
+撒尿撲	dza syu phoq						
+撒尿樸	dza syu phoq			459			
 𠑞尿撲	dza syu phoq	64					55
-𠑞尿樸	dza syu phoq		36				55
+𠑞尿樸	dza syu phoq		36	459			55
 射尿尿	dza syu syu						
 撒尿尿	dza syu syu						
-𠑞尿尿	dza syu syu						
-射尿出	dza syu tshyuq						55
-撒尿出	dza syu tshyuq						55
+𠑞尿尿	dza syu syu						1
+射尿出	dza syu tshyuq						
+撒尿出	dza syu tshyuq						
 𠑞尿出	dza syu tshyuq		170				55
 射哚哚尿	dza to to syu						
 撒哚哚尿	dza to to syu						
-𠑞哚哚尿	dza to to syu						
+𠑞哚哚尿	dza to to syu						1
 咋回事體	dza wei zy thi		41				578
 咋話	dza wo	64	41	207			578
 射藥	dza yaq						
@@ -4753,7 +4753,7 @@
 硯瓦	gni ngoq		107				
 硯瓦爿	gni ngoq bae	35	107				55
 泥屙泥纏	gni ou gni ji						
-泥涴泥纏	gni ou gni ji						
+泥涴泥纏	gni ou gni ji						1
 泥板	gni pae	33					
 泥坯	gni phei	34					
 黏屁股	gni phi ku						
@@ -4787,8 +4787,8 @@
 耳朵洞眼	gni to don ngae	378					55
 耳朵墜	gni to dzyu	378					55
 耳朵環	gni to guae		57	92			55
-耳朵屙	gni to ou	378	43	92			578
-耳朵涴	gni to ou						418
+耳朵屙	gni to ou	378	43	92			
+耳朵涴	gni to ou	378	43	92			578
 耳朵傘	gni to sae		57	92			55
 耳朵閃腰	gni to shi iau		329				55
 耳朵套	gni to thau	34					55
@@ -4844,8 +4844,8 @@
 捏勒卵子勿射尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子勿撒尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子勿𠑞尿	gniaq laq loe tsy vaq dza syu						
-捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu						1
-捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu						1
+捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu						
+捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子弗𠑞尿	gniaq laq loe tsy vaq dza syu						1
 鰙鰨	gniaq thaq	326					55
 鰙鰨魚	gniaq thaq ng	326					55
@@ -5943,10 +5943,10 @@
 一撒屙	iq dza ou						
 一撒涴	iq dza ou						
 一𠑞屙	iq dza ou						
-一𠑞涴	iq dza ou						
+一𠑞涴	iq dza ou						1
 一射尿	iq dza syu						
 一撒尿	iq dza syu						
-一𠑞尿	iq dza syu						
+一𠑞尿	iq dza syu						1
 一䂻䂻到王家弄	iq dzan dzan tau waon ko lon						
 一炷磨	iq dzyu mou						
 一炷香	iq dzyu shian						
@@ -5961,7 +5961,7 @@
 一人	iq gnin	366	119				
 一人射尿出	iq gnin dza syu tshyuq						
 一人撒尿出	iq gnin dza syu tshyuq						
-一人𠑞尿出	iq gnin dza syu tshyuq						
+一人𠑞尿出	iq gnin dza syu tshyuq						1
 一人一撩	iq gnin iq liau		119				55
 一人囥	iq gnin khaon						
 一日	iq gniq	367					
@@ -6926,7 +6926,7 @@
 合算	kaq soe	316					578
 割螄螺	kaq sy lou	317	70				55
 夾尿夾屙	kaq syu kaq ou						
-夾尿夾涴	kaq syu kaq ou						
+夾尿夾涴	kaq syu kaq ou						1
 介打	kaq tan						55
 格打	kaq tan		41				55
 夾襠	kaq taon		161				55
@@ -7036,8 +7036,8 @@
 跟喫屁	ken chioq phi		35				55
 根腳	ken ciaq	256	50	299			
 根頭	ken deu	256	117	299			55
-跟屁屙蟲	ken phi ou dzon	256	35				55
-跟屁涴蟲	ken phi ou dzon						55
+跟屁屙蟲	ken phi ou dzon	256	35				
+跟屁涴蟲	ken phi ou dzon	256	35				55
 根渣	ken tso		131	299			55
 根株	ken tsyu		117	299			
 根	ken1	256					
@@ -7057,7 +7057,7 @@
 狗尾巴	keu ng po			217			
 鉤椏柴	keu o za						
 狗屙樸	keu ou phoq						
-狗涴樸	keu ou phoq						
+狗涴樸	keu ou phoq						1
 鉤刀	keu tau		104				55
 狗褪毛	keu then mau						
 勾	keu1	198					
@@ -8567,8 +8567,8 @@
 癩蛤蚆	la kaq po	63					55
 攋鉤	la keu			475			
 剌開	la khe	62					55
-賴屙皮	la ou bi	63	34				55
-賴涴皮	la ou bi						55
+賴屙皮	la ou bi	63	34				
+賴涴皮	la ou bi	63	34				55
 喇叭	la pa	63					
 喇叭花	la pa huo	63					
 喇叭裙	la pa jiun	63					
@@ -8595,21 +8595,21 @@
 洡	la6			276			
 賴	la6	63					
 爛鼻頭管正經人	lae baq deu kun cin cin gnin						
-爛薄屙	lae baq ou	140		275			55
-爛薄涴	lae baq ou						55
-爛薄稀屙	lae baq shi ou	140		275			55
-爛薄稀涴	lae baq shi ou						55
+爛薄屙	lae baq ou	140		275			
+爛薄涴	lae baq ou	140		275			55
+爛薄稀屙	lae baq shi ou	140		275			
+爛薄稀涴	lae baq shi ou	140		275			55
 懶笨性僞	lae ben shin wei						
-爛薄屙	lae boq ou	140	46	275			55
-爛薄涴	lae boq ou						55
-爛薄稀屙	lae boq shi ou	140	46	275			55
-爛薄稀涴	lae boq shi ou						55
+爛薄屙	lae boq ou	140	46	275			
+爛薄涴	lae boq ou	140	46	275			55
+爛薄稀屙	lae boq shi ou	140	46	275			
+爛薄稀涴	lae boq shi ou	140	46	275			55
 爛賬	lae cian	140					
 爛腳疤	lae ciaq po		56				55
 藍接接	lae ciq ciq	139					55
 藍結結	lae ciq ciq		273	422			55
-爛糖雞屙	lae daon ci ou		110				55
-爛糖雞涴	lae daon ci ou						55
+爛糖雞屙	lae daon ci ou		110				
+爛糖雞涴	lae daon ci ou		110				55
 爛稻刮田塍	lae dau kuaq di yin						
 爛稻索	lae dau soq	140					55
 爛田	lae di	139					55
@@ -8644,8 +8644,8 @@
 爛眼臭貌	lae ngae chieu mau						
 爛眼級格	lae ngae ciq kaq						
 爛眼沿	lae ngae yi	140					55
-爛屙	lae ou	140	46	275			55
-爛涴	lae ou						418
+爛屙	lae ou	140	46	275			
+爛涴	lae ou	140	46	275			418
 藍扮	lae pae	139	287	422			55
 藍扮頭	lae pae deu	139	287				55
 爛䏘	lae phiq	140	27	274			55
@@ -8727,8 +8727,8 @@
 冷	lan4	206		172			
 浪喫浪用	laon chioq laon yon	233	336	325			55
 狼基	laon ci		118				55
-狼基屙樸	laon ci ou phoq		118				55
-狼基涴樸	laon ci ou phoq						55
+狼基屙樸	laon ci ou phoq		118				
+狼基涴樸	laon ci ou phoq		118				55
 𧻴趤公子	laon daon kon tsy	233	27	444			55
 榔頭	laon deu	233					
 浪頭	laon deu	233					
@@ -8887,8 +8887,8 @@
 老虎	lau fu	81					
 老虎鉗	lau fu ji	81					
 老虎牙	lau fu ngo	81					55
-老虎屙	lau fu ou	81					55
-老虎涴	lau fu ou						55
+老虎屙	lau fu ou	81					
+老虎涴	lau fu ou	81					55
 老虎天話	lau fu thi wo						
 老虎裝萎	lau fu tsaon uei			90			
 老虎竈	lau fu tsau	81	83				
@@ -9129,7 +9129,7 @@
 鏤耳朵屙	lheu gni to ou						
 鏤耳朵涴	lheu gni to ou						
 𠞭耳朵屙	lheu gni to ou						
-𠞭耳朵涴	lheu gni to ou						
+𠞭耳朵涴	lheu gni to ou						1
 鏤空皮鞋	lheu khon bi gha	283					55
 𠞭𠞭挖挖	lheu lheu uaq uaq	197	337	449			55
 鏤耳朵	lheu ng to	197					55
@@ -9137,7 +9137,7 @@
 鏤耳朵屙	lheu ng to ou						
 鏤耳朵涴	lheu ng to ou						
 𠞭耳朵屙	lheu ng to ou						
-𠞭耳朵涴	lheu ng to ou						
+𠞭耳朵涴	lheu ng to ou						1
 𠞭眼	lheu ngae	197	37	449			55
 鏤膿刮髓	lheu non kuaq shi			449			55
 𠞭膿刮髓	lheu non kuaq shi		256	449			55
@@ -9182,8 +9182,8 @@
 連日連夜	li gniq li ya						
 離婚	li huen	24					
 蓮花文書	li huo ven syu	24	124				
-痢疾射	li jiq dza						55
-痢疾撒	li jiq dza						55
+痢疾射	li jiq dza						
+痢疾撒	li jiq dza						
 痢疾𠑞	li jiq dza	25					55
 裏間	li kae	25					
 連奸連滑	li kae li waq						
@@ -9257,8 +9257,8 @@
 襝	li4		148				
 㪝	li6	25					
 㼑	li6			446			
-剺	li6			147, 417			
-劙	li6		155	147, 503			
+剺	li6	25	155	147, 417, 503	劃破	同「劙」，推薦作「剺」	578
+劙	li6	25	155	147, 417, 503	劃破	同「剺」，推薦作「剺」	25
 旅	li6	25					
 𣿊	li6		262	481			55
 𤃀	li6		212	498			55
@@ -11029,8 +11029,8 @@
 芋艿蓊	n na on	376	76				418
 芋艿蓊蟲	n na on dzon	376	112	93			55
 芋艿蓊癟	n na on piq	376	76	93			55
-芋艿屙蟲	n na ou dzon		112				55
-芋艿涴蟲	n na ou dzon						55
+芋艿屙蟲	n na ou dzon		112				
+芋艿涴蟲	n na ou dzon		112				55
 芋艿子	n na tsy	376	71				418
 奶𤷾	na chiq	62					55
 奶頭	na deu	62					
@@ -11315,8 +11315,8 @@
 耳朵宕頭	ng to dan deu	378					55
 耳朵洞眼	ng to don ngae	378					55
 耳朵墜	ng to dzyu	378					55
-耳朵屙	ng to ou	378					578
-耳朵涴	ng to ou						418
+耳朵屙	ng to ou	378					
+耳朵涴	ng to ou	378					578
 耳朵套	ng to thau	34					55
 耳朵彎	ng to uae	34					55
 魚罩	ng tsau		106	216			55
@@ -11419,10 +11419,10 @@
 眼眉毛	ngae mi mau	145	43	349			55
 眼面前	ngae mi zhi	145	10	349			
 眼眼叫	ngae ngae ciau	145	293	350			55
-眼屙	ngae ou	146	43	348			55
-眼涴	ngae ou						418
+眼屙	ngae ou	146	43	348			
+眼涴	ngae ou	146	43	348			418
 眼屙結格	ngae ou ciq kaq						
-眼涴結格	ngae ou ciq kaq						
+眼涴結格	ngae ou ciq kaq						1
 眼泡皮	ngae phau bi	145	43	349			55
 眼泡虛腫	ngae phau shiu tson			350			
 顏色	ngae saq	145					
@@ -11590,8 +11590,8 @@
 我儂個	ngo nou ghoq						55
 我儂個	ngo nou goq	104					55
 瓦屋	ngo oq	103	82				
-牙屙	ngo ou	103					55
-牙涴	ngo ou						55
+牙屙	ngo ou	103					
+牙涴	ngo ou	103					55
 瓦片	ngo phi	103	86	33			
 牙梳	ngo su		44				55
 牙鬚	ngo su	103	44	32			578
@@ -11600,7 +11600,7 @@
 牙齒	ngo tsy	103	44			《寧波方言詞典》作「牙子」。後字應爲「齒」，類似的有「鼠」白讀 tsy。	
 牙齒垽	ngo tsy gnin	103					55
 牙齒朝北	ngo tsy jiau poq						
-牙齒屙	ngo tsy ou						418
+牙齒屙	ngo tsy ou	103					
 牙齒涴	ngo tsy ou	103					418
 牙齒褪落	ngo tsy then loq						
 牙齒縫	ngo tsy von	103					55
@@ -11784,139 +11784,142 @@
 喔唷哇	oq yuq ua						
 屋	oq7	347					
 惡	oq7	347	177	296			
-屙背出	ou bei tshyuq		244				55
-涴背出	ou bei tshyuq						55
-屙臭	ou chieu		243				55
-涴臭	ou chieu						55
+屙背出	ou bei tshyuq		244				
+涴背出	ou bei tshyuq		244				55
+屙臭	ou chieu		243				
+涴臭	ou chieu		243				55
 倭肩	ou ci	191					55
 捼肩搭背	ou ci taq pei		336				55
 捼雞賊	ou ci zaq	191	28	337			55
 屙漿頭色	ou cian deu saq						
-涴漿頭色	ou cian deu saq						
+涴漿頭色	ou cian deu saq						1
 捼腳	ou ciaq	191	48				55
 屙精寶	ou cin pau						
-涴精寶	ou cin pau						
-屙浸草	ou cin tshau	192	106	331			55
-涴浸草	ou cin tshau						55
+涴精寶	ou cin pau						1
+屙浸草	ou cin tshau	192	106	331			
+涴浸草	ou cin tshau	192	106	331			55
 屙漬花佬	ou ciq huo lau						
-涴漬花佬	ou ciq huo lau						
+涴漬花佬	ou ciq huo lau						1
 屙急喪命	ou ciq saon min						
-涴急喪命	ou ciq saon min						
+涴急喪命	ou ciq saon min						1
 屙急造茅坑	ou ciq zau mau khan						
-涴急造茅坑	ou ciq zau mau khan						
-屙蛋分	ou dae fen	192	124				55
-涴蛋分	ou dae fen						418
-屙道頭	ou dau deu	192					55
-涴道頭	ou dau deu						55
+涴急造茅坑	ou ciq zau mau khan						1
+屙蛋分	ou dae fen	192	124				
+涴蛋分	ou dae fen	192	124				418
+屙道頭	ou dau deu	192					
+涴道頭	ou dau deu	192					55
 倭豆	ou deu	191	71	314			55
 倭豆莢	ou deu ci		71				55
 倭豆芽	ou deu ngo	191					55
-屙射出	ou dza tshyuq						55
-屙撒出	ou dza tshyuq						55
-屙𠑞出	ou dza tshyuq						55
-涴射出	ou dza tshyuq						55
-涴撒出	ou dza tshyuq						55
+屙射出	ou dza tshyuq						
+屙撒出	ou dza tshyuq						
+屙𠑞出	ou dza tshyuq						
+涴射出	ou dza tshyuq						
+涴撒出	ou dza tshyuq						
 涴𠑞出	ou dza tshyuq		170				55
-屙蟲	ou dzon	192	113	331			55
-涴蟲	ou dzon						55
-屙兒曼	ou er mae						
+屙蟲	ou dzon	192	113	331			
+涴蟲	ou dzon	192	113	331			55
+屙兒曼	ou er mae				源自英語 old man，意指老人，又戲稱固執的老人	《鄞縣通志》p. 3104	
+涴兒曼	ou er mae				源自英語 old man，意指老人，又戲稱固執的老人	《鄞縣通志》p. 3104	1
 窩風	ou fon	191	257	413			
-屙泥脾氣	ou gni bi chi	191	243	332			55
-涴泥脾氣	ou gni bi chi						55
-屙纏出	ou ji tshyuq						55
+屙泥脾氣	ou gni bi chi	191	243	332			
+涴泥脾氣	ou gni bi chi	191	243	332			55
+屙纏出	ou ji tshyuq						
 涴纏出	ou ji tshyuq		244				55
-屙缸	ou kaon	192	83, 100	331			55
-屙講	ou kaon		141				55
-涴缸	ou kaon						418
-涴講	ou kaon						55
+屙缸	ou kaon	192	83, 100	331			
+屙講	ou kaon		141				
+涴缸	ou kaon	192	83, 100	331			418
+涴講	ou kaon		141				55
 屙缸蓋	ou kaon ke						
-涴缸蓋	ou kaon ke						
+涴缸蓋	ou kaon ke						1
 屙缸⿰米鬼	ou kaon khuei						
 屙缸塊	ou kaon khuei						
 涴缸⿰米鬼	ou kaon khuei						
-涴缸塊	ou kaon khuei						
+涴缸塊	ou kaon khuei						1
 屙缸沙	ou kaon so			331			
-屙缸砂	ou kaon so	192					55
+屙缸砂	ou kaon so	192		331			55
 涴缸砂	ou kaon so						55
 屙缸無賴	ou kaon vu la			332			
-涴缸無賴	ou kaon vu la						
+涴缸無賴	ou kaon vu la			332			1
 屙缸無賴	ou kaon wu- la			332			
-涴缸無賴	ou kaon wu- la						
-屙坑	ou khan	192					55
-涴坑	ou khan						418
-屙坑間	ou khan kae	192	83				55
-涴坑間	ou khan kae						418
-屙挭的	ou kuan tiq		322				55
-涴挭的	ou kuan tiq						55
-屙賴	ou la		184				55
-涴賴	ou la						55
-屙賴脾氣	ou la bi chi		243	332			55
-涴賴脾氣	ou la bi chi						55
+涴缸無賴	ou kaon wu- la			332			1
+屙坑	ou khan	192					
+涴坑	ou khan	192					418
+屙坑間	ou khan kae	192	83				
+涴坑間	ou khan kae	192	83				418
+屙挭的	ou kuan tiq		322				
+涴挭的	ou kuan tiq		322				55
+屙賴	ou la		184				
+涴賴	ou la		184				55
+屙賴脾氣	ou la bi chi		243	332			
+涴賴脾氣	ou la bi chi		243	332			55
 屙賴便臭	ou la bi chieu						
-涴賴便臭	ou la bi chieu						
-屙懶出	ou lae tshyuq		247				55
-涴懶出	ou lae tshyuq						55
+涴賴便臭	ou la bi chieu						1
+屙懶出	ou lae tshyuq		247				
+涴懶出	ou lae tshyuq		247				55
 捼癆槽	ou lau zau						
-屙裏拌糟	ou li bun tsau	191	255	332			55
-涴裏拌糟	ou li bun tsau						55
-屙末爛脆	ou maq lae tshei	192	263	331			55
-涴末爛脆	ou maq lae tshei						55
-屙衲一樣	ou naq iq yan		253				55
-涴衲一樣	ou naq iq yan						55
-屙𤿏屁鬆	ou nei phi son	192	336				55
-涴𤿏屁鬆	ou nei phi son						55
+屙裏拌糟	ou li bun tsau	191	255	332			
+涴裏拌糟	ou li bun tsau	191	255	332			55
+屙末爛脆	ou maq lae tshei	192	263	331			
+涴末爛脆	ou maq lae tshei	192	263	331			55
+屙衲一樣	ou naq iq yan		253				
+涴衲一樣	ou naq iq yan		253				55
+屙𤿏屁鬆	ou nei phi son	192	336				
+涴𤿏屁鬆	ou nei phi son	192	336				55
 𤉦暖	ou noe	191	258	409			55
 𤉦𤉦暖暖	ou ou noe noe						
 捼浜	ou pan	191					55
-屙䨣	ou phoq		31	331			55
-屙撲	ou phoq	192					55
-屙樸	ou phoq		31				55
-涴䨣	ou phoq						55
-涴撲	ou phoq						55
-涴樸	ou phoq						55
-屙撲精	ou phoq cin	192					55
-涴撲精	ou phoq cin						55
-屙撲丁	ou phoq tin	192					55
-涴撲丁	ou phoq tin						55
-屙塞頭底心	ou saq deu ti shin	192	241				55
-涴塞頭底心	ou saq deu ti shin						55
-屙塞飽	ou saq pau	192	241				55
-涴塞飽	ou saq pau						55
-屙塞煞	ou saq saq	192	241	331			55
-涴塞煞	ou saq saq						418
-屙掃帚	ou sau cieu		94				55
-涴掃帚	ou sau cieu						55
+屙屁	ou phi				表示感嘆，相當於普通話「狗屁」		
+涴屁	ou phi				表示感嘆，相當於普通話「狗屁」		1
+屙䨣	ou phoq		31	331			
+屙撲	ou phoq	192					
+屙樸	ou phoq		31				
+涴䨣	ou phoq		31	331			55
+涴撲	ou phoq	192					55
+涴樸	ou phoq		31				55
+屙撲精	ou phoq cin	192					
+涴撲精	ou phoq cin	192					55
+屙撲丁	ou phoq tin	192					
+涴撲丁	ou phoq tin	192					55
+屙塞頭底心	ou saq deu ti shin	192	241				
+涴塞頭底心	ou saq deu ti shin	192	241				55
+屙塞飽	ou saq pau	192	241				
+涴塞飽	ou saq pau	192	241				55
+屙塞煞	ou saq saq	192	241	331			
+涴塞煞	ou saq saq	192	241	331			418
+屙掃帚	ou sau cieu		94				
+涴掃帚	ou sau cieu		94				55
 屙掃帚成筋	ou sau cieu jin cin						
 屙掃帚成精	ou sau cieu jin cin						
-涴掃帚成筋	ou sau cieu jin cin						
-涴掃帚成精	ou sau cieu jin cin						
+涴掃帚成筋	ou sau cieu jin cin						1
+涴掃帚成精	ou sau cieu jin cin						1
 窩心	ou shin			413			
-屙腥臭	ou shin chieu		277	331			55
-涴腥臭	ou shin chieu						55
+屙腥臭	ou shin chieu		277	331			
+涴腥臭	ou shin chieu		277	331			55
 屙倒勿通	ou tau vaq thon						
-屙倒弗通	ou tau vaq thon						1
+屙倒弗通	ou tau vaq thon						
 涴倒勿通	ou tau vaq thon						
 涴倒弗通	ou tau vaq thon						1
 倭妥	ou thou	191	250	314			55
-屙車	ou tsho	192	89	331			55
-涴車	ou tsho						55
-屙榨貓	ou tso mae	192					55
-涴榨貓	ou tso mae						55
-屙榨貓壓牢了	ou tso mae aq lau lei						
-屙榨貓壓牢𡀂	ou tso mae aq lau lei	192					55
-涴榨貓壓牢了	ou tso mae aq lau lei						55
-涴榨貓壓牢𡀂	ou tso mae aq lau lei						55
-屙鑽	ou tsoe		111	331			55
-涴鑽	ou tsoe						55
+屙車	ou tsho	192	89	331			
+涴車	ou tsho	192	89	331			55
+屙榨貓	ou tso mae	192					
+涴榨貓	ou tso mae	192					55
+屙榨貓壓牢了	ou tso mae aq lau lei	192					
+屙榨貓壓牢𡀂	ou tso mae aq lau lei	192					
+涴榨貓壓牢了	ou tso mae aq lau lei	192					55
+涴榨貓壓牢𡀂	ou tso mae aq lau lei	192					
+屙鑽	ou tsoe		111	331			
+涴鑽	ou tsoe		111	331			55
 窩飳	ou tsy		106	413			55
 窩子	ou tsyu		106				
 窩飳	ou tsyu		106	413			55
-屙嘴疙得	ou tsyu kaq taq	191	255	219, 332			55
-涴嘴疙得	ou tsyu kaq taq						55
-屙嘴蒼蠅	ou tsyu tshaon in		113				55
-屙注蒼蠅	ou tsyu tshaon in	191		332			55
-涴嘴蒼蠅	ou tsyu tshaon in						55
-涴注蒼蠅	ou tsyu tshaon in						55
+屙嘴疙得	ou tsyu kaq taq	191	255	219, 332			
+涴嘴疙得	ou tsyu kaq taq	191	255	219, 332			55
+屙嘴蒼蠅	ou tsyu tshaon in		113				
+屙注蒼蠅	ou tsyu tshaon in	191		332			
+涴嘴蒼蠅	ou tsyu tshaon in		113				55
+涴注蒼蠅	ou tsyu tshaon in	191		332			55
 捼	ou1	191	142	336			
 倭	ou5		243				
 屙	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩		
@@ -12286,8 +12289,8 @@
 偏生	phi san	13	294	362			
 偏舍	phi so	13	82	362			55
 屁得爛輕	phi taq lae chin	13	264	180			55
-屁得爛屙輕	phi taq lae ou chin	13	264	180			55
-屁得爛涴輕	phi taq lae ou chin						55
+屁得爛屙輕	phi taq lae ou chin	13	264	180			
+屁得爛涴輕	phi taq lae ou chin	13	264	180			55
 屁得斯輕	phi taq sy chin	13	264	180			55
 𠜱刀	phi tau	13					55
 騙子	phi tsy	13					
@@ -12561,7 +12564,7 @@
 巴弗得	po faq taq	95					55
 把家	po ko	95					
 把脈	po maq	95	173	142			
-把屙	po ou	95					55
+把屙	po ou	95					
 把涴	po ou						55
 把柄	po pin	95					
 把戲	po shi	95	95	142			
@@ -14242,11 +14245,11 @@
 書毒頭	syu doq deu		29				55
 書獨頭	syu doq deu	9	29	49			55
 書大糊	syu dou wu	9					55
-尿射	syu dza						55
-尿撒	syu dza			181			55
-尿𠑞	syu dza		46				55
-尿射出	syu dza tshyuq						55
-尿撒出	syu dza tshyuq						55
+尿射	syu dza						
+尿撒	syu dza			181			
+尿𠑞	syu dza		46	181			55
+尿射出	syu dza tshyuq						
+尿撒出	syu dza tshyuq						
 尿𠑞出	syu dza tshyuq		170				55
 水宅宅滮出來	syu dzaq dzaq piau tshyuq le						
 書櫥	syu dzyu	9					
@@ -14303,7 +14306,7 @@
 尿屙屋裏𠑞	syu ou oq li dza						
 尿涴屋裏射	syu ou oq li dza						
 尿涴屋裏撒	syu ou oq li dza						
-尿涴屋裏𠑞	syu ou oq li dza						
+尿涴屋裏𠑞	syu ou oq li dza						1
 書包	syu pau	9					
 書包架	syu pau ko	9	88				55
 書報架	syu pau ko			49			
@@ -16037,8 +16040,8 @@
 簇括剌新	tshaq kuaq laq shin		265	486			55
 簇刮新	tshaq kuaq shin	313	265	486			55
 簇刮斯新	tshaq kuaq sy shin	313	265	486			55
-拆爛屙	tshaq lae ou	311	320	192			55
-拆爛涴	tshaq lae ou						418
+拆爛屙	tshaq lae ou	311	320	192			
+拆爛涴	tshaq lae ou	311	320	192			418
 撮了	tshaq laq						
 插蠟燭	tshaq laq tsoq	311	324	387			55
 赤佬	tshaq lau	311	27	461			418
@@ -16053,8 +16056,8 @@
 測驗	tshaq ne-gnie	311					
 撮外快	tshaq nga khua	312	325	461			55
 插眼	tshaq ngae			387			
-撮牛屙	tshaq ngeu ou	312					55
-撮牛涴	tshaq ngeu ou						55
+撮牛屙	tshaq ngeu ou	312					
+撮牛涴	tshaq ngeu ou	312					55
 擦牙齒	tshaq ngo tsy	312					55
 拆椏柴	tshaq o za						
 尺板	tshaq pae	310					
@@ -16527,8 +16530,8 @@
 出氣	tshyuq chi	371	207	79			
 出搶花	tshyuq chian huo			80			
 出槍花	tshyuq chian huo	372	315				55
-出雞屙	tshyuq ci ou	371					55
-出雞涴	tshyuq ci ou						55
+出雞屙	tshyuq ci ou	371					
+出雞涴	tshyuq ci ou	371					55
 出賬	tshyuq cian	372					
 出張嘴巴	tshyuq cian tsyu po						
 出腳	tshyuq ciaq	372	164				418
@@ -17019,8 +17022,8 @@
 豬玀	tsyu lou	7					
 豬腦	tsyu nau	7					
 蛀牙	tsyu ngo	8					
-豬屙	tsyu ou	7					55
-豬涴	tsyu ou						55
+豬屙	tsyu ou	7					
+豬涴	tsyu ou	7					55
 嘴巴	tsyu po	7					
 嘴巴爿	tsyu po bae		44	479			55
 嘴巴皮	tsyu po bi	7	44	479			55
@@ -17216,7 +17219,7 @@
 望	uaon1	244					
 黃	uaon3	244	262	501			
 挖鼻頭屙	uaq baq deu ou						
-挖鼻頭涴	uaq baq deu ou						
+挖鼻頭涴	uaq baq deu ou						1
 挖起	uaq chi			240			
 挖井	uaq cin	331					
 挖袋	uaq de	331	58	240			55
@@ -18891,8 +18894,8 @@
 蠶豆	zei-ze deu		71	289			
 蠶蛹	zei-ze ion	170					
 蠶蛾	zei-ze ngou	170					
-蠶屙	zei-ze ou	170					55
-蠶涴	zei-ze ou						55
+蠶屙	zei-ze ou	170					
+蠶涴	zei-ze ou	170					55
 蠶寶寶	zei-ze pau pau	170					
 蠶上山	zei-ze zaon sae						
 蠶	zei-ze2	170					

@@ -50,6 +50,19 @@
 
 本人郵箱：shinzoqchiuq@outlook.com
 
+## 致謝（排名不分先後）
+
+- [曹潔萍](https://www.zhihu.com/people/cao-jie-ping-86)
+- [fededem](https://github.com/fededem)
+- [夏如臻](https://www.zhihu.com/people/gho-zhyu-tseng)
+- [Hideyoshi](https://www.zhihu.com/people/jiang-kai-wen-21)
+- [Joynese Fu](https://www.zhihu.com/people/joynese-fu)
+- [五月_starrysky](https://weibo.com/ngyuq)
+- [sacheong](https://github.com/sacheong)
+- slim
+- [再言](https://www.zhihu.com/people/zai-yan-50)
+- [神死慟瞑](https://www.zhihu.com/people/cao-wei-feng)
+
 ## 參考資料
 
 1. 湯珍珠、陳忠敏、吳新賢：《寧波方言詞典》，江蘇教育出版社，1997

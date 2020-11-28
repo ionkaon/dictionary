@@ -54,10 +54,10 @@
 
 - [曹潔萍](https://www.zhihu.com/people/cao-jie-ping-86)
 - [fededem](https://github.com/fededem)
-- [夏如臻](https://www.zhihu.com/people/gho-zhyu-tseng)
 - [Hideyoshi](https://www.zhihu.com/people/jiang-kai-wen-21)
 - [Joynese Fu](https://www.zhihu.com/people/joynese-fu)
 - [五月_starrysky](https://weibo.com/ngyuq)
+- [PeiTsengtung](https://github.com/PeiTsengtung)
 - [sacheong](https://github.com/sacheong)
 - slim
 - [再言](https://www.zhihu.com/people/zai-yan-50)

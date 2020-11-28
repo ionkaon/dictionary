@@ -1,4 +1,4 @@
-繁體	兼容格式	湯版頁碼	《阿拉寧波話》頁碼	朱版頁碼	釋義	備註	詞頻
+繁體	兼容格式	湯版頁碼	《阿拉宁波话》頁碼	朱版頁碼	釋義	備註	詞頻
 挨排生	a ba san		229	295			55
 矮棚狗	a ban keu	68					55
 矮趽狗	a ban keu		109	430			55
@@ -58,7 +58,7 @@
 嗯	an1			207			
 㹙	an3	212	109	496			
 揞	an5	212	154	387			
-怏勃勃	aon baq baq	241	220			後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+怏勃勃	aon baq baq	241	220			後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 怏勃幾糟	aon baq ci tsau	241	220				55
 䱀顙魚	aon saon ng	242	70	434			55
 䱀顙魚	aon tsaon ng			434			
@@ -79,10 +79,10 @@
 押去	aq chi	323					55
 阿青阿黃	aq chin aq waon		28				418
 阿缺弄	aq chiuq lon		38				55
-阿屈死	aq chiuq shi	322	31				55
+阿屈死	aq chiuq shi	322	31			《阿拉宁波话》作「阿曲死」。《上海方言詞典》作「阿屈死」，老派上海話「曲」、「屈」不同音，故應爲「屈」。	55
 阿姊	aq ci	321					578
 阿姐	aq cia	321					
-阿姐屄	aq cia pi	321	30			末字爲清音，《阿拉寧波話》作「婢」，音不合。	418
+阿姐屄	aq cia pi	321	30			末字爲清音，《阿拉宁波话》作「婢」，音不合。	418
 阿姐式	aq cia shiq	321					55
 阿姐式	aq cia soq	321					55
 壓進	aq cin	323	202	96			
@@ -144,7 +144,7 @@
 阿難弄	aq nae lon						
 阿難死	aq nae shi	321	257				55
 阿五	aq ng	322					55
-阿嗯奶	aq ng ne						
+阿嗯奶	aq ng ne				兒童用語，母乳		
 阿囡	aq noe	321	20	182			578
 阿伯	aq pan	322	18				
 阿伯	aq paq	322	18	182			4000
@@ -222,7 +222,7 @@
 阿爺孫子	aq ya sen tsy	321					55
 阿姨	aq yi	321	21	19			
 阿裏	aq yi		40	182			578
-啊唷哇	aq yuq ua						
+啊唷哇	aq yuq ua				疼痛時的喊叫		
 阿賊揹板凳	aq zaq pei pae ten						
 阿壽哥	aq zhieu kou			184			
 鴨舌頭	aq zhiq deu	323					
@@ -830,7 +830,7 @@
 盤纏	bun zoe	246					55
 盤纏鈿	bun zoe di	246	125	364			55
 盤	bun2	246		363			
-蹊蹺	chi chiau	29	229	317			55
+蹊蹺	chi chiau	29	229	317	不平直	據《漢語大詞典》「蹊蹺」含不平正之義。	55
 蹊蹺瓦爿	chi chiau ngo bae						
 起雞皮疙瘩	chi ci bi kaq taq	30					55
 芡漿	chi cian		189	483			55
@@ -997,10 +997,10 @@
 槍笆	chian po	216	86	199			55
 槍笆對槍笆	chian po tei chian po						
 搶三	chian sae		184				55
-腔勢	chian syu						
+腔勢	chian syu				樣子，架勢		
 搶犯	chian vae	216	28	140			55
 嗆	chian1	217		158			
-昶	chian1	216					1000
+昶	chian1	216			一段時間	據蘇滬，爲尖音（調不明）。《阿拉宁波话》造俗字「⿰日仓」，原本用「𪰻」字代替。一說爲「頃」的音轉。因其爲尖音，故可否定這種猜想。部分網友如 @sacheong 用「昶」，對於寧波話音義都較爲合適，對於蘇滬嘉小片而言，音不合。但作爲替字仍優於位於 Unicode 擴展 C 區切音不合的「𪰻」。	1000
 羌	chian1	216					
 腔	chian1	216					
 搶	chian3	216	209				
@@ -1020,7 +1020,7 @@
 翹牙鬚	chiau ngo su	112					55
 翹聳聳	chiau son son	113	228	395			55
 繰貼皮	chiau thiaq bi	112					55
-敲脆瓜	chiau tshei kuo						
+敲脆瓜	chiau tshei kuo				形容輕鬆，小菜一碟		
 翹嘴	chiau tsyu	112					55
 翹嘴鮊魚	chiau tsyu ba ng	112	69				55
 巧	chiau1	112	216	386	需要	湯版等作「超」。《鄞縣通志》作「巧」，認爲是「卻要」的合音。《字語彙解》亦有 kyʽiao'-leh 的記錄。可知是團音。	10000
@@ -1296,7 +1296,7 @@
 喫搞勢	chioq gau syu		316	107			55
 喫閒食	chioq ghae zhiq	348					418
 喫後鉛絲	chioq gheu khae sy						
-喫後撲	chioq gheu phoq	349	316				55
+喫後撲	chioq gheu phoq	349	316		拍人腦後	湯版作「喫後樸」，《阿拉宁波话》作「喫後撲」。末字當爲動詞「撲」。	55
 喫人家	chioq gnin ko						
 喫人腦髓	chioq gnin nau shi		330				55
 喫熱	chioq gniq	350	172	106			578
@@ -1718,7 +1718,7 @@
 傢俱	cia jiu						
 傢俱簇刮新	cia jiu tshaq kuaq shin						
 縩孔	cia khon	216					55
-縩孔籃	cia khon lae	216	92				55
+縩孔籃	cia khon lae	216	92			字據《鄞縣通志》p. 2880，尖音。《阿拉宁波话》记「家空籃」，音不合。「縩」音亦不合，較「家」而言更優，不應讓常用字負擔太多不相關的意思。	55
 借力使	cia liq sy		51	310			55
 借力施	cia liq sy						
 借米好落鑊	cia mi hau loq ghoq						
@@ -1740,7 +1740,7 @@
 借枝筆	cia tsyu piq						
 家務事	cia wu- zy	69					
 借	cia5	69	10, 201	310			
-脹勃勃	cian baq baq	216	221			後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+脹勃勃	cian baq baq	216	221			後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 脹脯	cian bu		207	215			55
 僵脯飯	cian bu vae	215					55
 槳圈	cian chiu	215					55
@@ -1760,7 +1760,7 @@
 將就	cian jieu	215					
 帳鉤	cian keu	216					
 縩孔	cian khon	216					55
-縩孔籃	cian khon lae	216	92				55
+縩孔籃	cian khon lae	216	92			字據《鄞縣通志》p. 2880，尖音。《阿拉宁波话》记「家空籃」，音不合。「縩」音亦不合，較「家」而言更優，不應讓常用字負擔太多不相關的意思。	55
 蔣家潭	cian ko dei						
 張家峯	cian ko fon						
 張家瀛	cian ko yin						
@@ -1840,14 +1840,14 @@
 腳部路頭	ciaq bu lu deu	326	47	368			55
 腳蹺黃天寶	ciaq chiau waon thi pau		341				
 腳尖	ciaq ci	324					
-腳指甲	ciaq ciaq khaq	326					55
+腳指甲	ciaq ciaq khaq	326				ciaq 爲「指」促化後被前字同化。湯版作「腳甲掐」，非。又見《字語彙解》p. 305，nail 註 kyiah'-tsih-k‛ah'，可證中字非「甲」。	55
 腳腳連步	ciaq ciaq li bu		337				55
 腳指末頭	ciaq ciaq maq deu	325					418
 腳筋	ciaq cin	325	47	365			578
 腳進腳出	ciaq cin ciaq tshyuq						
 腳筋奔斷	ciaq cin pen doe	325	337				578
 腳筋吊	ciaq cin tiau		172	367			55
-腳指甲	ciaq ciq khaq	326	47				
+腳指甲	ciaq ciq khaq	326	47			ciq 爲「指」促化。湯版作「腳甲掐」，非。又見《字語彙解》p. 305，nail 註 kyiah'-tsih-k‛ah'，可證中字非「甲」。	
 腳指末頭	ciaq ciq maq deu	325	47				418
 腳埭	ciaq da		128	365			55
 腳宕宕	ciaq dan dan						
@@ -2258,7 +2258,7 @@
 金蛋	cin dae		74	213			
 正堂房	cin daon vaon	265					55
 真道話	cin dau wo	264	293	297			55
-井頭	cin dei	265	7	27			55
+井頭	cin dei	265	7	27		又音cin deu，可知後字爲「頭」，湯版作「井窞」，非。	55
 井頭跟	cin dei ken		7				55
 㲀頭	cin deu		103				55
 井頭	cin deu	265	7	27			55
@@ -2296,7 +2296,7 @@
 整張頭	cin jian deu						
 驚蟄	cin jiq	265					
 金衢片	cin jiu phi						
-儘夠	cin keu	265	225	54			55
+儘夠	cin keu	265	225	54	足夠	湯版作「正夠」，《阿拉宁波话》作「儘夠」，《上海方言詞典》亦作「儘夠」音 tsin keu。可知前字非「正」（「正」上海讀 tsen）。「盡」字中古有精母讀法。	55
 精空	cin khon	265					55
 精空彭空	cin khon ban khon	265					55
 真可	cin khou	264	292	297			
@@ -2476,7 +2476,7 @@
 漬浞	ciq tsoq	357	133			湯版作「跡浞」，《阿拉宁波话》作「漬足」。兼取兩種寫法作「漬浞」。	55
 漬子	ciq tsy		133	375			418
 䥛子刀	ciq tsy tau	358	104	485			418
-結蛛	ciq tsyu	357	113	286		湯版作「結珠」，然 ciq tsyu loe maon 作「結蛛亂網」。刪去「結珠」，改作「結蛛」。	55
+結蛛	ciq tsyu	357	113	286		湯版作「結珠」，然 ciq tsyu loe maon 作「結蛛亂網」。故改作「結蛛」。又《寧波市志》認爲 ciq 爲「蜘」的促化，但據《字語彙解》p. 444，spider 註 kyih'-cü，故前字並非「蜘」促化。	55
 羯豬	ciq tsyu	358					55
 結蛛亂網	ciq tsyu loe maon	357	113	286			55
 摺烏	ciq u	358					55
@@ -2619,8 +2619,7 @@
 彈門蟹	dae men ha	137	66	380			55
 但明	dae min			161			
 彈墨線	dae moq shi						
-彈眼睩睛	dae ngae loq cin	137	135				55
-彈眼落睛	dae ngae loq cin		135				
+彈眼睩睛	dae ngae loq cin	137	135			《阿拉宁波话》作「彈眼落睛」。第三字《上海方言詞典》記音爲loq，非laoq，可知該字不是「落」。	55
 彈硬	dae ngan	137					55
 檀硬	dae ngan		263	484			55
 淡包	dae pau	137	78	377			55
@@ -3115,7 +3114,7 @@
 地基石	di ci zaq	22					55
 甜漿漿	di cian cian	21	275	355			55
 甜漿咪咪	di cian mhi mhi		275				55
-地腳印	di ciaq in	23	4	92		《阿拉寧波話》記又作「地腳引」，音不合。	55
+地腳印	di ciaq in	23	4	92		《阿拉宁波话》記又作「地腳引」，音不合。	55
 墊腳石	di ciaq zaq	23					
 蹄筋	di cin	22					
 甜津津	di cin cin	22					
@@ -3139,10 +3138,8 @@
 第二天亮	di gni thiq gnian	23	13	356			55
 地壤	di gnian	22	5				578
 地壤下頭	di gnian gho deu	22					55
-地樣下頭	di gnian gho deu	22					55
 地壤下底	di gnian gho ti	22					55
 地壤裏	di gnian li	22					55
-地壤裏	di gnian li						
 電熱餅	di gniq pin						
 田要買做畈	di iau ma tsou pae						
 田要種其骨敦	di iau tson ji kuaq ten						
@@ -3212,10 +3209,9 @@
 地坋	di ven			91			
 地袱蹵勩	di voq tshoq yi						
 田橫頭	di wan deu	21					55
-地垟	di yan	22	5	91			578
-地樣下底	di yan gho ti	22					55
-地垟裏	di yan li						
-地樣裏	di yan li	22					55
+地垟	di yan	22	5	91		《阿拉宁波话》作「地垟」，湯版作「地樣」。「垟」，田地義。	578
+地垟下底	di yan gho ti	22					55
+地垟裏	di yan li	22					55
 田塍	di yin	21		59			55
 地園	di yu	22	7				55
 地牀	di zaon		92	91			55
@@ -3454,7 +3450,7 @@
 大腳痱子	dou ciaq fi tsy	181	53				55
 大腳風	dou ciaq fon	181	56	16			55
 大腳孃姨	dou ciaq gnian yi	181					55
-大腳鉗	dou ciaq ji						
+大腳鉗	dou ciaq ji				蟹鉗		
 大腳髈	dou ciaq phaon	181	47	16			55
 大襟	dou cin	180					
 大襟布衫	dou cin pu sae	180	36	17			55
@@ -3517,7 +3513,7 @@
 大侾佬	dou hau lau		26	15			55
 大好佬	dou hau lau		26				55
 大好老	dou hau lau	179	26	15			55
-大貨	dou hou						
+大貨	dou hou					大的那個人	
 馱貨	dou hou						
 大貨癩𪓿	dou hou la sy	179	26	17			418
 大火輪	dou hou len			14			
@@ -3731,7 +3727,7 @@
 堵	du2	46	121	335			
 度	du6	46	121	270			
 渡	du6		9				
-咋記意思	dza ci i sy						
+咋記意思	dza ci i sy				什麼意思		
 咋結煞	dza ciq saq	64	321	207			55
 射肚皮	dza du bi						
 撒肚皮	dza du bi			458			
@@ -3746,12 +3742,9 @@
 咋個大	dza kou dou						
 咋個長	dza kou jian						
 咋光景	dza kuaon cin		41				578
-咋個	dza kun		41	207			1500
-咋管	dza kun	64	41				55
+咋個	dza kun	64	41	207	多少	後字湯版等作「管」。音後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1500
 咋個大	dza kun dou						55
-咋管大	dza kun dou						
 咋個長	dza kun jian						55
-咋管長	dza kun jian						
 射爛薄屙	dza lae boq ou						
 射爛薄涴	dza lae boq ou						55
 撒爛薄屙	dza lae boq ou						
@@ -4088,8 +4081,7 @@
 除籃䩩	dzyu lae iu						
 治漏	dzyu leu	9					55
 廚頓	dzyu ten		132				55
-滯膯	dzyu ten	9					55
-縋膯	dzyu ten		204				55
+滯膯	dzyu ten	9	204		喫得過飽	《阿拉宁波话》作「縋膯」，前字當與「滯底」類似。	55
 滯底	dzyu ti		211				55
 柱底石	dzyu ti zaq	9					55
 除出	dzyu tshyuq		299	284			55
@@ -4447,7 +4439,7 @@
 飛象	fi zhian	18					55
 肺	fi5	18		215			
 風篷	fon bon	284	89	42			55
-風氣勃勃	fon chi baq baq			42		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	
+風氣勃勃	fon chi baq baq			42		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	
 風疹塊	fon cin khuei	284					
 蜂糖	fon daon	284					55
 風火	fon hou		129	42			
@@ -4677,7 +4669,7 @@
 鞋底奔薄	gha ti pen boq						
 鞋底奔洞	gha ti pen don						
 鞋底線	gha ti shi	68					55
-啊啐	gha tshei						
+啊啐	gha tshei				擬聲，打噴嚏		
 還有銅鈿好放生	gha yeu don di hau faon san						
 鞋舌頭	gha zhiq deu	68					55
 鞋	gha2	68					
@@ -4801,8 +4793,7 @@
 航船埠頭	ghaon zoe bu deu		6				55
 航船埠頭軋出人	ghaon zoe bu deu gaq tshyuq gnin						
 咉	ghaon2		301	207			
-抗	ghaon2			199			
-杭	ghaon2		200	199			
+抗	ghaon2		200	199	承受	湯版作「行」，《阿拉宁波话》作「杭」。《說文》抗，扞也，抗或从木。徐鉉註：今俗作胡郞切。故本字實爲「抗」。《廣韻》抗，胡郎切，舉也又苦浪切。	
 絎	ghaon2	240	160	286			
 行	ghaon2	240	186	115			
 狹倰倰	ghaq len len	320	227	267			55
@@ -4861,8 +4852,7 @@
 咸到各態	ghei-ghe tau koq the						
 咸到各退	ghei-ghe tau koq thei						
 咸到各采	ghei-ghe tau koq tshe	170	12				418
-咸到各處	ghei-ghe tau koq tshyu	170		303			
-咸到各處	ghei-ghe tau koq tshyu	170	12	303			418
+咸到各處	ghei-ghe tau koq tshyu	170	12	303		表示滿、全義的 ghei2，根據音韻地位，該詞很可能原本是陽聲韻。《鄞縣通志》p. 2985記爲「延」，註明讀若寒 /ɦẽĩ/，《字語彙解》p. 156記音爲 ʽen。同時滸山也有表示類似含義的 /ɦẽ/。故確認該字爲匣母覃韻、談韻或寒韻字。查找韻書，該音韻地位下沒有表示相關含義的字。@PeiTsengtung 猜測爲「合」之對轉。@sacheong 認爲是「咸」之變音或「和」之兒化。若爲「和」之兒化，當變爲 ön 韻，清末無 ʽön 音節，更可能繼續變爲 ʽun 而非 ʽen。未找到清末的 eh 對轉爲 en 的例子，「合」之對轉可能不成立。「延」i介音脫落也無相關例子。ae 變爲 ei 今有一例，銜音 ghae2 又音 ghei2。故採用可能性最高的說法，寫爲「咸」。	418
 咸到四態	ghei-ghe tau sy the						
 咸到四退	ghei-ghe tau sy thei						
 咸到四采	ghei-ghe tau sy tshe	170	12				418
@@ -5000,7 +4990,7 @@
 下顧	gho ku	104	186	12			55
 下顧生意	gho ku san i						
 下管兩老頭抲跌	gho kun lian lau deu kho tiq						
-夏利車	gho li tsho						
+夏利車	gho li tsho				出租車	舊說法，因早年出租車多爲夏利牌，故又稱出租車爲夏利車	
 下兩網	gho lian maon		14	12			55
 下兩卯	gho lian mau	104					
 下兩遭	gho lian tsau	104	14	12			418
@@ -5053,7 +5043,7 @@
 下作貨	gho tsoq hou	105	33	13			55
 下作坯子	gho tsoq phei tsy	105	33	13			55
 夏至	gho tsy	105					
-下飯	gho vae	104	62	12, 425		《阿拉寧波話》又作「⿰飠夏飯」	55
+下飯	gho vae	104	62	12, 425		《阿拉宁波话》又作「⿰飠夏飯」	55
 下飯交關㜺	gho vae ciau kuae tsae						
 下飯好猛	gho vae hau man						
 下飯嘸告飯喫飽	gho vae mh kau vae chioq pau						
@@ -5171,12 +5161,12 @@
 河埠頭	ghou bu deu	191	7				578
 河埠頭滰衣裳	ghou bu deu jian i zaon						
 河埠頭講阿婆	ghou bu deu kaon aq bou						
-和計	ghou ci						55
+和計	ghou ci				全部；都		55
 河鯽魚	ghou ci ng	191	69				55
 河鯽魚㸆蔥	ghou ci ng khau tshon						55
 河鯽魚烤蔥	ghou ci ng khau tshon	191					55
 河鯽魚	ghou cin ng		69				55
-和結	ghou ciq						55
+和結	ghou ciq				全部；都		55
 河結連底凍	ghou ciq li ti ton						
 河塘	ghou daon	191					55
 河塘河面	ghou daon ghou mi						
@@ -5237,7 +5227,7 @@
 河灘	ghou thae	191					
 河灘邊頭	ghou thae pi deu	191					55
 河樁	ghou tsaon			223			
-和總	ghou tson	191	283	210			400000
+和總	ghou tson	191	283	210	全部；都		400000
 和總是	ghou tson zy						5000
 荷葉	ghou yiq	191					
 荷葉包老菱	ghou yiq pau lau lin						
@@ -5392,7 +5382,7 @@
 孃勤囡勿懶	gnian jin noe vaq lae						
 孃勤囡弗懶	gnian jin noe vaq lae						1
 孃家	gnian ko	219					
-喵呣貓	gnian mh mae						
+喵呣貓	gnian mh mae				兒童用語，貓咪		
 仰死仰倒	gnian shi gnian tau	219					55
 孃戲孃倒	gnian shi gnian tau		336				55
 孃死孃倒	gnian shi gnian tau		336				55
@@ -5401,7 +5391,7 @@
 娘子	gnian tsy	219	20	19			
 娘子阿姆	gnian tsy a m						55
 娘子阿姆	gnian tsy an m	219					55
-喵嗚貓	gnian u mae	219					
+喵嗚貓	gnian u mae	219			兒童用語，貓咪		
 孃姨	gnian yi	219	25				
 孃	gnian2	219					
 箬殼	gniaq khoq	326	118	449			55
@@ -5548,8 +5538,8 @@
 掿麪粉	gnioq mi fen						
 肉麻	gnioq mo	350					
 肉片	gnioq phi	350					
-肉片撮着	gnioq phi tshaq dzoq						
-肉片撮着	gnioq phi tshaq zoq						
+肉片撮着	gnioq phi tshaq dzoq				喻指開心		
+肉片撮着	gnioq phi tshaq zoq				喻指開心		
 肉餅子	gnioq pin tsy	350	63	110			55
 肉餅子燉蛋	gnioq pin tsy ten dae	350					55
 肉鬆	gnioq son	350					
@@ -5577,7 +5567,7 @@
 掿	gnioq8		150				
 肉	gnioq8	350	63	109			
 𢫭	gnioq8	350		238			
-熱勃勃	gniq baq baq	362	258	293		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+熱勃勃	gniq baq baq	362	258	293		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 熱勃幾糟	gniq baq ci tsau						
 熱氣肉	gniq chi gnioq	362	63	293			55
 日長夜大	gniq cian ya dou	362	328				55
@@ -5778,7 +5768,7 @@
 蟹醬	ha cian	67	66	496			
 蟹腳鉗	ha ciaq ji	68	66	497			55
 蟹腳長	ha ciaq jian						
-蟹腳末頭	ha ciaq maq deu						
+蟹腳末頭	ha ciaq maq deu				蟹腳		
 蟹肚臍	ha du ji	67	66	497			55
 蟹粉	ha fen	67					
 蟹和尚	ha ghou zaon	67					55
@@ -6068,7 +6058,7 @@
 火腿	hou thei	188					
 火㮇	hou thi	188	97	45			55
 火㮇棒頭	hou thi baon deu		97	45			55
-貨的	hou tiq						
+貨的	hou tiq				拉貨的出租車		
 火鏟	hou tshae	188					55
 火倉	hou tshaon	189					55
 火叉	hou tsho	188	97				55
@@ -6079,8 +6069,7 @@
 火車路	hou tsho lu	188	90	46			55
 火車通蘇杭	hou tsho thon su ghaon						
 火叉	hou tshoe	188	97	45			55
-火熜	hou tshon		94	46			55
-火銃	hou tshon	189					55
+火熜	hou tshon	189	94	46	取暖的火爐	湯版作「火銃」。「火銃」當爲火槍。《阿拉宁波话》作「火熜」。	55
 火種彭生	hou tshon ban san	189	328	46			55
 火熜蓋頭	hou tshon ke deu						
 火赤練	hou tshoq li	189	113	46			55
@@ -6212,7 +6201,7 @@
 花地菜	huo di tshe		73				55
 蝦段	huo doe	121					55
 花筒	huo don	120					
-蝦𩻣	huo dzae	121	68	253			55
+蝦𩻣	huo dzae	121	68	253		湯版作「蝦⿰虫孱」。	55
 蝦𩻣薧	huo dzae khau			254			
 蝦𩻣鮳	huo dzae khau						
 蝦𩻣氽豆腐	huo dzae then deu vu						
@@ -6335,10 +6324,10 @@
 意外	i nga	42	285	438			
 掩板	i pae	42					55
 依本	i pen		290	151, 211			55
-嫌鄙	i pi	42	175	442			418
+嫌鄙	i pi	42	175	442	嫌棄	湯版作「嫌貶」。《蘇州方言詞典》作「嫌鄙」，可知後字非煙韻。	418
 掩邊賊	i pi zaq		28	335			55
 衣衫	i sae	41	57	121			
-燕山夜話	i sae ya wo						
+燕山夜話	i sae ya wo				說胡話		
 醫生	i san	42					
 依稀	i shi	41	306				
 依心依相	i shin i shian	41	217	211			55
@@ -6966,7 +6955,7 @@
 䩩	iu3	56	132				
 𩌑	iu3		132	494			
 餧	iu5			370			
-鬱勃勃	iuq baq baq	370	258	201		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+鬱勃勃	iuq baq baq	370	258	201		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 鬱氣勿過	iuq chi vaq kou						
 鬱氣弗過	iuq chi vaq kou						1
 噦氣勿轉	iuq chi vaq tsoe	370	137				
@@ -7037,7 +7026,7 @@
 纏嘴麻臉	ji tsyu mo li						
 纏話	ji wo		52				55
 埼	ji2		8				
-敧	ji2	31	145	395			
+敧	ji2	31	145	395	夾菜	據《鄞縣通志》p. 3057 爲「敧」，可知爲衣韻非煙韻。湯版作「拑」，非。	
 歧	ji2		8				
 畤	ji2		8				
 纏	ji2	32			1. 糾纏; 2. 固執		
@@ -7192,7 +7181,7 @@
 着着摜	jiaq jiaq guae						
 着着力力	jiaq jiaq liq liq						
 着港	jiaq kaon	361					
-着力	jiaq liq	326	218	412	1. 疲憊; 2. 喫力	湯版作「𢜭力」，《阿拉宁波话》作「𢜭力」，但註明也作「着力」。據《鄞縣通志》及《寧波方言字語彙解》，前字爲尖音，「着力」音合。	10000
+着力	jiaq liq	326	218	412	1. 疲憊; 2. 喫力	湯版作「𢜭力」，《阿拉宁波话》作「𢜭力」，但註明也作「着力」。據《鄞縣通志》及《字語彙解》，前字爲尖音，「着力」音合。	10000
 着力勿賺鈿	jiaq liq vaq dzae di						
 着力弗賺鈿	jiaq liq vaq dzae di						1
 朝白笑	jiau baq shiau	113	28	392			55
@@ -7431,8 +7420,7 @@
 介講既講	ka kaon ci kaon		328				55
 介看既看	ka khi-khe ci khi-khe		328				55
 介個	ka kou		41	41			418
-介個	ka kun		41	41			1000
-介管	ka kun	66	41	41			55
+介個	ka kun	66	41	41		後字湯版等作「管」。音後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1000
 解纜	ka lae		195				
 介勒	ka laq		300				55
 介癆槽	ka lau zau						
@@ -7513,7 +7501,7 @@
 減壽	kae zhieu	144	173				55
 減壽命	kae zhieu min	144	173				55
 奸	kae1	144	245	129			
-扴	kae3	144	149	385			
+扴	kae3	144	149	385	擦（屁股）	《阿拉宁波话》記「揩」kae5，湯版用借字，音亦記作 kae5。《餘姚方言志》、《溫州方言詞典》、《溫州方言志》均作「扴」，記音爲陰上。《廣韻》，古黠切，指扴物也。今讀 kae3，爲陽入對轉。陰去或爲錯記。	
 揀	kae3	144	201				
 減	kae3	144	145	370			
 襉	kae3	144	60, 122	414			
@@ -7868,8 +7856,7 @@
 交老運	kau lau yun	88	199				55
 鉸鏈	kau li	89	100				
 高包	kau pau		78				55
-珓杯	kau pei		120				55
-珓背	kau pei	89					55
+珓杯	kau pei	89	120			湯版作「珓背」，《阿拉宁波话》作「珓杯」。《漢語大詞典》、廣州、柳州、建甌等地的方言詞典亦作「珓杯」，可知後字爲陰平。	55
 絞山	kau sae						
 膠碎搗臼	kau sei tau jieu						
 高靴套鞋	kau shiu thau gha	89					55
@@ -8087,7 +8074,7 @@
 考試	khau sy	90					
 敲私章	khau sy tsaon						
 敲倒做	khau tau tsou						
-敲坍	khau thae						
+敲坍	khau thae				指事情辦砸		
 敲釘轉腳	khau tin tsoe ciaq	90	251	452			55
 敲釘鑽節	khau tin tsoe ciq						
 敲𧰵	khau toq	90	141	237			55
@@ -8164,7 +8151,7 @@
 看	khe5	126					
 肯頭	khen deu		127	204			55
 肯定	khen din						
-肯定	khen gnin						
+肯定	khen gnin					又音	
 哏哏	khen khen		280	256			
 肯肯	khen khen	256	307	204			55
 哏哏嗆	khen khen chian						
@@ -8517,8 +8504,8 @@
 睏衫	khuen sae	277					55
 睏相	khuen shian	277	49	397			578
 睏相壞	khuen shian ua						
-睏醒	khuen shin						
-睏甦醒	khuen su shin						
+睏醒	khuen shin				睡醒		
+睏甦醒	khuen su shin				睡醒		
 睏失覺	khuen syuq kau	277	169	397			55
 睏到	khuen tau						
 睏⿰忄態覺	khuen the kau		169				55
@@ -8541,7 +8528,7 @@
 睏上去	khuen zaon chi						
 睏上來	khuen zaon le						
 睏前	khuen zhi						
-睏着	khuen zoq		169				418
+睏着	khuen zoq		169			《字語彙解》中後字爲 joh，字寫爲「熟」。鎮海五里牌及駱駝後字音 dzoq，故後字仍應是「着」	418
 睏着了	khuen zoq lei						
 睏	khuen5		169	396			
 寬賬	khun cian			326			
@@ -9170,14 +9157,14 @@
 黏牙齒	kni ngo tsy		261				55
 黏呶那呶	kni nhu nha nhu			486			
 黏得得	kni taq taq	32	261				55
-喵呣貓	knian mh mae						55
-喵嗚貓	knian u mae	219					55
+喵呣貓	knian mh mae				兒童用語，貓咪		55
+喵嗚貓	knian u mae	219			兒童用語，貓咪		55
 扭扭作作	knieu knieu tsoq tsoq			142			
 扭痧氣	knieu so chi	155					55
 扭	knieu1	155	133	142, 471			
 肉肉	knion knion						
 原方	kniu faon		294				55
-家棚精	ko ban cin						
+家棚精	ko ban cin				指總是無故拆壞東西的人		
 家貧出孝子	ko bin tshyuq shiau tsy						
 加氣	ko chi	102	178	80			
 加氣煩惱	ko chi vae nau	102	178				55
@@ -9254,7 +9241,7 @@
 各埭路	koq da lu						
 𰟫苔條	koq de diau						
 角頭	koq deu	344	95				578
-角頭角尾	koq deu koq mi	344	12	118		《阿拉寧波話》作「角頭角面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
+角頭角尾	koq deu koq mi	344	12	118		《阿拉宁波话》作「角頭角面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
 擱田	koq di	345	194				55
 擱碟	koq diaq	345	99	388			55
 各段路	koq doe lu						
@@ -9779,7 +9766,7 @@
 冷飯	lan vae	207					55
 冷飯頭	lan vae dei			172			
 冷飯頭	lan vae deu	207		172			55
-冷飯𥽬	lan vae gnian	207	61	172			55
+冷飯𥽬	lan vae gnian	207	61	172	煮飯時摻入的部分冷飯	𥽬，《廣韻》女亮切，雜也。《活色生香宁波话》中稱末字爲「孃」，母本之義，有附會之嫌。	55
 冷飯塊	lan vae khuei	207	54	172			55
 冷飯筲箕	lan vae sau ci		98				55
 冷飯得	lan vae taq	207	54	173			55
@@ -9840,7 +9827,7 @@
 臘肉	laq gnioq	309					
 攔好	laq hau						
 辣火	laq hou	309					55
-辣火醬	laq hou cian	309	76	454			55
+辣火醬	laq hou cian	309	76	454		《阿拉宁波话》作「辣貨醬」，湯版作「辣火醬」。辣椒稱 laq hou，據變調，後字當爲陰上。故當作「辣火醬」。	55
 辣呵呵	laq hou hou	309	275	454			55
 勒其	laq ji		304				55
 勒及	laq ji						55
@@ -9848,7 +9835,7 @@
 辣茄	laq jia			454			
 臘腸	laq jian	309					
 辣茄	laq jie	309	73	454			55
-肋胳肢下	laq kaq tsy gho	308	45	118			578
+肋胳肢下	laq kaq tsy gho	308	45	118		湯版作「肋膈肢下」。「胳肢」的寫法更爲常見。	578
 肋胳肢下毛	laq kaq tsy gho mau	308					55
 勒可憐	laq khou li						
 勒過	laq kou		298				55
@@ -9910,7 +9897,7 @@
 勒	laq8	308	304	340			
 啦	laq8	62	303	351			
 捋	laq8	308	146	292			
-攔	laq8	308	157	249			
+攔	laq8	308	157	249		湯版等均作「迾」，《蘇州方言詞典》、《上海話大詞典》作「攔」。《廣韻》迾，良辥切，遮遏。「迾」音不合。「攔」無入聲讀法，或爲陽入對轉。考慮寫更常見的「攔」。	
 辣	laq8	308, 309	268	454, 464			
 老鴨	lau ae	82					55
 老鴨	lau aq	82					55
@@ -9994,7 +9981,7 @@
 老個豆腐嚼勿落	lau goq deu vu zhiaq vaq loq						
 老個豆腐嚼弗落	lau goq deu vu zhiaq vaq loq						1
 老蟹	lau ha	81					55
-老貨	lau hou						
+老貨	lau hou					老的那個人	
 老蝦公	lau huo kon			89			
 老花眼	lau huo ngae	82	57				
 老鷹	lau in	83					
@@ -10056,8 +10043,7 @@
 老相	lau shian	83	49				
 老相好	lau shian hau	83					55
 老相扮出	lau shian pae tshyuq	83	330	90			55
-老小無欺	lau shiau vu chi						55
-老少無欺	lau shiau vu chi	82	293	90			
+老少無欺	lau shiau vu chi	82	293	90			55
 老少無欺	lau shiau wu- chi	82	293	90			55
 老手	lau shieu	83					
 老手勢	lau shieu syu						
@@ -10139,14 +10125,14 @@
 來發來發講啥西	le faq le faq kaon so shi						
 來該	le ke	124	214	148			55
 來勒	le laq	124	214				55
-來勒及	le laq ji						578
+來勒及	le laq ji					末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
 來當	le taon	124	214	148			55
 來的	le tiq	124	214	148			
 來的了	le tiq lei						55
 來的𡀂	le tiq lei	124	214				55
 來東	le ton	124	214				55
 來勿及	le vaq ji						
-來弗及	le vaq ji						578
+來弗及	le vaq ji				來不及	末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
 來	le2	124	214	148			
 擂盆	lei ben	169	100	475			55
 礌盤	lei bun	169	89	476			55
@@ -10188,11 +10174,11 @@
 雷	lei2	168					
 𡀂	lei2	168	302	478			
 癗	lei4	169	53	480, 493			
-擂	lei6	168	166	475			
+擂	lei6	168	166	475	碾	《玉篇》擂，力堆切，研物也。調不合，義近。	
 洡	lei6	168	211	276			
-礌	lei6		166				
+礌	lei6	168	166	475	滾動	湯版等作「擂」。《溫州方言志》作「礌」，《溫州方言詞典》作「㔣」。《集韻》礌，盧對切，𡌸倉推石自高而下也。《廣韻》㔣，盧對切，推也。二字音同，義近。「㔣」位於 Unicode 擴展 A 區，「礌」位於基本區，取「礌」。	
 累	lei6		211				
-𨀤	lei6		166				
+𨀤	lei6	168	166	475	躺倒	湯版等作「擂」。《溫州方言志》作「𨀤」，盧對切，足跌。義近，可取。	
 輪盤	len bun	254	89	202			
 惀頭勿到	len deu vaq tau						
 惀頭弗到	len deu vaq tau						1
@@ -10235,33 +10221,21 @@
 撈把揀揀	lhau po kae kae		335				55
 撈錫箔灰	lhau shiq boq huei						
 撈	lhau1	80	143	289			
-鏤洞眼	lheu don ngae						
 𠞭洞眼	lheu don ngae						
-鏤番薯	lheu fae zyu						
 𠞭番薯	lheu fae zyu						
-鏤耳朵	lheu gni to	197					55
-𠞭耳朵	lheu gni to						55
-鏤耳朵屙	lheu gni to ou						
-鏤耳朵涴	lheu gni to ou						
+𠞭耳朵	lheu gni to	197					55
 𠞭耳朵屙	lheu gni to ou						
 𠞭耳朵涴	lheu gni to ou						1
 鏤空皮鞋	lheu khon bi gha	283					55
 𠞭𠞭挖挖	lheu lheu uaq uaq	197	337	449			55
-鏤耳朵	lheu ng to	197					55
 𠞭耳朵	lheu ng to						55
-鏤耳朵屙	lheu ng to ou						
-鏤耳朵涴	lheu ng to ou						
 𠞭耳朵屙	lheu ng to ou						
 𠞭耳朵涴	lheu ng to ou						1
-𠞭眼	lheu ngae	197	37	449			55
-鏤膿刮髓	lheu non kuaq shi			449			55
+𠞭眼	lheu ngae	197	37	449	眼眶深陷的眼睛	《阿拉宁波话》作「瞜眼」,「瞜」字並無相關含義，當作「𠞭眼」，由挖取引申爲深陷。	55
 𠞭膿刮髓	lheu non kuaq shi		256	449			55
-鏤種	lheu tson						
 𠞭種	lheu tson						
 𠞭形刮髓	lheu yin kuaq shi	197	256				55
-摟	lheu1		146	388			
-鏤	lheu1	197	146	449			
-𠞭	lheu1	197	135, 146	374, 449			
+𠞭	lheu1	197	135, 146	374, 388, 449	挖取	《玉篇》穿也。義合。湯版作「鏤」，《阿拉宁波话》也作「摟」，非。	
 謰謰謱謱	lhi lhi lho lho	24		282			55
 謰謰謱謱	lhi lhi lhu lhu		179				55
 拎包	lhin pau	261					
@@ -10736,10 +10710,10 @@
 亂弄三千	loe lon sae chi		332				55
 亂買西買	loe ma shi ma		332				55
 亂夢	loe maon	162		160			578
-亂網	loe maon						
+亂網	loe maon				指捕撈其他東西時一起上來的海鮮		
 亂夢地裏	loe maon di li	162	50	160			55
 亂夢翻山	loe maon fae sae						
-亂網蟹	loe maon ha						
+亂網蟹	loe maon ha				指捕撈其他東西時一起上來的螃蟹		
 卵毛	loe mau	162	46	168			55
 亂摸西摸	loe moq shi moq						
 卵脬	loe phau	162	46	168			55
@@ -10752,7 +10726,7 @@
 亂唱三千	loe tshaon sae chi		332				55
 亂草字	loe tshau zy	162					55
 亂忖三千	loe tshen sae chi		332				55
-亂鐘	loe tson						
+亂鐘	loe tson				謂人舉止異常		
 卵子	loe tsy	162	46	167			
 卵子	loe tsyu		46				
 卵黃	loe uaon	162	46	168			55
@@ -10906,7 +10880,7 @@
 落落位位	loq loq wei wei						
 六六順	loq loq zyun						
 落露水	loq lu syu	338					55
-落帽風	loq mau fon						
+落帽風	loq mau fon				風大	見《字語彙解》p. 517	
 絡麻	loq mo		116				55
 落木	loq moq		18				55
 落目	loq moq			390			
@@ -10996,7 +10970,7 @@
 擄摸過賬	lou moq kou cian		336				55
 羅浦	lou phu						
 擄錫箔灰	lou shiq boq huei						
-羅宋帽	lou son mau	182	56	208			55
+羅宋帽	lou son mau	182	56	208		《阿拉宁波话》作「羅松帽」，Russian 音譯一般寫作「羅宋」而非「羅松」。	55
 螺螄青	lou sy chin		70				55
 腡底	lou ti	181					55
 腡頂	lou tin	181					55
@@ -11004,7 +10978,7 @@
 擄順毛	lou zyun mau	182	323				55
 籮	lou2	182	47	450			
 腡	lou2	181	47	368			
-擄	lou4	182	150	418			
+擄	lou4	182	150	418	用手在平面聚攏物體	湯版寫「攎」，《阿拉宁波话》記了「擄」、「攎」兩種寫法。兩種寫法均有理據。個人更推薦寫「擄」，聲符和聲調都更合 lou4 的讀音。	
 邏	lou6	182		354			
 蘆稷	lu ci		71	144			55
 蘆穄	lu ci	46		144			55
@@ -11062,7 +11036,7 @@
 櫓	lu6	47					
 路	lu6	47		427			
 嘸賬得算	m cian taq soe			155			
-賣青灰	ma chin huei						
+賣青灰	ma chin huei				詈語，賣骨灰		
 買賬	ma cian	59					
 買只豬娘	ma ciq tsyu gnian						
 買豆芽	ma deu ngo						
@@ -11416,7 +11390,7 @@
 門裏廂	men li shian		87				55
 門路	men lu	250					
 門門	men men			206			
-門門賬	men men cian	250	295	206			578
+門門賬	men men cian	250	295	206		當與賬目有關，與「閒賬」相對。湯版作「門門帳」，非。	578
 問問看	men men khe						
 門面	men mi	250					
 門面要繃	men mi iau pan						
@@ -11573,7 +11547,7 @@
 莫煩吶	mhau vae naq						
 莫	mhau1	75	291, 296	296			
 妹妹	mhei mhei	165					
-悶勃勃	mhen baq baq	251	258	174		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+悶勃勃	mhen baq baq	251	258	174		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 悶氣特塞	mhen chi daq saq	251					55
 悶氣烔烔	mhen chi don don			174			
 悶地躬	mhen di kon						
@@ -11596,12 +11570,12 @@
 悶弗聲響	mhen vaq shin shian						55
 捫	mhen5	251					
 燜	mhen5	251					
-眯𥉻眼	mhi chi ngae	16	38	447			55
+眯𥉻眼	mhi chi ngae	16	38	447		湯版作「眯覷眼」。	55
 眯過眼笑	mhi kou ngae shiau	16	236	348			55
 咪咪	mhi mhi	16	302, 307	256			
 面面排排	mhi mhi ba ba		229	256			55
 面面叫	mhi mhi ciau		229				55
-眯眯大	mhi mhi dou	16	223	122			55
+眯眯大	mhi mhi dou	16	223	122		《阿拉宁波话》作「米米大」。亦有說法稱本字爲「微微大」。	55
 眯眯麩	mhi mhi fu						
 咪咪笑	mhi mhi shiau	16					55
 咪咪沙飯	mhi mhi so vae						
@@ -12239,7 +12213,7 @@
 懵懂先生	mon ton shi san						
 木器店	moq chi ti	334					
 墨汁	moq ciq	335					
-木鬼	moq ciu						
+木鬼	moq ciu				人很木訥		
 木頭	moq deu		29	29			
 木頭人案	moq deu gnin e	334	108				55
 木頭人案	moq deu gnin ei-e			30			
@@ -12280,7 +12254,7 @@
 墨綠	moq loq	335					
 摸六株	moq loq tsyu	335	324	417			55
 木馬	moq mo	334	103	29			
-木木鬼	moq moq ciu						
+木木鬼	moq moq ciu				人很木訥，生動形式		
 墨墨暗	moq moq ei-e	312					55
 墨墨黑	moq moq haq	312					55
 摸奶奶	moq nhe nhe						
@@ -12411,8 +12385,8 @@
 嬲和	na ngou			485			578
 嬲和嬉頭	na ngou shi deu						55
 嬲和東西	na ngou ton shi			485			578
-倷䏘	na phiq						
-倷卜	na poq						
+倷䏘	na phiq				「倷阿姆䏘」常快讀爲/na phiq/，詈語		
+倷卜	na poq				由「倷阿姆撥我」快讀而來，詈語		
 奶香	na shian	62					55
 奶嬸	na shin	62					55
 奶水	na syu	61					
@@ -12843,7 +12817,7 @@
 岩	ngae2		8				
 硬拗纏	ngan au ji	211	263				55
 硬照	ngan ciau	211		393			55
-硬勁	ngan cin	211	292				55
+硬勁	ngan cin	211	292			《阿拉宁波话》作「硬勁」，湯版作「硬竟」。杭州、崇明、上海等地的方言詞典作「硬勁」。	55
 硬結結	ngan ciq ciq	211	263	394			55
 硬結刮剌	ngan ciq kuaq laq	211					55
 硬糖	ngan daon	211					
@@ -13054,7 +13028,7 @@
 噥噥哭	nhon nhon khoq						
 噥噥響	nhon nhon shian						
 襛	nhon1	287	164	379			
-齈	nhon5	287					
+齈	nhon5	287				湯版作「齆」，音不合。	
 呶筋拔骸	nhu cin baq hae						
 嗯克嗯克	nk khaq nk khaq		281				55
 孲𤘅	nk nga	378	20	285			578
@@ -13104,11 +13078,11 @@
 糯	nou6	181	262	500			
 梧桐樹	nu don zyu						
 下氣力	o chi liq						
-鴉鵲	o chiaq	105	111	250			55
+鴉鵲	o chiaq	105	111	250		湯版作「鴉鵲」，《寧波方言詞典》作「丫鵲」。「鴉」義更合。	55
 鴉鵲做窠搭涼棚	o chiaq tsou khou taq lian ban						
 丫頭	o deu	105					
 丫頭腳輕	o deu ciaq chin						
-丫頭屄	o deu pi	105				末字爲清音，《阿拉寧波話》作「婢」，音不合。	55
+丫頭屄	o deu pi	105				末字爲清音，《阿拉宁波话》作「婢」，音不合。	55
 𦫪掉	o diau	105					55
 𦫪大樹	o dou zyu						
 下火藥	o hou yaq						
@@ -13207,8 +13181,8 @@
 惡嘴眼相	oq tsyu ngae shian	347	236	297			55
 屋檐	oq yi	347					
 惡形惡狀	oq yin oq dzaon						
-喔唷	oq yuq						
-喔唷哇	oq yuq ua						
+喔唷	oq yuq				疼痛時的喊叫		
+喔唷哇	oq yuq ua				疼痛時的喊叫		
 屋	oq7	347					
 惡	oq7	347	177	296			
 屙背出	ou bei tshyuq		244				
@@ -13221,8 +13195,8 @@
 屙漿頭色	ou cian deu saq						
 涴漿頭色	ou cian deu saq						1
 捼腳	ou ciaq	191	48				55
-屙精寶	ou cin pau						
-涴精寶	ou cin pau						1
+屙精寶	ou cin pau				固執的人		
+涴精寶	ou cin pau				固執的人		1
 屙浸草	ou cin tshau	192	106	331			
 涴浸草	ou cin tshau	192	106	331			55
 屙漬花佬	ou ciq huo lau						
@@ -13290,17 +13264,15 @@
 涴賴便臭	ou la bi chieu						1
 屙懶出	ou lae tshyuq		247				
 涴懶出	ou lae tshyuq		247				55
-捼癆槽	ou lau zau						
+捼癆槽	ou lau zau				看見東西樣樣要		
 屙裏拌糟	ou li bun tsau	191	255	332			
 涴裏拌糟	ou li bun tsau	191	255	332			55
 屙末爛脆	ou maq lae tshei	192	263	331			
 涴末爛脆	ou maq lae tshei	192	263	331			55
 屙衲	ou naq						
 涴衲	ou naq						
-屙衲一樣	ou naq iq yan		253				
-屙衲一樣	ou naq iq yan						
-涴衲一樣	ou naq iq yan		253				55
-涴衲一樣	ou naq iq yan						
+屙衲一樣	ou naq iq yan		253		形容差勁，沒用，一塌糊塗		
+涴衲一樣	ou naq iq yan		253		形容差勁，沒用，一塌糊塗		55
 屙𤿏屁鬆	ou nei phi son	192	336				
 涴𤿏屁鬆	ou nei phi son	192	336				55
 𤉦暖	ou noe	191	258	409			55
@@ -13669,7 +13641,7 @@
 胖陽𣝗臖起	phaon yan waq hen chi						
 潑便	phaq bi	298					55
 𤖼腳	phaq ciaq	297	48				55
-𤖼腳大	phaq ciaq da						
+𤖼腳大	phaq ciaq da				張開雙臂雙腿作「大」字狀		
 𤖼腳褲	phaq ciaq khu	298	59	313			55
 𤖼腳癩𪓿	phaq ciaq la sy	298	36				55
 𤖼腳𤖼手	phaq ciaq phaq shieu						
@@ -13697,7 +13669,7 @@
 跑馬燈	phau mo ten						
 泡泡糖	phau phau daon	75					
 泡湯	phau thaon	75	189	225			
-跑春	phau tshyun	75	248	398		《鄞縣通志》作「跑春」，前字爲清音phau，可與「跑馬燈」類比。《阿拉寧波話》作「泡衝」，後字音不合。	55
+跑春	phau tshyun	75	248	398		《鄞縣通志》作「跑春」，前字爲清音phau，可與「跑馬燈」類比。《阿拉宁波话》作「泡衝」，後字音不合。	55
 泡飯	phau vae	75	61				
 泡	phau5	75					
 炮	phau5	75					
@@ -13863,7 +13835,7 @@
 扁頭	pi deu	12					
 邊頭	pi deu	12	10				
 扁豆開花像彎刀	pi deu khe huo zhian uae tau						
-邊頭邊尾	pi deu pi mi		11			《阿拉寧波話》作「邊頭邊面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
+邊頭邊尾	pi deu pi mi		11			《阿拉宁波话》作「邊頭邊面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
 蝙蝠	pi foq	12					
 蝙蝠老鼠	pi foq lau tsy	12	111	467			55
 蝙蝠老鼠開會了	pi foq lau tsy khe wei lei						
@@ -14638,10 +14610,10 @@
 潲	sau5	87					
 燥	sau5	87	259	487			
 賽球	se jieu	125					
-賽過	se khou	144	216	457			55
+賽過	se khou	144	216	457		湯版作「賽可」。實爲「過」變音。	55
 賽過	se kou	125, 144	216	457			
 帥	se5	125					
-祟勃勃	sei baq baq	169	267	356		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《寧波方言字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
+祟勃勃	sei baq baq	169	267	356		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 祟氣	sei chi	169	267	356			55
 祟氣不剌	sei chi paq laq	169					
 雖即	sei ciq		300				55
@@ -14896,7 +14868,7 @@
 香瓜子	shian kuo tsy	220	76	261			55
 響雷	shian lei	221	213				
 鄉里	shian li	221					
-商量	shian lian		138				
+商量	shian lian		138			湯版作「相量」。「商」，書母陽韻。章組陽韻字常有 aon, ian 兩讀，故「商量」合理。另見《字語彙解》p. 80，confer 註 siang-liang' 商量，知爲尖音。	
 香涼蟲	shian lian dzon	220	113	262			55
 商量盞	shian lian tsae	219	78	372			55
 香靈貓卵袋	shian lin mae loe de		26				
@@ -14978,7 +14950,7 @@
 小賬	shiau cian	116					55
 小腳鞋	shiau ciaq gha	117					55
 小腳娘肚	shiau ciaq gnian du	117					55
-小腳鉗	shiau ciaq ji						
+小腳鉗	shiau ciaq ji				蟹腳		
 小腳褲	shiau ciaq khu	117					55
 小腳髈	shiau ciaq phaon	117					55
 燒酒	shiau cieu	114	81	322			
@@ -15021,7 +14993,7 @@
 小娘鬼	shiau gnian ciu	116	20				418
 小娘頭	shiau gnian deu	116	20	19			418
 小娘蟹	shiau gnian ha	116	65	21			55
-小娘屄	shiau gnian pi	116	20	19		末字爲清音，《阿拉寧波話》作「婢」，音不合。	418
+小娘屄	shiau gnian pi	116	20	19		末字爲清音，《阿拉宁波话》作「婢」，音不合。	418
 肖嘵豬	shiau gniau tsyu				生肖屬豬		
 小人	shiau gnin	116	20	19			35000
 小人頭腦	shiau gnin deu nau		33				55
@@ -15098,7 +15070,7 @@
 笑面虎	shiau mi fu	117	49	310			
 笑面老虎	shiau mi lau fu						
 肖馬	shiau mo				生肖屬馬		
-小木鬼	shiau moq ciu						
+小木鬼	shiau moq ciu				人很木訥，生動形式		
 小木師父	shiau moq sy vu						
 小滿	shiau mun	116					
 小兒子	shiau ng tsy	117					
@@ -15167,7 +15139,7 @@
 小胡嚨	shiau u lon		45				55
 小娃	shiau uae	115	20	19			55
 小娃頭	shiau uae deu	115	20	19			418
-小娃屄	shiau uae pi		20	19		末字爲清音，《阿拉寧波話》作「婢」，音不合。	55
+小娃屄	shiau uae pi		20	19		末字爲清音，《阿拉宁波话》作「婢」，音不合。	55
 燒飯	shiau vae		188				
 燒飯還是靠阿婆	shiau vae gha zy khau aq bou						
 燒飯還是靠阿婆	shiau vae wa zy khau aq bou						
@@ -15204,8 +15176,7 @@
 手腳慢泛	shieu ciaq mae fae						
 手腳做忌	shieu ciaq tsou ji						
 手巾	shieu cin	157					
-手巾布	shieu cin pu				毛巾		
-手巾布	shieu cin pu						55
+手巾布	shieu cin pu				毛巾		55
 收據	shieu ciu	155					
 收稻	shieu dau	156					55
 修道長老	shieu dau cian lau	156					55
@@ -15314,7 +15285,7 @@
 心過願過	shin kou gniu kou						
 身關	shin kuae		48	163			55
 心廣體泰	shin kuaon thi tha						
-伸懶仗	shin lae jian	272	169	162			55
+伸懶仗	shin lae jian	272	169	162	伸懶腰	《阿拉宁波话》作「伸懶長」。	55
 伸懶勢	shin lae syu		169				55
 新郎	shin laon	273					
 新郎官	shin laon kun	273					
@@ -15371,8 +15342,8 @@
 兄弟	shion di	295					
 兄弟家	shion di ko	295					55
 嗅着	shion dzoq						
-胸脘頭	shion kun dei	295		316			
-胸脘頭	shion kun deu	295	45	316			55
+胸脘頭	shion kun dei	295		316	胸膛		
+胸脘頭	shion kun deu	295	45	316	胸膛	湯版作「胸管頭」，《阿拉宁波话》作「胸脘頭」。《廣韻》脘，古滿切，胃府。音合，原義爲腹腔，現指胸腔。	55
 胸脘頭肉	shion kun deu gnioq	295					55
 胸脘頭飽悶悶	shion kun deu pau mhen mhen						
 胸脘頭痛	shion kun deu thon						
@@ -15428,7 +15399,7 @@
 虛頭把氣	shiu deu po chi		254				55
 虛頭把腦	shiu deu po nau		254				55
 虛頭把戲	shiu deu po shi		254				55
-虛年齡	shiu gni lin						
+虛年齡	shiu gni lin				虛歲		
 毀牙齒	shiu ngo tsy						
 虛胖	shiu phaon						
 虛心病	shiu shin bin		55				55
@@ -15994,7 +15965,7 @@
 書房	syu vaon	9					
 水滉滉動	syu waon waon don						
 四圍	syu wei		48				
-水胡萄	syu wu dau		75	35			55
+水胡萄	syu wu dau		75	35		《阿拉宁波话》作「水胡桃」，末字當爲「萄」。有趣的是，上海話胡桃又稱蒲桃，寧波話葡萄又称胡萄。	55
 水葫蘆	syu wu lu	10	116				55
 水鳧鷺	syu wu-vu lu	10					55
 書上頂	syu zaon ten						
@@ -16129,7 +16100,7 @@
 打暴	tan bau						
 打耙面	tan bo mi						
 打槍笆	tan chian po						
-打箍	tan chieu	205	193	51			55
+打箍	tan chieu	205	193	51	箍桶	此處 chieu1 當爲「箍」之白讀，見《北仑方言》同音字表。「箍」爲一等字，不知爲何增生 i 介音，台州亦有類似讀音。湯版作「打揫」，《阿拉宁波话》引《甬言稽古》作「打𥫷」。另有 chieu1，《鄞縣通志》p. 3060「揪（揫）」繫緊繩結，p. 3012「𣫐（抽）」收緊引線。均爲尖音，與箍桶無關。	55
 打抽豐	tan chieu fon						
 打秋風	tan chieu fon						
 打家賊	tan cia zaq						
@@ -16483,9 +16454,9 @@
 𠡒布	tei pu	166					55
 對半夾起	tei pun kaq chi	166	271	84			55
 對手	tei shieu	166	31	83			
-對帶	tei ta	166	224	83			55
-對帶	tei tan	166	224	83			55
-對對動	tei tei don						
+對帶	tei ta	166	224	83	很多		55
+對帶	tei tan	166	224	83	很多	湯版作「對打」，《阿拉宁波话》又作「堆打」。其生動形式爲 tei44 tei31 don11。tei tan 常作後綴，變調不易確定，據其生動形式的變調，可確認前字非陰平，故非「堆打」。又因後字常無鼻化，故寫法暫定爲「對帶」。	55
+對對動	tei tei don				很多，生動形式		
 對對看	tei tei khe						
 𠡒𠡒會長牛皮糖	tei tei wei jian ngeu bi daon						
 對章	tei tsaon	166	250	83			55
@@ -16574,7 +16545,7 @@
 兜尿布	teu syu pu	193					55
 兜當中	teu taon tson		10				578
 鬥當中	teu taon tson	193					55
-抖抖卵脬	teu teu loe phau						
+抖抖卵脬	teu teu loe phau				詈語，謂喋喋不休之人		
 兜底	teu ti		285				
 兜底兜面	teu ti teu mi						
 鬥甑	teu tsen		99				55
@@ -16636,8 +16607,8 @@
 宕鑼	than lou			230			
 鐋鑼	than lou	206	107				
 淌白	thaon baq	231					55
-湯婆子	thaon bou tsy	231					55
-湯婆子	thaon bun tsy	231					55
+湯婆子	thaon bou tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
+湯婆子	thaon bun tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 耥田	thaon di	231					55
 湯糰	thaon doe	231	79	124			
 燙衣裳	thaon i zaon	231					55
@@ -16652,12 +16623,12 @@
 燙煞鬼	thaon saq ciu	231	32				55
 摥螄螺	thaon sy lou						
 湯水	thaon syu	231	78	124			
-湯水壺	thaon syu wu	231	94	326			55
+湯水壺	thaon syu wu	231	94	326		多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 套套	thaon thau		129	301			
 湯盅	thaon tson	231					55
 湯碗	thaon un	231					
 湯飯	thaon vae	231	61	124			
-湯壺子	thaon wu tsy	231					55
+湯壺子	thaon wu tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 湯藥	thaon yaq	231					
 湯	thaon1	231					
 摥	thaon5		192				
@@ -16768,7 +16739,7 @@
 塔	thaq7		121				
 宊	thaq7			178			
 忒	thaq7	306	283	148			
-搨	thaq7	307	157, 188	256, 336, 419			
+搨	thaq7	307	157, 188	256, 336, 419	攤平	湯版及蘇滬的方言詞典皆作「搨」，《阿拉宁波话》作「貼」，音不合。	
 搭	thaq7		298	181			
 沓	thaq7	306	202	378			
 突	thaq7		135				
@@ -17067,13 +17038,13 @@
 鐵灰	thiq huei	355					
 踢燕子	thiq i tsy	355	185				55
 鐵軌	thiq kuei	355					
-鐵卵脬	thiq loe phau						
+鐵卵脬	thiq loe phau				詈語，謂女之濫交者		
 鐵路	thiq lu	355					
 聽明	thiq min		136	158			55
 鐵板新村	thiq pae shin tshen						
 鐵撲落	thiq phoq loq	355					55
-鐵鏽紅	thiq shieu ghon	355	272			《阿拉寧波話》作「鐵繡紅」，疑爲錯字。	55
-鐵絲揢籮	thiq sy khaq lou	355	36	307			55
+鐵鏽紅	thiq shieu ghon	355	272			《阿拉宁波话》作「鐵繡紅」，疑爲錯字。	55
+鐵絲揢籮	thiq sy khaq lou	355	36	307		湯版作「鐵絲揢蘿」，疑爲錯字	55
 鐵凳	thiq ten	355					55
 踢土旁	thiq thu baon	355					55
 鐵倉介	thiq tshaon ka		234				55
@@ -17118,7 +17089,7 @@
 拖帉	thou fen	178	94	191			
 拖帉柄	thou fen pin	178					
 拖帉布	thou fen pu	178					
-拖帉	thou fon	178	94	191			799
+拖帉	thou fon	178	94	191		《阿拉宁波话》作「拖紛」，湯版作「拖畚」。或當爲「拖帉」。𢁥，《廣韻》撫文切，巾也，亦作帉。蘇州、上海均音 fen1。寧波音 fon1，較特殊。取 Unicode 基本區的「帉」爲正。	799
 拖帉柄	thou fon pin	178					55
 拖帉布	thou fon pu	178					55
 拖鞋	thou gha	177					
@@ -17182,7 +17153,7 @@
 忒遠	thou yu						
 䴱	thou1			383			
 拖	thou1	177	188, 204				
-忒	thou5	306	283	148		《阿拉寧波話》作「太」，音不合。	
+忒	thou5	306	283	148		《阿拉宁波话》作「太」，音不合。	
 土鯆魚	thu bu ng	45	70	11			55
 吐清水	thu chin syu	45					55
 土箕	thu ci	45	104	11			55
@@ -17245,7 +17216,7 @@
 搭其	ti3	305					
 點	ti3	18	149				
 店	ti5	19					
-渧	ti5	19		411		《阿拉寧波話》作「滴」，音不合。	
+渧	ti5	19		411		《阿拉宁波话》作「滴」，音不合。	
 踮	ti5	19					
 爹頭娘腳	tia deu gnian ciaq			316			
 爹頭孃腳	tia deu gnian ciaq	69	254				55
@@ -17674,13 +17645,13 @@
 𧝴襠	toq taon						
 篤坦	toq thae	336					55
 篤腿篤腿	toq thei toq thei		334				55
-㞘底	toq ti	336	10	263			55
+㞘底	toq ti	336	10	263		表示尾部，《現代漢語方言大詞典》系列中「㞘」、「䐁」、「𡰪」三種寫法均有。《集韻》䐁，都木切，博雅臀也或作㞘俗作𡰪非是。可知「𡰪」爲俗字，且「𡰪」位於 Unicode 擴展 B 區，餘下二字位於 A 區，考慮在餘下二字中挑選合適寫法。又「䐁」字形易與「豚」混，「𡰪」易與「启」混，取「㞘」字。	55
 篤篤	toq toq	337	307	263			55
 篤篤定定	toq toq din din	336					55
 篤篤敲	toq toq khau						
 跌出	toq tshyuq						
 跌出來	toq tshyuq le						
-得知	toq tsyu	336	174, 300	363			55
+得知	toq tsyu	336	174, 300	363		《寧波方言詞典》作「篤知」，前字當爲「得」變音。	55
 篤舌頭	toq zhiq deu	337	53	494			55
 啄	toq7	336	203	352			
 搭	toq7			181, 383			
@@ -18079,7 +18050,7 @@
 撮球員	tshaq jieu yu						
 拆空	tshaq khon	311	141				55
 插科打諢	tshaq khou tan wen						
-拆家棚	tshaq ko ban						
+拆家棚	tshaq ko ban				意指無故拆壞東西	寫法見《上海話大詞典》p. 326	
 撮過	tshaq kou						
 撮過去	tshaq kou chi						
 撮過來	tshaq kou le						
@@ -18938,7 +18909,7 @@
 粽子	tson tsy	289					
 種豬	tson tsyu	289					
 中藥	tson yaq	288					
-總是	tson zy						
+總是	tson zy				「總歸是」的省略		
 總是介	tson zy ka		253				55
 棕樹	tson zyu	288					
 供	tson1		196	228			
@@ -19012,7 +18983,7 @@
 作啥幹	tsoq sou khi-khe						578
 作啥幹	tsoq sou ki-ke	341	40				578
 作啥體	tsoq sou thi	341					578
-足歲	tsoq syu						
+足歲	tsoq syu				週歲		
 足輸贏	tsoq syu yin	340	286	157			55
 竹筍	tsoq syun	340					
 桌凳	tsoq ten	341	92	302			578
@@ -19238,7 +19209,7 @@
 紫絳紅	tsy cian ghon	2	272				55
 紫絳色	tsy cian saq			396			
 紙筋	tsy cin		87				55
-仔潔	tsy ciq	1	240	66			55
+仔潔	tsy ciq	1	240	66		《阿拉宁波话》後字又作「跡」，非形容詞，不通。	55
 紫檀	tsy dae	2					
 紫藤	tsy den	2					
 紙頭	tsy deu	2	106				578
@@ -19292,7 +19263,7 @@
 煮煮看	tsy tsy khe						
 梔珠花	tsy tsyu huo	1					
 煮飯	tsy vae		188				
-紫胡萄	tsy wu dau	2	75	396			578
+紫胡萄	tsy wu dau	2	75	396		《阿拉宁波话》作「紫胡桃」，末字當爲「萄」。有趣的是，上海話胡桃又稱蒲桃，寧波話葡萄又称胡萄。	578
 紙糊頭	tsy wu deu	2	120	185			578
 之前	tsy zhi	1					
 窒	tsy1	8	156	379			
@@ -19364,7 +19335,7 @@
 豬尿脬	tsyu syu phau			369			
 豬癲病	tsyu ti bin	7	56	369			55
 疰車	tsyu tsho	8	172	319			55
-蜘蛛	tsyu tsyu	7	113				
+蜘蛛	tsyu tsyu	7	113			湯版等皆作「蛛蛛」，非，應爲「蜘蛛」。	
 主主意意	tsyu tsyu i i	7					55
 蜘蛛亂網	tsyu tsyu loe maon		113				55
 蜘蛛網	tsyu tsyu maon	7					55
@@ -19396,7 +19367,7 @@
 𩋩	tsyu5			494			
 準定	tsyun din	280		319			
 鎮裏	tsyun li	280					
-肫掌	tsyun tsaon						
+肫掌	tsyun tsaon				雞肫	見《字語彙解》p. 200	
 準足	tsyun tsoq	280	250	319			55
 鎮紙	tsyun tsy	280					
 肫	tsyun1	280	65	215			
@@ -19498,7 +19469,7 @@
 烏紫楊梅	u tsy yan mei	51					55
 烏珠	u tsyu	51	43				55
 烏嘴烏臉	u tsyu u li	51	274	44			55
-嗚哇	u ua						
+嗚哇	u ua				兒童用語，生病。例：囡囡嗚哇了（寶寶生病了）		
 焐黃豆湯	u waon deu thaon						
 烏油油	u yeu yeu	52		43			
 烏雲	u yun	52					
@@ -19623,7 +19594,7 @@
 碗腳底	un ciaq ti		99				55
 碗頭蔥	un deu tshon	248	73	424			55
 碗頭蔥烤河鯽魚	un deu tshon khau ghou ci ng						
-碗頭碗尾	un deu un mi	248				《阿拉寧波話》作「碗頭碗面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
+碗頭碗尾	un deu un mi	248				《阿拉宁波话》作「碗頭碗面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
 碗桶	un don	248					55
 碗行	un ghaon	248					55
 碗底	un ti	248					55
@@ -19645,8 +19616,8 @@
 飯阿講喫	vae aq kaon chioq						
 飯瓢	vae biau	134	98				
 犯病痼毒	vae bin ku doq						
-飯𣖄	vae chiau	134	98	169	盛飯勺	𣖄，《廣韻》七遙切，抄飯匙也。音義合。《阿拉寧波話》又作「飯鍬」，非。	55
-飯𣖄骨	vae chiau kuaq	134	45	170	俗稱，肩胛骨	湯版作「飯翹骨」，《阿拉寧波話》又作「飯鍬骨」，非。	55
+飯𣖄	vae chiau	134	98	169	盛飯勺	𣖄，《廣韻》七遙切，抄飯匙也。音義合。《阿拉宁波话》又作「飯鍬」，非。	55
+飯𣖄骨	vae chiau kuaq	134	45	170	俗稱，肩胛骨	湯版作「飯翹骨」，《阿拉宁波话》又作「飯鍬骨」，非。	55
 飯喫勒悶飽	vae chioq laq mhen pau						
 飯喫三碗	vae chioq sae un						
 飯喫煞	vae chioq saq		320				55
@@ -20141,7 +20112,7 @@
 黃昏曉	waon huen shiau	244	3				55
 黃菸	waon i	243					55
 黃央央	waon ian ian	243	220	341			55
-黃秧菜	waon ian tshe		72	342			
+黃秧菜	waon ian tshe		72	342		《阿拉宁波话》作「黃芽菜」，音不合。據《活色生香宁波话》改作「黃秧菜」。	
 黃喳暴	waon jia pau						
 黃腸癟西	waon jian piq shi	243	235	342			55
 黃澄澄	waon jin jin			342			
@@ -20349,7 +20320,7 @@
 回門	wei men	174	180				
 回屋裏	wei oq li						
 回屋落	wei oq loq	174					20000
-回生	wei sen	174	89	109		whistle 的音譯。《阿拉寧波話》作「回聲」，「聲」字多數情況讀shin，僅在該詞中讀sen，不妥，改爲「回生」。	
+回生	wei sen	174	89	109		whistle 的音譯。《阿拉宁波话》作「回聲」，「聲」字多數情況讀shin，僅在該詞中讀sen，不妥，改爲「回生」。	
 衛生間	wei sen kae	175					
 衛生褲	wei sen khu	175	59	24			
 衛生衫	wei sen sae	175	58	24			418
@@ -20365,8 +20336,8 @@
 爲啥事體	wei sou zy thi		40				55
 緯絲	wei sy	175					55
 回湯豆腐乾	wei thaon deu vu ki-ke	174	35	109			55
-喂天倒地	wei thi tau di						
-喂天喂地	wei thi wei di						
+喂天倒地	wei thi tau di				形容聲音震天響		
+喂天喂地	wei thi wei di				形容聲音震天響		
 會鈔	wei tshau	175					
 回轉去	wei tsoe chi	174					55
 回轉來	wei tsoe le	174					55
@@ -20600,7 +20571,7 @@
 夜飯	ya vae	71	62	218			
 夜飯要喫少	ya vae iau chioq shiau						
 夜活絡	ya waq loq						
-野狐臉	ya wu li	71	108	351	1. 面具; 2. 很髒的臉	《鄞縣通志》作「野狐臉」，可知末字爲「煙韻」，《阿拉寧波話》作「野狐狸」，音不合。	418
+野狐臉	ya wu li	71	108	351	1. 面具; 2. 很髒的臉	《鄞縣通志》作「野狐臉」，可知末字爲「煙韻」，《阿拉宁波话》作「野狐狸」，音不合。	418
 野糊野糟	ya wu ya tsau						
 夜夜紅	ya ya ghon						
 夜夜摸	ya ya moq						
@@ -20700,9 +20671,9 @@
 陽文	yan ven	223					
 羊尾筍	yan vi syun	222					55
 瀁瀁動	yan yan don	224					55
-樣樣色色	yan yan saq saq			299			
-樣樣式式	yan yan shiq shiq						
-樣樣啥啥	yan yan sou sou						
+樣樣色色	yan yan saq saq			299	各色各樣		
+樣樣式式	yan yan shiq shiq				各色各樣		
+樣樣啥啥	yan yan sou sou				各色各樣		
 洋油	yan yeu	222					
 樣有份	yan yeu ven	224	35	299			55
 煬勩	yan yi	224	208	176, 323			55
@@ -20731,7 +20702,7 @@
 協會式吳語拼音	yaq wei shiq wu gniu phin in						
 協會式吳拼	yaq wei shiq wu phin						
 藥丸	yaq wun	326					
-藥圓	yaq yu	326	56				55
+藥圓	yaq yu	326	56			湯版作「藥丸」	55
 鑰匙	yaq zy	327					
 鑰匙彎	yaq zy uae		132	259			55
 搖皮	yau bi	117	100				55
@@ -20859,7 +20830,7 @@
 油丁	yeu tin	158					55
 有多	yeu tou		39	97			
 有多有少	yeu tou yeu shiau		223				55
-油饡子	yeu tsae tsy	158	80	224			55
+油饡子	yeu tsae tsy	158	80	224		《阿拉宁波话》也作「油饊子」	55
 油棗	yeu tsau	158					55
 油菜	yeu tshe	158					
 油車	yeu tsho	158					
@@ -20887,7 +20858,7 @@
 油	yeu2	158	265	223			
 酉	yeu2	158					
 有	yeu4	159	225	97			
-延晏	yi ae						
+延晏	yi ae				推遲		
 鹽甏	yi ban	40					55
 鹽白菜	yi baq tshe	40					55
 鹽肥皂	yi bi zau				擦肥皂		
@@ -21256,7 +21227,7 @@
 上點心	zaon te shin	236	62	18			55
 上頂	zaon ten	237	9	18		湯版後字作「登」，非。	55
 上燈夜	zaon ten ya	237	16	18			55
-牀桯	zaon thin	236	91	171		《阿拉寧波話》又作「牀廳」。「廳」義不合。	55
+牀桯	zaon thin	236	91	171		《阿拉宁波话》又作「牀廳」。「廳」義不合。	55
 上底	zaon ti			18			
 牀底下	zaon ti gho	236					55
 上點心	zaon ti shin	236	62	18			55
@@ -21385,7 +21356,7 @@
 造孽言話	zau gniq ghae wo		52				55
 造孽閒話	zau gniq ghae wo		52				
 造好掉	zau hau diau		215				55
-造六國大反	zau loq koq dou fae						
+造六國大反	zau loq koq dou fae				形容及其吵鬧	見《活色生香宁波话》p. 147	
 漕嘴	zau tsyu	88	6	455			55
 漕嘴頭	zau tsyu deu	88					55
 造房子	zau vaon tsy	88					55
@@ -21464,7 +21435,7 @@
 前幾年	zhi ci gni	37					
 前腳後頭	zhi ciaq gheu deu		271	274			55
 前腳後跟	zhi ciaq gheu ken	37	271	274			55
-自羯自	zhi ciq zhi						
+自羯自	zhi ciq zhi				自宮，俗謂「自羯自」	羯：閹割牲畜	
 自掏自撐	zhi dau zhi tshan		330	114			55
 自道自撐	zhi dau zhi tshan	38					55
 前頭	zhi deu	37	18				
@@ -21532,7 +21503,7 @@
 謝	zhia6	70					
 橡皮	zhian bi	222					
 象皮病	zhian bi bin		56	16, 369			
-橡皮卵脬	zhian bi loe phau						
+橡皮卵脬	zhian bi loe phau				詈語，謂喋喋不休之人		
 橡皮魚	zhian bi ng	222					55
 牆基	zhian ci	222					
 牆腳	zhian ciaq	222					
@@ -21730,8 +21701,7 @@
 席席𧼰𧼰	zhiq zhiq zaq zaq						
 蝕	zhiq8	364	207	269			
 惹彈梅	zo dae mei		30	390			55
-惹厭	zo i		175	390			55
-惹嫌	zo i	101					55
+惹厭	zo i	101	175	390		《阿拉宁波话》作「惹厭」，湯版作「惹嫌」。《松江方言志》p. 198作「惹厭」，知後字爲煙韻。	55
 惹厭頭	zo i deu						
 惹厭貓	zo i mae	101					55
 惹得得	zo taq taq	101	242	390			55
@@ -21931,7 +21901,7 @@
 純道理	zyun dau li						
 順頭	zyun deu	281	11	265			55
 順頭喫甘蔗	zyun deu chioq ki-ke tso						
-神綻	zyun dzae			282			
+神綻	zyun dzae			282	意爲精神飽滿		
 神綻力足	zyun dzae liq tsoq						
 順風	zyun fon	281	64	265			
 順風耳朵	zyun fon gni to	281					55
@@ -21941,7 +21911,7 @@
 純肉頭	zyun gnioq deu		126				55
 人情	zyun jin	281					
 人情世故	zyun jin syu ku						
-純靠	zyun khau						418
+純靠	zyun khau				全靠		418
 純靠孃	zyun khau gnian						
 任家橫	zyun ko wan						
 神怪綻	zyun kuan dzae						
@@ -22033,8 +22003,8 @@
 十多個	zyuq tou kou	372					
 入贅女婿	zyuq tse gniu shi		21				55
 入贅女婿	zyuq tsei gniu shi	372					55
-實足	zyuq tsoq						
-實足年齡	zyuq tsoq gni lin						
+實足	zyuq tsoq				幾週歲說「實足幾歲」		
+實足年齡	zyuq tsoq gni lin				週歲		
 實惠	zyuq wei	373	238				
 實爲	zyuq wei		293				
 日暈	zyuq yun	373					
@@ -22045,6 +22015,6 @@
 十月還有一個夏	zyuq yuq wa yeu iq ghoq gho						
 十月還有一個夏	zyuq yuq wa yeu iq goq gho						
 集仕港	zyuq zy kaon						
-實實足足	zyuq zyuq tsoq tsoq						
+實實足足	zyuq zyuq tsoq tsoq				週歲		
 實實惠惠	zyuq zyuq wei wei	373					55
 十	zyuq8	372					

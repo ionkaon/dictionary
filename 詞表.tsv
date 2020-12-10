@@ -6979,9 +6979,9 @@
 潛龍漕	ji lon zau						
 乾鑼	ji lou			344			
 苧麻	ji mo	32	116				
-騎馬啷啷	ji mo laon laon		185				55
-騎馬馬啷	ji mo mo laon		185				55
-騎馬嘟嘟	ji mo tu tu		185				55
+騎馬啷啷	ji mo laon laon		185		小孩騎在大人肩上		55
+騎馬馬啷	ji mo mo laon		185		小孩騎在大人肩上		55
+騎馬嘟嘟	ji mo tu tu		185		小孩騎在大人肩上		55
 騎木馬	ji moq mo						
 鱭魚	ji ng	32	67	451			55
 其儂	ji nou		39	196			55
@@ -10174,6 +10174,7 @@
 拉買主	lha ma tsyu	62					55
 拉馬	lha mo	62					55
 拉手	lha shieu	62					
+拉車	lha tsho				二輪平板車		
 拉衛生	lha wei sen						
 拉柴	lha za	62					55
 拉柴胡子	lha za wu tsy	63	44	194			55
@@ -12139,11 +12140,13 @@
 馬蘭	mo lae	97					
 馬蘭頭	mo lae dei			25			
 馬蘭頭	mo lae deu	97	73	25			55
+馬啷啷	mo laon laon				小孩騎在大人肩上		
 麻辣辣	mo laq laq	96	276	372			55
 馬路	mo lu	97					
 馬路邊沿	mo lu pi yi	97					55
 馬路造勒骨直	mo lu zau laq kuaq jiq						
 馬面	mo mi	97					
+馬馬啷	mo mo laon				小孩騎在大人肩上		
 馬屁	mo phi	97					
 馬屁精	mo phi cin	97	30				
 馬屁鬼	mo phi ciu		30	25			55
@@ -12157,6 +12160,7 @@
 麻扎	mo tsaq	96	219				55
 麻棗	mo tsau	96					55
 馬嘴	mo tsyu	97	104	25			55
+馬嘟嘟	mo tu tu				小孩騎在大人肩上		
 螞蟥	mo waon	97					
 螞蟥翻肚	mo waon fae tu						
 螞蟥襻	mo waon phae		60				55
@@ -15161,7 +15165,7 @@
 手骨𢺴出	shieu kuaq iuq tshyuq	157					55
 手骨長	shieu kuaq jian						
 手骨凍勒紅冬冬	shieu kuaq ton laq ghon ton ton						
-手拉車	shieu lha tsho	156	89	36			
+手拉車	shieu lha tsho	156	89	36	二輪平板車		
 手鍊	shieu li	156					
 守靈	shieu lin	157					
 手爐	shieu lu	156					

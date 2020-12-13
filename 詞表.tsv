@@ -144,7 +144,7 @@
 阿難弄	aq nae lon						
 阿難死	aq nae shi	321	257				55
 阿五	aq ng	322					55
-阿嗯奶	aq ng ne				兒童用語，母乳		
+阿嗯奶	aq ng ne				兒童用語，奶水		
 阿囡	aq noe	321	20	182			578
 阿伯	aq pan	322	18				
 阿伯	aq paq	322	18	182			4000
@@ -2499,7 +2499,7 @@
 鬼頭風	ciu deu fon	53					55
 鬼公	ciu kon		68				55
 鬼擄頭	ciu lou deu		322				55
-居民會	ciu min wei						4000
+居民會	ciu min wei				居委會		4000
 鬼魚	ciu ng		70				55
 鬼魚鯗	ciu ng shian		70				55
 絹帕	ciu phae	53	61	334			418
@@ -4481,7 +4481,7 @@
 虎口	fu kheu	44					
 膚殼𥀬	fu khoq i	44	42	335	頭皮屑	湯版等作「膚殼衣」。未找到古寧波話記錄，末字當與「枯殼𥀬」同。	55
 富翁生敗子	fu on san ba tsy						
-虎擘	fu phaq						
+虎擘	fu phaq				虎口	見《鄞縣通志》p. 2836	
 虎螕	fu pi		112	204			55
 呼嘯蛇	fu shiau dzo	44	114	207			55
 呼筱絲	fu shiau sy		102	111, 208			55
@@ -6793,8 +6793,8 @@
 一把眼淚一把鼻頭	iq po ngae li iq po baq deu						
 一把扎	iq po tsaq	365					55
 一半	iq pun	366					
-一三時刻	iq sae sy khaq						
-一三時刻	iq sae zy khaq						
+一三時刻	iq sae sy khaq				一時；一下子		
+一三時刻	iq sae zy khaq				一時；一下子		
 一生一世	iq san iq shi	366	17	3			
 一生一世喫勿窮	iq san iq shi chioq vaq jion						
 一生一世喫弗窮	iq san iq shi chioq vaq jion						1
@@ -6894,9 +6894,9 @@
 一晌工夫	iq zaon kon fu						
 一晌裏	iq zaon li		14				55
 一晌晌	iq zaon zaon		14	1			418
-一時裏	iq zy li	364	289	3			55
+一時裏	iq zy li	364	289	3	一時；一下子		55
 一字領	iq zy lin	365					55
-一時三刻	iq zy sae khaq	364	289	3			
+一時三刻	iq zy sae khaq	364	289	3	一時；一下子		
 一仞長	iq zyun jian						
 ⿰米厭	iq7			408			
 一	iq7	364					
@@ -7138,9 +7138,9 @@
 薔薇	jian vi	218					
 長遠	jian yu	217	267	39			
 弶賊骨頭	jian zaq kuaq deu						
-長袖頭子	jian zhieu deu tsy						
+長袖頭子	jian zhieu deu tsy				長袖		
 長壽麪	jian zhieu mi	217		39			
-長袖子	jian zhieu tsy						
+長袖子	jian zhieu tsy				長袖		
 長時	jian zy	218					55
 場	jian2	218					
 強	jian2	218	247, 269	414			
@@ -7914,7 +7914,7 @@
 鉛皮匠	khae bi zhian	145					55
 嵌進	khae cin						
 鉛桶	khae don	145	93	307			55
-嵌餡子	khae ghae tsy						
+嵌餡子	khae ghae tsy				糕點中裹有餡		
 嵌牢	khae lau						
 嵌牙齒縫	khae ngo tsy von						
 嵌寶戒	khae pau ka	145					55
@@ -8078,6 +8078,7 @@
 開豁	khe huaq	126		26			
 開葷	khe huen	126					
 開場	khe jian	126					
+開着	khe jiaq				開啓電器		
 開庎櫥門	khe ka dzyu men	126	328	27			55
 開交	khe kau		126				
 開口	khe kheu	126					
@@ -8238,7 +8239,7 @@
 抲落	kho loq						
 抲落去	kho loq chi						
 抲落來	kho loq le						
-抲落帽風	kho loq mau fon						
+抲落帽風	kho loq mau fon				小孩嬉鬧		
 抲眉毛蟲	kho mi mau dzon	103	333	188			55
 抲魚	kho ng	103					55
 抲魚船	kho ng zoe	103	89				55
@@ -9382,7 +9383,7 @@
 關胎	kuae the	148	205	122			55
 關店	kuae ti	148					55
 關帝菩薩	kuae ti bu saq	148					55
-關熓	kuae u						
+關熓	kuae u				關掉電器		
 關夜學	kuae ya ghoq	148	182				55
 關	kuae1			122			
 怪清	kuan chin		266	228			55
@@ -10647,8 +10648,8 @@
 立上來	liq zaon le						
 櫟斜	liq zhia						
 立字據	liq zy ciu	356					55
-立時裏	liq zy li		289	3, 69			55
-立時三刻	liq zy sae khaq	356	289	3, 69			55
+立時裏	liq zy li		289	3, 69	一時；一下子		55
+立時三刻	liq zy sae khaq	356	289	3, 69	一時；一下子		55
 䉭	liq8	356	101				
 列	liq8	356	155	100			
 立	liq8	356					
@@ -13598,7 +13599,7 @@
 胖乎乎	phaon fu fu	228					
 胖墩墩	phaon ten ten	228					
 胖頂	phaon tin		230	266			55
-胖胡嚨	phaon wu lon						
+胖胡嚨	phaon wu lon				大嗓門		
 胖陽𣝗	phaon yan waq	228	55	267			55
 胖陽𣝗臖起	phaon yan waq hen chi						
 潑便	phaq bi	298					55
@@ -15704,7 +15705,7 @@
 四腳蛇	sy ciaq dzo	4	114				
 四腳朝天	sy ciaq jiau thi						
 四九	sy cieu	4					
-斯整	sy cin						
+斯整	sy cin				整齊		
 絲巾	sy cin			84			
 梳頭	sy deu	4					
 梳頭盤	sy deu bun						
@@ -16518,7 +16519,7 @@
 討饒	tha gniau	60	197				
 太陰菩薩	tha in bu saq	60	3	32			55
 太公	tha kon	60	19	32			
-太公牙鬚	tha kon ngo su						
+太公牙鬚	tha kon ngo su				長鬚		
 太公本是小官人	tha kon pen zy shiau kun gnin						
 討保	tha pau		197				
 它山堰	tha sae i	59					
@@ -17498,8 +17499,8 @@
 短𠭴𠭴	toe tshyuq tshyuq	161	226	402		湯版作「短促促」。《鄞縣通志》p. 2940，記「短𠭴𠭴」。民國「𠭴」音 tsʰyɪʔ，可知字非「促」。	55
 短侏侏	toe tsyu tsyu		226				55
 短牆	toe zhian		86				55
-短袖頭子	toe zhieu deu tsy						
-短袖子	toe zhieu tsy						
+短袖頭子	toe zhieu deu tsy				短袖		
+短袖子	toe zhieu tsy				短袖		
 短	toe3	161					
 碫	toe5		151				
 東嶴	ton au						
@@ -20396,7 +20397,7 @@
 胡嚨哮管	wu lon hau kun			243			
 胡嚨介胖	wu lon ka phaon						
 胡嚨哭啞	wu lon khoq o						
-胡嚨胖	wu lon phaon						
+胡嚨胖	wu lon phaon				嗓門大		
 胡嚨嘶啞	wu lon shi o						
 胡嚨痛	wu lon thon						
 湖綠	wu loq	50					
@@ -21271,8 +21272,8 @@
 𧼰𧼰寫	zaq zaq shia						
 賊賊斯苦	zaq zaq sy khu						
 石匠	zaq zhian	315					
-𧼰時	zaq zy	314	289	476			55
-𧼰時裏	zaq zy li	314	289	476			55
+𧼰時	zaq zy	314	289	476	一時；一下子		55
+𧼰時裏	zaq zy li	314	289	476	一時；一下子		55
 煠	zaq8		188	438			
 賊	zaq8	315	283	306			
 𧼰	zaq8		163	476			
@@ -21483,7 +21484,7 @@
 壽頭碼子	zhieu deu mo tsy	157	29	134			578
 壽頭兒子	zhieu deu ng tsy		29				578
 壽頭相	zhieu deu shian						
-袖頭子	zhieu deu tsy	157	58	328			55
+袖頭子	zhieu deu tsy	157	58	328	袖子		55
 壽頭壽腦	zhieu deu zhieu nau	157	242	134			
 壽方材	zhieu faon ze						
 壽刮刮	zhieu kuaq kuaq	157	242	134			55
@@ -21824,8 +21825,8 @@
 神交關綻	zyun ciau kuae dzae						
 人證	zyun cin	281					
 神經病	zyun cin bin	281					
-純精肉	zyun cin gnioq						
-純腈肉	zyun cin gnioq						
+純精肉	zyun cin gnioq				整塊瘦肉，不摻雜肥肉		
+純腈肉	zyun cin gnioq				整塊瘦肉，不摻雜肥肉		
 神經稀稀	zyun cin shi shi	281	244	282			55
 認真話	zyun cin wo		293				55
 純只	zyun ciq	281	282	185			55

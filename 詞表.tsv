@@ -357,8 +357,15 @@
 防賊弗到撥賊笑	baon zaq vaq tau paq zaq shiau						1
 防	baon2	228	174	129			
 白白	baq baq	299					
+白白喫	baq baq chioq						
+白白講	baq baq kaon						
 白白力力	baq baq li li		270	66			55
 白白力力	baq baq liq liq	299	270	66			55
+白白弄	baq baq lon						
+白白問	baq baq men						
+白白打	baq baq tan						
+白白做	baq baq tsou						
+白白話	baq baq wo						
 白蒲	baq bu		74	64			55
 白蒲西瓜	baq bu shi kuo		74				55
 白蒲棗	baq bu tsau	298	75	65			55
@@ -11383,6 +11390,7 @@
 𤈦	mei6	165	213	375	1. 燒； 2. 抽（菸）	湯版作「𤈦」，《阿拉宁波话》作「煝」。 煝，《廣韻》明祕切，𤈄熱。音合，義不合。𤈦，《廣韻》許偉切，《說文》火也。義合，聲母不合。查上古音得知，白-沙 2015 將「𤈦」擬爲 *m̥əjʔ。寧波話今讀 mei 可能是上古清鼻音隨機分化的緣故。故推薦「𤈦」爲正。又「𤈦」位於 Unicode 擴展 B 區，「煝」位於基本區，在設備無法支持顯示時，也可用「煝」代替。	
 門牌號頭	men ba ghau deu	250					55
 門栿	men boq	250	85	23			55
+問菩薩	men bu saq						
 問籤詩	men chi sy	251					55
 門槍	men chian	250					55
 明朝	men ciau		14	206			578
@@ -11428,6 +11436,7 @@
 門面要繃	men mi iau pan						
 悶牛娘	men ngeu gnian						
 門牙	men ngo	250					
+問儂問菩薩	men nou men bu saq				問問題得不到回答		
 門背後	men pei gheu	250					55
 門鋬	men phae						
 門邊頭	men pi deu	250					55

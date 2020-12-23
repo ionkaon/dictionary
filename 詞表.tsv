@@ -1602,7 +1602,7 @@
 氈鞋	ci gha	26					55
 剪鞋樣	ci gha yan						
 雞下白	ci gho baq						
-𣥼下飯	ci gho vae						
+𣥼下飯	ci gho vae				盛菜		
 幾個	ci ghoq						
 雞娘	ci gnian	27	110	184			55
 記認	ci gnin	28	48	74			
@@ -1697,7 +1697,7 @@
 雞肫皮	ci tsyun bi	27					55
 雞肫鼓	ci tsyun ku						
 嘰嘟	ci tu	26					55
-𣥼飯	ci vae	28					55
+𣥼飯	ci vae	28			盛飯		55
 煎藥	ci yaq	26					
 雞院	ci yu	27					55
 基	ci1		8				
@@ -2424,7 +2424,7 @@
 脊柱骨	ciq dzyu kuaq	357					55
 揭方巾	ciq faon cin	357					55
 結髮夫妻	ciq faq fu chi	358					
-夾下飯	ciq gho vae	357					
+夾下飯	ciq gho vae	357			夾菜		
 只認衣衫勿認人	ciq gnin i sae vaq gnin gnin						
 只認衣衫弗認人	ciq gnin i sae vaq gnin gnin						1
 節日頭間	ciq gniq deu kae	358	16	54			55
@@ -4260,6 +4260,7 @@
 番薯癟	fae zyu piq	132					55
 番薯屑	fae zyu shiq		70	404			55
 番薯錫	fae zyu shiq	132					55
+番薯湯果	fae zyu thaon kou						
 番薯糊剌	fae zyu wu la		70				55
 番薯糊辣	fae zyu wu laq	132					55
 翻	fae1	132	160	492			
@@ -5044,7 +5045,7 @@
 下作坯	gho tsoq phei				詈語，下流坯		
 下作坯子	gho tsoq phei tsy	105	33	13	詈語，下流坯		55
 夏至	gho tsy	105					
-下飯	gho vae	104	62	12, 425		《阿拉宁波话》又作「⿰飠夏飯」	55
+下飯	gho vae	104	62	12, 425	菜餚	《阿拉宁波话》又作「⿰飠夏飯」	55
 下飯交關㜺	gho vae ciau kuae tsae						
 下飯好猛	gho vae hau man						
 下飯嘸告飯喫飽	gho vae mh kau vae chioq pau						
@@ -5931,7 +5932,7 @@
 海棠果	he daon kou	128					55
 海夫絨	he fu gnion	128					55
 海虎絨	he fu gnion		60	324			55
-熯下飯	he gho vae						
+熯下飯	he gho vae				用水蒸汽把菜熱一下；把菜蒸熟		
 許願心	he gniu shin	128	140				55
 咍咍	he he		280	208			
 咍咍笑	he he shiau						
@@ -5957,7 +5958,7 @@
 漢	he5		123	73			
 熯	he5		190				
 許	he5	128	179				
-熯下飯	hei- gho vae						
+熯下飯	hei- gho vae				用水蒸汽把菜熱一下；把菜蒸熟		
 許願心	hei- gniu shin		140				55
 漢郎頭	hei- laon deu						
 蚶子口棉鞋	hei- tsy kheu mi gha						
@@ -6173,7 +6174,7 @@
 灰	huei1	173					
 昏頭	huen deu	277					
 昏頭䟿蹱	huen deu loq tshon	277					
-葷下飯	huen gho vae	277	63				55
+葷下飯	huen gho vae	277	63		葷菜		55
 葷腥	huen shin	277	63	242			
 昏頓頓	huen ten ten		221				55
 婚事	huen zy	277					
@@ -6203,7 +6204,7 @@
 蝦𩻣薧	huo dzae khau			254			
 蝦𩻣鮳	huo dzae khau						
 蝦𩻣氽豆腐	huo dzae then deu vu						
-煆下飯	huo gho vae						
+煆下飯	huo gho vae				把菜加熱一下		
 花紅	huo ghon	120					
 蝦紅	huo ghon	121					55
 花呢	huo gni	119					
@@ -6987,7 +6988,7 @@
 纏頭鵝	ji deu ngou	32	37	102			55
 纏頭鵝牌	ji deu ngou ba						
 遲發人	ji faq gnin	31					55
-敧下飯	ji gho vae	357					55
+敧下飯	ji gho vae	357			夾菜		55
 其個	ji ghoq						10000
 渠個	ji ghoq						55
 忌日羹飯	ji gniq kan vae	32					55
@@ -9209,7 +9210,7 @@
 家口	ko kheu	102					
 𠺢𠺢	ko ko	102					
 𠺢𠺢雞	ko ko ci	102				湯版作「呱呱雞」。《鄞縣通志》作「𠺢」，可知爲 o 韻，非 uo 韻。	
-𠺢𠺢嗡	ko ko on						
+𠺢𠺢嗡	ko ko on				公雞鳴叫的聲音，又指代公雞		
 嫁老公	ko lau kon	102					55
 家裏家生	ko li ko san						
 假領頭	ko lin deu		58				55
@@ -10793,6 +10794,7 @@
 弄賺	lon dzae						
 弄仿	lon faon	288	291				55
 弄發弄發	lon faq lon faq		331				55
+弄下飯	lon gho vae				燒菜		
 龍蝦	lon huo	287		56			
 礱糠	lon khaon	287					
 籠褲	lon khu		59	356			55
@@ -10963,8 +10965,10 @@
 落雨淋勿着	loq yu lin vaq zoq						
 落雨淋弗着	loq yu lin vaq zoq						1
 落雨落雪	loq yu loq syuq						
-落雨明朝	loq yu mi ciau						
-落雨明朝	loq yu min ciau						
+落雨明朝	loq yu men ciau					俗語，上句爲「石板還潮」	
+落雨明朝	loq yu mi ciau					俗語，上句爲「石板還潮」	
+落雨明朝	loq yu min ciau					俗語，上句爲「石板還潮」	
+落雨明朝	loq yu mon ciau					俗語，上句爲「石板還潮」	
 落雨天家	loq yu thi ko	338					578
 落月	loq yuq	339	180	390			
 六月日頭	loq yuq gniq deu						
@@ -11081,6 +11085,7 @@
 買田買水路	ma di ma syu lu						
 馬桶箱	ma don shian		93				55
 買着買	ma dzoq ma		325				55
+買下飯	ma gho vae				買菜		
 買海蜒放生	ma he yi faon san						
 埋怨	ma iu	58					
 賣爛泥膏藥	ma lae gni kau yaq						
@@ -12254,6 +12259,16 @@
 𣻕	mo2	96					55
 碼	mo4	97					
 馬	mo4	97					
+明朝	mon ciau						55
+明朝晝過	mon ciau cieu kou						
+明朝下半日	mon ciau gho pun gniq						
+明朝日裏	mon ciau gniq li						
+明朝天亮	mon ciau thi gnian						
+明朝天亮	mon ciau thiq gnian						
+明朝子	mon ciau tsy						55
+明朝夜裏	mon ciau ya li						
+明朝夜到	mon ciau ya tau						
+明朝上半日	mon ciau zaon pun gniq						
 懵懂	mon ton	283					
 懵懂先生	mon ton shi san						
 木器店	moq chi ti	334					
@@ -15769,7 +15784,7 @@
 蘇頭	su deu	48	61	144			
 素大腸	su dou jian	48					55
 蘇杭名氣大	su ghaon min chi dou						
-素下飯	su gho vae	48	63				55
+素下飯	su gho vae	48	63		素菜		55
 數好掉	su hau diau		215				55
 數目	su moq	48					
 素小菜	su shiau tshe	48					55
@@ -19256,7 +19271,7 @@
 紫銅	tsy don	2					
 紙行	tsy ghaon	2					
 之後	tsy gheu	1					
-煮下飯	tsy gho vae	2	188				55
+煮下飯	tsy gho vae	2	188		燒菜		55
 子女	tsy gniu	1					
 子蟹	tsy ha	1					55
 子蝦	tsy huo	1					55
@@ -19361,8 +19376,8 @@
 嘴巴嘸味道	tsyu po mh mi dau	8					55
 嘴巴嘟起	tsyu po tu chi	7					55
 嘴巴環	tsyu po wae						
-侏掃帚	tsyu sau cieu		94				55
-玍掃帚	tsyu sau cieu		94				55
+侏掃帚	tsyu sau cieu		94		禿掃帚		55
+玍掃帚	tsyu sau cieu		94		禿掃帚	「玍」爲俗字，「生」字不出頭，表示禿義。又作「侏掃帚」	
 豬心	tsyu shin	7					
 豬血	tsyu shiuq	7					
 豬舍	tsyu so	7					
@@ -21340,7 +21355,7 @@
 石硬	zaq ngan	315	263	55			55
 賊窩家	zaq ou ko	315	120				55
 石板頂摜烏龜	zaq pae ten guae u ciu						
-石板還潮	zaq pae wae jiau						
+石板還潮	zaq pae wae jiau					俗語，下句爲「落雨明朝」	
 賊坯	zaq phei	315	33				55
 賊擔虛㽺病	zaq tae shiu shiq bin						
 鍘刀	zaq tau	315					

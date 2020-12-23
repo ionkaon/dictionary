@@ -440,7 +440,7 @@
 邾	邾	cü	tsyu1	7									
 茱	茱	cü	tsyu1	7									
 洙	洙	cü	tsyu1	7									
-玍	玍		tsyu1	3									
+玍	玍		tsyu1	3							0.00	俗字，玍掃帚，“生”字不出頭，表示禿義	
 知	知	cü	tsyu1	2	tsyu1	9	tsyu1	10	tsyu1	11			
 蜘	蜘	cü	tsyu1	2	tsyu1	9	tsyu1	10	tsyu1	11			
 智	智	cü	tsyu1	2	tsyu1	9	tsyu5	10	tsyu5	11			
@@ -984,7 +984,7 @@
 矊	矊		mi2										
 臱	臱		mi2										
 鮸	𩾃								mien2	11			
-明	明	ming	mi2	3							0.00	僅限於“明朝”	
+明	明	ming	mi2	3							0.00	又音 僅限於“明朝”	
 #			mi2									煙韻	
 米	米	mi	mi4	1	mi6	9	mi6	10	mi4	11			
 咪	咪	mi	mi4	7							0.00	化學用字	
@@ -13904,6 +13904,7 @@
 獴	獴		mon2										
 瞢	瞢		mon2										
 懵	懵	mong	mon2	1			mon6	10					
+明	明		mon2								0.00	又音 僅限於“明朝”	
 #			mon2										
 曚	曚	mong	mon4	7									
 #			mon4										
@@ -16164,6 +16165,7 @@
 諑	诼	coh	tsoq7	7									
 椓	椓		tsoq7										
 卓	卓	coh	tsoq7	2	tsoq7	9	tsoq7	10	tsoq7	11			
+䓬	䓬		tsoq7									化學用字	
 倬	倬	coh	tsoq7	7									
 踔	踔	coh	tsoq7	7									
 桌	桌	coh	tsoq7	1	tsoq7	9	tsoq7	10					

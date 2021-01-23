@@ -741,22 +741,26 @@
 蓬頭獅	bon deu sy		36				55
 蓬頭獅子	bon deu sy tsy						
 蓬頭活鬼	bon deu waq ciu		36				55
+嘣咚	bon don						
 蓬蒿菜	bon hau tshe	283					55
 塳灰	bon huei	283					55
 塳塵	bon jin	283	133	335, 420			55
+嘣介	bon ka						
 蓬草	bon tshau						
 蓬柴	bon za						
 篷	bon2	283	89	480			
 蓬	bon2	283	120, 168	422			
 薄薄個	boq boq kou	334					55
-卜咚	boq don						
-卜咚一跌𢲔	boq don iq tiq pae						
+噗咚	boq don						
+噗咚一跌𢲔	boq don iq tiq pae						
 薄衣裳	boq i zaon						
 薄舀舀	boq iau iau						
 薄褲	boq khu						
 伏勒睏	boq laq khuen	335					55
 匐勒睏	boq laq khuen						
+噗隆咚	boq lon don						
 薄落頭	boq loq deu			499			
+噗碌獨	boq loq doq						
 薄落柱	boq loq dzyu			499			
 伏倒	boq tau						
 匐倒	boq tau						
@@ -1842,7 +1846,7 @@
 腳盆	ciaq ben	325	93				
 腳蹁蹁	ciaq bi bi						
 腳膊絡頭	ciaq boq loq deu	326	47				55
-腳卜絡頭蹩出	ciaq boq loq deu biq tshyuq						
+腳膊絡頭蹩出	ciaq boq loq deu biq tshyuq						
 腳膊路頭	ciaq boq lu deu		47				55
 腳部絡頭	ciaq bu loq deu		47				55
 腳部路頭	ciaq bu lu deu	326	47	368			55
@@ -3383,6 +3387,7 @@
 同業公會	don gniq kon wei	285					
 動伙	don hou	287					418
 動火	don hou		177	85			
+咚介	don ka						
 同庚	don kan	285					
 同庚年紀	don kan gni ci	285					55
 瞳孔	don khon	286					
@@ -4113,7 +4118,7 @@
 庵堂	ei-e daon	172					
 暗頭	ei-e deu	172	12	426			418
 暗頭裏	ei-e deu li	172	12	427			418
-暗笛卜朧	ei-e diq boq lon		274	427			55
+暗笛薄朧	ei-e diq boq lon	172	274	427		湯版作「暗笛薄龍」，《阿拉宁波话》作「暗笛卜朧」	55
 暗笛薄龍	ei-e diq boq lon	172					55
 暗洞洞	ei-e don don	172	274				55
 安安耽耽	ei-e ei-e tae tae	172					55
@@ -4124,7 +4129,7 @@
 安陰陽	ei-e in yan	172	318				55
 按杖棒	ei-e jian baon	172	94	240			55
 暗裏墨洞	ei-e li moq don						
-暗力卜朧	ei-e liq boq lon		274	427			55
+暗力薄朧	ei-e liq boq lon		274	427		《阿拉宁波话》作「暗力卜朧」	55
 暗弄慫	ei-e lon son	172					55
 安落去	ei-e loq chi		318				55
 暗墨侖寸	ei-e moq len tshen		274				55
@@ -4134,8 +4139,7 @@
 暗手	ei-e shieu	172	12				55
 安耽	ei-e tae	172	218	126	安定；安慰	朱版作「安躭」。《玉篇》躭，丁含切，俗耽字。以「耽」爲正。	55
 暗探	ei-e thei	172					
-暗鐵撲朧	ei-e thiq phoq lon		274				55
-暗鐵撲龍	ei-e thiq phoq lon	172					55
+暗鐵撲朧	ei-e thiq phoq lon	172	274			湯版作「暗鐵撲龍」	55
 暗寸寸	ei-e tshen tshen	172	274	427			55
 暗黢黢	ei-e tshyuq tshyuq	172	274	427		湯版作「暗出出」，《蘇州方言詞典》同（oe tsheq tsheq）。《阿拉宁波话》作「暗黢黢」，《杭州方言詞典》同（aen tsheq tsheq）。《上海话大词典》作「暗黜黜」(oe tsheq tsheq)。黢，《集韻》促律切，黑也。「黢」音義合，佳。	578
 按拄棒	ei-e tsyu baon	172					55
@@ -5698,8 +5702,10 @@
 跫跫來	gon gon le						
 跫跫奔到戲文場	gon gon pen tau shi ven jian						
 共總	gon tson	292					
-個個郎	goq goq laon	346	109	255			55
-個個𧮙	goq goq zoq						
+嗰嗰郎	goq goq laon	346	109	255			55
+嗰嗰𧮙	goq goq zoq						
+嗰隆咚	goq lon don						
+嗰碌獨	goq loq doq						
 個	goq8	346	304	255			
 擱	goq8	346					
 咕咕叨叨	gu gu tau tau						
@@ -18084,7 +18090,7 @@
 撮着撮	tshaq dzoq tshaq		325				55
 撮着自	tshaq dzoq zhi						
 漆暗	tshaq ei-e	312	274	455			55
-漆暗卜朧	tshaq ei-e boq lon	312	274	455			55
+漆暗薄朧	tshaq ei-e boq lon	312	274	455	很暗；消息不通	《阿拉宁波话》作「漆暗卜朧」。	55
 漆暗墨朧	tshaq ei-e moq lon		274				55
 漆黑	tshaq haq	312	274	455			
 漆黑泥藍	tshaq haq gni lae	312	274				55

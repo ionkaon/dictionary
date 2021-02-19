@@ -4687,13 +4687,12 @@
 閒白直	ghae baq jiq	146	51				55
 鹹氣	ghae chi						
 鹹𪉨蟹	ghae chian ha		66				55
-鹹虀	ghae ci		76	245			578
-鹹韲	ghae ci		76				578
-鹹齏	ghae ci		76				578
-鹹𧆌	ghae ci	147	76				578
-鹹𧆌大湯黃魚	ghae ci dou thaon waon ng	147					55
-鹹齏菜	ghae ci tshe		76				578
-鹹𧆌菜	ghae ci tshe	147					55
+鹹虀	ghae ci	147	76	245	一種寧波傳統的鹹菜，由雪裏蕻醃製而成	寫法衆多，有「鹹齏」、「鹹虀」、「鹹韲」、「鹹𧆌」等，推薦作「鹹齏」。	
+鹹韲	ghae ci	147	76	245	一種寧波傳統的鹹菜，由雪裏蕻醃製而成	寫法衆多，有「鹹齏」、「鹹虀」、「鹹韲」、「鹹𧆌」等，推薦作「鹹齏」。	
+鹹齏	ghae ci	147	76	245	一種寧波傳統的鹹菜，由雪裏蕻醃製而成	寫法衆多，有「鹹齏」、「鹹虀」、「鹹韲」、「鹹𧆌」等，推薦作「鹹齏」。	578
+鹹𧆌	ghae ci	147	76	245	一種寧波傳統的鹹菜，由雪裏蕻醃製而成	寫法衆多，有「鹹齏」、「鹹虀」、「鹹韲」、「鹹𧆌」等，推薦作「鹹齏」。	
+鹹齏大湯黃魚	ghae ci dou thaon waon ng	147			鹹菜黃魚湯		55
+鹹齏菜	ghae ci tshe	147	76		一種寧波傳統的鹹菜，由雪裏蕻醃製而成		578
 鹹齏黃魚	ghae ci waon ng						
 閒賬	ghae cian		125	173			55
 閒賬勿管	ghae cian vaq kun						
@@ -4728,7 +4727,7 @@
 閒早	ghae tsau	146	18	173			55
 閒早子	ghae tsau tsy	146	18	173			55
 鹹草	ghae tshau	147	116	245			55
-鹹菜	ghae tshe	147	76				
+鹹菜	ghae tshe	147	76		一種寧波傳統的鹹菜，由雪裏蕻醃製而成		
 鹹菜色	ghae tshe saq	147					55
 餡子	ghae tsy	147	79	370			55
 鹹滋滋	ghae tsy tsy	147	276				55
@@ -16058,9 +16057,7 @@
 水	syu3	9		34			
 榫頭	syun deu	281					
 榫頭敲準足	syun deu khau tsyun tsoq						
-筍麩鹹虀	syun fu ghae ci			310			
-筍麩鹹齏	syun fu ghae ci		76				55
-筍麩鹹𧆌	syun fu ghae ci	281					55
+筍麩鹹齏	syun fu ghae ci	280	76	310	鮮毛筍和鹹菜一起切碎、燒熟再曬乾製成的食品		55
 筍麩鹹菜	syun fu ghae tshe		76	310			55
 筍麩黃豆	syun fu waon deu	281	77	310			55
 筍乾	syun ki-ke	281					

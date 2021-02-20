@@ -14,7 +14,6 @@
 阿姆	a m		19, 25	183			10000
 阿姆阿伯勿認得	a m aq paq vaq gnin taq		286				
 阿姆阿伯弗認得	a m aq paq vaq gnin taq						1
-阿姆點亮	a m ti lian						
 矮門	a men	68	85	430			55
 挨面排	a mi ba		229	2			55
 挨五接頭	a ng ciq deu		335	295			55
@@ -28,7 +27,6 @@
 矮中取長	a tson tshyu jian		338	431			55
 矮子桶	a tsy don		37				55
 矮子落深窞	a tsy loq shin dei						
-矮子多肚腸	a tsy tou du jian						
 矮子會長	a tsy wei jian						
 靉愁愁	a zeu zeu	68	257	444			55
 矮牆	a zhian	68		430			
@@ -53,7 +51,6 @@
 阿姆	an m	212	25	183			1000
 阿姆阿伯勿認得	an m aq paq vaq gnin taq						
 阿姆阿伯弗認得	an m aq paq vaq gnin taq						1
-阿姆點亮	an m ti lian						
 揞水片	an syu phi	212	185				55
 嗯	an1			207			
 㹙	an3	212	109	496			
@@ -73,8 +70,6 @@
 餲𦤣氣	aq boq chi	321	278	495			55
 餲𦤣幾糟	aq boq ci tsau	321	260	495			55
 阿婆	aq bou	321	21	184			
-阿婆嘔我做人客	aq bou eu ngo tsou gnin khaq						
-阿婆謳我做人客	aq bou eu ngo tsou gnin khaq						1
 阿伴	aq bun	322					55
 押去	aq chi	323					55
 阿青阿黃	aq chin aq waon		28				418
@@ -102,7 +97,6 @@
 鴨泥	aq gni	323	105	303			55
 阿二嬉䏘	aq gni shi phiq						
 阿孃	aq gnian	322	19	183			
-鴨肉骨頭水搨糕	aq gnioq kuaq deu syu thaq kau						
 阿育王寺	aq gnioq waon zy	322					55
 鴨廄間	aq ji kae	323	88				55
 阿舅	aq jieu	321	21	184			578
@@ -136,7 +130,6 @@
 壓末名	aq maq min	323					55
 阿毛娘	aq mau gnian						
 阿妹	aq mei	321					
-阿妹當老婆	aq mei taon lau bou						
 阿木人	aq moq gnin			184			
 阿木林	aq moq lin	322	29	184			
 阿奶	aq na	322					578
@@ -166,7 +159,6 @@
 阿鄉	aq shian	322	27				
 阿小	aq shiau	321					55
 阿嬸	aq shin	322	21	184			578
-阿嬸看樣	aq shin khi-khe yan						
 鴨血	aq shiuq	323					55
 阿叔	aq son	322	21	183			578
 阿叔侄子	aq son jiq tsy	322					55
@@ -190,19 +182,16 @@
 鴨尿臭	aq syu chieu	323	322	303			55
 壓歲鈿	aq syu di		125	96			55
 壓歲銅鈿	aq syu don di		125	96			55
-鴨膯抵火燒	aq ten ti hou shiau						
 阿太	aq tha	321	19	32			578
 阿爹	aq tia	321	18	183			
 阿爹阿孃勿認得	aq tia aq gnian vaq gnin taq		286				
 阿爹阿孃弗認得	aq tia aq gnian vaq gnin taq						1
-阿爹做人	aq tia tsou gnin						
 阿督	aq toq		23	184			
 壓罩頭	aq tsau deu						
 壓倉氣	aq tshaon chi			96			
 阿作姑	aq tsoq ku						
 鴨肫	aq tsyun	323					55
 鴨肫乾	aq tsyun ki-ke	323					55
-鴨肫難剝	aq tsyun nae poq						
 阿橫	aq uan		26				55
 壓飯榔頭	aq vae laon deu		63	96			55
 押房子	aq vaon tsy	323					55
@@ -210,15 +199,11 @@
 壓弗進	aq vaq cin						1
 壓勿煞	aq vaq saq						
 壓弗煞	aq vaq saq	323	102	96		湯版等作「壓勿殺」。考慮統一性，宜作「煞」。	55
-壓勿煞婊子	aq vaq saq piau tsy						
-壓弗煞婊子	aq vaq saq piau tsy						1
 阿橫	aq wan			184			
 阿黃	aq waon		55				55
 阿旺牛	aq waon ngeu						
-阿黃舂年糕	aq waon saon gni kau						
 阿活靈	aq waq lin		49				55
 阿爺	aq ya	321	19	182			
-阿爺值鈿大孫子	aq ya jiq di dou sen tsy						
 阿爺孫子	aq ya sen tsy	321					55
 阿姨	aq yi	321	21	19			
 阿裏	aq yi		40	182			578
@@ -284,7 +269,6 @@
 排球	ba jieu	58					
 敗家精	ba ko cin	58	32	209			55
 敗家子	ba ko tsy	58					
-敗光爹孃老家計	ba kuaon tia gnian lau ko ci						
 排骨	ba kuaq	58					
 敗落鄉紳	ba loq shian shin						
 排門	ba men	58	85	335			55
@@ -319,7 +303,6 @@
 棚蟲	ban dzon		113	392			55
 蟛蟲	ban dzon	204					55
 碰着	ban dzoq						
-碰着閏年	ban dzoq yun gni						
 蚌殼油	ban khoq yeu	317					55
 棚梯	ban the	203					55
 碰㬹	ban tsan	203	47	424			55
@@ -329,11 +312,9 @@
 碰弗得	ban vaq taq						1
 朋友	ban yeu	203					
 朋友道裏	ban yeu dau li	203					55
-朋友熱絡	ban yeu gniq loq						
 朋友家	ban yeu ko	203	23	216			418
 碰運道	ban yun dau						
 碰着	ban zoq	203					
-碰着閏年	ban zoq yun gni						
 朋	ban2	203	194	216			
 甏	ban6	203	99	476			
 棒頭	baon dei			392			
@@ -443,7 +424,6 @@
 白龍王廟何家	baq lon waon miau ghou ko						
 白蘿蔔	baq lou boq	299					
 白露	baq lu	298					
-白露白咪咪	baq lu baq mhi mhi						
 白帽頭	baq mau dei		57				55
 白帽頭	baq mau deu	298	57	65			55
 白咪咪	baq mhi mhi		273				55
@@ -492,7 +472,6 @@
 拔	baq8	300	187	189			
 浡	baq8			323			
 白	baq8	298	133				
-暴喫饅頭三口生	bau chioq mun deu sae kheu san						
 跑堂個	bau daon ghoq						55
 跑堂個	bau daon goq	232					55
 跑大碼頭	bau dou mo deu						
@@ -556,7 +535,6 @@
 坌橫頭	ben wan deu	249					55
 盆浴	ben yuq	249					
 笨賊佬	ben zaq lau	249	29	356			55
-笨賊偷搗臼	ben zaq theu tau jieu						
 笨是介笨	ben zy ka ben						
 坌	ben2	249		301			
 盆	ben2	249					
@@ -643,8 +621,6 @@
 鐾	bi6	15	151	503			
 瓢蟲	biau dzon	107					
 瓢羹	biau kan			478			
-嫖賭勿論錢	biau tu vaq len ji						
-嫖賭弗論錢	biau tu vaq len ji						1
 瓢	biau2	107					
 薸	biau2	108	116	484			
 嫖	biau4		141				
@@ -684,7 +660,6 @@
 別別跳	biq biq thiau	352					55
 𨂅𨂅跳	biq biq thiau						
 蹩腳	biq ciaq	353					
-蹩腳蹩腳蹩隻腳	biq ciaq biq ciaq biq tsaq ciaq						
 蹩腳貨	biq ciaq hou	353					55
 別針	biq cin	352					
 笓地板	biq di pae						
@@ -728,7 +703,6 @@
 爬高吸低	bo kau shiq ti		333				55
 爬過牆	bo kou zhian						
 䶕牙	bo ngo	96	37	396			55
-䶕牙喫西瓜	bo ngo chioq shi kuo						
 耙背塔塔響	bo pei thaq thaq shian						
 爬山頭	bo sae deu						
 爬山挖嶺	bo sae uaq lin						
@@ -847,7 +821,6 @@
 起腳	chi ciaq	30	186	290			
 起九	chi cieu	30					55
 氣緊	chi cin	31	55	38			55
-千金難買捼腳䏘	chi cin nae ma ou ciaq phiq						
 千真萬確	chi cin vae chiuq	29					
 千針萬針	chi cin vae cin	29					55
 氣急大呼	chi ciq da fu		246				55
@@ -1005,7 +978,6 @@
 嗆潑	chian phaq			158			
 羌餅	chian pin	216					55
 槍笆	chian po	216	86	199			55
-槍笆對槍笆	chian po tei chian po						
 搶三	chian sae		184				55
 腔勢	chian syu				樣子，架勢		
 搶犯	chian vae	216	28	140			55
@@ -1026,7 +998,6 @@
 墝埆	chiau goq		229	237			55
 敲𥣘	chiau iq						
 墝埆	chiau koq		229	237			55
-竅門純靠自家尋	chiau men zyun khau zhi ko zhin						
 翹牙鬚	chiau ngo su	112					55
 翹聳聳	chiau son son	113	228	395			55
 繰貼皮	chiau thiaq bi	112					55
@@ -1049,7 +1020,6 @@
 臭蟲	chieu dzon	155					
 抽着抽	chieu dzoq chieu		325				55
 秋分	chieu fen	154					
-秋後叫皇天	chieu gheu ciau waon thi						
 臭烘烘	chieu hon hon	155					
 臭灰蛋	chieu huei dae	154	34				55
 臭花娘子	chieu huo gnian tsy	154	113	315			55
@@ -1075,8 +1045,6 @@
 臭冬瓜	chieu ton kuo	154	76	315			55
 臭豬頭	chieu tsyu deu		33	315			55
 抽油	chieu yeu	154	77	190			55
-秋前勿擱田	chieu zhi vaq koq di						
-秋前弗擱田	chieu zhi vaq koq di						1
 抽着抽	chieu zoq chieu						
 丘	chieu1	154		63			
 抽	chieu1	154	148	190			
@@ -1135,9 +1103,7 @@
 青蟹	chin ha	266	66	187			55
 趁火車	chin hou tsho						
 秤花	chin huo	269	102	309			55
-秤花還只曉得	chin huo gha ciq shiau taq						
 清花理白	chin huo li baq						
-秤花還只曉得	chin huo wa ciq shiau taq						
 青衣	chin i	266	116	186			
 青櫻櫻	chin in in	267					55
 清一色	chin iq saq	267					
@@ -1273,16 +1239,13 @@
 喫氣勿過	chioq chi vaq kou		330				
 喫氣弗過	chioq chi vaq kou						55
 喫喫阿拉	chioq chioq aq laq	349					55
-喫喫要喫煞	chioq chioq iau chioq saq						
 喫喫其	chioq chioq ji						
 喫喫渠	chioq chioq ji	349					55
-喫喫陳年穀	chioq chioq jin gni koq						
 喫喫其拉	chioq chioq jiq laq						
 喫喫渠拉	chioq chioq jiq laq	349					55
 喫喫倷	chioq chioq naq	349					55
 喫喫我	chioq chioq ngo	349					55
 喫喫儂	chioq chioq nou	349					55
-喫虧了叫	chioq chiu laq ciau						
 喫酒	chioq cieu	348	180	106			
 喫酒糊塗	chioq cieu wu du						
 喫進	chioq cin	349		105			
@@ -1315,7 +1278,6 @@
 喫好果子	chioq hau kou tsy						
 喫豁辣面	chioq huaq laq mi		330				55
 喫花菜	chioq huo tshe	348	316				55
-喫一腳	chioq iq ciaq						
 喫一支	chioq iq tsyu						
 喫場	chioq jian	349	78	106			418
 喫場案	chioq jian ei-e		78	106			55
@@ -1328,14 +1290,10 @@
 喫開口飯個	chioq khe kheu vae goq	348					55
 喫口	chioq kheu	349	36	105			55
 喫空心湯糰	chioq khon shin thaon doe		340				
-喫虧了叫	chioq khuei laq ciau						
 喫家生	chioq ko san	348		107			418
 喫過去	chioq kou chi						
-喫過肚飢	chioq kou du ci						
-喫過奉化芋艿頭	chioq kou von huo n na deu						
 喫官司	chioq kun sy	349					
 喫勒及	chioq laq ji						
-喫勒邋遢做菩薩	chioq laq laq thaq tsou bu saq						
 喫勒落	chioq laq loq	349	316				55
 喫勒味道交關好	chioq laq mi dau ciau kuae hau						
 喫了端午粽	chioq laq ton ng tson						
@@ -1351,7 +1309,6 @@
 喫落	chioq loq	349					55
 喫落腳	chioq loq cian		77				55
 喫落腳	chioq loq ciaq	349					55
-喫落實家計	chioq loq zyuq ko ci						
 喫蘿蔔乾	chioq lou boq ki-ke		172, 330	108			55
 喫沒	chioq maq	349					55
 喫飯飯	chioq mhan mhan						
@@ -1366,7 +1323,6 @@
 喫腦子磕	chioq nau tsy khaq		330				55
 喫腦子卜	chioq nau tsy poq	348					55
 喫奶奶	chioq nhe nhe						
-喫百姓	chioq paq shin						
 喫背銬	chioq pei khau						
 喫噴頭	chioq phen deu	348	317	108			55
 喫屁股	chioq phi ku	348		107			55
@@ -1376,8 +1332,6 @@
 喫生活	chioq san waq		316	107			
 喫生活	chioq san wo	349		107			55
 喫煞	chioq saq		137				55
-喫煞總比餓煞好	chioq saq tson pi ngou saq hau						
-喫餿氣冷飯	chioq seu chi lan vae						
 喫喜酒	chioq shi cieu	348					55
 喫死飯	chioq shi vae	348	316				55
 喫相	chioq shian	349	49	106			
@@ -1392,31 +1346,18 @@
 喫齋	chioq tsa	348					
 喫菜	chioq tshe	348		106			418
 喫醋	chioq tshu	348					
-喫仔打孃舅	chioq tsy tan gnian jieu						
 喫支	chioq tsyu						
 喫支香菸	chioq tsyu shian i						
-喫飯嘔嬉䏘	chioq vae eu shi phiq						
-喫飯謳嬉䏘	chioq vae eu shi phiq						1
-喫飯要過口	chioq vae iau kou kheu						
-喫飯要搵鹽	chioq vae iau uen yi						
 喫飯間	chioq vae kae	348	83				55
 喫飯看煙囪	chioq vae khi-khe i tshon						
 喫飯家生	chioq vae ko san	348	90				55
-喫飯莫飽	chioq vae mau pau						
-喫飯莫飽	chioq vae mhau pau						
-喫飯打先鋒	chioq vae tan shi fon						
-喫飯討饒	chioq vae thau gniau						
 喫飯店飯	chioq vae ti vae	348					55
 喫飯桌凳	chioq vae tsoq ten	348					55
 喫飯碗盞	chioq vae un tsae						
 喫勿及	chioq vaq ji						
 喫弗及	chioq vaq ji						1
-喫勿窮	chioq vaq jion						
-喫弗窮	chioq vaq jion						1
 喫勿來	chioq vaq le						
 喫弗來	chioq vaq le						1
-喫勿論	chioq vaq len						
-喫弗論	chioq vaq len						1
 喫勿落	chioq vaq loq	349	316				
 喫弗落	chioq vaq loq						55
 喫夜點心	chioq ya te shin	348					55
@@ -1424,7 +1365,6 @@
 喫夜飯	chioq ya vae	348					55
 喫洋銬	chioq yan khau						
 喫油炒飯	chioq yeu tshau vae						
-喫雨飯	chioq yu vae						
 喫僝頭	chioq zae deu	348	317	108			55
 喫上加喫	chioq zaon ko chioq		333				55
 喫食	chioq zhiq	349	78	106			
@@ -1442,7 +1382,6 @@
 慼慼動	chiq chiq don	360	220	346			55
 挈挈在心	chiq chiq dze shin						
 切切克克	chiq chiq khaq khaq	360	281	190			55
-七七敲	chiq chiq khau						
 七七八八	chiq chiq paq paq		326				
 趞趞奔去	chiq chiq pen chi						
 趞趞奔來	chiq chiq pen le						
@@ -1462,7 +1401,7 @@
 七頭	chiq deu		120	5			55
 挈頭	chiq deu		49	288			55
 皵頭	chiq deu		127	422			55
-赤豆棒冰	chaq deu baon pin						
+赤豆棒冰	chiq deu baon pin						
 七頭清	chiq deu chin	359					55
 挈頭靈	chiq deu lin						
 七搞八搞	chiq gau paq gau	359	255	6			55
@@ -1477,7 +1416,6 @@
 喫嚇	chiq haq		174				55
 漆蒿蒿	chiq hau hau	360	276	455			55
 喫𢞕	chiq hoq	360	174				55
-七花八花	chiq huo paq huo						
 七依八𠡒	chiq i paq tei	359	254	6			55
 七一	chiq iq	359					
 漆一度	chiq iq du						
@@ -1527,7 +1465,6 @@
 挈水	chiq syu	360					55
 漆水	chiq syu		131				55
 挈水桶	chiq syu don		100	288			55
-七歲弶八歲	chiq syu jian paq syu						
 挈當	chiq taon	360	100	288			55
 挈當桶	chiq taon don	360	100	288			55
 七搭八搭	chiq taq paq taq	359	327	6			55
@@ -1542,7 +1479,6 @@
 挈出去	chiq tshyuq chi						
 挈出來	chiq tshyuq le						
 挈出尿瓶	chiq tshyuq syu bin	360	26				418
-七主意	chiq tsyu i						
 七嘴八舌	chiq tsyu paq zhiq	359					
 七彎涼牀	chiq uae lian zaon	359					55
 挈勿動	chiq vaq don						
@@ -1623,7 +1559,6 @@
 機耕路	ci kan lu	26	90				55
 肩胛	ci kaq	26	45				2815
 肩胛頭	ci kaq deu	26	45	231			55
-肩胛頭當棧房	ci kaq deu taon dzae vaon						
 計較	ci kau	28	50	47			
 雞狗雞狗	ci keu ci keu	27	280				55
 肩胛	ci khaq		45				55
@@ -1657,8 +1592,6 @@
 今末子	ci miq tsy	356	14				578
 雞麻則陋	ci mo tsaq leu	27					55
 雞眼	ci ngae	27					
-雞鵝鴨腳板	ci ngou ae ciaq pae						
-雞鵝鴨腳板	ci ngou aq ciaq pae						
 牮屋	ci oq	28					55
 佔擺	ci pa	27	209	58			55
 寄拜	ci pa		181				55
@@ -1690,7 +1623,6 @@
 雞瞪鼓	ci ten ku	27					55
 雞膯鼓	ci ten ku						
 𣥼的	ci tiq						
-雞啄米	ci toq mi						
 幾糟	ci tsau	27	308	8			55
 雞罩	ci tsau	27					55
 雞爪風	ci tsau fon	27	53	184			55
@@ -1738,7 +1670,6 @@
 借米聾	cia mi lon	215	53	311			55
 借八利	cia paq li	69	36	351			55
 借邊	cia pi		10				55
-借傘好甮謝	cia sae hau ven zhia						
 借手	cia shieu	69	46				
 借手蹩腳	cia shieu biq ciaq						
 借手箬鰨	cia shieu gnioq thaq		67				55
@@ -1864,7 +1795,6 @@
 腳指末頭	ciaq ciq maq deu	325	47				418
 腳埭	ciaq da		128	365			55
 腳宕宕	ciaq dan dan						
-腳踏地中央	ciaq daq di tson ian						
 腳踏兩頭船	ciaq daq lian deu zoe						
 腳踏板	ciaq daq pae						
 腳踏西瓜皮	ciaq daq shi kuo bi						
@@ -1880,8 +1810,6 @@
 腳泥螺	ciaq gni lou	324	47	366			418
 腳娘肚	ciaq gnian du	325	47	367			578
 腳娘肚彈琵琶	ciaq gnian du dae bi bo		163				55
-腳娘肚當米缸	ciaq gnian du taon mi kaon						
-腳娘肚像甏	ciaq gnian du zhian ban						
 腳罅縫	ciaq ha von	325	46	366			55
 着衣鏡	ciaq i cin	324					55
 腳印	ciaq in	325					
@@ -1904,7 +1832,6 @@
 腳骨健	ciaq kuaq ji						
 腳骨長	ciaq kuaq jian						
 腳骨直	ciaq kuaq jiq			366			
-腳骨極細	ciaq kuaq jiq shi						
 腳骨𤖼開	ciaq kuaq phaq khe						
 腳骨筍	ciaq kuaq syun	326	73	367			55
 腳骨抖抖	ciaq kuaq teu teu	326					55
@@ -1941,7 +1868,6 @@
 腳紗頭	ciaq so deu	325					55
 腳水	ciaq syu	324					55
 腳抖抖	ciaq teu teu						
-腳痛要擱	ciaq thon iau koq						
 腳底下	ciaq ti gho	324					55
 腳底板	ciaq ti pae	325	47				
 腳底奔洞	ciaq ti pen don		337	367			55
@@ -2211,7 +2137,6 @@
 酒館店	cieu kun ti			323			
 九兩	cieu lian	153					55
 九六	cieu loq	153					
-九籮一筲	cieu lou iq sau						
 酒慢慢叫喫	cieu mae mae ciau chioq						
 酒冒氣	cieu mau chi		278	323			55
 救命車	cieu min tsho	154	89	345			55
@@ -2220,7 +2145,6 @@
 九八	cieu paq	153					
 酒杯	cieu pei	153					
 九三	cieu sae	153					
-九筲一籮	cieu sau iq lou						
 救生船	cieu sen zoe	153					
 周宿渡	cieu soq du						
 九四	cieu sy	153					
@@ -2234,12 +2158,9 @@
 糾作煞	cieu tsoq saq						
 酒足飯飽	cieu tsoq vae pau						
 晝飯	cieu vae	154	62	284			578
-晝飯要喫好	cieu vae iau chioq hau						
 糾會	cieu wei	153	185				55
 酒壺	cieu wu	153					
 救護車	cieu wu tsho	154					
-九月九	cieu yuq cieu						
-九月九重陽	cieu yuq cieu dzon yan						
 九月團臍十月尖	cieu yuq doe ji zyuq yuq ci						
 九月廿七風	cieu yuq ne-gnie chiq fon						
 酒槽鼻	cieu zau biq	153					
@@ -2262,7 +2183,6 @@
 金針菇	cin cin ku	264					
 真真忙煞	cin cin maon saq						
 真真心焦煞	cin cin shin ciau saq						
-真真犯關	cin cin vae kuae						
 經摺	cin ciq	264	126	235			
 金彈	cin dae	263					
 金蛋	cin dae		74	213			
@@ -2282,7 +2202,6 @@
 枕頭套	cin deu thau	265					
 金糰	cin doe	263	78	213			418
 金糰礌松花	cin doe lei son huo						
-經常三分燥	cin dzaon sae fen sau						
 金蟲	cin dzon	264	112	213			
 金蟲矮	cin dzon a						
 正方的角	cin faon tiq koq						
@@ -2361,7 +2280,6 @@
 筋倒	cin tau		51	403			55
 真到話	cin tau wo		293	297			55
 正廳位子	cin thin wei tsy		11				55
-井底要開豁	cin ti iau khe huaq						
 真到話	cin to wo			297			55
 真到話	cin tou wo			297			55
 警察抲賭到處藏	cin tshaq kho tu tau tshyu dzaon						
@@ -2388,7 +2306,6 @@
 正月半	cin yuq pun	263					55
 正月初一	cin yuq tshu iq	263					
 金字招牌	cin zy ciau ba	263					
-金字招牌硬黃貨	cin zy ciau ba ngan waon hou						
 㲀鋤頭	cin zy deu						
 㲀鋤頭	cin zyu deu						
 精神筆篤	cin zyun piq toq						
@@ -2415,10 +2332,8 @@
 只只	ciq ciq	357	282	60			418
 急急動	ciq ciq don	357	222				55
 織績蟲	ciq ciq dzon	358	112	235			55
-急急一日	ciq ciq iq zyuq						
 唧唧咯咯	ciq ciq kaq kaq			305			
 接接看	ciq ciq khe						
-隻隻鮮	tsaq tsaq shi						
 接頭	ciq deu	357	175				
 結頭	ciq deu	358	120	285			55
 節頭節尾	ciq deu ciq mi	358	16	55	節日裏	《鄞縣通志》p. 2787 作「節頭節尾」，可知末字爲「衣韻」。湯版作「節頭節面」，音不合。	55
@@ -2427,15 +2342,10 @@
 揭方巾	ciq faon cin	357					55
 結髮夫妻	ciq faq fu chi	358					
 夾下飯	ciq gho vae	357			夾菜		
-只認衣衫勿認人	ciq gnin i sae vaq gnin gnin						
-只認衣衫弗認人	ciq gnin i sae vaq gnin gnin						1
 節日頭間	ciq gniq deu kae	358	16	54			55
 摺好	ciq hau						
-只好欠惡霸	ciq hau chi oq po						
-只好起早	ciq hau chi tsau						
 結𥀬	ciq i	357	171				55
 摺衣裳	ciq i zaon				疊衣服		
-只要老公好	ciq iau lau kon hau						
 摺襉	ciq kae	358					55
 結嗝	ciq kaq		211				55
 結夾	ciq kaq	358	308	285			55
@@ -2496,8 +2406,6 @@
 只勿	ciq vaq	356	297				
 只弗	ciq vaq			60			55
 積肥	ciq vi	358					
-只會擺樣	ciq wei pa yan						
-只會拖羹	ciq wei thou kan						
 只話我養生勿推扳	ciq wo ngo yan san vaq thei pae						
 只話我養生弗推扳	ciq wo ngo yan san vaq thei pae						1
 只有一錯	ciq yeu iq tshou						
@@ -2622,7 +2530,6 @@
 淡口	dae kheu	138	272	377			55
 淡口鐵耙	dae kheu thiq bo						
 蛋殼皮球	dae khoq bi jieu		108	382			55
-蛋殼一畚斗	dae khoq iq pen teu						
 蛋殼球	dae khoq jieu	138	108	381			55
 淡刮泥漿	dae kuaq gni cian		276	378			55
 淡刮刮	dae kuaq kuaq	138	276	378			55
@@ -2865,7 +2772,6 @@
 掏飯	dau vae						
 陶窯	dau yau	79	126	332			55
 陶窯大	dau yau dou						
-陶窯省有夥	dau yau san yeu hou						
 掏柴柱	dau za dzyu						
 掏柴株	dau za tsyu						
 稻熟麻將	dau zoq mo cian		31	469			
@@ -2900,7 +2806,6 @@
 臺閣	de koq			84			
 擡棺材	de kun ze						
 擡老婆	de lau bou	122					55
-擡老婆看阿舅	de lau bou khi-khe aq jieu						
 擡老𡢿	de lau gnion	122					55
 怠慢	de mae	123					
 檯布	de pu	123					
@@ -2939,7 +2844,6 @@
 臀尖	den ci	254		490			
 屯隊	den dei		283	33			55
 𨄇𨄇	den den		280	491			55
-庉庉朝南屋	den den jiau nei-nae oq						
 騰騰奔	den den pen	254					55
 𨄇𨄇奔去	den den pen chi						
 𨄇𨄇奔進戲文場	den den pen cin shi ven jian						
@@ -2977,7 +2881,6 @@
 頭頸	deu cin	196	44	72			
 頭頸刨	deu cin bau	196					55
 頭頸纏纏	deu cin ji ji						
-頭頸長長	deu cin jian jian						
 頭頸骨	deu cin kuaq	196	44				55
 頭頸骨𢺴出	deu cin kuaq iuq tshyuq	196					55
 頭汁	deu ciq	196					55
@@ -2986,8 +2889,6 @@
 頭埭	deu da	195	49	71			55
 頭大	deu da	195					
 頭𢪂𢪂	deu da da						
-頭埭怪清	deu da kua chin						
-頭埭怪清	deu da kuan chin						
 頭埭怪青	deu da kuan chin						
 頭大不剌	deu da paq la						
 頭大不剌	deu da paq laq	195					55
@@ -3004,7 +2905,6 @@
 頭大	deu dou		245	71			
 頭大不剌	deu dou paq laq		245				55
 頭大煞	deu dou saq						
-頭度苦	deu du khu						
 頭重腳輕	deu dzon ciaq chin						
 頭方	deu faon		18				55
 頭髮	deu faq	195					
@@ -3014,11 +2914,9 @@
 頭髮甩散	deu faq huaq sae		329				55
 頭髮絲	deu faq sy				1. 頭髮絲; 2. 戲稱苔條		
 頭髮打結	deu faq tan ciq						
-頭髮禿頂	deu faq thaq tin						
 頭跔進	deu geu cin						
 頭後日	deu gheu gniq		14	72			55
 投人身	deu gnin shin	194	319	141			55
-頭纏纏	deu ji ji						
 頭剛	deu kaon	195					55
 頭剛子	deu kaon tsy	195					55
 頭窠蛋	deu khou dae	195					55
@@ -3028,7 +2926,6 @@
 頭枷鎖	deu ko sou	195					55
 頭拱糊爛泥	deu kon wu lae gni		339				
 頭過	deu kou	194					55
-豆朗多莢	deu laon tou ciaq						
 頭裏	deu li	195					
 頭兩	deu lian						
 頭兩個	deu lian ghoq						
@@ -3036,7 +2933,6 @@
 頭兩里路	deu lian li lu	195					55
 頭兩畝	deu lian m	196					55
 頭兩隻	deu lian tsaq						
-頭擄擄	deu lou lou						
 頭路	deu lu	195	42	72			
 頭網	deu maon		18	71			5000
 頭網子	deu maon tsy		18	71			5000
@@ -3069,7 +2965,6 @@
 頭剃的滑	deu thi tiq waq						
 頭挑	deu thiau	195	249	71			55
 頭痛膨脹	deu thon ban cian	196	219	73			55
-頭痛屋柱碰	deu thon oq dzyu ban						
 頭底心	deu ti shin	195	42	72			55
 頭頂心	deu tin shin		42	72			55
 頭爪爪	deu tsau tsau						
@@ -3084,9 +2979,7 @@
 豆腐皮	deu vu bi	196					
 豆腐漿	deu vu cian	196					55
 豆腐花	deu vu huo	196					55
-豆腐慢慢賣	deu vu mae mae ma						
 豆腐腦	deu vu nau	196					
-豆腐挑骨頭	deu vu thiau kuaq deu						
 豆腐飯	deu vu vae	196					55
 頭回	deu wei	195	18	71			10000
 頭回子	deu wei tsy	195	18	71			10000
@@ -3114,7 +3007,6 @@
 地栿𨂝穿	di boq bae tshoe	23					55
 地栿腳印	di boq ciaq in						
 地栿踏穿	di boq daq tshoe	23		92			55
-地栿忘記𨂝	di boq maon ci bae						
 地契	di chi	22					
 甜氣	di chi						
 墊肩	di ci	23	58	239			
@@ -3153,8 +3045,6 @@
 地壤下底	di gnian gho ti	22					55
 地壤裏	di gnian li	22					55
 電熱餅	di gniq pin						
-田要買做畈	di iau ma tsou pae						
-田要種其骨敦	di iau tson ji kuaq ten						
 田要種渠骨敦	di iau tson ji kuaq ten						
 第一	di iq		18	356			
 地軸	di jiuq	23					
@@ -3230,7 +3120,6 @@
 地牀	di zaon		92	91			55
 地蠶	di zei-ze		112				55
 簟匠	di zhian	23	24	492			55
-簟匠嘸籃環	di zhian mh lae guae						
 田塍	di zhin	21	5	59			55
 田塍埭	di zhin da		5				55
 甜食	di zhiq	22					
@@ -3265,8 +3154,6 @@
 調鑊	diau ghon						
 條肉	diau gnioq	110	64	167			55
 調花槍	diau huo chian						
-調一勿歡喜	diau iq vaq hun shi						
-調一弗歡喜	diau iq vaq hun shi						1
 調直	diau jiq	110	250	329			55
 調羹	diau kan	110					
 調覺	diau kau	110	169	330			1000
@@ -3275,8 +3162,6 @@
 調撥	diau paq		203				
 條子	diau tsy	110	48	167			
 調仔	diau tsy		203				55
-調樣生活	diau yan san waq						
-調樣生活	diau yan san wo						
 調勻	diau yun	110					
 條石	diau zaq		87				55
 條	diau2	109					
@@ -3305,18 +3190,14 @@
 踏牀	diq zaon		92				55
 哚哚	do do		179	399			55
 大家	do ko	98		14			68020
-大家嚇煞	do ko haq saq						
 大家喜歡	do ko shi hun						
 斷氣	doe chi	161					
 斷竅	doe chiau	161	293	374			55
-斷竅苦煞	doe chiau khu saq						
 斷七	doe chiq	162					
 團箕	doe ci	161	101				55
 團蕩	doe daon	161	29	264			418
 團蕩阿姆	doe daon a m	161	29	264			418
-團蕩阿姆鬧花燈	doe daon a m nau huo ten						
 團蕩阿姆	doe daon an m	161		264			55
-團蕩阿姆鬧花燈	doe daon an m nau huo ten						
 團蕩婆	doe daon bou	161	29				418
 團蕩娘子	doe daon gnian tsy						
 團蕩刮氣	doe daon kuaq chi						
@@ -3358,14 +3239,12 @@
 銅瓢	don biau	286	98	354			55
 動氣	don chi	286					
 銅千	don chi	286	98				55
-動腳動手是衆生	don ciaq don shieu zy tson san						
 同隊	don dei			104			
 動頭	don deu		128	85			55
 筒頭面	don deu mi			403			
 筒頭麪	don deu mi	287	62				55
 銅鈿	don di	286	95	354			578
 銅鈿銀子	don di gnin tsy	286	95, 125	354			55
-銅鈿銀子通心血	don di gnin tsy thon shin shiuq						
 同同	don don	285	294	104			55
 動動看	don don khe						
 洞洞眼	don don ngae	286	132	276			578
@@ -3441,7 +3320,6 @@
 獨怕	doq pho		295				55
 獨手落	doq shieu loq	337	313	267			55
 讀書	doq syu	337					
-讀書趁年輕	doq syu chin gni chin						
 讀書人	doq syu gnin	337					
 獨碗注	doq un tsyu		272	267			55
 獨槽嘴	doq zau tsyu	337					
@@ -3496,7 +3374,6 @@
 大大阿姆	dou dou an m	179					55
 大大箌箌	dou dou dau dau	179					55
 大大後日	dou dou gheu gniq	179	14				55
-馱馱零頭	dou dou lin deu						
 大大嗤嗤	dou dou tshyu tshyu						
 大大勿大	dou dou vaq dou		327				
 大大弗大	dou dou vaq dou						55
@@ -3519,10 +3396,7 @@
 大年夜	dou gni ya	178	16	10			
 大人	dou gnin	180	20				
 大人大碼	dou gnin dou mo		20				
-大人跑春落棺材	dou gnin phau tshyun loq kun ze						
 大人體料	dou gnin thi liau	180	238				55
-大人勿歡喜	dou gnin vaq hun shi						
-大人弗歡喜	dou gnin vaq hun shi						1
 馱個	dou goq						
 大侾佬	dou hau lau		26	15			55
 大好佬	dou hau lau		26				55
@@ -3552,7 +3426,6 @@
 馱過來	dou kou le						
 大姑娘	dou ku gnian	179	22	15			
 大懶	dou lae						
-大懶差小懶	dou lae tsha shiau lae						
 馱勒	dou laq						
 大老倌	dou lau kun	179					55
 大老闆	dou lau pae						
@@ -3609,8 +3482,6 @@
 大生日	dou san gniq	180					55
 大西壩	dou shi po						
 大先生	dou shi san			182			
-大少爺𣍐睏涼亭	dou shiau ya vei khuen lian din						
-大小月底	dou shiau yuq ti						
 馱啥	dou so						
 馱啥	dou soq						
 馱啥	dou sou						
@@ -3619,7 +3490,6 @@
 大暑	dou syu	178					
 大水	dou syu	178	6				
 大水頭	dou syu deu		6				55
-大暑割稻	dou syu kaq dau						
 大尿布頭	dou syu pu deu	178					55
 大尿血	dou syu shiuq		46				55
 大水氽去	dou syu then chi						
@@ -3652,8 +3522,6 @@
 馱弗起來	dou vaq chi le						1
 馱勿動	dou vaq don						
 馱弗動	dou vaq don						1
-馱勿肯	dou vaq khen						
-馱弗肯	dou vaq khen						1
 馱勿了	dou vaq liau						
 馱弗了	dou vaq liau						1
 馱勿到	dou vaq tau						
@@ -3675,7 +3543,6 @@
 大糊性轟	dou wu shin hon	179	242				55
 大糊得氣	dou wu taq chi		242				55
 馱藥	dou yaq						
-大雨後背跟	dou yu gheu pei ken						
 大雨傘	dou yu sae						
 大遠勿遠	dou yu vaq yu		327				
 大遠弗遠	dou yu vaq yu						55
@@ -3705,8 +3572,6 @@
 肚皮官司	du bi kun sy						
 肚皮痛	du bi thon	46					55
 肚飢	du ci	46	221	166			
-肚飢勿論好羹湯	du ci vaq len hau kan thaon						
-肚飢弗論好羹湯	du ci vaq len hau kan thaon						1
 徒弟	du di	46					
 肚才	du dze	46	50	166			55
 杜仲包	du dzon pau						
@@ -3731,11 +3596,8 @@
 喥性	du shin						
 圖書	du syu	46	95	209			
 圖書釘	du syu tin		107				55
-圖書勿明	du syu vaq min						
-圖書弗明	du syu vaq min						1
 肚檔	du taon	46	91	166			55
 肚兜	du teu	46	58	167			
-肚痛冷飯䂻	du thon lan vae dzan						
 肚叉叉	du tsho tsho		64				55
 杜阻	du tsu	46					
 圖畫釘	du wo tin	46		209			55
@@ -3797,18 +3659,6 @@
 撒涴	dza ou						
 𠑞屙	dza ou						
 𠑞涴	dza ou	64	170				55
-射屙壅伸草	dza ou ion shin tshau						
-射涴壅伸草	dza ou ion shin tshau						
-撒屙壅伸草	dza ou ion shin tshau						
-撒涴壅伸草	dza ou ion shin tshau						
-𠑞屙壅伸草	dza ou ion shin tshau						
-𠑞涴壅伸草	dza ou ion shin tshau						1
-射屙估堆頭	dza ou ku tei deu						
-射涴估堆頭	dza ou ku tei deu						
-撒屙估堆頭	dza ou ku tei deu						
-撒涴估堆頭	dza ou ku tei deu						
-𠑞屙估堆頭	dza ou ku tei deu						
-𠑞涴估堆頭	dza ou ku tei deu						1
 射屙撲	dza ou phoq						
 射屙樸	dza ou phoq						
 射涴撲	dza ou phoq						
@@ -3821,12 +3671,6 @@
 𠑞屙樸	dza ou phoq			459			
 𠑞涴撲	dza ou phoq	64					55
 𠑞涴樸	dza ou phoq		36	459			55
-射屙筆篤	dza ou piq toq						
-射涴筆篤	dza ou piq toq						
-撒屙筆篤	dza ou piq toq						
-撒涴筆篤	dza ou piq toq						
-𠑞屙筆篤	dza ou piq toq						
-𠑞涴筆篤	dza ou piq toq						1
 射屙出	dza ou tshyuq						
 射涴出	dza ou tshyuq						
 撒屙出	dza ou tshyuq						
@@ -3835,12 +3679,6 @@
 𠑞涴出	dza ou tshyuq	64	170				55
 𠑞屙做記認	dza ou tsou ci gnin						
 𠑞涴做記認	dza ou tsou ci gnin						1
-射屙胡嚨癢	dza ou wu lon yan						
-射涴胡嚨癢	dza ou wu lon yan						
-撒屙胡嚨癢	dza ou wu lon yan						
-撒涴胡嚨癢	dza ou wu lon yan						
-𠑞屙胡嚨癢	dza ou wu lon yan						
-𠑞涴胡嚨癢	dza ou wu lon yan						1
 射屁	dza phi						
 撒屁	dza phi						
 𠑞屁	dza phi		170				55
@@ -3864,9 +3702,6 @@
 射尿	dza syu						
 撒尿	dza syu						
 𠑞尿	dza syu	64	170				418
-射尿哚哚響	dza syu do do shian						
-撒尿哚哚響	dza syu do do shian						
-𠑞尿哚哚響	dza syu do do shian						1
 射尿撲	dza syu phoq						
 射尿樸	dza syu phoq						
 撒尿撲	dza syu phoq						
@@ -3897,8 +3732,6 @@
 站頭	dzae deu	141	90	320			418
 賺頭	dzae deu	141	64	448			
 𡓦頭	dzae deu	141					55
-賺鈿勿着力	dzae di vaq jiaq liq						
-賺鈿弗着力	dzae di vaq jiaq liq						1
 賺銅鈿	dzae don di	141					55
 賺賺看	dzae dzae khe						
 綻柱	dzae dzyu	141	234	383			418
@@ -3908,8 +3741,6 @@
 饞癆蟲	dzae lau dzon	141					55
 饞癆丫麻	dzae lau o mo	141	32	406			55
 饞癆丫麻狗卵脬	dzae lau o mo keu loe phau						
-饞癆勿壯	dzae lau vaq tsaon						
-饞癆弗壯	dzae lau vaq tsaon						1
 饞癆槽	dzae lau zau	141	42				55
 賺外快	dzae nga khua	141					55
 暫眼一看	dzae ngae iq khi-khe		135				55
@@ -3920,8 +3751,6 @@
 賺	dzae6	141	251	448			
 𧸖	dzae6			485			
 䂻腳夾縫	dzan ciaq kaq von						
-䂻進其肚裏勿得	dzan cin ji du li vaq taq						
-䂻進其肚裏弗得	dzan cin ji du li vaq taq						1
 䂻進渠肚裏勿得	dzan cin ji du li vaq taq						
 䂻進渠肚裏弗得	dzan cin ji du li vaq taq						1
 鋥鋥亮	dzan dzan lian	208					55
@@ -4071,7 +3900,6 @@
 濁瘟頭	dzoq uen deu	342					55
 逐魂	dzoq wen	342	111	301			55
 逐魂頭	dzoq wen deu						
-逐魂裝翠鳥	dzoq wen tsaon tshei tiau						
 㪬	dzoq8	342	153	494			
 鋤地	dzu di	48					
 瓷器店	dzy chi ti	2					55
@@ -4257,7 +4085,6 @@
 反文旁	fae ven baon	133					
 𨠒黃	fae waon			416			
 番薯	fae zyu	132	70	404			
-番薯澆紅芽	fae zyu ciau ghon ngo						
 番薯年糕	fae zyu gni kau						
 番薯乾	fae zyu ki-ke	132	70	404			55
 番薯角	fae zyu koq		70	404			55
@@ -4496,8 +4323,6 @@
 麩皮	fu bi	44					
 夫妻	fu chi	44					
 夫妻恩愛睏做頭	fu chi en e khuen tsou deu						
-夫妻分牀	fu chi fen zaon						
-夫妻造孽常事	fu chi zau gniq dzaon zy						
 副槍斃	fu chian bi				撲克牌中的小王		
 斧頭	fu deu	44					
 斧頭䗫𧉹	fu deu mo tsaq		112				55
@@ -4517,9 +4342,6 @@
 麩炭	fu thae	44	97	324, 334			
 虎跳	fu thiau		51	204			
 虎拓	fu thoq		121				55
-富做生	fu tsou san						
-富勿搭官鬥	fu vaq taq kun teu						
-富弗搭官鬥	fu vaq taq kun teu						1
 富陽灰	fu yan huei	44	87	413			55
 敷藥	fu yaq	44					
 㩤	fu1	44		491			
@@ -4587,7 +4409,6 @@
 軋進做頭	gaq cin tsou deu						
 軋稻	gaq dau	319					55
 軋道	gaq dau	319	195	57			55
-軋道命難保	gaq dau min nae pau						
 軋頭	gaq deu		169	57			55
 軋頭寸	gaq deu tshen	319					
 軋軋煞煞	gaq gaq saq saq		230				55
@@ -4611,8 +4432,6 @@
 軋苗頭	gaq miau deu	319					418
 軋鬧猛	gaq nau man						
 軋姘頭	gaq phin deu	319					55
-軋煞中央人	gaq saq tson gnian gnin						
-軋煞中央人	gaq saq tson ian gnin						
 軋戲文場	gaq shi ven jian						
 軋刀	gaq tau	319	95				55
 軋叉	gaq tsha		57	101			55
@@ -4681,7 +4500,6 @@
 鞋底奔洞	gha ti pen don						
 鞋底線	gha ti shi	68					55
 啊啐	gha tshei				擬聲，打噴嚏		
-還有銅鈿好放生	gha yeu don di hau faon san						
 鞋舌頭	gha zhiq deu	68					55
 鞋	gha2	68					
 啊	gha4		301				
@@ -4696,8 +4514,6 @@
 鹹齏菜	ghae ci tshe	147	76		一種寧波傳統的鹹菜，由雪裏蕻醃製而成		578
 鹹齏黃魚	ghae ci waon ng						
 閒賬	ghae cian		125	173			55
-閒賬勿管	ghae cian vaq kun						
-閒賬弗管	ghae cian vaq kun						1
 鹹蛋	ghae dae	147					
 鹹地	ghae di	147					55
 鹹夫夫	ghae fu fu						
@@ -4738,12 +4554,6 @@
 閒話	ghae wo	146	51	174			
 言話一句	ghae wo iq ciu		332				55
 閒話一句	ghae wo iq ciu		332				
-言話講道理	ghae wo kaon dau li						1
-閒話講道理	ghae wo kaon dau li						
-言話勿可扎	ghae wo vaq khou tsaq						
-言話弗可扎	ghae wo vaq khou tsaq						1
-閒話勿可扎	ghae wo vaq khou tsaq						
-閒話弗可扎	ghae wo vaq khou tsaq						
 言話勿能煞潑	ghae wo vaq nen saq phaq						
 言話弗能煞潑	ghae wo vaq nen saq phaq						1
 閒話勿能煞潑	ghae wo vaq nen saq phaq						
@@ -4751,8 +4561,6 @@
 閒野	ghae ya		135				55
 閒食	ghae zhiq	146	78	174			55
 閒時不節	ghae zy paq ciq	146	16	174			55
-閒時不節勿做家	ghae zy paq ciq vaq tsou ko						
-閒時不節弗做家	ghae zy paq ciq vaq tsou ko						1
 鹹	ghae2	146					
 揞	ghae6		154				
 陷	ghae6	147					
@@ -4780,12 +4588,8 @@
 絎針	ghaon cin	240	93	286			55
 行販	ghaon fae	240	23				55
 行行差一拓	ghaon ghaon tsho iq thoq						
-行行勿落檔	ghaon ghaon vaq loq taon						
-行行弗落檔	ghaon ghaon vaq loq taon						1
 行人勢	ghaon gnin syu		315				55
 行業	ghaon gniq		124				
-行業勿尋	ghaon gniq vaq zhin						
-行業弗尋	ghaon gniq vaq zhin						1
 行情行市	ghaon jin ghaon zy	240	223	116			578
 抗勒住	ghaon laq dzyu	240	320				578
 抗勒消	ghaon laq shiau	240	320				578
@@ -4798,7 +4602,6 @@
 行會	ghaon wei	240					
 航船	ghaon zoe	240	89	315			
 航船埠頭	ghaon zoe bu deu		6				55
-航船埠頭軋出人	ghaon zoe bu deu gaq tshyuq gnin						
 咉	ghaon2		301	207			
 抗	ghaon2		200	199	承受	湯版作「行」，《阿拉宁波话》作「杭」。《說文》抗，扞也，抗或从木。徐鉉註：今俗作胡郞切。故本字實爲「抗」。《廣韻》抗，胡郎切，舉也又苦浪切。	
 絎	ghaon2	240	160	286			
@@ -4938,9 +4741,6 @@
 後撲	gheu phoq		120	115			55
 後生	gheu san	201	23, 233	115			
 後生家	gheu san ko	201	23	115			55
-後生怕激	gheu san pho ciq						
-後生三鬥三升火	gheu san sae teu sae shin hou						
-後生會失譜	gheu san wei syuq pu						
 後煞來	gheu saq le		18	115			55
 後煞來	gheu sei le		18	115			55
 後廂房	gheu shian vaon	201					55
@@ -4949,14 +4749,12 @@
 後施枕做風水	gheu sy cin tsou fon syu	200					
 候榫	gheu syun		200				55
 候榫頭	gheu syun deu		200				55
-後禿奸	gheu thaq kae						
 後天井	gheu thi cin	201					55
 後爹	gheu tia	201					
 候釘耙	gheu tin bo						
 厚篤	gheu toq		226				55
 厚篤篤	gheu toq toq		226				55
 厚粥	gheu tsoq	200					55
-後做忌	gheu tsou ji						
 厚嘴厚得	gheu tsyu gheu taq	200	226	247			55
 厚層層	gheu zen zen	200	226	247		湯版等也作「厚䚮䚮」。《廣韻》䚮，如乘切，厚也。義合音不合。	55
 候自	gheu zhi	201	244	313			578
@@ -4995,12 +4793,10 @@
 下個月	gho kou yuq	104					
 下顧	gho ku	104	186	12			55
 下顧生意	gho ku san i						
-下管兩老頭抲跌	gho kun lian lau deu kho tiq						
 夏利車	gho li tsho				出租車	舊說法，因早年出租車多爲夏利牌，故又稱出租車爲夏利車	
 下兩網	gho lian maon		14	12			55
 下兩卯	gho lian mau	104					
 下兩遭	gho lian tsau	104	14	12			418
-下樑錯拼	gho lian tshou phin						
 下兩回	gho lian wei	104	14	12			55
 下疄頭	gho lin deu	105					55
 下弄上	gho lon zaon	105					55
@@ -5026,7 +4822,6 @@
 下半日	gho pun gniq	105	13	12			25000
 下半日頭	gho pun gniq deu	105	13				55
 下半夜	gho pun ya	105					
-下半夜忖忖自家	gho pun ya tshen tshen zhi ko						
 下世	gho shi	104	17				
 下世做蟹	gho shi tsou ha						
 下手	gho shieu	104					
@@ -5130,7 +4925,6 @@
 紅	ghon2	292					
 鬨	ghon6		168				
 鑊爿	ghoq bae	346	96	491			55
-鑊爿挈出賣	ghoq bae chiq tshyuq ma						
 鑊瓢	ghoq biau	346	96	491			55
 鑊焦	ghoq ciau	346	61	491			578
 鑊焦黃爆爆	ghoq ciau waon pau pau						
@@ -5166,7 +4960,6 @@
 和坒	ghou bi	190					55
 河埠頭	ghou bu deu	191	7				578
 河埠頭滰衣裳	ghou bu deu jian i zaon						
-河埠頭講阿婆	ghou bu deu kaon aq bou						
 和計	ghou ci				全部；都		55
 河鯽魚	ghou ci ng	191	69				55
 河鯽魚㸆蔥	ghou ci ng khau tshon						55
@@ -5195,8 +4988,6 @@
 和家老小	ghou ko lau shiau	190	129				55
 和家老少	ghou ko lau shiau						
 和家瘟	ghou ko uen						
-和家勿得安	ghou ko vaq taq ei-e						
-和家弗得安	ghou ko vaq taq ei-e						1
 和個	ghou kou	190	285	210			55
 荷蘭水	ghou lae syu	191					55
 和籃十五⿱寨	ghou lae zyuq ng dza						
@@ -5249,7 +5040,6 @@
 河	ghou2	191					
 和	ghou6		271				
 二阿哥	gni aq kou	34					55
-泥菩薩穿襱褲	gni bu saq tshoe lon khu						
 泥氣格登	gni chi kaq ten		243	226			55
 泥鰍	gni chieu	33					
 泥鰍打渾	gni chieu tan wen						
@@ -5261,7 +5051,6 @@
 泥桶	gni don		103				55
 泥洞活鬼	gni don waq ciu						
 泥塗	gni du		6				
-二度補	gni du pu						
 泥蛇	gni dzo	33	114	226			55
 泥蛇白眼	gni dzo baq ngae		114	226			55
 染坊	gni faon	34					
@@ -5293,8 +5082,6 @@
 閻羅大王	gni lou da waon	34					55
 泥螺胖	gni lou phaon		53				55
 泥螺䨣	gni lou phoq		53				55
-泥螺勿喫喫蟹醬	gni lou vaq chioq chioq ha cian						
-泥螺弗喫喫蟹醬	gni lou vaq chioq chioq ha cian						1
 泥艋船	gni man zoe			226			
 膩悶頭	gni mhen deu						
 硯墨爿	gni moq bae	35					55
@@ -5328,9 +5115,7 @@
 年數	gni su	33					
 泥水	gni syu	33	24	226			
 泥水家生爛推扳	gni syu ko san lae thei pae						
-泥水屋裏燒倒竈	gni syu oq li shiau tau tsau						
 泥水打牆	gni syu tan zhian						
-泥水捉漏	gni syu tsoq leu						
 泥刀	gni tau	33	103	226			
 年底	gni ti	33					
 耳朵	gni to	378					
@@ -5359,12 +5144,8 @@
 碾子	gni tsy	35					
 泥豬	gni tsyu	33	109				
 二房東	gni vaon ton	34					
-二勿打黃胖	gni vaq tan waon phaon						
-二弗打黃胖	gni vaq tan waon phaon						1
 年份	gni ven	33					
 二伏	gni voq	34					
-閻王奪勿去	gni waon daq vaq chi						
-閻王奪弗去	gni waon daq vaq chi						1
 儼乎正經	gni wu cin cin	34	237	264			55
 年夜頭	gni ya deu	33					55
 年夜三邊	gni ya sae pi	33					55
@@ -5383,10 +5164,7 @@
 二	gni6	34					
 驗	gni6		173				
 孃舅	gnian jieu	219	21	332			
-孃舅大石頭	gnian jieu dou zaq deu						
 孃舅外甥	gnian jieu nga san	219					55
-孃勤囡勿懶	gnian jin noe vaq lae						
-孃勤囡弗懶	gnian jin noe vaq lae						1
 孃家	gnian ko	219					
 喵呣貓	gnian mh mae				兒童用語，貓咪		
 仰死仰倒	gnian shi gnian tau	219					55
@@ -5404,10 +5182,8 @@
 箬殼刷帚	gniaq khoq syuq cieu						
 捏勒卵子勿射尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子勿撒尿	gniaq laq loe tsy vaq dza syu						
-捏勒卵子勿𠑞尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子弗射尿	gniaq laq loe tsy vaq dza syu						
 捏勒卵子弗撒尿	gniaq laq loe tsy vaq dza syu						
-捏勒卵子弗𠑞尿	gniaq laq loe tsy vaq dza syu						1
 鰙鰨	gniaq thaq	326					55
 鰙鰨魚	gniaq thaq ng	326					55
 鑷子鉗	gniaq tsy ji	363	107	468			55
@@ -5437,7 +5213,6 @@
 韌皮皮	gnin bi bi	271	264	136			55
 韌皮刁氣	gnin bi tiau chi		264				55
 韌皮刁起	gnin bi tiau chi	271		136			55
-人缺好喫食	gnin chiuq hau chioq zhiq						
 人交關長	gnin ciau kuae jian						
 認真道話	gnin cin dau wo			47			
 認真話	gnin cin wo	271		47			55
@@ -5454,18 +5229,12 @@
 銀灰	gnin huei	271					
 人意	gnin i	270	51	7			
 人意好纔是好	gnin i hau dze zy hau						
-人一潮	gnin iq jiau						
-人情急如債	zyun jin ciq zyu tsa						
 寧直勿轉彎	gnin jiq vaq tsoe uae						
 人客	gnin khaq	270	23	7			578
 人客瘋	gnin khaq fon	270					55
-人客到門牆	gnin khaq tau men zhian						
 人看人樣	gnin khi-khe gnin yan		327	7			55
 人家	gnin ko	270					
 人家人	gnin ko gnin		23				418
-人家介客氣	gnin ko ka khaq chi						
-人家做做勿中意	gnin ko tsou tsou vaq tson i						
-人家做做弗中意	gnin ko tsou tsou vaq tson i						1
 銀角子	gnin koq tsy	271					55
 人滾壯	gnin kuen tsaon						
 人辣辣瘦落去	gnin laq laq seu loq chi						
@@ -5474,16 +5243,12 @@
 銀樓	gnin leu	271					
 人立勒骨挺	gnin liq laq kuaq thin						
 凝攏	gnin lon	271					55
-人弄人弄勿煞	gnin lon gnin lon vaq saq						
-人弄人弄弗煞	gnin lon gnin lon vaq saq						1
 人末子	gnin maq tsy		23				
 人蠻長	gnin mhae jian						
 銀魚	gnin ng	271					
 銀魚絲	gnin ng sy	271	69	355			55
 認屁和尚	gnin phi ghou zaon		35				55
-人怕落軋	gnin pho loq gaq						
 人怕出名豬怕壯	gnin pho tshyuq min tsyu pho tsaon						
-人怕話	gnin pho wo						
 韌比比	gnin pi pi		264	136			55
 韌比刁起	gnin pi tiau chi			136			
 寧波評話	gnin poq bin wo	271	124				
@@ -5500,23 +5265,17 @@
 寧波話	gnin pou wo						
 人曬勒漆黑	gnin sa laq tshaq haq						
 認生頭	gnin san deu	271	238				55
-人心節節高	gnin shin ciq ciq kau						
 認得	gnin taq	271					
-人到三十頂風光	gnin tau sae zyuq ten fon kuaon						
-人倒運	gnin tau yun						
 韌鬥勢	gnin teu syu						
 韌的的	gnin tiq tiq	271	264				55
 人多人勢	gnin tou gnin syu		224				55
-人多好用力	gnin tou hau yon liq						
 人多猛	gnin tou man						
 人簇攏	gnin tsoq lon						
 銀子	gnin tsy	271					
-銀子好打牆	gnin tsy hau tan zhian						
 認樣	gnin yan		203	47			55
 銀洋鈿	gnin yan di	271					55
 銀匠	gnin zhian	271					
 寧蓆	gnin zhiq	271	91				55
-人是鐵	gnin zy thiq						
 人	gnin2	270	42	7			
 垽	gnin6	271	133	324			
 壬	gnin6	271					
@@ -5588,7 +5347,6 @@
 日頭發猛	gniq deu faq man		258				55
 日頭下底	gniq deu gho ti	362					55
 日頭紅煦煦	gniq deu ghon shiu shiu						
-日頭烤番薯	gniq deu khau fae zyu						
 日頭落山	gniq deu loq sae						
 日頭底下	gniq deu ti gho	362					55
 熱烔烔	gniq don don	362	258	293			55
@@ -5610,13 +5368,11 @@
 日隔日	gniq kaq gniq	361					55
 日加日	gniq ko gniq	361	288	33			55
 日裏	gniq li	361	13	33			
-日裏趬趬走四方	gniq li chiau chiau tseu sy faon						
 日裏頭	gniq li deu	361	13				418
 日裏三頓飯	gniq li sae ten vae						
 日裏窸力索	gniq li shiq liq soq						
 日裏嗤嗤睏晏覺	gniq li tshyu tshyu khuen ae kau						
 熱絡	gniq loq	362	239	293			
-日落胭脂紅	gniq loq i ci ghon						
 熱門貨	gniq men hou	362					
 熱面孔貼冷屁股	gniq mi khon thiaq lan phi ku	362					55
 熱煞	gniq saq						
@@ -5647,7 +5403,6 @@
 日子長久總要破	gniq tsy jian cieu tson iau phou						
 熱溫吞	gniq uen then	362					55
 熱溫溫	gniq uen uen	362	258	293			55
-熱飯冷茶淘	gniq vae lan dzo dau						
 熱勿退	gniq vaq thei						
 熱弗退	gniq vaq thei						1
 熱黃梅	gniq waon mei	362					55
@@ -5660,7 +5415,6 @@
 軟糖	gniu daon	54					
 蕊頭	gniu deu	54		463			55
 女同胞	gniu don pau		22				
-女大三	gniu dou sae						
 軟泛泛	gniu fae fae	54	262	203			55
 原方	gniu faon		294	300			55
 女人	gniu gnin	54	19	87			
@@ -5679,8 +5433,6 @@
 元寶魚	gniu pau ng	53					55
 元寶桌	gniu pau tsoq	53					55
 原配	gniu phei	54					
-女怕團蕩男怕壽	gniu pho doe daon nei-nae pho zhieu						
-女怕諫	gniu pho gae						
 女婿	gniu shi	54					
 軟相	gniu shian	54	262	203			55
 軟宕宕	gniu than than		262	203			55
@@ -5847,7 +5599,6 @@
 黑棗	haq tsau	320					
 黑叉	haq tsho	320	67	400			55
 黑黢黢	haq tshyuq tshyuq	320	274	401		黢，《集韻》促律切，黑也。	55
-嚇出活靈	haq tshyuq waq lin						
 黑子	haq tsy	319					
 黑㿳㿳	haq tsy tsy		274	401			55
 黑茲茲	haq tsy tsy	319					55
@@ -5866,7 +5617,6 @@
 黑	haq7	319					
 好欺侮	hau chi vu						
 孝衾	hau chin	93					55
-好喫掉	hau chioq diau						
 好喫果子	hau chioq kou tsy	92	33	131			55
 好幾個	hau ci ghoq						
 好幾個	hau ci goq	92					
@@ -5877,21 +5627,13 @@
 好日	hau gniq	92	179	130			55
 好日酒	hau gniq cieu	92	77	130			55
 好日黃狗	hau gniq waon keu		36	131			55
-好日黃狗奔弄堂	hau gniq waon keu pen lon daon						
 好日黃狗	hau gniq waon ki-ke	92	36	131			55
-好日黃狗奔弄堂	hau gniq waon ki-ke pen lon daon						
 好日黃狗	hau gniq wu keu						
-好日黃狗奔弄堂	hau gniq wu keu pen lon daon						
 好日黃狗	hau gniq wu ki-ke						
-好日黃狗奔弄堂	hau gniq wu ki-ke pen lon daon						
 好好叫	hau hau ciau	92	249				55
 蒿蒿動	hau hau don	91	276				55
 好好個	hau hau kou	92					55
 好好先生	hau hau shi san	92	35				
-好漢勿上兩	hau he vaq zaon lian						
-好漢弗上兩	hau he vaq zaon lian						1
-好漢勿上兩	hau hei- vaq zaon lian						
-好漢弗上兩	hau hei- vaq zaon lian						1
 好貨	hau hou	92					
 孝杖棒	hau jian baon	93	102	140			55
 孝杖棒頭	hau jian baon deu	93	102	140			55
@@ -5899,35 +5641,27 @@
 好看	hau khi-khe	92					
 好看白話	hau khi-khe baq wo		52	131			55
 好看鈿	hau khi-khe di	92					55
-好看難爲鈿	hau khi-khe nae wei di						
 好看話	hau khi-khe wo		52	131			55
 好過	hau kou	92					
 哮管	hau kun	93	110	303			55
 好猛	hau man		224				
 好嘸清頭	hau mh chin deu	92	270	131			55
 好模好樣	hau moq hau yan	92	236	131			55
-好比修皇城	hau pi shieu waon jin						
 好省	hau san		217	130			55
 孝孫	hau sen	93					55
 好商量	hau shian lian	92	224	131			55
-好心犯惡意	hau shin vae oq i						
 好算算	hau soe soe		250				55
 蒿菜	hau tshe	91	72	423			55
 好忖	hau tshen		224				55
-好種出好稻	hau tson tshyuq hau dau						
-好做酒	hau tsou cieu						
 好做人情	hau tsou zyun jin		331				55
 孝子	hau tsy	93					
 好仔還欠好	hau tsy wa chi hau						
 好壞	hau ua	92	291	130			
 好甮	hau ven	92	296	130			6000
-好甮挈包頭	hau ven chiq pau deu						
 孝服	hau voq	93					
 好壞	hau wa	92					
 好還債	hau wae tsa						
-好像釘耙搲	hau zhian tin bo uo						
 好像釘把搲	hau zhian tin po uo						
-好樹出好桃	hau zyu tshyuq hau dau						
 歊	hau1	91	138	453			
 好	hau3	91	252	130			
 海蜇	he ciq	128					
@@ -5957,8 +5691,6 @@
 海威	he uei	128					55
 海會	he wei		249	323			55
 海蜒	he yi	128		324			
-海上大霧露	he zaon dou vu lu						
-海上大霧露	he zaon dou wu- lu						
 海	he3	128					
 咳	he5		301				
 漢	he5		123	73			
@@ -6108,7 +5840,6 @@
 歪	hua3	72	139	485, 497			
 甩頭	huae deu	149					55
 儇人	huae gnin						
-儇人遮亮頭	huae gnin tso lian deu						
 儇儇個	huae huae kou	148					55
 儇囡	huae nhoe						
 儇足了	huae tsoq lei						
@@ -6235,7 +5966,6 @@
 花佬瓶阿七	huo lau bin aq chiq	119					55
 花老頭	huo lau deu						
 花佬兒子	huo lau ng tsy	119	34	144			55
-花佬有良心	huo lau yeu lian shin						
 花裏花繃	huo li huo pan	119	229	144			55
 花裏不剌	huo li paq laq		229				55
 花蓮菜	huo li tshe	119	73				55
@@ -6367,7 +6097,6 @@
 衣裳蠟棱頭	i zaon laq len deu						
 衣裳𤖼開	i zaon phaq khe						
 衣裳曬燥	i zaon sa sau						
-衣裳賊破	i zaon zaq phou						
 伊	i1		199				
 依	i1	41					
 挔	i1	41	199	471			
@@ -6388,31 +6117,24 @@
 雅戈爾	ia kaq er						
 雅戈爾	ia kou er						
 養嬌	ian ciau	224	173				55
-養隻豬娘	ian tsaq tsyu gnian						
 養頭髮	ian deu faq						
 秧田	ian di	224					
 養孃	ian gnian	225					55
 陽溝	ian keu	224	86	128			
 陽溝頭	ian keu deu			128			
 陽溝露水	ian keu lu syu						
-養老鴨	ian lau ae						
 養老鼠咬布袋	ian lau tsy ngau pu de						
 秧苗	ian miau	224					
 養兒子	ian ng tsy	225					55
-養牛一直	ian ngeu iq jiq						
 養牙鬚	ian ngo su						
 養囡	ian noe	224					55
 養瘦馬	ian seu mo	225					55
+養隻豬娘	ian tsaq tsyu gnian						
 養出	ian tshyuq	225	173	272			
-秧種七根八根	ian tson chiq ken paq ken						
 秧子	ian tsy	224	115	309			
 養指甲	ian tsy khaq						
 秧子穀	ian tsy koq	224					55
-秧子落缸	ian tsy loq kaon						
 秧子出田	ian tsy tshyuq di	224					55
-養豬要蝕	ian tsyu iau zhiq						
-養羊三個銅板一日	ian yan sae ghoq don pae iq gniq						
-養羊三個銅板一日	ian yan sae goq don pae iq gniq						
 秧	ian1	224					
 養	ian3	224	160				
 鴨梨	iaq li						
@@ -6422,8 +6144,6 @@
 闄腳	iau ciaq		84				55
 要緊	iau cin	118					
 要緊要慢	iau cin iau mae	118	334	245			55
-要緊勿得慢	iau cin vaq taq mae						
-要緊弗得慢	iau cin vaq taq mae						1
 闄折	iau ciq	118					55
 闄接	iau ciq			408			
 闄折門	iau ciq men	118					55
@@ -6433,9 +6153,6 @@
 要鈿嘸郎	iau di mh naon		32	245			55
 要條性命	iau diau shin min		295				55
 要好	iau hau	118					
-要好也𣍐好	iau hau gha vei hau						
-要好勿能夠	iau hau vaq nen keu						
-要好弗能夠	iau hau vaq nen keu						1
 腰花	iau huo	118					
 腰鼓腳	iau ku ciaq	118					55
 妖怪精	iau kua cin	118					55
@@ -6529,7 +6246,6 @@
 陰篤篤	in toq toq	275					55
 印子	in tsy		95				
 應嘴	in tsyu	275	142	172			55
-應嘴辣辣響	in tsyu laq laq shian						
 陰文	in ven	275					
 鷹洋	in yan	275					
 陰陽怪氣	in yan kua chi			129			
@@ -6633,8 +6349,6 @@
 一埭字	iq da zy						
 一罈風爐	iq dae fon lu						
 一罈竈	iq dae tsau						
-一代蔫	iq de i						
-一代鮮	iq de shi						
 一頭	iq deu						
 一疊衣裳	iq diaq i zaon						
 一疊紙頭	iq diaq tsy deu						
@@ -6642,8 +6356,6 @@
 一錠恭喜	iq din kon shi						
 一定不易	iq din paq yi		326				
 一定不移	iq din paq yi			3			
-一動勿如一靜	iq don vaq zyu iq zhin						
-一動弗如一靜	iq don vaq zyu iq zhin						1
 一大摙	iq dou li		224				55
 一大半	iq dou pun	366					
 一堵	iq du						
@@ -6666,20 +6378,15 @@
 一炷香	iq dzyu shian						
 一廚飯	iq dzyu vae						
 一炷墳	iq dzyu ven						
-一封人情	iq fon zyun jin						
 一封蠟燭	iq fon laq tsoq						
 一封自來火	iq fon zy le hou						
+一封人情	iq fon zyun jin						
 一號	iq ghau	365					
 一個	iq ghoq						
 一個唱紅臉一個唱黑臉	iq ghoq tshaon ghon li iq ghoq tshaon haq li						
-一個穿來一個跍	iq ghoq tshoe le iq ghoq gu						
 一年到頭	iq gni tau deu	365					
 一人	iq gnin	366	119				
-一人射尿出	iq gnin dza syu tshyuq						
-一人撒尿出	iq gnin dza syu tshyuq						
-一人𠑞尿出	iq gnin dza syu tshyuq						1
 一人一撩	iq gnin iq liau		119				55
-一人囥	iq gnin khaon						
 一日	iq gniq	367					
 一日三餐燥烤飯	iq gniq sae tshae sau khau vae						
 一日到夜	iq gniq tau ya	367	288	2			418
@@ -6687,8 +6394,6 @@
 一日弗造生㾸𤶁	iq gniq vaq zau san kaq lau						1
 一個	iq goq	367					
 一個唱紅臉一個唱黑臉	iq goq tshaon ghon li iq goq tshaon haq li						
-一個穿來一個跍	iq goq tshoe le iq goq gu						
-一好𣍐造孽	iq hau vei zau gniq						
 一一仄仄	iq iq tsaq tsaq	367					55
 𨉖𨉖側側	iq iq tsaq tsaq		240	321			55
 一件棒頭糖	iq ji baon deu daon						
@@ -6772,7 +6477,6 @@
 一管簫	iq kun shiau						
 一管尺	iq kun tshaq						
 一管鑰匙	iq kun yaq zy						
-一籃梅子鮳	iq lae mei tsy khau						
 一老一實	iq lau iq zyuq		238				55
 一來一去	iq le iq chi	365	326				55
 一摙衣裳	iq li i zaon						
@@ -6811,7 +6515,6 @@
 一百兩	iq paq lian	366					
 一百六	iq paq loq	366					
 一百廿	iq paq ne-gnie						
-一百廿日	iq paq ne-gnie gniq						
 一百五	iq paq ng	366					
 一百八	iq paq paq	366					
 一百三	iq paq sae	366					
@@ -6841,13 +6544,7 @@
 噎煞	iq saq	367					55
 一色一樣	iq saq iq yan	367	270	3			55
 一色斯樣	iq saq sy yan		270	3			55
-一世苦勿出	iq shi khu vaq tshyuq						
-一世苦弗出	iq shi khu vaq tshyuq						1
-一世嘸計較	iq shi mh ci kau						
-一世難熬	iq shi nae ngau						
-一世湊隊嘸後還	iq shi tshei dei mh gheu wae						
 一世湊頭嘸後還	iq shi tshei deu mh gheu wae						
-一世湊隊嘸後還	iq shi tsheu dei mh gheu wae						
 一世湊頭嘸後還	iq shi tsheu deu mh gheu wae						
 一世爲人	iq shi wei gnin		17				55
 一手一腳	iq shieu iq ciaq	366	326	2			55
@@ -6867,7 +6564,6 @@
 一刀草紙	iq tau tshau tsy						
 一對寶貨	iq tei pau hou						
 一攤大字	iq thae da zy						
-一𡍲臭	iq thaq chieu						
 一𡍲地方	iq thaq di faon						
 一脫甘蔗	iq thaq ki-ke tso						
 一塌刮仔	iq thaq kuaq tsy		283				578
@@ -6918,8 +6614,6 @@
 一萬八	iq vae paq	365					
 一萬三	iq vae sae	365					
 一萬四	iq vae sy	365					
-一勿打和尚	iq vaq tan ghou zaon						
-一弗打和尚	iq vaq tan ghou zaon						1
 一份親眷	iq ven chin ciu						
 一份人家	iq ven gnin ko						
 一味藥	iq vi yaq						
@@ -7000,7 +6694,6 @@
 其個	ji goq						10000
 渠個	ji goq	32					5000
 纏歪	ji hua	32	228	101			55
-其要怏	ji iau aon						
 渠要怏	ji iau aon						
 忌一腳	ji iq ciaq		320				55
 健健	ji ji		280				55
@@ -7135,8 +6828,6 @@
 長鱗	jian lin		67				55
 丈姆	jian m	218	21	13			418
 丈姆孃	jian m gnian	218	21	13			418
-丈姆一聲嘔	jian m iq shin eu						
-丈姆一聲謳	jian m iq shin eu						1
 丈姆家	jian m ko	218					418
 長孟孟	jian ma ma			40			
 弶貓	jian mae		192				55
@@ -7194,8 +6885,6 @@
 着着力力	jiaq jiaq liq liq						
 着港	jiaq kaon	361					
 着力	jiaq liq	326	218	412	1. 疲憊; 2. 喫力	湯版作「𢜭力」，《阿拉宁波话》作「𢜭力」，但註明也作「着力」。據《鄞縣通志》及《字語彙解》，前字爲尖音，「着力」音合。	10000
-着力勿賺鈿	jiaq liq vaq dzae di						
-着力弗賺鈿	jiaq liq vaq dzae di						1
 朝白笑	jiau baq shiau	113	28	392			55
 撬起飯單	jiau chi vae tae						
 趙大有	jiau da yeu						
@@ -7212,7 +6901,6 @@
 朝裏	jiau li	113					55
 蕎麥	jiau maq	113					
 橋眠牀	jiau mi zaon		192	298			55
-朝南起屋	jiau nei-nae chi oq						
 朝南坐	jiau nei-nae zou						
 撬魚碗	jiau ng un						
 朝外	jiau nga	113					
@@ -7225,8 +6913,6 @@
 橋蜆	jiau shi		70	298			55
 潮溼溼	jiau shiq shiq		259				55
 潮水	jiau syu	113					
-橋倒壓勿煞差魚	jiau tau aq vaq saq tsho ng						
-橋倒壓弗煞差魚	jiau tau aq vaq saq tsho ng						1
 撬兔草	jiau thu tshau						
 撬菜秧	jiau tshe ian						
 轎子	jiau tsy	113					
@@ -7237,7 +6923,6 @@
 撬	jiau6	113	146	462			
 翹	jiau6	113	227	395			
 茄	jie2	129					
-舊阿二	jieu aq gni						
 求籤	jieu chi	155					
 求籤詩	jieu chi sy	155					55
 㨨電線杆	jieu di shi ki-ke						
@@ -7260,7 +6945,6 @@
 情被	jin bi		91	378			55
 陳皮	jin bi	270					
 近𥉻眼	jin chi ngae	270	52	164			55
-情節真	jin ciq cin						
 凌凙	jin daon	270	4	270	冰凌	《崇明方言詞典》記音 lin doq，寧波話後字爲 daon，推測爲「凙」的兒化變音	55
 成糖	jin daon	269			飴糖		55
 勁道	jin dau	270	51	184			
@@ -7291,7 +6975,6 @@
 城裏人	jin li gnin	269					
 敐零挭冷	jin lin kuan lan						
 勤力	jin liq	270	239	422			
-勤力撥懶笑	jin liq paq lae shiau						
 勤力無價之寶	jin liq vu cia tsy pau						
 勤力無價之寶	jin liq wu- cia tsy pau						
 成攏	jin lon	269					55
@@ -7327,10 +7010,6 @@
 陣	jin6	270					
 窮人命生苦	jion gnin min san khu						
 窮勒溚溚渧	jion laq taq taq ti						
-窮做親	jion tsou chin						
-窮做窮	jion tsou jion						
-窮勿搭富鬥	jion vaq taq fu teu						
-窮弗搭富鬥	jion vaq taq fu teu						1
 直白白	jiq baq baq	361	251	197			55
 直白頭	jiq baq deu						
 直白肚腸	jiq baq du jian						
@@ -7338,7 +7017,6 @@
 直頭白腦	jiq deu baq nau	361	239				55
 直頭牛	jiq deu ngeu	361	29	197			55
 值鈿	jiq di	361	176	311			578
-值鈿外甥	jiq di nga san						
 值銅鈿	jiq don di		269				55
 直肚白腸	jiq du baq jian	361	239	198			55
 劇劇	jiq jiq		280				55
@@ -7559,9 +7237,6 @@
 江橋堍頭	kaon jiau thu deu						
 剛剛	kaon kaon	238					
 講講看	kaon kaon khe						
-講講話話散散心	kaon kaon wo wo sae sae shin						
-講講純勁道	kaon kaon zyun jin dau						
-講講神仙阿伯	kaon kaon zyun shi aq paq						
 講口	kaon kheu		52				
 講空話	kaon khon wo		318				55
 講故事	kaon ku zy		318				
@@ -7769,13 +7444,9 @@
 格貌是	kaq mau zy						
 革命草	kaq min tshau		116	240			55
 隔壁	kaq piq	317					
-隔壁氣難受	kaq piq chi nae zhieu						
 隔壁鄰舍	kaq piq lin so	317	87				578
 隔壁叔婆	kaq piq soq bou	317					55
-隔壁做官	kaq piq tsou kun						
-隔壁做賊	kaq piq tsou zaq						
 蛤蚆	kaq po	317	114	399			55
-蛤蚆撩菜秧	kaq po liau tshe ian						
 夾衫	kaq sae	316					55
 夾生	kaq san	316					
 夾生米飯	kaq san mi vae	316					55
@@ -7814,7 +7485,6 @@
 疙嘴疙得	kaq tsyu kaq taq	316	255	219			55
 割夜稻	kaq ya dau	317					55
 隔夜飯	kaq ya vae		62				
-隔夜飯好喫	kaq ya vae hau chioq						
 隔洋過海	kaq yan kou he			415			
 合壽材	kaq zhieu ze						
 吃舌頭	kaq zhiq deu	317	38	107			55
@@ -7829,7 +7499,6 @@
 高矮凳	kau a ten	89					55
 高壓鍋滴子	kau aq kou tiq tsy						
 茭白	kau baq	89					
-高鼻頭管老鷹眼	kau baq deu kun lau in ngae						
 茭白落腳了	kau baq loq ciaq lei						
 茭白落腳𡀂	kau baq loq ciaq lei						
 高蹺	kau chiau	89					
@@ -7852,7 +7521,6 @@
 絞花被	kau huo bi	89					55
 叫花子	kau huo tsy	89	27				
 絞花子	kau huo tsy	89					55
-叫花子喫鮮白蟹	kau huo tsy chioq shi baq ha						
 叫花子勿留過夜食	kau huo tsy vaq lieu kou ya zhiq						
 叫花子弗留過夜食	kau huo tsy vaq lieu kou ya zhiq						1
 校場長𢿞𢿞	kau jian jian liau liau						
@@ -7928,8 +7596,6 @@
 狗氣煞	keu chi saq			217			
 狗筋懶斷	keu cin lae doe	198	247	217			55
 狗筋懶出	keu cin lae tshyuq	198	247				55
-狗䂻狗洞	keu dzan keu don						
-狗肉香	keu gnioq shian						
 狗甩尾巴	keu huaq mi po						
 狗介在行	keu ka dze ghaon		333				55
 狗窠	keu khou	198					55
@@ -8018,7 +7684,6 @@
 瞌𥅻	khaq tshon	318	128	465			578
 瞌𥅻面貌	khaq tshon mi mau	318	236	465			578
 瞌𥅻懵懂	khaq tshon mon ton	318	236				55
-瞌𥅻弗論好眠牀	khaq tshon vaq len hau mi zaon						1
 瞌晩勿論好眠牀	khaq vae vaq len hau mi zaon						
 揢黃鱔	khaq waon yi						
 揢胡嚨頭	khaq wu lon deu						
@@ -8090,10 +7755,8 @@
 㸆菜	khau tshe						
 烤菜	khau tshe						
 敲竹槓	khau tsoq kaon						
-靠飯勁	khau vae jin						
 敲橫檔	khau wan taon		325				55
 靠夜快	khau ya khua	90	13	469			55
-烤熟毛蟹爬進來	khau zoq mau ha bo cin le						
 靠順手半邊	khau zyun shieu pun pi						
 靠十	khau zyuq						
 靠十斤	khau zyuq cin						
@@ -8202,11 +7865,9 @@
 看白戲	khi-khe baq shi	39					55
 看起	khi-khe chi		203	260			
 看起生情	khi-khe chi san jin		237	261			55
-看見白牡丹	khi-khe ci baq meu tae						
 看見生情	khi-khe ci san jin	39	237				55
 看張	khi-khe cian	39	135	260			60000
 看張老師難爲情	khi-khe cian lau sy nae wei jin						
-看張東西樣樣要	khi-khe cian ton shi yan yan iau						
 看張黃狗嘔外公	khi-khe cian waon keu eu nga kon						
 看張黃狗謳外公	khi-khe cian waon keu eu nga kon						1
 看張黃狗嘔外公	khi-khe cian waon ki-ke eu nga kon						
@@ -8227,9 +7888,7 @@
 看其	khi-khe ji		290	59			55
 看渠	khi-khe ji						55
 看場	khi-khe jian			260			
-看看後影	khi-khe khi-khe gheu in						
 看看看	khi-khe khi-khe khe						
-看看前頭	khi-khe khi-khe zhi deu						
 看勒起	khi-khe laq chi	39					55
 看勒及	khi-khe laq ji						
 看眼的	khi-khe ngae tiq	39					55
@@ -8263,7 +7922,6 @@
 抲進去	kho cin chi						
 抲進來	kho cin le						
 抲進籠雞	kho cin lon ci						
-抲隻蟹	kho tsaq ha						
 抲蛇阿三	kho dzo aq sae						
 抲人	kho gnin						
 抲人車	kho gnin tsho	103	89	188			55
@@ -8274,7 +7932,6 @@
 抲牢	kho lau						
 抲牢勿放	kho lau vaq faon						
 抲牢弗放	kho lau vaq faon						1
-抲老實彈胡	kho lau zyuq dae wu						
 抲來	kho le						
 抲來白鴿直攦煞	kho le baq kaq jiq li saq						
 抲落	kho loq						
@@ -8293,16 +7950,13 @@
 抲的	kho tiq						
 抲跌	kho tiq	103	182	188			418
 抲壯丁	kho tsaon tin						
+抲隻蟹	kho tsaq ha						
 抲出	kho tshyuq						
 抲出去	kho tshyuq chi						
 抲出來	kho tshyuq le						
 抲主意	kho tsyu i		323				55
-抲勿着喫巴掌	kho vaq dzoq chioq po tsaon						
-抲弗着喫巴掌	kho vaq dzoq chioq po tsaon						1
 抲勿牢	kho vaq lau						
 抲弗牢	kho vaq lau						1
-抲勿着喫巴掌	kho vaq zoq chioq po tsaon						
-抲弗着喫巴掌	kho vaq zoq chioq po tsaon						1
 抲回	kho wei						
 抲回去	kho wei chi						
 抲回來	kho wei le						
@@ -8383,7 +8037,6 @@
 可	khou3	187	290	55			
 課	khou5	187					
 褲腳	khu ciaq	50	59	414			
-褲腳縛繩	khu ciaq bou zhin						
 褲腳筒	khu ciaq don	50	59	414			55
 褲腳下落	khu ciaq gho loq						
 褲腳管	khu ciaq kun	50					55
@@ -8396,8 +8049,6 @@
 褲腰	khu iau	50					
 苦口	khu kheu		275	196			
 枯殼𥀬	khu khoq i	49	42	335	頭皮屑	湯版作「枯殼衣」。《字語彙解》p. 415，scurf 註「枯𥀣𥀬」kwʽu-kwʽoh-in'。可知末字爲「𥀬」。	55
-苦苦阿狗大	khu khu aq keu dou						
-苦苦也嘸告	khu khu gha mh kau						
 苦瓜	khu kuo	49					
 骷郎頭	khu laon deu	49	42				55
 苦勒出	khu laq tshyuq		320				55
@@ -8415,7 +8066,6 @@
 褲帶打結	khu ta tan ciq						
 苦膽	khu tae	49					
 褲襠	khu taon	50					
-褲襠𤖼碎	khu taon phaq sei						
 苦得頭	khu taq deu			196			
 苦得得	khu taq taq	49	275	196			55
 苦頓頓	khu ten ten	49	275	196			55
@@ -8432,16 +8082,12 @@
 快過快足了	khua kou khua tsoq lei						
 快過快足𡀂	khua kou khua tsoq lei						
 快手快腳	khua shieu khua ciaq						
-快手勢勿及慢兩爹	khua shieu syu vaq jiq mae lian tia						
-快手勢弗及慢兩爹	khua shieu syu vaq jiq mae lian tia						1
 快速麪	khua soq mi				方便麪		
 快得利	khua taq li						
 快嘴快得	khua tsyu khua taq						
 快活	khua waq	72	217	178			
 快活人	khua waq gnin	72	26	178			
 快活樸屍	khua waq phoq sy						
-快活黃牛	khua waq waon ngeu						
-快活似神仙	khua waq zy zyun shi						
 快活	khua wo		217	178			
 快	khua5	72					
 筷箸籠	khuae ji lon	148	98	432			55
@@ -8672,9 +8318,9 @@
 該方	kiq faon						
 該方面	kiq faon mi						
 該封	kiq fon						
-該封人情	kiq fon zyun jin						
 該封蠟燭	kiq fon laq tsoq						
 該封自來火	kiq fon zy le hou						
+該封人情	kiq fon zyun jin						
 該幅	kiq foq						
 該副	kiq fu						
 該也	kiq gha						
@@ -8763,9 +8409,9 @@
 該一幢箱子	kiq iq dzaon shian tsy						
 該一幢書	kiq iq dzaon syu						
 該一幢碗	kiq iq dzaon un						
-該一封人情	kiq iq fon zyun jin						
 該一封蠟燭	kiq iq fon laq tsoq						
 該一封自來火	kiq iq fon zy le hou						
+該一封人情	kiq iq fon zyun jin						
 該一個	kiq iq ghoq						
 該一年	kiq iq gni						
 該一日	kiq iq gniq						
@@ -9197,7 +8843,6 @@
 肉肉	knion knion						
 原方	kniu faon		294				55
 家棚精	ko ban cin				指總是無故拆壞東西的人		
-家貧出孝子	ko bin tshyuq shiau tsy						
 加氣	ko chi	102	178	80			
 加氣煩惱	ko chi vae nau	102	178				55
 加氣煩腦	ko chi vae nau			80			
@@ -9282,7 +8927,6 @@
 各號	koq ghau	344	270	118			
 各人各忖相	koq gnin koq tshen shian						
 各人管自	koq gnin kun zhi		330				55
-各人懺念法	koq gnin tshae ne-gnie faq						
 各張	koq jian						
 各梗	koq kan						
 郭家畤	koq ko ji						
@@ -9298,7 +8942,6 @@
 穀蜢	koq man	345	112	165			418
 各貌	koq mau		40				55
 該貌	koq mau			233			
-各廟各菩薩	koq miau koq bu saq						
 穀眼子	koq ngae tsy	345	115	165			55
 穀眼珠	koq ngae tsyu			165			
 穀眼烏珠	koq ngae u ciu						
@@ -9351,9 +8994,7 @@
 過道	kou dau	186					
 過頭	kou deu	186					
 過頭勢	kou deu syu	186	183				55
-過頭飯好喫	kou deu vae hau chioq						
 過頭話	kou deu wo		52				
-過頭話難講	kou deu wo nae kaon						
 果桶	kou don	185	100	205			55
 過癮	kou gni	186					
 過年過節	kou gni kou ciq		16				55
@@ -9372,7 +9013,6 @@
 過街老鼠	kou ka lau tsy						
 過街老鼠人人喊打	kou ka lau tsy gnin gnin hae tan						
 過街樓	kou ka leu	186					
-過江要犯怏	kou kaon iau vae aon						
 過格	kou kaq	187	215	94			55
 過口	kou kheu		63	93			
 哥哥	kou kou	185					
@@ -9392,8 +9032,6 @@
 鍋子	kou tsy		96	401			
 個子病	kou tsy bin						
 個子頭	kou tsy deu	186	48	23			55
-果子勿可擇	kou tsy vaq khou dzaq						
-果子弗可擇	kou tsy vaq khou dzaq						1
 過飯	kou vae	186		94			55
 裹餛飩	kou wen den	186					55
 過戶	kou wu	186					
@@ -9581,7 +9219,6 @@
 罐頭	kun deu	247	100	502			
 管團圓	kun doe yu		325				55
 管着	kun dzoq		187	450			
-管着老價鈿	kun dzoq lau ko di						
 管閒賬	kun ghae cian		325				55
 觀音菩薩	kun in bu saq	247					
 觀音娘娘	kun in gnian gnian	247					55
@@ -9603,7 +9240,6 @@
 棺材店	kun ze ti						
 棺材座子	kun ze zou tsy						
 管着	kun zoq						
-管着老價鈿	kun zoq lau ko di						
 管	kun3	247	122, 187	450			
 個	kun5			23, 255			
 掛招牌	kuo ciau ba						
@@ -9619,7 +9255,6 @@
 賴伏雞娘	la bu ci gnian						55
 賴孵雞娘	la bu ci gnian		110				55
 賴伏雞變鴨	la bu ci pi aq						
-賴孵雞變鴨	la bu ci pi aq						
 賴伏草雞	la bu tshau ci						55
 賴孵草雞	la bu tshau ci		110				55
 賴臭皮	la chieu bi	63	34				55
@@ -9630,7 +9265,6 @@
 癩頭	la deu	63	52	493			
 癩頭花	la deu huo	63		493			55
 癩頭兒子	la deu ng tsy	63					55
-癩頭怕剃頭	la deu pho thi deu						
 賴學	la ghoq	63	182	423			
 賴學精	la ghoq cin	63	33				55
 賴學坯	la ghoq phei		33				55
@@ -9656,8 +9290,6 @@
 癩𪓿	la sy	63	114	493			55
 癩𪓿蛤蚆	la sy kaq po	63	114				55
 癩𪓿哥	la sy kou	63	111	493			55
-癩𪓿剝皮心勿死	la sy poq bi shin vaq shi						
-癩𪓿剝皮心弗死	la sy poq bi shin vaq shi						1
 攋草耙	la tshau bo	63	97	475			55
 攋草耙	la tshau bun		97	475			55
 攋草絨	la tshau gnion						
@@ -9685,8 +9317,6 @@
 藍結結	lae ciq ciq		273	422			55
 爛糖雞屙	lae daon ci ou		110				
 爛糖雞涴	lae daon ci ou		110				55
-爛稻刮田塍	lae dau kuaq di yin						
-爛稻刮田塍	lae dau kuaq di zhin						
 爛稻索	lae dau soq	140					55
 爛田	lae di	139					55
 爛唾水	lae do syu	139					
@@ -9699,7 +9329,6 @@
 爛下橛	lae gho jiuq						
 爛泥坺頭	lae gni baq deu						
 爛泥沒過	lae gni maq kou						
-爛泥惡做惡	lae gni oq tsou oq						
 爛泥糊漿	lae gni wu cian			275			
 蘭銀官話	lae gnin kun wo						
 籃環	lae guae						
@@ -9757,9 +9386,7 @@
 爛腐結夾	lae vu ciq kaq						
 懶婦掏縩空	lae vu dau cia khon						
 懶婦掏縩空	lae vu dau cian khon						
-爛腐泥水臭漆匠	lae vu gni syu chieu chiq zhian						
 爛腐貨	lae vu hou	139	27	275			55
-懶婦是介話	lae vu zy ka wo						
 懶黃泥鰍	lae waon gni chieu						
 藍藥水	lae yaq syu		56	422			55
 濫賤	lae zhi		269				55
@@ -9910,7 +9537,6 @@
 辣酥	laq su		263	454			55
 勒司克	laq sy khaq						
 邋遢	laq thaq	309	266				
-邋遢冬至乾淨年	laq thaq ton tsy ki-ke zhin gni						
 攔的	laq tiq						
 勒出產	laq tshyuq sae		314				55
 蠟燭	laq tsoq		29	448			
@@ -9945,12 +9571,7 @@
 老伏卵	lau boq lou	84	110				55
 老婆	lau bou	82	19	87			
 老婆婆	lau bou bou	82					
-老婆擡勿着	lau bou de vaq dzoq						
-老婆擡弗着	lau bou de vaq dzoq						1
-老婆擡勿着	lau bou de vaq zoq						
-老婆擡弗着	lau bou de vaq zoq						1
 老婆兒囡	lau bou ng no	82					55
-老婆出屁股	lau bou tshyuq phi ku						
 老伏雞	lau bu ci						55
 老孵雞	lau bu ci	84					55
 老氣	lau chi	81	238				
@@ -9973,7 +9594,6 @@
 老鬼三	lau ciu sae	81	31				55
 老鬼失撇	lau ciu syuq phiq						
 老大	lau da		23				
-老大多	lau da tou						
 老頭	lau dei	83	19				
 老頭汗衫	lau dei ghei-ghe sae	83					55
 老頭伯	lau dei pan	83		88			418
@@ -9983,7 +9603,6 @@
 老頭帽	lau deu mau		56	88			55
 老頭腦	lau deu nau						
 老頭伯	lau deu pan	83	22	88			418
-老頭怕逼	lau deu pho piq						
 老頭子	lau deu tsy	83					
 老大	lau dou	82					
 老大姑娘	lau dou ku gnian	82					55
@@ -10003,18 +9622,12 @@
 老虎窗	lau fu tshaon	81	84	88			55
 老虎刺	lau fu tshy		118				55
 老懈懈	lau ga ga	81					55
-老個豆腐嚼勿落	lau ghoq deu vu zhiaq vaq loq						
-老個豆腐嚼弗落	lau ghoq deu vu zhiaq vaq loq						1
 老和尚過江暴	lau ghou zaon kou kaon pau	83					55
 老人	lau gnin		19				
 老人爿	lau gnin bae		22				55
-老人勿掏古	lau gnin vaq dau ku						
-老人弗掏古	lau gnin vaq dau ku						1
 老𡢿	lau gnion	84	19	87			8000
 老𡢿爿	lau gnion bae	84	22	87			418
 老𡢿香	lau gnion shian						
-老個豆腐嚼勿落	lau goq deu vu zhiaq vaq loq						
-老個豆腐嚼弗落	lau goq deu vu zhiaq vaq loq						1
 老蟹	lau ha	81					55
 老貨	lau hou					老的那個人	
 老蝦公	lau huo kon			89			
@@ -10034,8 +9647,6 @@
 老口	lau kheu	83	224	86			55
 老價鈿	lau ko di	82	126				55
 老公	lau kon	83	19	86			
-老公嘔我拗腰骨	lau kon eu ngo au iau kuaq						
-老公謳我拗腰骨	lau kon eu ngo au iau kuaq						1
 老公公	lau kon kon	83					
 老公老婆	lau kon lau bou						
 老公偷偷喫	lau kon theu theu chioq						
@@ -10043,7 +9654,6 @@
 老爛䏘	lau lae phiq						
 老老	lau lau	81	288	40, 86			
 老來	lau le	82	17	86			
-老來怕看牛	lau le pho khi-khe ngeu						
 老來當狗爬	lau le taon keu bo						
 老菱	lau len			87			
 老菱	lau lin	83	76	87			55
@@ -10090,7 +9700,6 @@
 老搭檔	lau taq taon	84					
 老太婆	lau tha boe	81	19, 22	87			
 老太婆	lau tha bou	81	19, 22	87			
-老太婆肖牛	lau tha bou shiau ngeu						
 老太婆𧮙煞	lau tha bou zoq saq						
 老湯	lau thaon	83	224	86			
 老套套	lau thaon thau		129				55
@@ -10108,7 +9717,6 @@
 勞作	lau tsoq	80					
 老鼠	lau tsy	80	111				
 老鼠洞	lau tsy don						
-老鼠翻進白米缸	lau tsy fae cin baq mi kaon						
 老鼠弶	lau tsy jian						
 老鼠窠	lau tsy khou						
 老鼠過街	lau tsy kou ka						
@@ -10156,7 +9764,6 @@
 嘮	lau6	80	139	281			
 來去	le chi		195				
 來發哥	le faq kou						
-來發老𡢿扇風爐	le faq lau gnion shi fon lu						
 來發來發講啥西	le faq le faq kaon so shi						
 來該	le ke	124	214	148			55
 來勒	le laq	124	214				55
@@ -10166,7 +9773,6 @@
 來的了	le tiq lei						55
 來的𡀂	le tiq lei	124	214				55
 來東	le ton	124	214				55
-來勿及	le vaq ji						
 來弗及	le vaq ji				來不及	末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
 來	le2	124	214	148			
 擂盆	lei ben	169	100	475			55
@@ -10178,7 +9784,6 @@
 雷大大	lei dou dou	168	222				55
 雷賀倪湯	lei ghou gni thaon						
 雷陣雨	lei jin yu	168					
-礌來礌去當中央	lei le lei chi taon tson gnian						
 礌來礌去𣍐倒翻	lei le lei chi vei tau fae						
 𨀤𨀤倒	lei lei tau						
 礌木圓	lei moq yu		108				55
@@ -10201,10 +9806,6 @@
 擂釘板	lei tin pae						
 洡碗刮盞	lei un kuaq tsae						
 雷雨	lei yu	168					
-雷雨隔田塍	lei yu kaq di yin						
-雷雨隔田塍	lei yu kaq di zhin						
-雷雨勿過江	lei yu vaq kou kaon						
-雷雨弗過江	lei yu vaq kou kaon						1
 了	lei2		302				
 雷	lei2	168					
 𡀂	lei2	168	302	478			
@@ -10312,7 +9913,6 @@
 㪝槌	li dzyu	25	93	424			55
 連暗摸夜	li ei-e moq ya						
 裏紐	li gnieu	25	102				55
-裏紐看天	li gnieu khi-khe thi						
 連日連夜	li gniq li ya						
 離婚	li huen	24					
 蓮花文書	li huo ven syu	24	124				
@@ -10329,7 +9929,6 @@
 練練看	li li khe						
 連連看	li li khe						
 鯉魚	li ng	26					
-鯉魚跳龍門	li ng thiau lon men						
 鯉魚轉側	li ng tsoe tsaq		213				55
 禮拜	li pa	26					
 禮拜堂	li pa daon	26					
@@ -10360,7 +9959,6 @@
 連爹怪孃	li tia kua gnian						
 連爹連孃	li tia li gnian	24	332				55
 離爹離孃	li tia li gnian		332				55
-連竈連眠牀	li tsau li mi zaon						
 犁楤	li tshon	24					
 練出	li tshyuq	25					
 連作稻	li tsoq dau		71	149			55
@@ -10443,11 +10041,9 @@
 兩頭勿着	lian deu vaq jiaq		331				
 兩頭弗着	lian deu vaq jiaq						55
 兩頭勿着港	lian deu vaq jiaq kaon		331				
-兩頭弗着港	lian deu vaq jiaq kaon						1
 兩鈿	lian di	213					55
 兩疊衣裳	lian diaq i zaon						
 兩疊紙頭	lian diaq tsy deu						
-量大福大	lian dou foq dou						
 兩堵	lian du						
 糧站	lian dzae		88	438			
 兩妯娌	lian dzoq li	214					55
@@ -10455,7 +10051,6 @@
 兩個	lian ghoq						
 兩孃	lian gnian	214	19	146			55
 兩娘拼條褲	lian gnian phin diau khu						
-兩孃拼條褲	lian gnian phin diau khu						
 兩個	lian goq	214					
 兩好臉抲跌	lian hau li kho tiq						
 量衣裳	lian i zaon	213					55
@@ -10525,8 +10120,6 @@
 亮眼先生	lian ngae shi san		37				55
 亮眼沙地	lian ngae so di		34				55
 兩眼竈	lian ngae tsau	214					55
-兩硬軋煞中央人	lian ngan gaq saq tson gnian gnin						
-兩硬軋煞中央人	lian ngan gaq saq tson ian gnin						
 兩百七	lian paq chiq	214					55
 兩百張	lian paq cian						
 兩百九	lian paq cieu	214					55
@@ -10544,7 +10137,6 @@
 兩邊做人情	lian pi tsou zyun jin						
 兩三埭	lian sae da						
 梁山伯廟	lian sae paq miau	213					55
-兩色半也要看	lian saq pun gha iau khi-khe						
 兩相好	lian shian hau						
 良心	lian shin	213					
 良心生活	lian shin san waq						
@@ -10595,7 +10187,6 @@
 撩手	liau shieu		232				55
 撩篩	liau sy	110	98	459			55
 聊天八腳	liau thi paq ciaq						
-聊天八隻腳	liau thi paq tsaq ciaq						
 料車	liau tsho	111					
 料作	liau tsoq	111	60	322			55
 撩勿着	liau vaq dzoq		21				
@@ -10658,7 +10249,6 @@
 鄰舍	lin so	262	87	165			
 鄰舍隔壁	lin so kaq piq	262	87	165			578
 鄰舍家	lin so ko	262	87	165			578
-鄰舍拆勸多事	lin so tshaq chiu tou zy						
 臨帖	lin thiaq	262					
 零拆躉買	lin tshaq ten ma	262					55
 㔂竹節	lin tsoq ciq						
@@ -10687,7 +10277,6 @@
 立起來	liq chi le						
 立起身	liq chi shin						
 立秋	liq chieu	356					
-立秋西瓜拔拔秋	liq chieu shi kuo baq baq chieu						
 立記隑記	liq ci nge ci						
 力道	liq dau	355	51	9			
 力道大	liq dau dou						
@@ -10745,7 +10334,6 @@
 亂七八糟	loe chiq paq tsau	162					
 卵漿	loe cian	162	46	168			55
 卵袋	loe de	162	46	168			55
-卵袋踢破	loe de thiq phou						
 卵袋黃	loe de uaon	162	46	168			55
 卵袋黃奔勒青腫	loe de waon pen laq chin tson						
 亂揞西揞	loe ghae shi ghae						
@@ -10815,7 +10403,6 @@
 龍骨車	lon kuaq tsho	287	105				
 龍骨牆	lon kuaq zhian	287	83				55
 弄勒可憐	lon laq khou li						
-弄勒我阿難死	lon laq ngo aq nae shi						
 弄勒相相	lon laq shian shian						
 弄勒相樣	lon laq shian yan						
 弄勒勿好還要撥領導喫僝頭	lon laq vaq hau wa iau paq lin dau chioq zae deu						
@@ -10826,9 +10413,9 @@
 龍山	lon sae	287					
 弄煞可憐	lon saq khou li						
 弄慫	lon son	288	196	135	捉弄；欺侮；算計	寫法衆多，推薦作「弄送」。	
-弄鬆	lon son	288	196	135	捉弄；欺侮；算計	寫法衆多，推薦作「弄送」。	
 弄聳	lon son	288	196	135	捉弄；欺侮；算計	寫法衆多，推薦作「弄送」。	
 弄送	lon son	288	196	135	捉弄；欺侮；算計	寫法衆多，推薦作「弄送」。	418
+弄鬆	lon son	288	196	135	捉弄；欺侮；算計	寫法衆多，推薦作「弄送」。	
 弄送煞人	lon son saq gnin						
 龍鬚筍	lon syu syun	287	74	57			55
 龍鬚竹	lon syu tsoq	287					55
@@ -10845,8 +10432,6 @@
 弄弗相樣	lon vaq shian yan						1
 弄勿相像	lon vaq shian zhian						
 弄弗相像	lon vaq shian zhian						1
-弄勿討好	lon vaq thau hau						
-弄弗討好	lon vaq thau hau						1
 弄勿樣	lon vaq yan						
 弄弗樣	lon vaq yan						1
 弄勿像	lon vaq zhian						
@@ -10913,7 +10498,6 @@
 六穀胖	loq koq phaon		80				55
 六穀餅	loq koq pin						
 六穀蘇頭	loq koq su deu						
-六穀施天花	loq koq sy thi huo						
 六穀勿結	loq koq vaq ciq						
 六穀弗結	loq koq vaq ciq						1
 鹿過江	loq kou kaon		323				55
@@ -10969,10 +10553,6 @@
 落雨	loq yu	338					
 落雨了	loq yu lei						
 落雨𡀂	loq yu lei						
-落雨淋勿着	loq yu lin vaq dzoq						
-落雨淋弗着	loq yu lin vaq dzoq						1
-落雨淋勿着	loq yu lin vaq zoq						
-落雨淋弗着	loq yu lin vaq zoq						1
 落雨落雪	loq yu loq syuq						
 落雨明朝	loq yu men ciau					俗語，上句爲「石板還潮」	
 落雨明朝	loq yu mi ciau					俗語，上句爲「石板還潮」	
@@ -10980,7 +10560,6 @@
 落雨明朝	loq yu mon ciau					俗語，上句爲「石板還潮」	
 落雨天家	loq yu thi ko	338					578
 落月	loq yuq	339	180	390			
-六月日頭	loq yuq gniq deu						
 六月六	loq yuq loq						
 六月債	loq yuq tsa						
 六月乘風涼	loq yuq zhin fon lian						
@@ -11003,7 +10582,6 @@
 落	loq8	338	143	193, 390			
 蘿蔔	lou boq	182					
 蘿蔔乾	lou boq ki-ke	182					
-蘿蔔賣完	lou boq ma wun						
 蘿蔔絲刨	lou boq sy bau	182					55
 蘿蔔菜	lou boq tshe	182					55
 擄頭髮	lou deu faq						
@@ -11089,9 +10667,7 @@
 嘸賬得算	m cian taq soe			155			
 賣青灰	ma chin huei				詈語，賣骨灰		
 買賬	ma cian	59					
-買隻豬娘	ma tsaq tsyu gnian						
 買豆芽	ma deu ngo						
-買田買水路	ma di ma syu lu						
 馬桶箱	ma don shian		93				55
 買着買	ma dzoq ma		325				55
 買下飯	ma gho vae				買菜		
@@ -11106,7 +10682,6 @@
 賣棉紗	ma mi so						
 買面子	ma mi tsy	59		131			
 賣面子	ma mi tsy			201			
-買屋買走路	ma oq ma tseu lu						
 馬屁鬼	ma phi ciu	97					55
 賣相	ma shian	59	48	201, 451			55
 賣相好白白好	ma shian hau baq baq hau						
@@ -11152,7 +10727,6 @@
 貓揹老鼠	mae pei lau tsy						
 貓搭老鼠	mae taq lau tsy						
 慢太婆	mae tha bou	132					55
-貓拖老虎	mae tha lau fu						
 貓拖老鼠	mae tha lau tsy						
 慢他他	mae than than	132	268	456			55
 慢拖拖	mae thou thou		268				55
@@ -11164,14 +10738,12 @@
 猛日頭	man gniq deu	204					55
 猛	man4	204	286	370			
 忘記氣介	maon ci chi ka		221				55
-忘記孃	maon ci gnian						
 忘記太公	maon ci tha kon	229					55
 網翻肚	maon fae tu						
 望孃盤	maon gnian bun	229	78	373			55
 盲腸	maon jian	228					
 盲腸炎	maon jian yi	229					
 望潮	maon jiau	229	68	373			55
-望潮自喫手	maon jiau zhi chioq shieu						
 忙勒阿姆阿伯勿認得	maon laq a m aq paq vaq gnin taq						
 忙勒阿姆阿伯弗認得	maon laq a m aq paq vaq gnin taq						1
 忙勒阿姆阿伯勿認得	maon laq an m aq paq vaq gnin taq						
@@ -11203,7 +10775,6 @@
 沒克沒克	maq khaq maq khaq	301					55
 麥稈	maq ki-ke	301					
 麥杆胡嚨筲箕肚	maq ki-ke wu lon sau ci du						
-麥朗多葉	maq laon tou yiq						
 茉莉花	maq li huo	301					
 麥芒	maq maon	301					
 末末豆腐	maq maq deu vu			49			
@@ -11350,7 +10921,6 @@
 美人肩	mei gnin ci	165					55
 美人蕉	mei gnin ciau	165					
 每日	mei gniq	165					25000
-每日爬起早	mei gniq bo chi tsau						
 煤灰	mei huei	164					
 梅花	mei huo	164					
 每一張	mei iq cian						
@@ -11371,7 +10941,6 @@
 玫瑰紅	mei kuei ghon	164					
 梅蘭芳	mei lae faon						
 梅林雞	mei lin ci	164	110	344			55
-梅林草雞生大蛋	mei lin tshau ci san dou dae						
 煤爐	mei lu	164					
 枚枚碎碎	mei mei sei sei		219				55
 梅魚	mei ng	164	68	344			55
@@ -11449,7 +11018,6 @@
 門門賬	men men cian	250	295	206		當與賬目有關，與「閒賬」相對。湯版作「門門帳」，非。	578
 問問看	men men khe						
 門面	men mi	250					
-門面要繃	men mi iau pan						
 悶牛娘	men ngeu gnian						
 門牙	men ngo	250					
 問儂問菩薩	men nou men bu saq				問問題得不到回答		
@@ -11499,7 +11067,6 @@
 嘸頭帖子	mh deu thiaq tsy	375					55
 嘸頭蒼蠅	mh deu tshaon in						
 嘸掉	mh diau	374	293				55
-嘸銅鈿人喫灰沙	mh don di gnin chioq huei so						
 嘸後還	mh gheu wae		319				55
 嘸要得緊	mh iau taq cin	374	269	155			55
 嘸介事	mh ka zy	374	319	152			55
@@ -11526,7 +11093,6 @@
 嘸落頭	mh loq deu	375					55
 嘸沒	mh maq			151			
 嘸沒二賺	mh maq gni dzae						
-嘸沒人看張	mh maq gnin khi-khe cian						
 姆媽	mh mha	374	19				4000
 姆媽落家做裁縫	mh mha loq ko tsou ze von						
 嘸郎	mh naon		30	151			55
@@ -11544,7 +11110,6 @@
 嘸相貌	mh shian mau			153			
 嘸響嘸動	mh shian mh don						
 嘸手柱	mh shieu dzyu						
-嘸心腳骨要立直	mh shin ciaq kuaq iau liq jiq						
 嘸心嘸事	mh shin mh zy		331	154			55
 嘸心想	mh shin shian			152			
 嘸心相	mh shin shian		319				55
@@ -11566,7 +11131,6 @@
 嘸趣相	mh tshyu shian	374	320	154			55
 嘸出產	mh tshyuq sae	375	319	152		湯版作「嘸出山」。末字應爲「產」字白讀。	55
 嘸做	mh tsou	374	252	152			55
-嘸子靠阿侄	mh tsy khau aq jiq						
 嘸話嘸說	mh wo mh syuq	375	319				55
 嘸話說	mh wo syuq		319	152			55
 嘸樣範	mh yan vae		319	153			55
@@ -11619,8 +11183,6 @@
 悶痧	mhen so	251					55
 悶咚勿響	mhen ton vaq shian	251	332		一聲不吭	湯版作「悶冬勿響」	
 悶咚弗響	mhen ton vaq shian	251	332		一聲不吭	湯版作「悶冬勿響」	578
-悶咚勿響要生病	mhen ton vaq shian iau san bin						
-悶咚弗響要生病	mhen ton vaq shian iau san bin						1
 悶勿聲響	mhen vaq shin shian		332		一聲不吭		
 悶弗聲響	mhen vaq shin shian		332		一聲不吭		55
 捫	mhen5	251					
@@ -11738,7 +11300,6 @@
 嘸沒染	mhiq gni						55
 嘸沒人	mhiq gnin						418
 嘸沒人庉	mhiq gnin den						418
-嘸沒人看張	mhiq gnin khi-khe cian						
 嘸沒人會	mhiq gnin wei						418
 嘸沒日嘸沒夜	mhiq gniq mhiq ya						55
 嘸沒個好結果	mhiq goq hau ciq kou						55
@@ -11973,17 +11534,14 @@
 米漿泔	mi cian ki-ke		132				55
 米漿泔水	mi cian ki-ke syu	16	132	123			55
 明朝	mi ciau		14	206			4000
-明朝喫肉	mi ciau chioq gnioq						
 明朝晝過	mi ciau cieu kou						55
 明朝下半日	mi ciau gho pun gniq						55
 明朝日裏	mi ciau gniq li						55
-明朝撥儂喫祭竈果	mi ciau paq nou chioq ci tsau kou						
 明朝天亮	mi ciau thi gnian						55
 明朝天亮	mi ciau thiq gnian						55
 明朝子	mi ciau tsy		14	206			1000
 明朝夜裏	mi ciau ya li						55
 明朝夜到	mi ciau ya tau						55
-明朝雨夾風	mi ciau yu kaq fon						
 明朝上半日	mi ciau zaon pun gniq						55
 米酒	mi cieu	16					
 麪筋	mi cin	17					
@@ -12125,18 +11683,15 @@
 苗	miau2	108		197			
 苗	miau4		75				
 明朝	min ciau	259	14	206			40000
-明朝喫肉	min ciau chioq gnioq						
 明朝晝過	min ciau cieu kou						578
 明朝下半日	min ciau gho pun gniq						578
 明朝日裏	min ciau gniq li						578
-明朝撥儂喫祭竈果	min ciau paq nou chioq ci tsau kou						
 明朝天亮	min ciau thi gnian						55
 明朝天亮	min ciau thiq gnian						578
 明朝子	min ciau tsy	259	14	206			10000
 明朝會	min ciau wei	259					578
 明朝夜裏	min ciau ya li						55
 明朝夜到	min ciau ya tau						578
-明朝雨夾風	min ciau yu kaq fon						
 明朝上半日	min ciau zaon pun gniq						578
 明州小片	min cieu shiau phi						
 明堂	min daon	260					
@@ -12192,7 +11747,6 @@
 密	miq8	353					
 搣	miq8	353	149	418			
 麻皮	mo bi	96	38	371			55
-麻皮當火熜	mo bi taon hou tshon						
 麻皮得氣	mo bi taq chi						
 麻將	mo cian	96	111	371			
 麻雀	mo cian	96	111				
@@ -12243,8 +11797,6 @@
 馬屁	mo phi	97					
 馬屁精	mo phi cin	97	30				
 馬屁鬼	mo phi ciu		30	25			55
-馬屁勿穿繃	mo phi vaq tshoe pan						
-馬屁弗穿繃	mo phi vaq tshoe pan						1
 麻餅	mo pin	96	80	371			55
 麻酥糖	mo su daon	96					55
 馬燈調	mo ten diau						
@@ -12357,9 +11909,7 @@
 摸夜遊	moq ya yeu		28	418			55
 木材行	moq ze ghaon	334					
 木匠	moq zhian	335					
-木匠好甮學	moq zhian hau ven ghoq						
 木匠家生	moq zhian ko san						
-木匠師傅裝翠眼	moq zhian sy fu tsaon tshei ngae						
 摸	moq8	335					
 木	moq8	334	241	29			
 磨盤	mou bun	176					
@@ -12390,7 +11940,6 @@
 鰻筒	mun don	247	69	496			55
 滿孝	mun hau	247					
 鞔鼓鞔兩頭	mun ku mun lian deu						
-滿眼生人	mun ngae san gnin						
 㒼屁眼	mun phi ngae						
 鰻鯗	mun shian	247	69	496			55
 滿師	mun sy	247					
@@ -12531,8 +12080,6 @@
 腦子短路	nau tsy toe lu		241				55
 腦子差把	nau tsy tsho po						
 腦子錯拼	nau tsy tshou phin		241				55
-踔勿煞草子	nau vaq saq tshau tsy						
-踔弗煞草子	nau vaq saq tshau tsy						1
 腦	nau4		116				
 踔	nau6	80	161	467		《阿拉宁波话》造字「⿰足鬧」，《市志》作「踔」。「踔」，中古徹母，音不合。但作爲借字仍優於「⿰足鬧」。	55
 罱河泥	ne ghou gni	124					55
@@ -12546,9 +12093,7 @@
 廿九	ne-gnie cieu	123					
 廿九夜	ne-gnie cieu ya	123	16	29			55
 唸經	ne-gnie cin	123					
-唸經堂講新婦	ne-gnie cin daon kaon shin vu						
 廿二	ne-gnie gni	123					
-廿年新婦廿年婆	ne-gnie gni shin vu ne-gnie gni bou						
 廿一	ne-gnie iq	123					
 廿塊頭	ne-gnie khuei deu						
 唸過七遍會聰明	ne-gnie kou chiq pi wei tshon min						
@@ -12563,10 +12108,8 @@
 唸先生	ne-gnie shi san	123	25	214			55
 念嬉殺	ne-gnie shi saq	123					
 廿四	ne-gnie sy	123					
-廿歲嫁人趁後生	ne-gnie syu ko gnin chin gheu san						
 唸佛個	ne-gnie vaq ghoq						55
 唸佛個	ne-gnie vaq goq	123					55
-唸佛唸一世	ne-gnie vaq ne-gnie iq shi						
 唸符咒	ne-gnie vu cieu						
 廿	ne-gnie6	123					
 驗	ne-gnie6		173				
@@ -12584,8 +12127,6 @@
 𤿏飯	nei vae	168					55
 南部吳語	nei-nae bu wu gniu						
 南溪溫泉	nei-nae chi uen dzoe	168					55
-男借女順	nei-nae cia gniu zyun						
-男酒女茶	nei-nae cieu gniu dzo						
 男同胞	nei-nae don pau		22				
 南方方言	nei-nae faon faon yi						
 南風甩	nei-nae fon huae						
@@ -12603,7 +12144,6 @@
 南門外	nei-nae men nga						
 南面	nei-nae mi	168					
 楠木	nei-nae moq	168					
-男怕懶	nei-nae pho lae						
 南浦	nei-nae phu						
 南半邊	nei-nae pun pi	168					55
 南鄉十八埭	nei-nae shian zyuq paq da						
@@ -12673,9 +12213,7 @@
 五更雞	ng kan ci	377	98	31	一種以銅鐵或竹木制成外罩，中置油燈，便於夜間煮食的小爐。	《阿拉宁波话》及朱版也作「五更機」，未知來源	
 五更頭	ng kan dei			31			
 五更頭	ng kan deu	378	13	31			55
-五更好	ng kan hau						
 五更曉	ng kan shiau	377	3	31			55
-五更走路趁風涼	ng kan tseu lu chin fon lian						
 魚膠	ng kau	377					
 五塊頭	ng khuei deu						
 五架屋	ng ko on		82				55
@@ -12740,12 +12278,8 @@
 兒子	ng tsy	377	33	7			
 魚子	ng tsy	377					
 兒子囡	ng tsy noe	377	20	8			418
-兒子勿供爹	ng tsy vaq tson tia						
-兒子弗供爹	ng tsy vaq tson tia						1
-兒子像阿孃	ng tsy zhian aq gnian						
 魚圓	ng yu	377					55
 五月彈胡𨂅𨂅跳	ng yuq dae wu biq biq thiau						
-五月端午晴	ng yuq ton ng zhin						
 五月煮蒲羹	ng yuq tsy bu kan						
 五月石榴結金孟	ng yuq zaq lieu ciq cin man						
 五月石榴結金櫻	ng yuq zaq lieu ciq cin man						1
@@ -12762,7 +12296,6 @@
 外婆家	nga bou ko	67					
 外婆屋裏去勿來	nga bou oq li chi vaq le						
 外婆屋裏去弗來	nga bou oq li chi vaq le						1
-外婆做產	nga bou tsou sae						
 外婆暈	nga bou yun	67					55
 外頭	nga deu	67	10				
 外頭人	nga deu gnin	67					55
@@ -12771,7 +12304,6 @@
 外行	nga ghaon	67					
 外行結夾	nga ghaon ciq kaq	67	240				55
 外紐	nga gnieu	67	102				55
-外紐看邊	nga gnieu khi-khe pi						
 外場面	nga jian mi		125				55
 外勤	nga jin	67					
 外間	nga kae	67					
@@ -12789,7 +12321,6 @@
 雁鵝	nga ngou	67	111	394	大雁	湯版作「外鵝」，非。	55
 外八字	nga paq zy	67					55
 外甥囡	nga san noe	67	22				418
-外甥八歲	nga san paq syu						
 外甥新婦	nga san shin vu						
 外甥娃	nga san uae	67	22				418
 外甥皇帝	nga san waon ti		22				55
@@ -12805,7 +12336,6 @@
 眼睛清盯	ngae cin chin tin		337				55
 眼睛彈	ngae cin dae						
 眼睛地牌介	ngae cin di ba ka		236	350			55
-眼睛大隻小	ngae cin dou tsaq shiau						
 眼睛鋥亮	ngae cin dzan lian						
 眼睛一眨	ngae cin iq saq	146					55
 眼睛一𥈊	ngae cin iq saq						55
@@ -12817,7 +12347,6 @@
 眼睛閉攏	ngae cin pi lon	146					55
 眼睛閉仔	ngae cin pi tsy		337				55
 眼睛碧綠	ngae cin piq loq		337				55
-眼睛生勒額角頭	ngae cin san laq ngaq koq deu						
 眼睛生勒屁眼裏	ngae cin san laq phi ngae li						
 眼睛眨眨	ngae cin saq saq	146					55
 眼睛𥈊𥈊	ngae cin saq saq						55
@@ -12848,8 +12377,6 @@
 眼眉毛	ngae mi mau	145	43	349			55
 眼面前	ngae mi zhi	145	10	349			
 眼眼叫	ngae ngae ciau	145	293	350			55
-眼眼叫碰着眼眼叫	ngae ngae ciau ban dzoq ngae ngae ciau						
-眼眼叫碰着眼眼叫	ngae ngae ciau ban zoq ngae ngae ciau						
 眼屙	ngae ou	146	43	348			
 眼涴	ngae ou	146	43	348			418
 眼屙結嗝	ngae ou ciq kaq						
@@ -12877,7 +12404,6 @@
 眼烏珠䀨瞎	ngae u tsyu kuaq haq	145					55
 眼烏珠碧綠	ngae u tsyu piq loq		337				55
 眼癢	ngae yan	146	176	349			55
-眼藥瓶塞仔	ngae yaq bin saq tsy						
 眼沿	ngae yi		43				55
 眼緣	ngae yu			349			
 岩	ngae2		8				
@@ -12919,10 +12445,8 @@
 硬	ngan6	211					
 扤頭	ngaq deu	319					55
 額角頭	ngaq koq deu	319	42	474			55
-額角頭鋥亮	ngaq koq deu dzan lian						
 齾	ngaq8	319					
 咬緊苦膽	ngau cin khu tae						
-咬開純大麥	ngau khe zyun dou maq						
 咬口	ngau kheu	91	94	255			55
 咬奶頭	ngau na dei			255			
 咬奶頭	ngau na deu	91	29	255			418
@@ -12990,7 +12514,6 @@
 牛虻	ngeu maon	200					
 牛百葉	ngeu paq yiq	200					55
 牛坯	ngeu phei	199	31, 33	36			55
-牛怕上軛	ngeu pho zaon aq						
 牛屄阿三	ngeu pi aq sae	199					55
 牛鞭子	ngeu pi tsy	199					55
 藕色	ngeu saq	200					
@@ -13005,7 +12528,6 @@
 牛	ngeu2	199	31	36			
 藕	ngeu4	200					
 瓦爿	ngo bae	103	86	33			55
-瓦爿放湯	ngo bae faon thaon						
 瓦爿灘	ngo bae thae	103	86				55
 瓦爿牆	ngo bae zhian		83				55
 牙盤	ngo bun	103		32			55
@@ -13041,7 +12563,6 @@
 牙刷	ngo syuq	103					
 瓦刀	ngo tau	103					
 牙齒垽	ngo tshy gnin						
-牙齒一𪚁	ngo tshy iq li						
 牙齒拐拐動	ngo tshy kua kua don						
 牙齒雪雪白	ngo tshy syuq syuq baq						
 我種南瓜	ngo tson nei-nae kuo						
@@ -13064,7 +12585,6 @@
 鵝毛扇	ngou mau shi	187					55
 鵝毛月	ngou mau yuq	187	3	402			55
 餓煞鬼投人身	ngou saq ciu deu gnin shin						
-餓煞肚子	ngou saq du tsy						
 餓齋	ngou tsa	188					55
 鵝掌風	ngou tsaon fon	188					
 鵝菜	ngou tshe		115	402			55
@@ -13098,12 +12618,10 @@
 呶筋拔骸	nhu cin baq hae						
 嗯克嗯克	nk khaq nk khaq		281				55
 孲𤘅	nk nga	378	20	285			578
-孲𤘅嘸六月	nk nga mh loq yuq						
 㕶㕶	nk nk						
 唔唔	nk nk						
 嗯嗯吱吱	nk nk tsy tsy						
 孲𤘅	nk nka						578
-孲𤘅嘸六月	nk nka mh loq yuq						
 扤頭	nkaq deu	319					55
 扤	nkaq7	319	148	85			
 𦨉	nkaq7		210	214			
@@ -13136,8 +12654,6 @@
 糯米飯	nou mi vae						
 糯米飯糰	nou mi vae doe						
 糯米飯蝦	nou mi vae huo	181	67				55
-儂勿喫	nou vaq chioq						
-儂弗喫	nou vaq chioq						1
 挼	nou2	181	151	292			
 捼	nou2		151	336			
 儂	nou6	181	38	211			
@@ -13165,8 +12681,6 @@
 丫臉捋落	o li laq loq	105	134				55
 丫臉漆黑	o li tshaq haq						
 丫臉犯落	o li vae loq	105	134				55
-丫臉犯落勿認人	o li vae loq vaq gnin gnin						
-丫臉犯落弗認人	o li vae loq vaq gnin gnin						1
 掗賣豆腐	o ma deu vu	106	334	237			55
 阿彌陀佛	o mi dou vaq						
 丫麻	o mo		44	25			55
@@ -13215,16 +12729,13 @@
 屋柱	oq dzyu	347	85	283			418
 屋後頭	oq gheu deu	347					55
 屋後背	oq gheu pei						
-惡人自有惡人磨	oq gnin zy yeu oq gnin mou						
 屋業地主	oq gniq di tsyu	347					55
-屋要買四散	oq iau ma sy sae						
 阿講	oq kaon	322	295	182			55
 屋跟無賴	oq ken vu la			284			
 屋跟無賴	oq ken wu- la			284			
 惡刻	oq khaq	347					55
 屋裏	oq li	347	82	283			
 屋裏人	oq li gnin	347	19	87			
-屋裏燒缸竈	oq li shiau kaon tsau						
 屋裏無賴	oq li vu la		31	284			55
 屋裏無賴	oq li wu- la	347	31	284			55
 惡弄送	oq lon son	347		296			55
@@ -13237,7 +12748,6 @@
 惡嬲和	oq na wu	347		297			55
 屋瓦頭頂	oq ngo deu ten		84				55
 屋山尖頭	oq sae ci deu	347	84	283			55
-屋山尖頭開門	oq sae ci deu khe men						
 噁心	oq shin	347					
 噁心䑆䑆	oq shin yan yan	347	221	297			55
 惡隙惡理	oq shiq oq li						
@@ -13267,10 +12777,6 @@
 涴浸草	ou cin tshau	192	106	331			55
 屙漬花佬	ou ciq huo lau						
 涴漬花佬	ou ciq huo lau						1
-屙急喪命	ou ciq saon min						
-涴急喪命	ou ciq saon min						1
-屙急造茅坑	ou ciq zau mau khan						
-涴急造茅坑	ou ciq zau mau khan						1
 屙蛋分	ou dae fen	192	124				
 涴蛋分	ou dae fen	192	124				418
 屙道頭	ou dau deu	192					
@@ -13314,8 +12820,6 @@
 涴缸無賴	ou kaon vu la			332			1
 屙缸無賴	ou kaon wu- la			332			
 涴缸無賴	ou kaon wu- la			332			1
-屙缸越㧕越臭	ou kaon yuq lieu yuq chieu						
-涴缸越㧕越臭	ou kaon yuq lieu yuq chieu						
 屙坑	ou khan	192					
 涴坑	ou khan	192					418
 屙坑間	ou khan kae	192	83				
@@ -13364,10 +12868,6 @@
 涴塞煞	ou saq saq	192	241	331			418
 屙掃帚	ou sau cieu		94				
 涴掃帚	ou sau cieu		94				55
-屙掃帚成筋	ou sau cieu jin cin						
-屙掃帚成精	ou sau cieu jin cin						
-涴掃帚成筋	ou sau cieu jin cin						1
-涴掃帚成精	ou sau cieu jin cin						1
 窩心	ou shin			413			
 屙腥臭	ou shin chieu		277	331			
 涴腥臭	ou shin chieu		277	331			55
@@ -13479,7 +12979,6 @@
 幫襯	paon tshen	228					
 百病消散	paq bin shiau sae						
 伯婆	paq bou	297					
-百步嘸輕擔	paq bu mh chin tae						
 八千	paq chi	296					
 八七	paq chiq	296					
 八張	paq cian						
@@ -13512,7 +13011,6 @@
 八梗	paq kuan						
 不剌	paq la			31			
 不剌	paq laq	296	307	31			55
-八老大	paq lau da						
 不剌	paq lha	296					55
 八兩	paq lian	296					55
 808	paq lin paq	222	103				55
@@ -13548,12 +13046,9 @@
 柏油	paq yeu	297					
 百葉	paq yiq	297		96			
 百葉窗	paq yiq tshaon	297					
-八月桂花蒸	paq yuq kuei huo cin						
 八月天氣	paq yuq thi chi						
 八月月餅嵌餡子	paq yuq yuq pin khae ghae tsy						
 八月十六	paq yuq zyuq loq	296	16	7			55
-八月十六等勿到	paq yuq zyuq loq ten vaq tau						
-八月十六等弗到	paq yuq zyuq loq ten vaq tau						1
 八字腳	paq zy ciaq	296					
 八字牙鬚	paq zy ngo su	296					55
 柏樹	paq zyu	297					
@@ -13614,8 +13109,6 @@
 背風火	pei fon hou						
 背後	pei gheu	163					
 背後頭	pei gheu deu	163					55
-背後要氣煞	pei gheu iau chi saq						
-背後忖忖氣煞人	pei gheu tshen tshen chi saq gnin						
 揹合勿起	pei kaq vaq chi						
 揹合弗起	pei kaq vaq chi						1
 揹老耙	pei lau bo	163	199				55
@@ -13655,7 +13148,6 @@
 奔勒可憐	pen laq khou li						
 奔來落去	pen le loq chi		163				55
 奔來倒去	pen le tau chi	249	163				55
-奔奔前頭	pen pen zhi deu						
 本生	pen san	249	287				
 奔喪	pen saon	249					
 奔煞可憐	pen saq khou li						
@@ -13723,7 +13215,6 @@
 拍桌打凳	phaq tsoq tan ten		333				55
 拍紙簿	phaq tsy bu	297					
 潑婦	phaq vu	298					
-潑婦多眼淚	phaq vu tou ngae li						
 拍	phaq7	297	120				
 𤖼	phaq7	297	155	313			
 泡桐	phau don	75					
@@ -13740,8 +13231,6 @@
 泡	phau5	75					
 炮	phau5	75					
 配辦	phei bae	164	202	300			55
-配辦一個頭	phei bae iq ghoq deu						
-配辦一個頭	phei bae iq goq deu						
 配煞爛眼	phei saq lae ngae						
 坯子	phei tsy	163	32	189			
 配藥	phei yaq	164					
@@ -13774,10 +13263,7 @@
 屁股好黑弗黑	phi ku hau haq vaq haq						1
 屁股溝	phi ku keu	13					55
 屁股磕勒兩架生	phi ku khaq laq lian ko san						
-屁股生臀趼	phi ku san den kni						
-屁股出仔講人家	phi ku tshyuq tsy kaon gnin ko						
 屁股會搡兩架生	phi ku wei saon lian ko san						
-屁股像尺八磨	phi ku zhian tshaq paq mou						
 屁股坐勿牢	phi ku zou vaq lau						
 屁股坐弗牢	phi ku zou vaq lau						1
 𠜱梨頭	phi li deu						
@@ -13871,7 +13357,6 @@
 撲	phoq7	333	152				
 醭	phoq7	333	132	495			
 𩔈	phoq7	333					55
-破阿三	phou aq sae						
 坡地	phou di	176					
 破鞋爿	phou gha bae	176					55
 破衣兩頭環	phou i lian deu wae						
@@ -13939,7 +13424,6 @@
 扁擔豁掉了	pi tae huaq diau lei						
 扁擔豁掉𡀂	pi tae huaq diau lei						
 扁擔星	pi tae shin	12	3	281			55
-扁擔尋皵頭	pi tae zhin chiq deu						
 邊打邊相	pi tan pi shian		329				55
 邊打邊像	pi tan pi zhian			81			
 扁得得	pi taq taq	12	227	282			55
@@ -13973,7 +13457,6 @@
 表兄弟	piau shion di	107					
 婊子	piau tsy	107	27				
 婊子兒子	piau tsy ng tsy	107	34	382			55
-婊子多花頭	piau tsy tou huo deu						
 標準海塘	piau tsyun he daon						
 裱畫匠	piau wo zhian	107					55
 標	piau1		211				
@@ -14101,7 +13584,6 @@
 把細	po shi	95					55
 把手	po shieu	95					
 把尿	po syu	95					
-巴掌喫其腐𤒻𤒻	po tsaon chioq ji vu daq daq						
 巴掌喫渠腐𤒻𤒻	po tsaon chioq ji vu daq daq						
 把作	po tsoq	95	191	142			55
 把作師父	po tsoq sy vu		23				55
@@ -14212,7 +13694,6 @@
 半夜裏	pun ya li	246					
 半夜三更	pun ya sae kan	246					
 半夜餐	pun ya tshae	246	62	70			55
-半夜造	pun ya zau						
 搬	pun1		142				
 曬臺	sa de	65					
 曬日頭菩	sa gniq deu bu	65	170				55
@@ -14221,11 +13702,9 @@
 曬場	sa jian	65					
 曬場地	sa jian di		82				55
 曬乾	sa ki-ke		190				
-曬穀好甮翻	sa koq hau ven fae						
 耍賴羊	sa la yan			248			
 曬癟葛藤	sa piq kaq den	65		302			55
 曬曬挔挔	sa sa i i						
-曬煞泥鰍和黃鱔	sa saq gni chieu ghou waon yi						
 三四	sa sy					此處「三」又音 sa	
 三四個	sa sy ghoq					此處「三」又音 sa	
 三四個	sa sy goq					此處「三」又音 sa	
@@ -14258,7 +13737,6 @@
 三腳貓	sae ciaq mae	142	35	9			
 三教九流	sae ciau cieu lieu						
 三九	sae cieu	143					
-三九四九	sae cieu sy cieu						
 三埭	sae da						
 三埭頭	sae da deu	141					55
 三埭勿笑是儇人	sae da vaq shiau zy huae gnin						
@@ -14272,7 +13750,6 @@
 三槓鋪陳	sae gaon phu jin						
 三號	sae ghau	141					
 山後頭	sae gheu deu	143					55
-三個廚工殺穀蜢	sae ghoq dzyu kon saq koq man						
 三個老𡢿抵潮鴨	sae ghoq lau gnion ti jiau ae						
 三和撲落	sae ghou phoq loq						
 三二	sae gni	143					
@@ -14280,9 +13757,6 @@
 三孃六主意	sae gnian loq tsyu i						
 三日兩頭	sae gniq lian deu	143	288	10			55
 三日三夜	sae gniq sae ya	143	15				55
-三日勿喫鹹齏湯	sae gniq vaq chioq ghae ci thaon						
-三日弗喫鹹齏湯	sae gniq vaq chioq ghae ci thaon						1
-三個廚工殺穀蜢	sae goq dzyu kon saq koq man						
 三個老𡢿抵潮鴨	sae goq lau gnion ti jiau ae						
 三嚇頭	sae haq deu	142	128	9			55
 三甩頭	sae huaq deu						
@@ -14299,7 +13773,6 @@
 三朝	sae jiau	141					
 三間一舍	sae kae iq so						
 三梗矮凳	sae kan a ten						
-三更莫軋道	sae kan mhau gaq dau						
 三梗魚	sae kan ng						
 三江口	sae kaon kheu						
 山高頭	sae kau deu	143					55
@@ -14324,7 +13797,6 @@
 三輪車人	sae len tsho gnin	142					55
 山裏	sae li	143					
 三兩	sae lian	143					
-三兩蝤蛑四兩縛	sae lian jieu meu sy lian bou						
 三兩冠	sae lian kun						
 三弄四弄	sae lon sy lon	142	295				55
 三六	sae loq	143					
@@ -14356,13 +13828,10 @@
 三三兩兩	sae sae lian lian	142					
 三牲福禮	sae san foq li						
 三色	sae saq	142	49	9			
-三色勿看	sae saq vaq khi-khe						
-三色弗看	sae saq vaq khi-khe						1
 三鮮湯	sae shi thaon	141					55
 三星照	sae shin ciau						
 三心兩意	sae shin lian i	142					
 三兄四弟	sae shion sy di	142	327	10			55
-三兄四弟一條心	sae shion sy di iq diau shin						
 三四	sae sy	143				此處「三」又音 sa	
 三四埭	sae sy da						
 三四個	sae sy ghoq					此處「三」又音 sa	
@@ -14372,10 +13841,7 @@
 三四十個	sae sy zyuq ghoq					此處「三」又音 sa	
 三四十個	sae sy zyuq goq					此處「三」又音 sa	
 三四十隻	sae sy zyuq tsaq					此處「三」又音 sa	
-三歲意姿看到老	sae syu i ci khi-khe tau lau						
-三歲合棺材	sae syu kaq kun ze						
 山水𩂢𩂢殺落來	sae syu nga nga saq loq le						
-三歲死阿孃	sae syu shi aq gnian						
 三十年夜	sae syuq gni ya	143	16	10			55
 三搭六橋	sae taq loq jiau	142	327	10			55
 三對六面	sae tei loq mi		327	10			
@@ -14420,14 +13886,11 @@
 三言兩語	sae yi lian gniu	141					
 三月拗烏筍	sae yuq au u syun						
 三月桃花朵打朵	sae yuq dau huo to tan to						
-三月三	sae yuq sae						
-三層樓翻落	sae zen leu fae loq						
 山前頭	sae zhi deu	143					55
 三時不節	sae zy paq ciq	141	288	389	經常	湯版等作「三時八節」。《上海方言詞典》收「三不時」，故當作「三時不節」。	55
 杉樹	sae zyu	143					
 三十	sae zyuq	143					
 三十年夜	sae zyuq gni ya	143	16	10			55
-三十年夜下飯多	sae zyuq gni ya gho vae tou						
 三十一	sae zyuq iq	143					
 三十六桶	sae zyuq loq don		75				55
 三	sae1	141					
@@ -14450,7 +13913,6 @@
 生頭人客	san deu gnin khaq	209					55
 生頭陌腳	san deu maq ciaq	209	249	62			55
 生頭小雞	san deu shiau ci						
-生頭熟人客	san deu zoq gnin khaq						
 生地	san di	208					
 生鹹	san ghae	209	275	61			55
 生日	san gniq	210					
@@ -14459,8 +13921,6 @@
 生意	san i	208					
 生意經	san i cin	209					
 生意人	san i gnin	209	24	62			
-生意人講和氣	san i gnin kaon ghou chi						
-生意人靠騙	san i gnin khau phi						
 生意幫	san i paon	209					55
 生隱腳	san in ciaq						
 三梗	san kan						
@@ -14670,7 +14130,6 @@
 稍瓜	sau kuo		74	402			55
 掃垃圾個	sau la shi ghoq						55
 掃垃圾個	sau la shi goq	87					55
-燥了會褪殼	sau laq wei then khoq						
 掃墓	sau mou	87					
 燥爛泥	sau na gni	88					55
 燥迫廿三	sau paq ne-gnie sae		259	487			55
@@ -14720,7 +14179,6 @@
 生四	sen sy	255					418
 生死	sen sy		295	61			
 孫子	sen tsy	255					
-孫子喫阿爺	sen tsy chioq aq ya						
 孫悟空	sen wu khon						
 生油	sen yeu	255					
 滲	sen5	256					
@@ -14763,12 +14221,10 @@
 死後滿身紅	shi gheu mun shin ghon						
 仙人	shi gnin	35	43				
 死人	shi gnin	36					
-死人臭	shi gnin chieu						
 仙人球	shi gnin jieu	35					
 仙人掌	shi gnin tsaon	35					
 死人勿怪	shi gnin vaq kua	36	330				
 死人弗怪	shi gnin vaq kua			100			55
-死蟹也會吹白	shi ha gha wei tshyu baq						
 死蟹還會吹白	shi ha gha wei tshyu baq						
 死蟹一隻	shi ha iq tsaq	36	330	100			55
 死蟹了	shi ha lei						55
@@ -14781,8 +14237,6 @@
 閃腰	shi iau	36					
 軒轎	shi jiau	35					55
 細糠	shi khaon	37	132	235			55
-細糠喫勿起	shi khaon chioq vaq chi						
-細糠喫弗起	shi khaon chioq vaq chi						1
 死開眼	shi khe ngae						
 死快了	shi khua lei						55
 死快𡀂	shi khua lei		257				55
@@ -14853,7 +14307,6 @@
 先弗先	shi vaq shi						55
 戲文	shi ven	37	124	131			
 戲文人	shi ven gnin	37					55
-戲文假	shi ven ko						
 戲文𣍐做	shi ven vei tsou						
 戲文還只鬧頭場	shi ven wa ciq nau deu jian						
 戲文還來鬧頭場	shi ven wa le nau deu jian						
@@ -14912,14 +14365,12 @@
 相道	shian dau		49	244			55
 響動	shian don		133				
 鄉方	shian faon		124	25			
-鄉方處處別	shian faon tshyu tshyu biq						
 香妃色	shian fi saq	220					55
 香榧子	shian fi tsy	220					55
 鄉下	shian gho	221					
 鄉下頭	shian gho deu	221	5	25			418
 鄉下人	shian gho gnin	221	27	25			
 鄉下人進城	shian gho gnin cin jin						
-鄉下人上埭街	shian gho gnin zaon da ka						
 鄉下角落頭	shian gho koq loq deu						
 鄉下佬	shian gho lau		27	25			
 鄉下土鯆	shian gho thu bu		27				
@@ -14937,7 +14388,6 @@
 香菸蒂頭	shian i ti deu	220	131				55
 香菸注注	shian i tsyu tsyu						
 相因	shian in	221	269	244			418
-相因了笑	shian in laq shiau						
 香腸	shian jian	220					
 香蕈	shian jin	221	73	261			
 香揀芋	shian ke gniu	220					55
@@ -15021,7 +14471,6 @@
 小氣白力	shiau chi baq liq						
 小氣䏘	shiau chi phiq	114	32	20			55
 小喫	shiau chioq	117					
-少喫多滋味	shiau chioq tou tsy vi						
 小雞	shiau ci	114					
 肖雞	shiau ci				生肖屬雞		
 小姊妹道里	shiau ci mei dau li	114					55
@@ -15035,7 +14484,6 @@
 小腳褲	shiau ciaq khu	117					55
 小腳髈	shiau ciaq phaon	117					55
 燒酒	shiau cieu	114	81	322			
-燒酒出氣	shiau cieu tshyuq chi						
 燒酒注注	shiau cieu tsyu tsyu						
 燒晝飯	shiau cieu vae						
 燒酒楊梅	shiau cieu yan mei	114					55
@@ -15057,15 +14505,8 @@
 肖猴	shiau gheu				生肖屬猴		
 肖猴子	shiau gheu tsy				生肖屬猴		
 𢳚鑊蓋	shiau ghoq ke						
-小個桌凳撩勿着	shiau ghoq tsoq ten liau vaq dzoq						
-小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq dzoq						1
-小個桌凳撩勿着	shiau ghoq tsoq ten liau vaq zoq						
-小個桌凳撩弗着	shiau ghoq tsoq ten liau vaq zoq						1
 小年	shiau gni	114					
 少年白	shiau gni baq	117					55
-少年癆瘵	shiau gni lau chiq						
-少年勿做家	shiau gni vaq tsou ko						
-少年弗做家	shiau gni vaq tsou ko						1
 小年夜	shiau gni ya	114	16	20			
 小娘	shiau gnian	116	20	19			
 小娘阿姆	shiau gnian a m						55
@@ -15078,14 +14519,8 @@
 肖嘵豬	shiau gniau tsyu				生肖屬豬		
 小人	shiau gnin	116	20	19			35000
 小人頭腦	shiau gnin deu nau		33				55
-小人跑春頭磕開	shiau gnin phau tshyun deu khaq khe						
-小人洋皮皮	shiau gnin yan bi bi						
 小熱昏	shiau gniq huen	117	25	21			55
 小熱昏賣糖	shiau gniq huen ma daon						
-小個桌凳撩勿着	shiau goq tsoq ten liau vaq dzoq						
-小個桌凳撩弗着	shiau goq tsoq ten liau vaq dzoq						1
-小個桌凳撩勿着	shiau goq tsoq ten liau vaq zoq						
-小個桌凳撩弗着	shiau goq tsoq ten liau vaq zoq						1
 肖蟹	shiau ha	114					55
 小貨	shiau hou		33				
 燒火	shiau hou	114					
@@ -15103,7 +14538,6 @@
 小腸	shiau jian	116					
 銷場	shiau jian		127				55
 小腸氣	shiau jian chi	116	56	20			55
-少講爲妙	shiau kaon wei miau						
 小格楞敦	shiau kaq len ten	114	223	22			55
 小教爛眼	shiau kau lae ngae						
 小狗	shiau keu	116					
@@ -15112,7 +14546,6 @@
 𢳚開	shiau khe						
 𢳚開來	shiau khe le						
 小苦	shiau khu	115	120				55
-小苦喫勒候頭頸	shiau khu chioq laq gheu deu cin						
 小苦勿喫	shiau khu vaq chioq						
 小苦弗喫	shiau khu vaq chioq						1
 小工	shiau kon	116	24				
@@ -15131,7 +14564,6 @@
 小老鼠	shiau lau tsy						
 肖老鼠	shiau lau tsy				生肖屬鼠		
 小來	shiau le	115	17	19			55
-小來怕剃頭	shiau le pho thi deu						
 小羅嗦	shiau lhou sou			20			
 蕭梨	shiau li		74	344			55
 小鯉花	shiau li huo			21			
@@ -15189,8 +14621,6 @@
 小書	shiau syu	114	108	19			
 稍勢	shiau syu			402			
 小水頭	shiau syu deu		6				55
-小暑一聲雷	shiau syu iq shin lei						
-小暑割草	shiau syu kaq tshau						
 小書攤	shiau syu thae						
 小雪	shiau syuq	117					
 曉得	shiau taq	117					100000
@@ -15223,8 +14653,6 @@
 小娃頭	shiau uae deu	115	20	19			418
 小娃屄	shiau uae pi		20	19		末字爲清音，《阿拉宁波话》作「婢」，音不合。	55
 燒飯	shiau vae		188				
-燒飯還是靠阿婆	shiau vae gha zy khau aq bou						
-燒飯還是靠阿婆	shiau vae wa zy khau aq bou						
 小黃魚	shiau waon ng	116					
 小活猻	shiau waq sen						
 小胡桃	shiau wu dau	115	75	21			
@@ -15255,7 +14683,6 @@
 手氣	shieu chi	156					
 收賬	shieu cian	156					
 手腳	shieu ciaq	157					
-手腳慢泛	shieu ciaq mae fae						
 手腳做忌	shieu ciaq tsou ji						
 手巾	shieu cin	157					
 手巾布	shieu cin pu				毛巾		55
@@ -15273,7 +14700,6 @@
 守孝	shieu hau	157					
 繡花娘子	shieu huo gnian tsy						
 繡花繃	shieu huo pan	157					55
-手一搖	shieu iq yau						
 繡球風	shieu jieu fon						
 手勁	shieu jin	157	51	35			
 收成	shieu jin	156	120				
@@ -15312,7 +14738,6 @@
 手天爿	shieu thi bae	156		36			55
 手天心	shieu thi shin	156	46	36			418
 鏽鐵	shieu thiq		133				
-手痛要絡	shieu thon iau loq						
 手拓	shieu thoq		46				55
 手底心	shieu ti shin		46	36			55
 手㬹子	shieu tsan tsy						
@@ -15328,7 +14753,6 @@
 收罪過	shieu zei khou			128			
 收罪過	shieu zei kou	156	318	128			55
 手	shieu3	156		35			
-新阿大	shin aq dou						
 擤鼻頭	shin baq deu						
 心平氣和	shin bin chi ghou						
 心𨂅𨂅亂跳	shin biq biq loe thiau						
@@ -15357,7 +14781,6 @@
 心花開	shin huo khe	272					55
 新花暴熱	shin huo pau gniq	272	338	437			55
 新花暴時熱	shin huo pau zy gniq	272					55
-心直口快	shin jiq kheu khua						
 新街口	shin ka kheu						
 聖珓	shin kau	273	131				55
 醒覺轉	shin kau tsoe		169				55
@@ -15372,7 +14795,6 @@
 新郎	shin laon	273					
 新郎官	shin laon kun	273					
 心裏惀一惀	shin li len iq len						
-心猛猛	shin man man						
 心網	shin maon	272	50	48			55
 心網細	shin maon shi						
 心網勿定	shin maon vaq din						
@@ -15409,7 +14831,6 @@
 新房子	shin vaon tsy	273					55
 身文	shin ven	272					55
 新婦	shin vu	272	21	437			578
-新婦多	shin vu tou						
 心𢖺𢖺動	shin yiq yiq don						
 伸	shin1		225	162			
 心	shin1	271					
@@ -15453,7 +14874,6 @@
 啥西	shiq shi		40				578
 識相	shiq shian	363		179			
 歇手	shiq shieu			426			
-溼手遭麪粉	shiq shieu tsau mi fen						
 些些	shiq shiq	363					
 啥西	shiq shiq		40				50000
 吸吸嚯嚯	shiq shiq hoq hoq		179	108			55
@@ -15491,7 +14911,6 @@
 毀	shiu5	54	136	432			
 燻魚	shiun ng	279					55
 㜅頭	shiuq deu	369	232	442			55
-㜅頭㜅頭㜅隻頭	shiuq deu shiuq deu shiuq tsaq deu						
 血宅宅流出來	shiuq dzaq dzaq lieu tshyuq le						
 血紅	shiuq ghon	369					
 血印	shiuq in	369	55	114			
@@ -15524,7 +14943,6 @@
 沙泥地	so gni di	100	34				55
 啥人	so gnin	343	39	353			5000
 啥人啊	so gnin a						
-啥人詏我做賊	so gnin au ngo tsou zaq						
 啥人去	so gnin chi						
 啥人清爽	so gnin chin saon						
 啥人嘔	so gnin eu						
@@ -15562,7 +14980,6 @@
 啥人是	so gnin zy						
 啥人是啥人	so gnin zy so gnin						
 沙蟹	so ha	101	66	177			55
-沙蟹命	so ha min						
 沙灰	so huei	101	87	176			55
 蓑衣	so i	101					
 啥幹	so khi-khe						1000
@@ -15606,8 +15023,6 @@
 宣州片	soe cieu phi						
 宣州吳語	soe cieu wu gniu						
 算賺	soe dzae						
-算着勿好一世窮	soe dzoq vaq hau iq shi jion						
-算着弗好一世窮	soe dzoq vaq hau iq shi jion						1
 蒜泥	soe gni	152					
 酸口	soe kheu	151	275	446			55
 酸梅湯	soe mei thaon	151					
@@ -15629,15 +15044,12 @@
 酸汪汪	soe uaon uaon	152	277	446			418
 宣吳	soe wu						
 算上加算	soe zaon ko soe		333				55
-算着勿好一世窮	soe zoq vaq hau iq shi jion						
-算着弗好一世窮	soe zoq vaq hau iq shi jion						1
 酸	soe1	151					
 鬆勃勃	son baq baq		231	199			55
 送年	son gni		182	273			55
 送娘	son gnian		26	273			
 送娘爿	son gnian bae		26	273			
 送娘子	son gnian tsy	291	26	273			55
-送人情	son zyun jin		180				
 松花	son huo		118				
 送場	son jian	291					55
 送轎	son jiau		180	273			55
@@ -15660,6 +15072,7 @@
 松子糕	son tsy kau	290					55
 松黃	son waon	291	272	199			55
 松樹	son zyu	290					
+送人情	son zyun jin		180				
 聳	son3	291	228	315			
 𢱤	son3	291	148	388			
 𢱤	son5		148				
@@ -15668,7 +15081,6 @@
 啥地方	soq di faon	101					55
 啥人	soq gnin	343	39	353			50000
 啥人啊	soq gnin a						
-啥人詏我做賊	soq gnin au ngo tsou zaq						
 啥人去	soq gnin chi						
 啥人清爽	soq gnin chin saon						
 啥人嘔	soq gnin eu						
@@ -15742,7 +15154,6 @@
 啥地方	sou di faon	101					55
 啥人	sou gnin	343	39	353			5000
 啥人啊	sou gnin a						
-啥人詏我做賊	sou gnin au ngo tsou zaq						
 啥人去	sou gnin chi						
 啥人清爽	sou gnin chin saon						
 啥人嘔	sou gnin eu						
@@ -15859,7 +15270,6 @@
 四鄰八舍	sy lin paq so						
 四六	sy loq	4					
 螄螺	sy lou	4	70	398			55
-螄螺殼裏做道場	sy lou khoq li tsou dau jian						
 思路煞清爽	sy lu saq chin saon						
 絲襪	sy maq	3					
 師母	sy meu	3					
@@ -15939,9 +15349,7 @@
 水晶油包	syu cin yeu pau	11					55
 尿急病	syu ciq bin	9	56				55
 尿急勒候頭頸	syu ciq laq gheu deu cin						
-尿急做病	syu ciq tsou bin						
 水稻田	syu dau di	10					
-水稻要種敦	syu dau iau tson ten						
 水窞	syu dei		5				55
 水頭	syu dei			34			
 水窞窞	syu dei dei	10	5				418
@@ -16010,12 +15418,6 @@
 水牛	syu ngeu	10					
 貰屋	syu oq	9					55
 書阿講讀	syu oq kaon doq						
-尿屙屋裏射	syu ou oq li dza						
-尿屙屋裏撒	syu ou oq li dza						
-尿屙屋裏𠑞	syu ou oq li dza						
-尿涴屋裏射	syu ou oq li dza						
-尿涴屋裏撒	syu ou oq li dza						
-尿涴屋裏𠑞	syu ou oq li dza						1
 書包	syu pau	9					
 書包架	syu pau ko	9	88				55
 書報架	syu pau ko			49			
@@ -16057,7 +15459,6 @@
 貰	syu1	9					
 水	syu3	9		34			
 榫頭	syun deu	281					
-榫頭敲準足	syun deu khau tsyun tsoq						
 筍麩鹹齏	syun fu ghae ci	280	76	310	鮮毛筍和鹹菜一起切碎、燒熟再曬乾製成的食品		55
 筍麩鹹菜	syun fu ghae tshe		76	310			55
 筍麩黃豆	syun fu waon deu	281	77	310			55
@@ -16096,7 +15497,6 @@
 刷桌布	syuq tsoq pu		102	233			55
 雪子	syuq tsy	343	4	346			
 說話	syuq wo	344	51	282			
-說話越講越多	syuq wo yuq kaon yuq tou						
 雪上加霜	syuq zaon ko saon						
 失	syuq7	372	117	63			
 戌	syuq7	342					
@@ -16110,7 +15510,6 @@
 戴帽子	ta mau tsy						
 帶魚	ta ng	59					
 帶魚篰	ta ng bu						
-帶魚喫肚皮	ta ng chioq du bi						
 帶魚新鮮猛	ta ng shin shi man						
 帶魚絲薧	ta ng sy khau			241			
 帶魚絲鮳	ta ng sy khau		69				55
@@ -16161,9 +15560,6 @@
 擔心擔事	tae shin tae zy		333	190			55
 擔心事	tae shin zy						
 單單	tae tae	135					
-單子勿靈	tae tsy vaq lin						
-單子弗靈	tae tsy vaq lin						1
-膽子賊大	tae tsy zaq dou						
 擔飯	tae vae	136	192	189			55
 單位裏	tae wei li						
 單位裏人	tae wei li gnin						
@@ -16291,9 +15687,7 @@
 打胎	tan the	205					
 打探動	tan thei don		314				55
 打探動鼓	tan thei don ku	205	314				55
-打聽米價鈿	tan thin mi ko di						
 打鐵肚皮	tan thiq du bi						
-打鐵嘸樣	tan thiq mh yan						
 打鐵師父	tan thiq sy vu	206					55
 打底	tan ti	204					
 打底稿	tan ti kau						
@@ -16356,7 +15750,6 @@
 當面嘸沒急口令	taon mi mh maq ciq kheu lin						
 當面嘸嘸腳色	taon mi mh mh ciaq saq						
 當馬	taon mo		289	102			55
-當儂歇過還有多	taon nou shiq kou wa yeu tou						
 當票	taon phiau	231					
 當鋪	taon phu	231					
 當心	taon shin	230					
@@ -16417,8 +15810,6 @@
 𢝉𢝉動	taq taq don	306	220	412		𢝉，《集韻》德盍切，心恐也。湯版作「𢱕𢱕動」，義不合。	55
 溚溚渧	taq taq ti	306	260	409			578
 搭對	taq tei	306	194	384			55
-掇凳勿坐討凳坐	taq ten vaq zou thau ten zou						
-掇凳弗坐討凳坐	taq ten vaq zou thau ten zou						1
 得寵	taq tshon	305					
 搭錯	taq tshou						
 搭仔	taq tsy	305	299	384			55
@@ -16455,14 +15846,11 @@
 到口糊	tau kheu wu						
 倒角	tau koq		208				55
 倒掛眉毛	tau kuo mi mau	77					55
-到老用勒着	tau lau yon laq dzoq						
-到老用勒着	tau lau yon laq zoq						
 倒㼑	tau li	77	206	312			55
 刀籠篰	tau lon bu		106				55
 刀籠𥳖	tau lon bu			8			
 刀絡殼	tau loq khoq						
 倒沒	tau maq		210	312			55
-倒沒船	tau maq zoe						
 到門	tau men	78					55
 搗門	tau men	77					55
 倒摸順埭	tau moq zyun da		335	312			55
@@ -16522,8 +15910,6 @@
 𠡒來扯去小事體	tei le tsho chi shiau zy thi						
 對攏	tei lon	166					55
 對落	tei loq	166	11	84			55
-對落是屙缸	tei loq zy ou kaon						
-對落是涴缸	tei loq zy ou kaon						
 對馬路	tei mo lu	166	11	84			55
 𠡒牛皮	tei ngeu bi						
 𠡒百筋	tei paq cin	166	287	213			55
@@ -16572,7 +15958,6 @@
 燈籠褲	ten lon khu	253		123			
 燈籠辣茄	ten lon laq jie	253					55
 燈蛾	ten ngou	252					
-等儂得知	ten nou taq tsyu						
 燈泡辣茄	ten phau laq jie						
 燈心	ten shin	252					
 燈心梗	ten shin kuan	252					55
@@ -16631,14 +16016,12 @@
 太平鳥	tha bin gniau						
 太平杠	tha bin kaon						
 太婆	tha bou	60	19	32			
-太婆也是囡出身	tha bou gha zy noe tshyuq shin						
 太婆要喫自家扚	tha bou iau chioq zhi ko tiq						
 拖去	tha chi						
 討饒	tha gniau	60	197				
 太陰菩薩	tha in bu saq	60	3	32			55
 太公	tha kon	60	19	32			
 太公牙鬚	tha kon ngo su				長鬚		
-太公本是小官人	tha kon pen zy shiau kun gnin						
 討保	tha pau		197				
 它山堰	tha sae i	59					
 太師椅	tha sy i	60					
@@ -16754,7 +16137,6 @@
 忒懶	thaq lae						
 脫懶	thaq lae	306	37	369			55
 忒冷	thaq lan						
-脫勒出膊	thaq laq tshyuq poq						
 忒老	thaq lau						
 搨老豆腐	thaq lau deu vu						
 脫力	thaq liq	306	171	368			55
@@ -16781,8 +16163,6 @@
 忒鬆	thaq son						
 搨帶魚	thaq ta ng						
 忒陡	thaq teu						
-𡍲𡍲臭	thaq thaq chieu						
-沓沓一月	thaq thaq iq yuq						
 塌塌𤿏	thaq thaq nei	307	262	488			55
 塔塔響	thaq thaq shian		286				55
 脫套換套	thaq thau wun thau						
@@ -16833,14 +16213,10 @@
 討債	thau tsa	78					
 討債鬼	thau tsa ciu	78	32	73			
 討飯	thau vae		27	73			
-討飯趁早	thau vae chin tsau						
 討飯頭	thau vae deu		27				55
 討飯坯	thau vae phei		27				55
 討飯相	thau vae shian		247				55
-討飯胡琴隔壁聽	thau vae wu jin kaq piq thin						
 套裁	thau ze	78					55
-討𧮙勿揀日子	thau zoq vaq kae gniq tsy						
-討𧮙弗揀日子	thau zoq vaq kae gniq tsy						1
 套	thau5	78	162	300			
 胎記	the ci	122					
 台州片	the cieu phi						
@@ -16869,7 +16245,6 @@
 退過嘸賬	thei kou mh cian						
 推來攮去	thei le naon chi						
 貪領徑	thei lin cin						
-貪眼小便宜	thei ngae shiau bi gni						
 推扳	thei pae	167	215, 252	337			578
 推板	thei pae	167	86	337			55
 推扳眼	thei pae ngae	167					418
@@ -16921,7 +16296,6 @@
 天牌	thi ba	19					55
 天平	thi bin	20					
 天平秤	thi bin chin	20					55
-天起魚鱗斑	thi chi ng lin pae						
 天井	thi cin	20	84	27			
 䪆潔	thi ciq	21	261	501			55
 天莙薘根	thi ciun daq ken		115	28			55
@@ -16940,7 +16314,6 @@
 天童寺	thi don zy	20					55
 天妃娘娘	thi fi gnian gnian	19					55
 天旱	thi ghei-ghe	19					
-天下十八省	thi gho zyuq paq san						
 天河	thi ghou	20					
 天亮	thi gnian		13	28			3000
 天亮頭	thi gnian deu		13	28			55
@@ -16949,7 +16322,6 @@
 天日日日長	thi gniq gniq gniq jian						
 天花	thi huo	19					
 天花板	thi huo pae	19	44	28			
-天養人壯得得	thi ian gnin tsaon taq taq						
 天一閣	thi iq koq	20					
 天根舌	thi ken zhiq		115				55
 天狗喫日頭	thi keu chioq gniq deu	20					55
@@ -16962,7 +16334,6 @@
 天家	thi ko	19	4	28	1. 天氣; 2. 時節	根據變調，後字陰平的可能性更大。《鄞縣通志》亦作「天家」。湯版作「天價」，調不合。	578
 天家熱	thi ko gniq	19					578
 天家冷	thi ko lan	19					578
-天家冷凍凍	thi ko lan ton ton						
 天家忒熱	thi ko thaq gniq						
 天家忒熱	thi ko thou gniq						
 天藍	thi lae	19					
@@ -17246,7 +16617,6 @@
 踮腳	ti ciaq	19	38	467			
 癲腳舞手	ti ciaq wu-vu shieu						
 抵針	ti cin	18	93	193			
-抵隻豬娘	ti tsaq tsyu gnian						
 店堂	ti daon	19	88	217			
 店堂間	ti daon kae	19	88	217			55
 低頭	ti deu	18	10	163			
@@ -17274,7 +16644,7 @@
 點心時	ti shin zy	18	13	251			55
 點天燈	ti thi ten						
 點哚八哚	ti to paq to						
-底子單薄	ti tsy tae boq						
+抵隻豬娘	ti tsaq tsyu gnian						
 癲子癲	ti tsy ti						
 典主	ti tsyu	18					55
 低	ti1	18					
@@ -17289,7 +16659,6 @@
 爹頭娘腳	tia deu gnian ciaq			316			
 爹頭孃腳	tia deu gnian ciaq	69	254				55
 爹孃	tia gnian	69					
-爹懶子好閒	tia lae tsy hau ghae						
 嗲聲嗲氣	tia shin tia chi						
 爹做郎中醫勿好	tia tsou laon tson i vaq hau						
 爹做郎中醫弗好	tia tsou laon tson i vaq hau						1
@@ -17320,7 +16689,6 @@
 吊膀子	tiau paon tsy	108					
 吊煞	tiau saq						
 吊煞鬼	tiau saq ciu	109	131	105			55
-吊煞鬼勸上吊	tiau saq ciu chiu zaon tiau						
 吊煞野貓	tiau saq ya mae						
 吊燥水	tiau sau syu		316				55
 凋心	tiau shin			320			
@@ -17424,9 +16792,7 @@
 頂怕	tin pho						
 叮崩擔	tin pon tae	260					
 頂省	tin san						
-釘煞秤花生煞命	tin saq chin huo san saq min						
 丁相公	tin shian kon		29				55
-丁相公寫一字	tin shian kon shia iq zy						
 頂小	tin shiau						
 頂小個	tin shiau ghoq						
 頂小個	tin shiau goq						
@@ -17558,7 +16924,6 @@
 跌落	tiq loq	337, 355	201	397	1. 掉下; 2. 丟失; 3. 小產		
 跌落去	tiq loq chi						
 跌落金釵埠頭下	tiq loq cin tsho bu deu gho						
-跌落地	tiq loq di						
 的落花	tiq loq huo	354	236				55
 跌落來	tiq loq le						
 跌落馬	tiq loq mo		296				55
@@ -17624,8 +16989,6 @@
 碫	toe5		151				
 東嶴	ton au						
 冬青樹	ton chin zyu	284					
-冬季修田塍	ton ci shieu di yin						
-冬季修田塍	ton ci shieu di zhin						
 東借西拽	ton cia shi yiq		329				55
 東借西拽	ton cia shi yuq		329				55
 東張西望	ton cian shi maon						
@@ -17640,8 +17003,6 @@
 冬菇	ton ku	284					
 冬瓜	ton kuo	284					
 冬瓜白殕殕	ton kuo baq fu fu						
-冬冷勿算冷	ton lan vaq soe lan						
-冬冷弗算冷	ton lan vaq soe lan						1
 凍勒刮刮抖	ton laq kuaq kuaq teu						
 棟樑	ton lian	285					
 東擄擄	ton lou lou						
@@ -17651,7 +17012,6 @@
 凍米大王	ton mi da waon	284	80	170			418
 凍米糖	ton mi daon	284	81	170			55
 凍米胖	ton mi phaon	284	80	170			418
-東南西北龍光閃	ton nei-nae shi poq lon kuaon shi						
 端午	ton ng	285	16	454			
 端午粽	ton ng tson	285					55
 東北言話	ton poq ghae wo						1
@@ -17668,7 +17028,6 @@
 冬筍	ton syun	284					
 冬天家	ton thi ko	284					418
 㖦㖦	ton ton		179	207			55
-凍凍會凍慣	ton ton wei ton kuae						
 凍瘃	ton tsoq	285	54	170			55
 冬至	ton tsy	284					
 冬至腳跟	ton tsy ciaq ken						
@@ -17695,7 +17054,6 @@
 跌落	toq loq	337	201	397	1. 掉下; 2. 丟失; 3. 小產	「跌」受後字影響，逆同化爲 toq。湯版作「篤落」，非。	418
 跌落去	toq loq chi						
 跌落金釵埠頭下	toq loq cin tsho bu deu gho						
-跌落地	toq loq di						
 跌落來	toq loq le						
 跌落了	toq loq lei	337					55
 跌落𡀂	toq loq lei						55
@@ -17726,7 +17084,6 @@
 𤒘	toq7		189	439			
 𧝴	toq7	337	160	493			
 𧰵	toq7	336	151	395			
-多喫壞肚皮	tou chioq wa du bi						
 多張	tou cian						
 多陶窯	tou dau yau						
 多頭	tou deu		120	119			
@@ -17735,11 +17092,9 @@
 多張	tou jian						
 多講連帳	tou kaon li cian						
 多講連賬	tou kaon li cian		330				55
-多講傷料	tou kaon saon liau						
 多講多得	tou kaon tou taq	177	330				55
 多講多話	tou kaon tou wo	177	330				55
 多孔板	tou khon pae		86	119			55
-多管閒賬多喫屁	tou kun ghae cian tou chioq phi						
 多老孃鈿	tou lau gnian di	177	330	119			55
 多兩	tou lian		119				55
 多鬧熱	tou nau gniq		317				55
@@ -17817,8 +17172,6 @@
 莊家	tsaon ko	233					
 裝賴羊	tsaon la yan			406			
 蟑螂	tsaon laon	234					
-裝勒勿認得	tsaon laq vaq gnin taq						
-裝勒弗認得	tsaon laq vaq gnin taq						1
 葬落	tsaon loq	234					55
 妝面油	tsaon mi yeu						
 樟木箱	tsaon moq shian	234					
@@ -17893,7 +17246,6 @@
 早稻	tsau dau	85					
 早稻汛裏	tsau dau shin li	85	17	103			55
 早稻草	tsau dau tshau						
-早稻浮面插	tsau dau veu mi tshaq						
 早稻時	tsau dau zy	85	17	103			55
 竈臺	tsau de			175			
 找頭	tsau dei	85					
@@ -17902,16 +17254,12 @@
 竈頭間	tsau deu kae	86	83				55
 竈頭桌凳	tsau deu tsoq ten	85					55
 竈洞	tsau don	86	83				55
-竈洞紅紅響	tsau don ghon ghon shian						
 竈洞眼	tsau don ngae	86					55
 早發人	tsau faq gnin	85					55
 早紅	tsau ghon	85					55
 早紅霞	tsau ghon ya	85					55
 竈鑊洞	tsau ghoq don						
 早鱟	tsau heu	85					55
-早鱟勿過晝	tsau heu vaq kou cieu						
-早鱟弗過晝	tsau heu vaq kou cieu						1
-爪一腳	tsau iq ciaq						
 早辰光	tsau jin kuaon			103			
 竈間	tsau kae	85	83	175			
 竈跟	tsau ken	85	83	175			55
@@ -17920,11 +17268,8 @@
 竈跟無賴	tsau ken vu la		31	176			
 竈跟無賴	tsau ken wu- la	85	31	176			
 竈口地康	tsau kheu di khaon		83	175			55
-竈口地康看老婆	tsau kheu di khaon khi-khe lau bou						
 罩褲	tsau khu	85					55
-早睏晏爬起	tsau khuen ae bo chi						
 竈樑頭	tsau lian deu		83				55
-竈樑頭跑馬	tsau lian deu bau mo						
 早兩年	tsau lian gni	85					55
 早米	tsau mi	85	61	103			55
 遭眼	tsau ngae	84	135	445			55
@@ -17941,7 +17286,6 @@
 糟鯧魚	tsau tsho ng						
 竈囪	tsau tshon	86	83	175			55
 早春暴	tsau tshyun pau	85					55
-早飯要喫飽	tsau vae iau chioq pau						
 早夜晚頭	tsau ya mae deu	85	14	103			55
 早夜飯	tsau ya vae		62				55
 搔癢	tsau yan	84					
@@ -17962,7 +17306,6 @@
 再昶	tse chian		289				55
 再好嘸沒了	tse hau mhiq lei						
 再好嘸沒𡀂	tse hau mhiq lei						
-再過廿年做太婆	tse kou ne-gnie gni tsou tha bou						
 再弄弄	tse lon lon						
 再三再四	tse sae tse sy	124					
 再寫意嘸沒了	tse shia i mhiq lei						
@@ -18002,8 +17345,6 @@
 走路	tseu lu		83				
 走路𨂅𨂅跳	tseu lu biq biq thiau						
 走路𨄇𨄇響	tseu lu den den shian						
-走路慢他他	tseu lu mae than than						
-走路𤖼腳	tseu lu phaq ciaq						
 走路蹱蹱動	tseu lu tshon tshon don						
 走路越快	tseu lu yuq khua						
 走嘸沒走着	tseu mhiq tseu dzoq		340				
@@ -18064,8 +17405,6 @@
 闖禍坯	tshaon ghou phei	234					55
 蒼蠅	tshaon in	234					
 蒼蠅鬨攏	tshaon in ghon lon						
-蒼蠅撼石柱	tshaon in he zaq dzyu						
-蒼蠅撼石柱	tshaon in hei- zaq dzyu						
 蒼蠅老虎	tshaon in lau fu		113				55
 蒼蠅拍	tshaon in phaq	234					
 摐羹桶	tshaon kan don	234	78	140			55
@@ -18102,7 +17441,6 @@
 插地香	tshaq di shian						
 撮着	tshaq dzoq						
 撮着撮	tshaq dzoq tshaq		325				55
-撮着自	tshaq dzoq zhi						
 漆暗	tshaq ei-e	312	274	455			55
 漆暗薄朧	tshaq ei-e boq lon	312	274	455	很暗；消息不通	《阿拉宁波话》作「漆暗卜朧」。	55
 漆暗墨朧	tshaq ei-e moq lon		274				55
@@ -18165,7 +17503,6 @@
 插銷	tshaq shiau	311					
 尺四鑊	tshaq sy ghon	310	96	48			55
 尺四鑊	tshaq sy ghoq		96	48			55
-尺四鑊吊起	tshaq sy ghoq tiau chi						
 拆搭	tshaq taq	311	252	192			55
 拆短	tshaq toe	311	191				55
 珿斬斯齊	tshaq tsae sy zhi	311					55
@@ -18200,7 +17537,6 @@
 拆蝕	tshaq zhiq		187	192			55
 撮着	tshaq zoq						
 撮着撮	tshaq zoq tshaq						
-撮着自	tshaq zoq zhi						
 插座	tshaq zou	311					
 測字	tshaq zy	311					
 測字先生	tshaq zy shi san	311					55
@@ -18216,8 +17552,6 @@
 草棚棚	tshau ban ban	87					55
 吵朋烏龜	tshau ban u ciu	86	33	157			55
 草蓬	tshau bon	87	104	242			55
-草蓬腳下勿可坐	tshau bon ciaq gho vaq khou zou						
-草蓬腳下弗可坐	tshau bon ciaq gho vaq khou zou						1
 草青	tshau chin	87					55
 草雞	tshau ci	86	110	241			
 騲雞	tshau ci		110	417			55
@@ -18259,7 +17593,6 @@
 草子	tshau tsy	86	115	241			55
 草紙	tshau tsy	86					
 草子炒年糕	tshau tsy tshau gni kau						
-草子種三年	tshau tsy tson sae gni						
 炒豬肝	tshau tsyu ki-ke	86					55
 吵房	tshau vaon	86	180	157			55
 草上飛	tshau zaon fi	87					55
@@ -18467,7 +17800,6 @@
 忖走到	tshen tseu tau						
 忖唱	tshen tshaon						
 忖忖	tshen tshen						
-忖忖好像諸葛亮	tshen tshen hau zhian tsyu kaq lian						
 忖忖看	tshen tshen khe						
 忖穿	tshen tshoe						
 忖出	tshen tshyuq						
@@ -18638,8 +17970,6 @@
 川烏	tshoe u		67				55
 穿勿及	tshoe vaq ji						
 穿弗及	tshoe vaq ji						1
-穿勿窮	tshoe vaq jion						
-穿弗窮	tshoe vaq jion						1
 穿勿來	tshoe vaq le						
 穿弗來	tshoe vaq le						1
 穿羊絨衫	tshoe yan gnion sae						
@@ -18771,7 +18101,6 @@
 春耕	tshyun kan	280					
 春假	tshyun ko	280					
 春冷	tshyun lan	280					55
-春冷凍煞㹙	tshyun lan ton saq an						
 春雷響	tshyun lei shian						
 春牛圖	tshyun ngeu du	280					55
 春暴頭	tshyun pau deu	280		236			55
@@ -18790,7 +18119,6 @@
 出雞屙	tshyuq ci ou	371					
 出雞涴	tshyuq ci ou	371					55
 出賬	tshyuq cian	372					
-出張嘴巴	tshyuq cian tsyu po						
 出腳	tshyuq ciaq	372	164				418
 出腳大仙	tshyuq ciaq da shi	372					55
 出腳泥螺	tshyuq ciaq gni lou	372					55
@@ -18808,7 +18136,6 @@
 出河頭	tshyuq ghou deu						
 出灰	tshyuq huei						
 出場	tshyuq jian			79			
-出張嘴巴	tshyuq jian tsyu po						
 出格	tshyuq kaq	372	285	79			
 出格皮	tshyuq kaq bi						
 出格便宜	tshyuq kaq bi gni						
@@ -18920,17 +18247,11 @@
 種田腳跟	tson di ciaq ken						
 種田紅	tson di ghon						
 種田人	tson di gnin	289	24				55
-種田人講節氣	tson di gnin kaon ciq chi						
-種田人靠三生	tson di gnin khau sae san						
-種田人靠天	tson di gnin khau thi						
-種田人對屁眼	tson di gnin tei phi ngae						
-種田好甮學	tson di hau ven ghoq						
 種田看苗繩	tson di khi-khe miau zhin						
 種田麥摐	tson di maq tshaon		25				55
 種田繩	tson di zhin	289	105	262			55
 種大稻	tson dou dau						
 供大人	tson dou gnin						
-種番薯靠灰	tson fae zyu khau huei						
 中風	tson fon	288					
 中央	tson gnian	288	10	34			
 宗仰	tson gnian	288					
@@ -18962,7 +18283,6 @@
 鐘錶店	tson piau ti	288					
 衆生	tson san	288	32	117			
 中式褲	tson shiq khu	288					55
-中禿頂犯關	tson thaq tin vae kuae						
 總督羹	tson toq kan	289					55
 中裝	tson tsaon	288					
 種草	tson tshau		129	262			55
@@ -19021,7 +18341,6 @@
 捉來捉去	tsoq le tsoq chi						
 捉漏	tsoq leu	341	193	292			55
 𡎺漏	tsoq leu	341		403, 414			55
-捉漏趁天晴	tsoq leu chin thi zhin						
 竹瀝	tsoq liq	340					55
 斫毛竹	tsoq mau tsoq						
 摘帽子	tsoq mau tsy		325				
@@ -19094,7 +18413,6 @@
 足	tsoq7	340	286	157			
 做爿廠	tsou bae chian						
 做病	tsou bin	184	171	358			55
-做病容易收病難	tsou bin yon yi shieu bin nae						
 做部汽車	tsou bu chi tsho						
 做部腳踏車	tsou bu ciaq daq tsho						
 做秋汏	tsou chieu da						
@@ -19160,7 +18478,6 @@
 做功德	tsou kon taq	184	181	359			55
 做梗	tsou kuan						
 做規矩	tsou kuei ciu		140				55
-做官請坐	tsou kun chin zou						
 做賴三	tsou la sae						
 做冷訊	tsou lan shin	184					55
 做勒及	tsou laq ji						
@@ -19180,8 +18497,6 @@
 做嘸沒做着	tsou mhiq tsou zoq						
 做瓦筒個	tsou ngo don ghoq						55
 做瓦筒個	tsou ngo don goq	183					55
-做囡勿斷孃家路	tsou noe vaq doe gnian ko lu						
-做囡弗斷孃家路	tsou noe vaq doe gnian ko lu						1
 做惡	tsou oq		199				55
 做惡人	tsou oq gnin		199				55
 做繃子	tsou pan tsy	183	191				55
@@ -19198,7 +18513,6 @@
 做生活	tsou san wo	184	191	360			50000
 做傷	tsou saon	184					55
 做煞可憐	tsou saq khou li						
-做煞嘸相干	tsou saq mh shian ki-ke						
 做色做號	tsou saq tsou ghau		270	3			55
 做色做樣	tsou saq tsou yan	184	270	3, 361			55
 做燥梅	tsou sau mei		212				55
@@ -19221,16 +18535,10 @@
 做則	tsou tsaq		203	358			55
 做隻褲腳筒	tsou tsaq khu ciaq don						
 做初一	tsou tshu iq		323				55
-做出事體三勿像	tsou tshyuq zy thi sae vaq zhian						
-做出事體三弗像	tsou tshyuq zy thi sae vaq zhian						1
-做磚頭靠坯	tsou tsoe deu khau phei						
 做種	tsou tson		194				55
 做作	tsou tsoq	184					
 做做隊	tsou tsou dei	183					55
 做做煞煞	tsou tsou saq saq		337				55
-做做死蟹一隻	tsou tsou shi ha iq tsaq						
-做做瘟跌倒	tsou tsou uen tiq tau						
-做做𣍐做煞	tsou tsou vei tsou saq						
 做仔	tsou tsy	184	203				55
 做主意	tsou tsyu i		323				55
 做房	tsou vaon		192	358			55
@@ -19261,14 +18569,12 @@
 左右	tsou yeu						
 做上加做	tsou zaon ko tsou		333				55
 做市	tsou zy	182	205	357			55
-做事要對手	tsou zy iau tei shieu						
 做事體	tsou zy thi	182	190	360			55
 做	tsou5	182	152, 202, 270, 300	357			
 祖基	tsu ci	47		282			55
 祖宗大人	tsu tson da zyun						
 祖宗堂	tsu tson daon	47					55
 紫葡萄	tsy bu dau		75	396			
-志氣要爭	tsy chi iau tsan						
 紫絳紅	tsy cian ghon	2	272				55
 紫絳色	tsy cian saq			396			
 紙筋	tsy cin		87				55
@@ -19279,7 +18585,6 @@
 紙頭煝腐	tsy deu mei vu						
 紙頭𤈦腐	tsy deu mei vu						55
 紙頭打襉	tsy deu tan kae						
-紙團撮過	tsy doe tshaq kou						
 紫銅	tsy don	2					
 紙行	tsy ghaon	2					
 之後	tsy gheu	1					
@@ -19380,9 +18685,7 @@
 嘴巴皮	tsyu po bi	7	44	479			55
 嘴巴噘噘	tsyu po ciuq ciuq	8					55
 嘴巴淡出	tsyu po dae tshyuq						
-嘴巴饞癆	tsyu po dzae lau						
 嘴巴發出	tsyu po faq tshyuq						
-嘴巴講勒歪	tsyu po kaon laq hua						
 嘴巴講燥	tsyu po kaon sau						
 嘴巴牢	tsyu po lau	8					55
 嘴巴嘸味道	tsyu po mh mi dau	8					55
@@ -19450,7 +18753,6 @@
 㰵	tsyuq7	371	136	407	吮吸	《鄞縣通志》p.2998。《阿拉宁波话》作「咂」，音不合。	
 都整	tu cin	45	283				55
 賭鬼	tu ciu		32				
-賭場撮引	tu jian tshaq yin						
 賭客	tu khaq	45					
 賭坯	tu phei	45	32	400			55
 賭輸贏	tu syu yin						
@@ -19493,7 +18795,6 @@
 烏倫村	u len tshen	52	13	43			55
 烏鱧魚	u li ng	51	69	43			55
 烏鱧魚瓜	u li ng kuo	51	74	44			55
-烏鱧魚扮河樁	u li ng pae ghou tsaon						
 烏鱧魚子	u li ng tsy						
 烏溜溜	u lieu lieu	52					
 烏溜滑水	u lieu waq syu						
@@ -19558,10 +18859,8 @@
 熩	u5		189				
 壞喫	ua chioq	73	277	137			55
 壞喫芋艿頭	ua chioq n na deu	73	33	137			
-壞田變好田	ua di pi hau di						
 壞過	ua kou	73	177	137			55
 壞坯子	ua phei tsy	73	33				55
-壞做種	ua tsou tson						
 壞	ua1	73	248	137			
 窪	ua1		8				
 挽親託眷	uae chin thoq ciu						
@@ -19680,7 +18979,6 @@
 飯𣖄	vae chiau	134	98	169	盛飯勺	𣖄，《廣韻》七遙切，抄飯匙也。音義合。《阿拉宁波话》又作「飯鍬」，非。	55
 飯𣖄骨	vae chiau kuaq	134	45	170	俗稱，肩胛骨	湯版作「飯翹骨」，《阿拉宁波话》又作「飯鍬骨」，非。	55
 飯喫勒悶飽	vae chioq laq mhen pau						
-飯喫三碗	vae chioq sae un						
 飯喫煞	vae chioq saq		320				55
 飯喫忒多	vae chioq thaq tou						
 飯喫忒多	vae chioq thou tou						
@@ -19690,14 +18988,11 @@
 飯僵脯𡀂	vae cian bu lei	134					55
 飯蒸	vae cin	134	96	169			55
 萬金油	vae cin yeu						
-晚稻篤勒塥	vae dau toq laq kaq						
 飯頭腦	vae deu nau	134	24	169			55
 飯桶	vae don	134					
 煩雜	vae dzaq	133	255	322			
 犯着	vae dzoq		198	67			55
 犯法	vae faq	134					
-飯後莫跑	vae gheu mau bau						
-飯後莫跑	vae gheu mhau bau						
 飯鑊	vae ghoq	135	96	169			578
 飯鑊頭蒼蠅	vae ghoq deu tshaon in	135	35	170			55
 飯鑊飲湯	vae ghoq in thaon	135	61	170			55
@@ -19727,7 +19022,6 @@
 飯籃	vae lae	134	98				55
 飯籃筲箕	vae lae sau ci	134	98				55
 飯籃吊起	vae lae tiau chi						
-飯冷冷	vae lan lan						
 煩勒可憐	vae laq khou li						
 犯落	vae loq			67			
 犯落丫臉勿認人	vae loq o li vaq gnin gnin						
@@ -19767,7 +19061,6 @@
 飯師父	vae sy vu	134	24	170			55
 飯單	vae tae	134	58	169			55
 飯單襟	vae tae cin	134					55
-萬打萬	vae tan vae						
 凡到	vae tau		283	23			55
 犯對	vae tei	133	195	67			55
 犯天打	vae thi tan	133					55
@@ -19791,7 +19084,6 @@
 犯賤	vae zhi	133	198	67			
 犯着	vae zoq	134					55
 犯熟地	vae zoq di		206				55
-飯是鋼	vae zy kaon						
 煩	vae2	133	198	322			
 範	vae4	135	200	197			
 飯	vae6	134	61	168			
@@ -19842,12 +19134,6 @@
 罰願	vaq gniu	304	140	256			55
 勿好	vaq hau		298				
 弗好	vaq hau						55
-勿好欠衆家	vaq hau chi tson ko						
-弗好欠衆家	vaq hau chi tson ko						1
-勿好落夜	vaq hau loq ya						
-弗好落夜	vaq hau loq ya						1
-勿好單頭重	vaq hau tae deu dzon						
-弗好單頭重	vaq hau tae deu dzon						1
 勿依	vaq i	303					
 弗依	vaq i						55
 勿及	vaq ji		297				
@@ -19862,10 +19148,6 @@
 弗合算	vaq kaq soe						578
 勿肯歇	vaq khen shiq	304	176				
 弗肯歇	vaq khen shiq			76			55
-勿可買喫食	vaq khou ma chioq zhiq						
-弗可買喫食	vaq khou ma chioq zhiq						1
-勿可搭笨人出主意	vaq khou taq ben gnin tshyuq tsyu i						
-弗可搭笨人出主意	vaq khou taq ben gnin tshyuq tsyu i						1
 勿可做絕	vaq khou tsou dzyuq						
 弗可做絕	vaq khou tsou dzyuq						1
 勿敢當	vaq ki-ke taon	303					
@@ -19874,18 +19156,11 @@
 弗過	vaq kou			75			55
 勿管賬	vaq kun cian	304	314				
 弗管賬	vaq kun cian			78			55
-勿冷勿熱阿講做	vaq lan vaq gniq aq kaon tsou						
-弗冷弗熱阿講做	vaq lan vaq gniq aq kaon tsou						1
-勿冷勿熱阿講做	vaq lan vaq gniq oq kaon tsou						
-弗冷弗熱阿講做	vaq lan vaq gniq oq kaon tsou						1
 勿啦	vaq laq		303				418
 弗啦	vaq laq			254			1000
 弗老氣	vaq lau chi			76			
 勿來	vaq le		297				20000
 弗來	vaq le			75			60000
-佛來張	vaq le cian						
-勿來傷陰騭	vaq le saon in ciq						
-弗來傷陰騭	vaq le saon in ciq						1
 勿論	vaq len	304					
 弗論	vaq len						55
 勿落直	vaq loq jiq						
@@ -19896,8 +19171,6 @@
 弗問時候	vaq men zy gheu						1
 勿鞔鼓中心	vaq mun ku tson shin						
 弗鞔鼓中心	vaq mun ku tson shin						1
-勿怕路翻向	vaq pho lu fae shian						
-弗怕路翻向	vaq pho lu fae shian						1
 勿三勿四	vaq sae vaq sy						
 弗三弗四	vaq sae vaq sy						1
 勿生好心	vaq san hau shin	304	300				
@@ -19943,10 +19216,6 @@
 弗做肉	vaq tsou gnioq			77			55
 勿服	vaq voq	304					
 弗服	vaq voq						55
-勿會寫字多蘸筆	vaq wei shia zy tou tsae piq						
-弗會寫字多蘸筆	vaq wei shia zy tou tsae piq						1
-勿會走路多磕跌	vaq wei tseu lu tou khaq tiq						
-弗會走路多磕跌	vaq wei tseu lu tou khaq tiq						1
 勿有	vaq yeu		298				
 弗有	vaq yeu						55
 勿上課	vaq zaon khou	303	313				
@@ -19961,20 +19230,10 @@
 弗然	vaq zoe						55
 勿是	vaq zy		300				70000
 弗是	vaq zy			75			170000
-勿是碰就是別	vaq zy ban jieu zy biq						
-弗是碰就是別	vaq zy ban jieu zy biq						1
-勿是爬就是挖	vaq zy bo jieu zy uaq						
-弗是爬就是挖	vaq zy bo jieu zy uaq						1
 弗是介	vaq zy ka			77			
-勿是怕老婆	vaq zy pho lau bou						
-弗是怕老婆	vaq zy pho lau bou						1
 勿是生意經	vaq zy san i cin		339				
 弗是生意經	vaq zy san i cin			78			55
 弗是話頭	vaq zy wo deu			78			
-勿如值鈿樹棦	vaq zyu jiq di zyu tsan						
-弗如值鈿樹棦	vaq zyu jiq di zyu tsan						1
-勿如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci						
-弗如過橋石板鋪一記	vaq zyu kou jiau zaq pae phu iq ci						1
 勿入料	vaq zyuq liau	303					
 弗入料	vaq zyuq liau						55
 弗入流	vaq zyuq lieu			75			
@@ -19983,7 +19242,6 @@
 弗	vaq8		296	75			
 罰	vaq8		171	256			
 𠲎	vaq8		303	254			
-𣍐起白殕	vei chi baq fu						
 𣍐大	vei da		296				55
 𣍐咋	vei dza		296				55
 𣍐好	vei hau	165	285	317			578
@@ -19992,14 +19250,12 @@
 𣍐難熬	vei nae ngau		322				55
 浮屍	vei sy		34	324			578
 𣍐錯	vei tshou		249				55
-𣍐做拔筋骸	vei tsou baq cin hae						
 𣍐話	vei wo	165	253	317			55
 𣍐	vei2	165	296	317			
 文憑	ven bin	252					
 文氣	ven chi	252		44			
 墳頭	ven deu		8				
 文大糊	ven dou wu						
-蚊蟲多一半	ven dzon tou iq pun						
 份衣	ven i			113			
 份成三股生	ven jin sae ku san						
 文具店	ven jiu ti	252					
@@ -20078,16 +19334,11 @@
 還只	wa ciq	72	289	147			55
 還好	wa hau	72					
 還好燒火	wa hau shiau hou						
-還要怪刀鈍	wa iau kua tau den						
-還要凍三凍	wa iau ton sae ton						
 還來紹興	wa le zhiau shin						
 懷錶	wa piau	72					
 還當福氣	wa taon foq chi						
 還搭	wa taq				或者；或是		
-還差一碗割螄螺	wa tsho iq un kaq sy lou						
 還有	wa yeu		39				
-還有銅鈿好放生	wa yeu don di hau faon san						
-還有三兩銅	wa yeu sae lian don						
 𠿭	wa2			468			
 環肩胛	wae ci kaq	149					55
 還俗	wae dzoq	149					
@@ -20181,8 +19432,6 @@
 黃蛤	waon kaq			341			
 黃狗	waon keu		109	340			55
 黃狗甩尾巴	waon keu huaq mi po						
-黃狗管福禮	waon keu kun foq li						
-黃狗貓滰肉	waon keu mae jian gnioq						
 黃狗咬痛腳	waon keu ngau thon ciaq		341				
 黃狗拖來一梗臭年糕	waon keu thou le iq kan chieu gni kau						
 黃狗拖來一梗臭年糕	waon keu thou le iq kuan chieu gni kau						
@@ -20190,7 +19439,6 @@
 惶恐	waon khon	244	177	412			
 黃狗	waon ki-ke	242	109	340			55
 黃狗甩尾巴	waon ki-ke huaq mi po						
-黃狗貓滰肉	waon ki-ke mae jian gnioq						
 黃狗咬痛腳	waon ki-ke ngau thon ciaq		341				
 黃狗拖來一梗臭年糕	waon ki-ke thou le iq kan chieu gni kau						
 黃狗拖來一梗臭年糕	waon ki-ke thou le iq kuan chieu gni kau						
@@ -20236,7 +19484,6 @@
 旺興丁	waon shin tin	244	30	204			55
 黃沙	waon so	243					
 黃沙日	waon so gniq						
-皇帝老官打其跔	waon ti lau kun tan ji geu						
 皇帝老官打渠跔	waon ti lau kun tan ji geu						
 黃草雞	waon tshau ci		68				55
 黃糙米	waon tshau mi	243					55
@@ -20244,10 +19491,7 @@
 黃終爛熟	waon tson lae zoq	244					55
 黃腫爛熟	waon tson lae zoq		264				55
 黃鼠狼	waon tsy laon	242					
-黃鼠狼獨張皮	waon tsy laon doq cian bi						
-黃鼠狼獨張皮	waon tsy laon doq jian bi						
 黃鼠狼弶	waon tsy laon jian						
-黃鼠狼看蒲樣	waon tsy laon khi-khe bu yan						
 旺旺動	waon waon don	244	243	205			55
 黃楊	waon yan	243					
 黃樣樣	waon yan yan						
@@ -20268,7 +19512,6 @@
 滑稽戲	waq ci shi	331					
 劃帳	waq cian	331					55
 活腳	waq ciaq	330	254	277			55
-滑進大好佬	waq cin dou hau lau						
 活結	waq ciq	331					
 還只	waq ciq			147			
 活鬼	waq ciu		131	277			55
@@ -20280,7 +19523,6 @@
 活大翹	waq dou jiau						
 滑饞饞	waq dzae dzae		261	411			55
 活撞活顛	waq dzaon waq ti		335	278			55
-活人臭	waq gnin chieu						
 滑滯滯	waq ji ji	331					55
 滑腸	waq jian	331	172				55
 活股結	waq ku ciq	331					55
@@ -20299,9 +19541,7 @@
 活靈勿生	waq lin vaq san						
 活靈弗生	waq lin vaq san						1
 活靈𧼰進	waq lin zaq cin		335				55
-活靈𧼰進大好佬	waq lin zaq cin dou hau lau						
 活靈𧼰出	waq lin zaq tshyuq		335				55
-活靈𧼰出坐監牢	waq lin zaq tshyuq zou kae lau						
 活靈入進	waq lin zyuq cin		335				55
 滑立滑澾	waq liq waq daq		261				55
 活龍	waq lon	330	265				55
@@ -20318,7 +19558,6 @@
 活猻帽	waq sen mau		56	277			55
 活猻屁股	waq sen phi ku	330					55
 活猻屁股紅冬冬	waq sen phi ku ghon ton ton						
-活猻掇熱石	waq sen taq gniq zaq						
 活猻倒穀	waq sen tau koq						
 活猻的剝	waq sen tiq poq		248				55
 活相	waq shian		237				55
@@ -20333,7 +19572,6 @@
 活吞活滾	waq then waq kuen		237				55
 活氽活滾	waq then waq kuen	330		277			55
 活出離	waq tshyuq li	330					55
-滑出瘟跌倒	waq tshyuq uen tiq tau						
 滑子	waq tsy	331	91	410			55
 活無常	waq vu dzaon						
 活無常	waq wu- dzaon						
@@ -20352,7 +19590,6 @@
 會庉弄堂篤底	wei den lon daon toq ti						
 回頭	wei deu	174	139	109			
 回頭人	wei deu gnin	174					
-會賺銅鈿多揹債	wei dzae don di tou pei tsa						
 蛔蟲朝下	wei dzon jiau gho		338				55
 回訪	wei faon	174					
 爲好除妙	wei hau dzyu miau		328				55
@@ -20360,10 +19597,7 @@
 回𩌑	wei iu			109			
 圍棋	wei ji	174					
 會場裏紅紅響	wei jian li ghon ghon shian						
-會講言話多招怪	wei kaon ghae wo tou ciau kua						1
-會講閒話多招怪	wei kaon ghae wo tou ciau kua						
 會講會話	wei kaon wei wo						
-會講會話是先生	wei kaon wei wo zy shi san						
 會開口	wei khe kheu						
 胃口	wei kheu	175					
 桅杆	wei ki-ke	174					
@@ -20372,7 +19606,6 @@
 匯角	wei koq	175	84	70			55
 匯角頭	wei koq deu	175	84	70			55
 匯角沿	wei koq yi	175	84	70			55
-爲了省省禍	wei laq san san ghou						
 爲來爲去	wei le wei chi		328				55
 回門	wei men	174	180				
 回屋裏	wei oq li						
@@ -20398,9 +19631,6 @@
 會鈔	wei tshau	175					
 回轉去	wei tsoe chi	174					55
 回轉來	wei tsoe le	174					55
-會做也勿難	wei tsou gha vaq nae						
-會做也弗難	wei tsou gha vaq nae						1
-會做也弗難	wei tsou gha vaq nae						
 爲仔	wei tsy	175	299				55
 爲仔講	wei tsy kaon	175					55
 喂喂	wei wei			155			
@@ -20411,7 +19641,6 @@
 匯	wei4		9				
 胃	wei6	175					
 混堂	wen daon	278	87	376			55
-混堂取當	wen daon tshyu taon						
 渾淘淘	wen dau dau	278	221	280			55
 混道羅	wen dau lou						
 餛飩	wen den	278					
@@ -20430,10 +19659,8 @@
 渾身勿搭界	wen shin vaq taq ka		340				
 渾身弗搭界	wen shin vaq taq ka						55
 渾水	wen syu	277					
-渾水越澄越清	wen syu yuq tin yuq chin						
 渾頓頓	wen ten ten	278	221	216, 280			55
 混草	wen tshau	278					55
-混混日腳過	wen wen gniq ciaq kou						
 渾	wen2	277					
 鏵鍬	wo chiau	121	103	354			55
 畫境線	wo cin shi	121	87				55
@@ -20451,7 +19678,6 @@
 話梅	wo mei	121					
 話撥儂聽	wo paq nou thin						
 話柄	wo pin	121	51	232			
-話柄是介長	wo pin zy ka jian						
 話把	wo po	121					55
 話勿起	wo vaq chi		321				
 話弗起	wo vaq chi			232			55
@@ -20492,8 +19718,6 @@
 護城河	wu jin ghou	51					
 黃狗	wu keu		109				55
 黃狗甩尾巴	wu keu huaq mi po						
-黃狗管福禮	wu keu kun foq li						
-黃狗貓滰肉	wu keu mae jian gnioq						
 黃狗咬痛腳	wu keu ngau thon ciaq						
 黃狗拖來一梗臭年糕	wu keu thou le iq kan chieu gni kau						
 黃狗拖來一梗臭年糕	wu keu thou le iq kuan chieu gni kau						
@@ -20501,8 +19725,6 @@
 戶口簿	wu kheu bu						
 黃狗	wu ki-ke	242	109				55
 黃狗甩尾巴	wu ki-ke huaq mi po						
-黃狗管福禮	wu ki-ke kun foq li						
-黃狗貓滰肉	wu ki-ke mae jian gnioq						
 黃狗咬痛腳	wu ki-ke ngau thon ciaq						
 黃狗拖來一梗臭年糕	wu ki-ke thou le iq kan chieu gni kau						
 黃狗拖來一梗臭年糕	wu ki-ke thou le iq kuan chieu gni kau						
@@ -20555,11 +19777,9 @@
 糊	wu2	50					
 午	wu4	51					
 緩調繟	wun diau dae	248		417			
-完全外行	wun dzoe nga ghaon						
 緩泛	wun fae	248	268	416			55
 緩泛頭	wun fae deu	248	268	416			55
 緩泛泛	wun fae fae	248	268	416			55
-換副筋骨	wun fu cin kuaq						
 換身衣裳	wun shin i zaon	248					55
 緩拖拖	wun thou thou	248					55
 野鴨	ya ae	71					
@@ -20584,7 +19804,6 @@
 夜紅霞	ya ghon ya	71					55
 夜人客	ya gnin khaq	71					55
 夜鱟	ya heu	71					55
-夜鱟曬開頭	ya heu sa khe deu						
 夜火米	ya hou mi		61				55
 野豁豁	ya huaq huaq		253				55
 夜場	ya jian	71					
@@ -20614,17 +19833,14 @@
 夜到晚頭	ya tau mae deu	70	13	218			55
 夜到末頭	ya tau maq deu	70					55
 夜到三塊板	ya tau sae khuei pae						
-夜到生三補褲襠	ya tau sen sae pu khu taon						
 夜到做賊做強盜	ya tau tsou zaq tsou jian dau						
 夜點心	ya te shin	70					55
 野𠡒	ya tei		253	350			55
 夜點心	ya ti shin	70					55
 夜草喂巴結	ya tshau wei po ciq						
 夜叉	ya tsho	70					
-夜做夜	ya tsou ya						
 野豬頭雲	ya tsyu deu yun	71	4	351			55
 夜飯	ya vae	71	62	218			
-夜飯要喫少	ya vae iau chioq shiau						
 夜活絡	ya waq loq						
 野狐臉	ya wu li	71	108	351	1. 面具; 2. 很髒的臉	《鄞縣通志》作「野狐臉」，可知末字爲「煙韻」，《阿拉宁波话》作「野狐狸」，音不合。	418
 野糊野糟	ya wu ya tsau						
@@ -20645,7 +19861,6 @@
 洋行	yan ghaon	223					
 羊絨衫	yan gnion sae						
 羊肉嘸沒喫	yan gnioq mhiq chioq						
-羊肉當作狗肉賣	yan gnioq taon tsoq keu gnioq ma						
 洋火	yan hou	223	97	279			
 楊花	yan huo	223					
 洋錢	yan ji		95				
@@ -20661,7 +19876,6 @@
 楊辣蜂𤈦	yan laq fon mei						
 洋辣毛	yan laq mau	223	112				55
 洋蠟燭	yan laq tsoq	223	94	279			55
-楊辣會撥蛤蚆拖	yan laq wei paq kaq po thou						
 楊柳腰	yan lieu iau	224					55
 楊陸河頭	yan loq ghou deu						
 揚麥	yan maq	223					55
@@ -20795,10 +20009,8 @@
 有鈿勿買疙瘩產	yeu di vaq ma kaq taq tshae						
 有鈿弗買疙瘩產	yeu di vaq ma kaq taq tshae						1
 有銅鈿	yeu don di						
-有銅鈿人坐包車	yeu don di gnin zou pau tsho						
 有肚才	yeu du dze						
 油坊	yeu faon	158					
-有福嘸福	yeu foq mh foq						
 游河	yeu ghou	159	168	411			418
 油肉	yeu gnioq	159	63	223			55
 油蒿氣	yeu hau chi	158	276	224			55
@@ -20819,15 +20031,12 @@
 有佬佃倌講⿰忄態話	yeu lau di kun kaon the wo						
 有佬人家殺豬羊	yeu lau gnin ko saq tsyu yan						
 有佬兒子	yeu lau ng tsy						
-有佬兒子甩差魚	yeu lau ng tsy huaq tsho ng						
 釉璃傢伙	yeu li ko hou			404			
 釉璃家火	yeu li ko hou	159	99				55
 有兩	yeu lian		119				
 有兩遭	yeu lian tsau	159	288	98			55
 有力	yeu liq		251	97			
 有力伸頭髮	yeu liq shin deu faq						
-有力勿好盡撐	yeu liq vaq hau jin tshan						
-有力弗好盡撐	yeu liq vaq hau jin tshan						1
 遊六門	yeu loq men		324				55
 有嘸	yeu m			97			
 有猛	yeu man	159	224				55
@@ -20858,7 +20067,6 @@
 由手	yeu shieu		289	60			55
 有星	yeu shin	160	41				418
 有身	yeu shin	159	180	97			
-有心好甮竈頭立	yeu shin hau ven tsau deu liq						
 有星格	yeu shin kaq	160					
 有身老𡢿	yeu shin lau gnion		25	99			55
 有心相	yeu shin shian	160	315	98			55
@@ -20871,8 +20079,6 @@
 遊四門	yeu sy men		324				55
 油水	yeu syu	158					
 有勢蛋	yeu syu dae		110				55
-有勢勿可盡行	yeu syu vaq khou jin ghan						
-有勢弗可盡行	yeu syu vaq khou jin ghan						1
 有得嘸便	yeu taq mh bi		269				55
 油燉	yeu ten	158					55
 油搨黃	yeu thaq waon	159	80	224			55
@@ -20898,8 +20104,6 @@
 有環	yeu wae			98			
 有還	yeu wae	159	224				55
 遊遊趤趤	yeu yeu dan dan						
-油鹽勿喫是梅豆	yeu yi vaq chioq zy mei deu						
-油鹽弗喫是梅豆	yeu yi vaq chioq zy mei deu						1
 有晌	yeu zaon	159	14	98			418
 油炸豆板	yeu zaq deu pae						
 油炸檜	yeu zaq kuei	159		224			55
@@ -21076,36 +20280,26 @@
 雨	yu4	55					
 耘稻	yun dau	279					55
 運道	yun dau	279	127	136			
-運道來了推勿開	yun dau le laq thei vaq khe						
-運道來了推弗開	yun dau le laq thei vaq khe						1
 運道是儂好	yun dau zy nou hau						
 雲頭	yun deu	279					
 耘田	yun di	279					
 暈車	yun tsho	279					
-運勿行	yun vaq ghan						
-運弗行	yun vaq ghan						1
 暈暈動	yun yun don	279	220	304			55
 閏月	yun yuq	279					
 暈船	yun zoe	279					
 雲	yun2	279					
 暈	yun6		123	304			
 月白	yuq baq	370					
-越拌越糟	yuq bun yuq tsau						
 越喫越甜	yuq chioq yuq di						
-越喫越饞癆	yuq chioq yuq dzae lau						
 月季	yuq ci	369					
 月洞門	yuq don men	369					
 月大	yuq dou	369					55
 抈大旗	yuq dou ji						
-越限越小	yuq ghae yuq shiau						
 粵語	yuq gniu						
 越劇	yuq jiq	370					
-越看越動火	yuq khi-khe yuq don hou						
 月家	yuq ko	369					55
 越加	yuq ko	370					
 月光	yuq kuaon	369					
-月裏奶花勿可𢱤	yuq li na hun vaq khou son						
-月裏奶花弗可𢱤	yuq li na hun vaq khou son						1
 月亮	yuq lian	369					
 月亮菩	yuq lian bu	369					55
 月亮菩薩	yuq lian bu saq	369	3	42			55
@@ -21122,7 +20316,6 @@
 月底邊	yuq ti pi	369	15				55
 月初	yuq tshu	369					
 月中	yuq tson	370					
-越捉越漏	yuq tsoq yuq leu						
 月份	yuq ven	369					
 月份牌	yuq ven ba	369					
 月湖	yuq wu	369					
@@ -21162,7 +20355,6 @@
 劖板鋤	zae pae zyu						
 饞脫	zae thaq	144					55
 饞唾	zae thu	144	44	278, 405			418
-饞唾一沰	zae thu iq toq						
 饞唾水	zae thu syu	144	44	278			418
 劖着劖	zae zoq zae						
 嚵	zae2	144	204				
@@ -21215,13 +20407,11 @@
 上工	zaon kon	238					
 牀公牀婆	zaon kon zaon bou	236					55
 上個月	zaon kou yuq	237					
-上管聯合國造孽	zaon kun li ghaq koq zau gniq						
 上老當	zaon lau taon		199				55
 上麗片	zaon li phi						
 上樑	zaon lian	237	193				
 上樑酒	zaon lian cieu	237					55
 上兩日	zaon lian gniq	237					55
-上兩要𤖼鯗	zaon lian iau phaq shian						
 上樑勿正	zaon lian vaq cin						
 上樑弗正	zaon lian vaq cin						1
 上疄頭	zaon lin deu	238					55
@@ -21261,7 +20451,6 @@
 上半日	zaon pun gniq	237	13	18			55
 上半日頭	zaon pun gniq deu	237	13	18			55
 上半夜	zaon pun ya	237					
-上半夜忖忖人家	zaon pun ya tshen tshen gnin ko						
 上山	zaon sae	237					
 上三下代	zaon sae gho de						
 上山健	zaon sae ji						
@@ -21320,7 +20509,6 @@
 石宕	zaq daon		6	55			55
 賊鈍	zaq den		227				55
 石頭	zaq deu	315					
-石頭壓腳面	zaq deu aq ciaq mi						
 賊頭狗腦	zaq deu keu nau	315	248	306			55
 石撞	zaq dzaon		114	55			55
 石戇	zaq gaon		114	55			55
@@ -21360,7 +20548,6 @@
 石巖	zaq ngae	315					55
 石硬	zaq ngan	315	263	55			55
 賊窩家	zaq ou ko	315	120				55
-石板頂摜烏龜	zaq pae ten guae u ciu						
 石板還潮	zaq pae wae jiau					俗語，下句爲「落雨明朝」	
 賊坯	zaq phei	315	33				55
 賊擔虛㽺病	zaq tae shiu shiq bin						
@@ -21401,7 +20588,6 @@
 造孽	zau gniq	88	142	308			
 造孽朋	zau gniq ban	88	34	309			55
 造孽精	zau gniq cin	88	34				55
-造孽只好造半場	zau gniq ciq hau zau pun jian						
 造孽頭朋	zau gniq deu ban	88	34				55
 造孽言話	zau gniq ghae wo		52				55
 造孽閒話	zau gniq ghae wo		52				
@@ -21419,11 +20605,8 @@
 裁頭刮腳	ze deu kuaq ciaq		338	266			55
 裁片	ze phi	125	60	387			55
 裁縫	ze von	125					
-裁縫嘸紐襻	ze von mh gnieu phae						
 裁縫師父	ze von sy vu	125					55
 裁縫店	ze von ti	125					
-裁縫勿落布	ze von vaq loq pu						
-裁縫弗落布	ze von vaq loq pu						1
 裁	ze2	125	137	266			
 載	ze6			289			
 隨便咋	zei bi dza		292				55
@@ -21469,7 +20652,6 @@
 蠶	zei-ze2	170					
 層	zen2	256	167	180, 333			
 層	zen6	256	167	333			
-愁六月嘸日頭	zeu loq yuq mh gniq deu						
 愁煞死	zeu saq shi						
 愁心	zeu shin			431			
 愁水步鴣	zeu syu bu ku						
@@ -21500,9 +20682,7 @@
 自講自話	zhi kaon zhi wo						
 前夾	zhi kaq		64				55
 前夾身	zhi kaq shin	37	64	273			55
-前磕跌	zhi khaq tiq						
 自敲自封	zhi khau zhi fon						
-自抲章程	zhi kho tsaon jin						
 自家	zhi ko	38	39	113			230000
 自家動手	zhi ko don shieu						
 自家方便	zhi ko faon bi						
@@ -21511,8 +20691,6 @@
 自家來	zhi ko le						
 自家寫	zhi ko shia						
 自家做	zhi ko tsou						
-自家做做來勿及	zhi ko tsou tsou le vaq ji						
-自家做做來弗及	zhi ko tsou tsou le vaq ji						1
 徐家窪	zhi ko ua						
 齊過	zhi kou		229				55
 前個月	zhi kou yuq	37					55
@@ -21523,12 +20701,9 @@
 前兩年	zhi lian gni	37					55
 前兩日	zhi lian gniq	37					55
 自唸叨婆	zhi ne-gnie tau bou						
-自傲饅頭白	zhi ngau mun deu baq						
-自生自值鈿	zhi san zhi jiq di						
 前生前世	zhi san zhi shi	37	292	274			55
 前世	zhi shi			273, 274			
 自曉得	zhi shiau taq		317				55
-前禿儇	zhi thaq huae						
 自做㕶頭	zhi tsou ng deu			114			
 徐洋	zhi yan						
 自造廠	zhi zau chian		133				55
@@ -21564,7 +20739,6 @@
 牆角落頭	zhian koq loq deu	222					55
 牆裏	zhian li						
 牆門	zhian men	222	85	444			55
-牆門對牆門	zhian men tei zhian men						
 像模白樣	zhian moq baq yan						
 像模像樣	zhian moq zhian yan			433			
 牆外頭	zhian nga deu	222					55
@@ -21576,12 +20750,8 @@
 像煞	zhian saq	222	291				55
 像煞有介事	zhian saq yeu ka zy	222	341				
 像煞是介	zhian saq zy ka						
-牆倒戤着壁	zhian tau ge dzoq piq						
-牆倒戤着壁	zhian tau ge zoq piq						
 象	zhian4	222					
 若要牛出力	zhiaq iau ngeu tshyuq liq						
-若要身體好	zhiaq iau shin thi hau						
-若要草子好	zhiaq iau tshau tsy hau						
 嚼麥糕	zhiaq maq kau	326	141, 326	499			578
 嚼勿動	zhiaq vaq don	326					
 嚼弗動	zhiaq vaq don						55
@@ -21731,9 +20901,6 @@
 舌頭	zhiq deu	364					
 舌頭發出	zhiq deu faq tshyuq						
 舌頭𪚁𪚁	zhiq deu li li						
-舌頭咬落	zhiq deu ngau loq						
-舌頭打個滾	zhiq deu tan ghoq kuen						
-舌頭打個滾	zhiq deu tan goq kuen						
 石花	zhiq huo						
 石花凍	zhiq huo ton						
 蝕勒塔塔響	zhiq laq thaq thaq shian						
@@ -21742,7 +20909,6 @@
 食品店	zhiq phin ti	364					
 舌苔	zhiq the	363					
 食罩	zhiq tsau	364	98	266			55
-蓆草要種睏	zhiq tshau iau tson khuen						
 蓆子	zhiq tsy	364					691
 食指	zhiq tsy	364					
 席席嫩	zhiq zhiq nen	364					55
@@ -21766,9 +20932,6 @@
 鱔魚羹	zoe ng kan	152					55
 船尾巴	zoe ng po	152					55
 鱔絲	zoe sy						
-船到丈亭	zoe tau jian din						
-船到橋門自會直	zoe tau jiau men zy wei jiq						
-船到𦪴子頂會裝	zoe tau laq tsy ten wei tsaon						
 船樁樁牢	zoe tsaon tsaon lau						
 船洋	zoe yan	152					55
 旋鑿	zoe zoq		102	373			55
@@ -21783,8 +20946,6 @@
 昨日	zoq gniq	344	14	253			
 昨日子	zoq gniq tsy	344	14	253			418
 若要牛出力	zoq iau ngeu tshyuq liq						
-若要身體好	zoq iau shin thi hau						
-若要草子好	zoq iau tshau tsy hau						
 熟客熟主	zoq khaq zoq tsyu		249				55
 𧮙勒可憐	zoq laq khou li						
 昨末	zoq maq	344	14	253			30000
@@ -21860,7 +21021,6 @@
 字宅宅寫渠快	zy dzaq dzaq shia ji khua						
 事在人爲	zy dze zyun wei						
 自從	zy dzon	5					
-是非越辨越明	zy fi yuq bi yuq min						
 字號	zy ghau	5					
 事後諸葛亮	zy gheu tsyu kaq lian						
 市日	zy gniq	5					55
@@ -21883,7 +21043,6 @@
 自鳴鐘	zy min tson						
 鰣魚	zy ng	5					
 時眼	zy ngae	5	283	150			55
-字怕掛	zy pho kuo						
 柿餅	zy pin	5					
 時鮮	zy shi	4					
 字寫勒推扳	zy shia laq thei pae						
@@ -21974,8 +21133,6 @@
 順屁和尚	zyun phi ghou zaon						
 純怕	zyun pho	281					55
 順邊	zyun pi		10				55
-神仙難醫臌脹病	zyun shi nae i ku cian bin						
-神仙難夾色	zyun shi nae kaq saq						
 順手	zyun shieu	281	46				
 順手箬鰨	zyun shieu gnioq thaq		67				55
 順手骨接	zyun shieu kuaq ciq						
@@ -21993,8 +21150,6 @@
 神志無知	zyun tsy wu- tsyu	281	244	282			55
 神主牌	zyun tsyu ba	281					
 純是	zyun zy						20000
-純是頭	zyun zy deu						
-純是力氣	zyun zy liq chi						
 順順流流	zyun zyun lieu lieu	281					578
 順順湯湯	zyun zyun thaon thaon	281					418
 純	zyun2	281	282	185			
@@ -22015,16 +21170,13 @@
 實在忒	zyuq dze thou						
 十號	zyuq ghau	372					
 十個	zyuq ghoq						
-十個鬍子九個花	zyuq ghoq wu tsy cieu ghoq huo						
 十二六月好坐坐	zyuq gni loq yuq hau zou zou						
-十年檫樹好打船	zyuq gni tshaq zyu hau tan zoe						
 十二月	zyuq gni yuq	372					
 十二月嘸佬人家打相打	zyuq gni yuq mh lau gnin ko tan shian tan						
 十人九罵	zyuq gnin cieu mo						
 十人九傲	zyuq gnin cieu ngau		326				55
 十人九𧮙	zyuq gnin cieu zoq		326				55
 十個	zyuq goq	373					
-十個鬍子九個花	zyuq goq wu tsy cieu goq huo						
 實貨	zyuq hou	373	293	231			55
 十一	zyuq iq	373					
 十張	zyuq jian						
@@ -22037,8 +21189,6 @@
 入木	zyuq moq		173				55
 十磨九難	zyuq mou cieu nae						
 十外	zyuq nga	372	15	4			55
-十八個月走人家	zyuq paq ghoq yuq tseu gnin ko						
-十八個月走人家	zyuq paq goq yuq tseu gnin ko						
 日本言話	zyuq pen ghae wo						1
 日本閒話	zyuq pen ghae wo						
 十三檔算盤	zyuq sae taon soe bun						
@@ -22057,12 +21207,7 @@
 實惠	zyuq wei	373	238				
 實爲	zyuq wei		293				
 日暈	zyuq yun	373					
-十月還有一個夏	zyuq yuq gha yeu iq ghoq gho						
-十月還有一個夏	zyuq yuq gha yeu iq goq gho						
-十月芋艿爊雞娘	zyuq yuq n na au ci gnian						
 十月芋艿焐雞娘	zyuq yuq n na u ci gnian						
-十月還有一個夏	zyuq yuq wa yeu iq ghoq gho						
-十月還有一個夏	zyuq yuq wa yeu iq goq gho						
 集仕港	zyuq zy kaon						
 實實足足	zyuq zyuq tsoq tsoq				週歲		
 實實惠惠	zyuq zyuq wei wei	373					55

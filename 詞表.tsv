@@ -1462,7 +1462,7 @@
 七頭	chiq deu		120	5			55
 挈頭	chiq deu		49	288			55
 皵頭	chiq deu		127	422			55
-赤豆棒冰	chiq deu baon pin						
+赤豆棒冰	chaq deu baon pin						
 七頭清	chiq deu chin	359					55
 挈頭靈	chiq deu lin						
 七搞八搞	chiq gau paq gau	359	255	6			55
@@ -3224,13 +3224,14 @@
 地垟	di yan	22	5	91		《阿拉宁波话》作「地垟」，湯版作「地樣」。「垟」，田地義。	578
 地垟下底	di yan gho ti	22					55
 地垟裏	di yan li	22					55
-田塍	di yin	21		59			55
+田塍	di yin	21	5	59			55
+田塍埭	di yin da		5				55
 地園	di yu	22	7				55
 地牀	di zaon		92	91			55
 地蠶	di zei-ze		112				55
 簟匠	di zhian	23	24	492			55
 簟匠嘸籃環	di zhian mh lae guae						
-田塍	di zhin		5				55
+田塍	di zhin	21	5	59			55
 田塍埭	di zhin da		5				55
 甜食	di zhiq	22					
 電視開着	di zy khe jiaq						
@@ -4611,6 +4612,7 @@
 軋鬧猛	gaq nau man						
 軋姘頭	gaq phin deu	319					55
 軋煞中央人	gaq saq tson gnian gnin						
+軋煞中央人	gaq saq tson ian gnin						
 軋戲文場	gaq shi ven jian						
 軋刀	gaq tau	319	95				55
 軋叉	gaq tsha		57	101			55
@@ -5454,7 +5456,7 @@
 人意	gnin i	270	51	7			
 人意好纔是好	gnin i hau dze zy hau						
 人一潮	gnin iq jiau						
-人情急如債	gnin jin ciq zyu tsa						
+人情急如債	zyun jin ciq zyu tsa						
 寧直勿轉彎	gnin jiq vaq tsoe uae						
 人客	gnin khaq	270	23	7			578
 人客瘋	gnin khaq fon	270					55
@@ -5915,7 +5917,7 @@
 好忖	hau tshen		224				55
 好種出好稻	hau tson tshyuq hau dau						
 好做酒	hau tsou cieu						
-好做人情	hau tsou gnin jin		331				55
+好做人情	hau tsou zyun jin		331				55
 孝子	hau tsy	93					
 好仔還欠好	hau tsy wa chi hau						
 好壞	hau ua	92	291	130			
@@ -6665,7 +6667,7 @@
 一炷香	iq dzyu shian						
 一廚飯	iq dzyu vae						
 一炷墳	iq dzyu ven						
-一封人情	iq fon gnin jin						
+一封人情	iq fon zyun jin						
 一封蠟燭	iq fon laq tsoq						
 一封自來火	iq fon zy le hou						
 一號	iq ghau	365					
@@ -8019,7 +8021,7 @@
 瞌𥅻懵懂	khaq tshon mon ton	318	236				55
 瞌𥅻弗論好眠牀	khaq tshon vaq len hau mi zaon						1
 瞌晩勿論好眠牀	khaq vae vaq len hau mi zaon						
-揢黃鱔	khaq waon zoe						
+揢黃鱔	khaq waon yi						
 揢胡嚨頭	khaq wu lon deu						
 刻	khaq7	318	245	221			
 客	khaq7	318		281			
@@ -8671,7 +8673,7 @@
 該方	kiq faon						
 該方面	kiq faon mi						
 該封	kiq fon						
-該封人情	kiq fon gnin jin						
+該封人情	kiq fon zyun jin						
 該封蠟燭	kiq fon laq tsoq						
 該封自來火	kiq fon zy le hou						
 該幅	kiq foq						
@@ -8762,7 +8764,7 @@
 該一幢箱子	kiq iq dzaon shian tsy						
 該一幢書	kiq iq dzaon syu						
 該一幢碗	kiq iq dzaon un						
-該一封人情	kiq iq fon gnin jin						
+該一封人情	kiq iq fon zyun jin						
 該一封蠟燭	kiq iq fon laq tsoq						
 該一封自來火	kiq iq fon zy le hou						
 該一個	kiq iq ghoq						
@@ -9685,6 +9687,7 @@
 爛糖雞屙	lae daon ci ou		110				
 爛糖雞涴	lae daon ci ou		110				55
 爛稻刮田塍	lae dau kuaq di yin						
+爛稻刮田塍	lae dau kuaq di zhin						
 爛稻索	lae dau soq	140					55
 爛田	lae di	139					55
 爛唾水	lae do syu	139					
@@ -10200,6 +10203,7 @@
 洡碗刮盞	lei un kuaq tsae						
 雷雨	lei yu	168					
 雷雨隔田塍	lei yu kaq di yin						
+雷雨隔田塍	lei yu kaq di zhin						
 雷雨勿過江	lei yu vaq kou kaon						
 雷雨弗過江	lei yu vaq kou kaon						1
 了	lei2		302				
@@ -10369,7 +10373,7 @@
 蠣黃	li waon	26					
 蠣黃跑蛋	li waon bau dae	26					55
 蠣黃炒蛋	li waon tshau dae						
-劙黃鱔	li waon zoe						
+劙黃鱔	li waon yi						
 連鏵連碎	li wo li sei						
 旅遊鞋	li yeu gha	25					
 摙柴	li za						
@@ -10523,6 +10527,7 @@
 亮眼沙地	lian ngae so di		34				55
 兩眼竈	lian ngae tsau	214					55
 兩硬軋煞中央人	lian ngan gaq saq tson gnian gnin						
+兩硬軋煞中央人	lian ngan gaq saq tson ian gnin						
 兩百七	lian paq chiq	214					55
 兩百張	lian paq cian						
 兩百九	lian paq cieu	214					55
@@ -10537,7 +10542,7 @@
 兩百三	lian paq sae	214					55
 兩百四	lian paq sy	214					55
 兩包頭	lian pau deu						
-兩邊做人情	lian pi tsou gnin jin						
+兩邊做人情	lian pi tsou zyun jin						
 兩三埭	lian sae da						
 梁山伯廟	lian sae paq miau	213					55
 兩色半也要看	lian saq pun gha iau khi-khe						
@@ -14993,6 +14998,7 @@
 向	shian5	221	299	114			
 相	shian5	221	134, 307	243			
 削地𡍲	shiaq di taq	326					55
+削田塍	shiaq di yin						
 削田塍	shiaq di zhin						
 削番薯	shiaq fae zyu						
 削耳光	shiaq gni kuaon						
@@ -15632,7 +15638,7 @@
 送娘	son gnian		26	273			
 送娘爿	son gnian bae		26	273			
 送娘子	son gnian tsy	291	26	273			55
-送人情	son gnin jin		180				
+送人情	son zyun jin		180				
 松花	son huo		118				
 送場	son jian	291					55
 送轎	son jiau		180	273			55
@@ -17620,6 +17626,7 @@
 東嶴	ton au						
 冬青樹	ton chin zyu	284					
 冬季修田塍	ton ci shieu di yin						
+冬季修田塍	ton ci shieu di zhin						
 東借西拽	ton cia shi yiq		329				55
 東借西拽	ton cia shi yuq		329				55
 東張西望	ton cian shi maon						

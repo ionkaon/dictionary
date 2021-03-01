@@ -211,7 +211,7 @@
 飺	飺		dzy2										
 薋	薋		dzy2										
 柌	柌		dzy2										
-#			dzy2									dzy2	
+#			dzy2										
 遲	迟	dzi	dzy2	2					dzy2	11	0.10	新讀	
 墀	墀	dzi	dzy2	0							0.10	新讀	
 蚳	蚳	dzi	dzy2	0							0.10	新讀	
@@ -225,7 +225,7 @@
 泜	泜		dzy2								0.10	新讀	
 貾	貾		dzy2								0.10	新讀	
 阺	阺		dzy2								0.10	新讀	
-#			dzy2									dzi2 > dzy2	
+#			dzy2									dzi > dzy	
 褫	褫	dzi	dzy4	0							0.10	新讀	
 峙	峙	dzi	dzy4	2							0.10	新讀	
 恃	恃	z	dzy4	2	zy6	9	zy6	10	zy4	11			
@@ -237,7 +237,7 @@
 滍	滍		dzy4								0.10	新讀	
 庤	庤		dzy4								0.10	新讀	
 歭	歭		dzy4								0.10	新讀	
-#			dzy4									dzi4 > dzy4	
+#			dzy4									dzi > dzy	
 稚	稚		dzy6	1			dzy6	10				幼稚園	
 稺	稚		dzy6	1								幼稚園	
 穉	稚		dzy6	1								幼稚園	
@@ -1143,6 +1143,7 @@
 㸃	点		ti1	1			ti3	10			0.00	點心	
 敁	敁		ti1										
 顛	颠	tin	ti1	1	tii1	9	ti1	10	tien1	11			
+顚	颠	tin	ti1	1	tii1	9	ti1	10	tien1	11			
 滇	滇		ti1										
 巔	巅	tin	ti1	2	tii1	9							
 巓	巅	tin	ti1	2	tii1	9							
@@ -2011,6 +2012,7 @@
 畤	畤	dzi	ji2	3									
 #			ji2									尖音、衣韻	
 奇	奇	gyi	ji2	1	ji2	9	ji2	10	ji2	11			
+竒	奇	gyi	ji2	1	ji2	9	ji2	10	ji2	11			
 琦	琦	gyi	ji2	7									
 騎	骑	gyi	ji2	2	ji2	9	ji2	10	ji2	11			
 敧	敧		ji2	1							5000	用筷子、鉗子夾取	
@@ -2282,7 +2284,7 @@
 膩	腻	nyi	gni6	1	gni2	9	gni6	10	gni2	11			
 睨	睨	nyi	gni6	7									
 鶃	鶃	nyi	gni6	7									
-迡	迡		gni6										s
+迡	迡		gni6										
 羿	羿	nyi	gni6	7									
 詣	诣	nyi	gni6	7									
 劓	劓	nyi	gni6	7									
@@ -2805,6 +2807,7 @@
 練	练	lin	yi6	3							0.00	又音 僅限於“火赤練”	
 #			yi6									煙韻	
 衣	衣	i	i1	1	i1	9	i1	10	i1	11			
+衤	衤		i1										
 銥	铱		i1									化學元素	
 挔	挔		i1	3							578	咋挔	
 醫	医	i	i1	1	i1	9	i1	10	i1	11			x
@@ -4086,6 +4089,7 @@
 謣	謣		yu2										
 #			yu2									余韻	
 緣	缘	yün	yu2	2	yoe2	9	yu2	10	yoen2	11			
+縁	縁		yu2									同“緣”	
 圓	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
 円	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
 圎	圆	yün	yu2	1	yoe2	9	yu2	10	yoen2	11			
@@ -7473,7 +7477,8 @@
 緘	缄		kae5	2								白讀 緘默	
 椷	缄		kae5	2								白讀 緘默	
 尷	尴		kae5	1	kae1	9	kae1	10	kae1	11			
-尶	尴	kæn	kae5	1									
+尶	尴	kæn	kae5	1	kae1	9	kae1	10	kae1	11			
+尲	尲		kae5									同“尷”	
 揩	揩		kae5	3	kha1	9	kha1	10	kha1	11	0.05	擦（屁股）	#
 #			kae5										
 鉛	铅	kʽæn	khae1	1	khae1	9	khae1	10	khae1	11			
@@ -16208,7 +16213,7 @@
 逪	逪		tshoq7										
 鼀	鼀		tshoq7										
 臅	臅	tsʽôh	tshoq7	7									
-#			tsoq7									平舌	
+#			tshoq7									平舌	
 齪	龊	cʽoh	tshoq7	7									
 娖	娖	cʽoh	tshoq7	7									
 𥒭	𥒭	cʽoh	tshoq7	7									
@@ -17365,6 +17370,8 @@
 蔎	蔎		shiq7										
 烒	烒		shiq7										
 鉽	𫟸		shiq7										
+啥	啥		shiq7	3							0.00	又音 僅限於“啥西”	
+西	西	si	shiq7	3	shi1	9	shi1	10	chi1	11	0.00	又音 僅限於“啥西”	
 #			shiq7									尖音	
 歇	歇	hyih	shiq7	1	shiq7	9	shiq7	10	shiq7	11			
 蠍	蝎	hyih	shiq7	2	shiq7	9	shiq7	10	shiq7	11			
@@ -17402,9 +17409,7 @@
 恄	恄		shiq7										
 欯	欯		shiq7										
 隙	隙	kyʽih	shiq7	2	chiq7	9							
-啥	啥		shiq7	3							0.00	又音 僅限於“啥西”	
-西	西	si	shiq7	3	shi1	9	shi1	10	chi1	11	0.00	又音 僅限於“啥西”	
-#			shiq7										
+#			shiq7									團音	
 舌	舌	zih	zhiq8	1	zhiq8	9	zhiq8	10	zhiq8	11			
 席	席	zih	zhiq8	1	zhiq8	9	zhiq8	10	yiq8	11			
 蓆	席	zih	zhiq8	1	zhiq8	9							
@@ -17577,6 +17582,7 @@
 譎	谲	kyüih	ciuq7	7									
 閰	閰		ciuq7										
 孓	孓		ciuq7										
+孒	孒		ciuq7										
 憰	憰		ciuq7										
 芵	芵		ciuq7										
 蚗	蚗		ciuq7										

@@ -871,6 +871,8 @@
 氣門絕煞	chi men dzyuq saq	31					55
 氣悶	chi mhen	31					
 氣味	chi mi	31	277				
+氣味不剌	chi mi paq la						
+氣味不剌	chi mi paq laq						
 牽磨	chi mou	29					55
 氣惱糟	chi nau tsau		178				55
 氣耐勿牢	chi ne vaq lau	31					
@@ -889,6 +891,8 @@
 千世年庚	chi shi gni kan						
 千辛萬苦	chi shin vae khu	29					
 氣息	chi shiq		277	38			
+氣息不剌	chi shiq paq la						
+氣息不剌	chi shiq paq laq						
 氣血	chi shiuq	31					
 起血性	chi shiuq shin		322				55
 起沙	chi so		206	290			55
@@ -12024,6 +12028,8 @@
 乃該	nae ke			8			
 難看	nae khi-khe	138	233				
 難看掉	nae khi-khe diau	138	175				55
+難看不剌	nae khi-khe paq la						
+難看不剌	nae khi-khe paq laq						
 難過	nae kou	138	177				
 難弄	nae lon	138	245	333			55
 乃末	nae maq	139	14				55
@@ -18810,9 +18816,10 @@
 烏筱絲	u shiau sy		102	43			55
 捂心	u shin	52					55
 焐心	u shin		177				55
-污素	u su		266				55
-烏蘇	u su	51		123			
+污素	u su	51	266	123	骯髒，不乾淨		55
 焐酥豆	u su deu	52					55
+污素不剌	u su paq la				骯髒，不乾淨		
+污素不剌	u su paq laq				骯髒，不乾淨		
 烏筍	u syun	52	73	43			55
 萵筍	u syun	52					
 捂雪	u syuq		213	289			55

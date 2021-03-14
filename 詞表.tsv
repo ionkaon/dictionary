@@ -2899,7 +2899,7 @@
 頭頭順流	deu deu zyun lieu	195	329	72			55
 頭鈿	deu di	195	126	71			55
 頭大	deu dou	195	245	71			
-頭大不剌	deu dou paq la						
+頭大不剌	deu dou paq la						55
 頭大不剌	deu dou paq laq	195	245				55
 頭大煞	deu dou saq						
 頭重腳輕	deu dzon ciaq chin						
@@ -5107,6 +5107,7 @@
 膩腥	gni shin	35	266	433			578
 疑心疑惑	gni shin gni ghoq	34	243	451			55
 疑心疑惑	gni shin gni o		243				55
+膩腥不剌	gni shin paq la						578
 膩腥不剌	gni shin paq laq	35		433			578
 年數	gni su	33					
 泥水	gni syu	33	24	226			
@@ -5875,6 +5876,7 @@
 豁	huaq7	329	209	488			
 晦氣	huei chi	174	202	351			
 晦氣蓬鬆	huei chi bon son						
+晦氣不剌	huei chi paq la						
 晦氣不剌	huei chi paq laq						
 灰汁糰	huei ciq doe	174	80	99			55
 灰蛋	huei dae	173	65	99			55
@@ -5963,6 +5965,7 @@
 花老頭	huo lau deu						
 花佬兒子	huo lau ng tsy	119	34	144			55
 花裏花繃	huo li huo pan	119	229	144			55
+花裏不剌	huo li paq la						55
 花裏不剌	huo li paq laq		229				55
 花蓮菜	huo li tshe	119	73				55
 花蓮菜炒年糕	huo li tshe tshau gni kau						
@@ -12025,6 +12028,7 @@
 難弄	nae lon	138	245	333			55
 乃末	nae maq	139	14				55
 難熬	nae ngau	138	177	333			
+難熬不剌	nae ngau paq la						
 難熬不剌	nae ngau paq laq						
 難熬相	nae ngau shian						
 難相	nae shian	138	233	333			55
@@ -13006,9 +13010,8 @@
 百果糕	paq kou kau						
 八哥湯果	paq kou thaon kou						
 八梗	paq kuan						
-不剌	paq la			31			
-不剌	paq laq	296	307	31			55
-不剌	paq lha	296					55
+不剌	paq la	296		31	雙音節形容詞後綴，表示某種不好的情狀或感覺	《字語彙解》p. 3，Abashed 下註 wông-kʽong'-peh-la'。可知前字爲 peq > paq，寫作「不」合理。《上海話大詞典》記 paeq laeq，借音字爲「八臘」，與《字語彙解》矛盾。對於寧波話中的 paq la 一詞，更應該採信清末寧波話的記錄。	55
+不剌	paq laq	296	307	31	雙音節形容詞後綴，表示某種不好的情狀或感覺	《字語彙解》p. 3，Abashed 下註 wông-kʽong'-peh-la'。後字受前字影響促化爲 laq。	55
 八兩	paq lian	296					55
 808	paq lin paq	222	103				55
 八六	paq loq	296					
@@ -13319,6 +13322,7 @@
 匹	phiq7	352					
 撇	phiq7	352					
 怕人	pho gnin	95					
+怕人不剌	pho gnin paq la						
 怕人不剌	pho gnin paq laq						
 怕其	pho ji	95	290	227	難道		418
 怕渠	pho ji	95	290	227	難道		418
@@ -14151,6 +14155,7 @@
 帥	se5	125					
 祟勃勃	sei baq baq	169	267	356		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 祟氣	sei chi	169	267	356			55
+祟氣不剌	sei chi paq la						
 祟氣不剌	sei chi paq laq	169					
 雖即	sei ciq		300				55
 賽過	sei khou	144	216	457			
@@ -17565,7 +17570,7 @@
 草穀人案	tshau koq gnin e						
 炒冷飯	tshau lan vae	86					
 糙拉拉	tshau lha lha	87					55
-糙粒不剌	tshau liq paq la			481			
+糙粒不剌	tshau liq paq la			481			55
 糙粒不剌	tshau liq paq laq	87	261				55
 草綠	tshau loq	87					
 草帽	tshau mau	86					
@@ -19608,8 +19613,8 @@
 衛生間	wei sen kae	175					
 衛生褲	wei sen khu	175	59	24			
 衛生衫	wei sen sae	175	58	24			418
-危險不剌	wei shi paq laq						
-危險八剌	wei shi paq laq	174					55
+危險不剌	wei shi paq la						55
+危險不剌	wei shi paq laq	174					55
 茴香	wei shian	174					
 茴香倭豆	wei shian ou deu	174					55
 爲啥道理	wei soq dau li		40				55
@@ -20624,6 +20629,7 @@
 隨嫁阿姆	zei ko a m						55
 隨嫁阿姆	zei ko an m	170					55
 罪過	zei kou	170	176	429			578
+罪過不剌	zei kou paq la						418
 罪過不剌	zei kou paq laq	170					418
 隨路	zei lu	170	288	381			55
 隨面	zei mi	170					55

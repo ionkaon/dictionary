@@ -6444,7 +6444,6 @@
 一梗棒頭	iq kan baon deu						
 一梗被頭	iq kan bi deu						
 一梗頭髮	iq kan deu faq						
-該梗頭髮	iq kan deu faq						
 一梗梗	iq kan kan						
 一梗毛	iq kan mau						
 一梗魚	iq kan ng						
@@ -6479,7 +6478,6 @@
 一梗棒頭	iq kuan baon deu						
 一梗被頭	iq kuan bi deu						
 一梗頭髮	iq kuan deu faq						
-該梗頭髮	iq kuan deu faq						
 一梗梗	iq kuan kuan						
 一梗毛	iq kuan mau						
 一梗魚	iq kuan ng						
@@ -8537,6 +8535,7 @@
 該梗矮凳	kiq kan a ten						
 該梗棒頭	kiq kan baon deu						
 該梗被頭	kiq kan bi deu						
+該梗頭髮	kiq kan deu faq						
 該梗毛	kiq kan mau						
 該梗魚	kiq kan ng						
 該梗帶魚	kiq kan ta ng						
@@ -8567,6 +8566,7 @@
 該梗矮凳	kiq kuan a ten						
 該梗棒頭	kiq kuan baon deu						
 該梗被頭	kiq kuan bi deu						
+該梗頭髮	kiq kuan deu faq						
 該梗毛	kiq kuan mau						
 該梗魚	kiq kuan ng						
 該梗帶魚	kiq kuan ta ng						
@@ -9605,7 +9605,7 @@
 老酒夾燒酒	lau cieu kaq shiau cieu						
 老酒包	lau cieu pau	82	34				55
 老酒㕐勒胖頂	lau cieu shia laq phaon tin						
-老酒㕐彌滿	lau cieu shia mi mun						
+老酒㕐彌滿	lau cieu shia mhi mun						
 老酒壺	lau cieu wu	82					55
 老結	lau ciq	84	233	87			55
 老鬼	lau ciu	81	31	87			
@@ -13789,6 +13789,7 @@
 三張紙頭	sae jian tsy deu						
 三朝	sae jiau	141					
 三間一舍	sae kae iq so						
+三梗	sae kan						
 三梗矮凳	sae kan a ten						
 三梗魚	sae kan ng						
 三江口	sae kaon kheu						
@@ -13805,6 +13806,7 @@
 三角短褲	sae koq toe khu						
 三角尺	sae koq tshaq	143					55
 三姑六婆	sae ku loq bou						
+三梗	sae kuan						
 三梗矮凳	sae kuan a ten						
 三梗魚	sae kuan ng						
 三官暴	sae kun pau	142					55
@@ -13940,7 +13942,6 @@
 生意人	san i gnin	209	24	62			
 生意幫	san i paon	209					55
 生隱腳	san in ciaq						
-三梗	san kan						
 生㾸𤶁	san kaq lau						
 生隔壁氣	san kaq piq chi	209	329				55
 省開交	san khe ciau						
@@ -13948,7 +13949,6 @@
 生苦鐵鹹	san khu thiq ghae	209	275	62			55
 生古結鹹	san ku ciq ghae		275	62			55
 生古鐵鹹	san ku thiq ghae		275	62			55
-三梗	san kuan						
 生癩頭	san la deu						
 生冷	san lan	209					
 生冷東西	san lan ton shi	209					55
@@ -18998,7 +18998,7 @@
 飯喫忒多	vae chioq thaq tou						
 飯喫忒多	vae chioq thou tou						
 飯𣥼勒穿頂	vae ci laq tshoe tin						
-飯𣥼彌滿	vae ci mi mun						
+飯𣥼彌滿	vae ci mhi mun						
 飯僵脯了	vae cian bu lei						55
 飯僵脯𡀂	vae cian bu lei	134					55
 飯蒸	vae cin	134	96	169			55

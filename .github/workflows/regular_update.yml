@@ -1,0 +1,36 @@
+name: Update ionjin
+on:
+  push:
+    branches:
+      - master
+jobs:
+  regular_update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x' 
+          architecture: 'x64'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install numpy
+          pip install pandas
+      - name: Update ionjin
+        run: |
+          cd ./script
+          chmod +x ./pure_dictionary.py
+          ./pure_dictionary.py
+          cd ../
+      - name: commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore(甬城): update"
+            git push origin master
+          fi

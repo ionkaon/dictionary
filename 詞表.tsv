@@ -1690,8 +1690,8 @@
 家務事	cia wu- zy	69					
 借	cia5	69	10, 201	310			
 脹勃勃	cian baq baq	216	221			後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
-脹脯	cian bu		207	215			55
-僵脯飯	cian bu vae	215					55
+脹脯	cian bu		207	215	米、麪等泡久了發脹		55
+脹脯飯	cian bu vae	215			夾生飯	湯版作「僵脯飯」。	55
 槳圈	cian chiu	215					55
 張記望記	cian ci uaon ci	215					55
 帳頭人案	cian deu gnin e	215					55
@@ -3514,10 +3514,8 @@
 馱出算賬	dou tshyuq soe cian						
 大做	dou tsou		161	14			55
 大指末頭	dou tsy maq deu	178					55
-大嘴䩉	dou tsyu bu			16			
-大嘴哺	dou tsyu bu						
-大嘴脯	dou tsyu bu	178	53				55
-大嘴巴	dou tsyu po	178	53	16			
+大嘴脯	dou tsyu bu	178	53	16	腮腺炎	朱版作「大嘴䩉」。	55
+大嘴巴	dou tsyu po	178	53	16	腮腺炎		
 大碗盞	dou un tsae						
 大房東	dou vaon ton	180					55
 馱勿	dou vaq						
@@ -12133,8 +12131,7 @@
 唸符咒	ne-gnie vu cieu						
 廿	ne-gnie6	123					
 驗	ne-gnie6		173				
-𤿏脯脯	nei bu bu		262	257			55
-𤿏蒲蒲	nei bu bu	168					55
+𤿏蒲蒲	nei bu bu	168	262	257	軟軟的	湯版作「𤿏脯脯」。	55
 𤿏氣氣	nei chi chi		262				55
 內臓	nei dzaon	168					55
 內行人	nei ghaon gnin	168					
@@ -12526,8 +12523,7 @@
 牛廄	ngeu ji		88				55
 牛廄間	ngeu ji kae	199	88				55
 牛廄格柵	ngeu ji kaq saq						
-牛控䩉	ngeu khon bu	200					55
-牛控篰	ngeu khon bu		105				55
+牛控䩉	ngeu khon bu	200	105		耕田時套在耕牛嘴上的器具，用來防止牛喫莊稼	《阿拉宁波话》作「牛控篰」。	55
 牛趕水	ngeu ki-ke syu						
 牛虻	ngeu maon	200					
 牛百葉	ngeu paq yiq	200					55
@@ -18674,8 +18670,7 @@
 煮	tsy3	2					
 紫	tsy3	2					
 痣	tsy5	2					
-嘴䩉	tsyu bu			479			
-嘴脯	tsyu bu	7	64				55
+嘴脯	tsyu bu	7	64	479	禽獸的嘴	朱版作「嘴䩉」。	55
 豬筋	tsyu cin	7					55
 拄蛋	tsyu dae						
 豬頭三	tsyu deu sae						
@@ -18919,7 +18914,7 @@
 橫致致	uan tsy tsy	227	292	464			55
 橫糊裏拉	uan wu li la						
 橫糊裏拉	uan wu li lha						
-黃蒲蒲	uaon bu bu	245					55
+黃蒲蒲	uaon bu bu	245	263		軟軟的	《阿拉宁波话》作「黃脯脯」。	55
 尢介大	uaon ka dou				形容小孩只有一點點大。例：生出辰光是只尢介大啦，一時三刻讀大學了。	《玉篇》尢，烏光切。跛曲脛也。又僂也。短小也。	
 黃殼蟹	uaon khoq ha						
 汪家宅跟	uaon ko dzaq ken						
@@ -19020,8 +19015,8 @@
 飯喫忒多	vae chioq thou tou						
 飯𣥼勒穿頂	vae ci laq tshoe tin						
 飯𣥼彌滿	vae ci mhi mun						
-飯僵脯了	vae cian bu lei						55
-飯僵脯𡀂	vae cian bu lei	134					55
+飯脹脯了	vae cian bu lei						55
+飯脹脯𡀂	vae cian bu lei	134					55
 飯蒸	vae cin	134	96	169			55
 萬金油	vae cin yeu						
 飯頭腦	vae deu nau	134	24	169			55
@@ -19427,7 +19422,6 @@
 黃蓬蓬	waon bon bon						
 王婆	waon bou	242					55
 黃婆雞	waon bou ci	243	68				55
-黃脯脯	waon bu bu		263				55
 旺七旺八	waon chiq waon paq	244	243	205			55
 黃金瓜	waon cin kuo	244	74	341			55
 黃金瓜𢪂藤	waon cin kuo da den						

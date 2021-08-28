@@ -3760,10 +3760,9 @@
 䂻其肚裏弗得	dzan ji du li vaq taq						1
 䂻渠肚裏勿得	dzan ji du li vaq taq	208					
 䂻渠肚裏弗得	dzan ji du li vaq taq						1
-鋥刮亮	dzan kuaq lian		275	401			55
-鋥刮斯亮	dzan kuaq sy lian	208	275	401			55
-鋥骨斯亮	dzan kuaq sy lian						
-鋥亮	dzan lian	208	275	401			
+鋥刮亮	dzan kuaq lian		275	401	很亮		55
+鋥刮斯亮	dzan kuaq sy lian	208	275	401	很亮		55
+鋥亮	dzan lian	208	275	401	很亮		
 䂻俉肚裏勿得	dzan ng du li vaq taq	208					
 䂻俉肚裏弗得	dzan ng du li vaq taq	208					
 䂻爾肚裏勿得	dzan ng du li vaq taq	208					
@@ -4245,10 +4244,10 @@
 粉滯滯	fen ji ji						
 鋒快	fen khua		227	402			55
 粉乾	fen ki-ke		76	321			55
-粉刮頭燥	fen kuaq deu sau		259				55
-粉刮斯燥	fen kuaq sy sau	251	259				55
-粉刮的燥	fen kuaq tiq sau	251	259				55
-粉末斯碎	fen maq sy sei						
+粉刮頭燥	fen kuaq deu sau		259		很乾燥		55
+粉刮斯燥	fen kuaq sy sau	251	259		很乾燥		55
+粉刮的燥	fen kuaq tiq sau	251	259		很乾燥		55
+粉末斯碎	fen maq sy sei				很碎		
 分麻餅	fen mo pin						
 分眼分榫	fen ngae fen syun	251	225	41			55
 粉撲	fen phoq	251	96				
@@ -9159,20 +9158,20 @@
 摑耳光	kuaq gni kuaon	329					
 䀨瞎	kuaq haq		135	348			55
 骨灰箱	kuaq huei shian	328					55
-骨直	kuaq jiq	329	227	257			578
+骨直	kuaq jiq	329	227	257	很直		578
 骨直憐	kuaq jiq li						
 刮刮	kuaq kuaq	328	307	238			
-骨骨直	kuaq kuaq jiq	329					55
+骨骨直	kuaq kuaq jiq	329			很直		55
 刮刮煞煞	kuaq kuaq saq saq		283				55
-骨骨斯直	kuaq kuaq sy jiq			257			
+骨骨斯直	kuaq kuaq sy jiq			257	很直		
 刮刮抖	kuaq kuaq teu	328	220				55
-骨骨挺	kuaq kuaq thin	329					55
+骨骨挺	kuaq kuaq thin	329			很挺拔		55
 刮刮轉	kuaq kuaq tsoe						
 骨勒勒	kuaq laq laq	329					55
 骨辣辣	kuaq laq laq		236	258			55
-刮剌斯黃	kuaq laq sy waon						
-骨勒斯圓	kuaq laq sy yu	329	227				55
-骨裏斯直	kuaq li sy jiq			257			
+刮剌斯黃	kuaq laq sy waon				很黃		
+骨勒斯圓	kuaq laq sy yu	329	227		很圓		55
+骨裏斯直	kuaq li sy jiq			257	很直		
 骨碌碌	kuaq loq loq	329					
 刮牙鬚	kuaq ngo su	328					55
 刮板	kuaq pae	328					55
@@ -13487,9 +13486,8 @@
 冰瀴	pin in	258			很冷	《廣韻》瀴㵾，冷也。於孟切。	55
 冰淇淋	pin ji lin	258					
 餅乾罐頭	pin ki-ke kun deu						
-冰刮冷	pin kuaq lan		258				55
-冰刮斯冷	pin kuaq sy lan	258	258	120			55
-冰骨斯冷	pin kuaq sy lan						
+冰刮冷	pin kuaq lan		258		很冷		55
+冰刮斯冷	pin kuaq sy lan	258	258	120	很冷		55
 冰冷	pin lan	258					
 冰冷氣出	pin lan chi tshyuq	258	258				578
 冰冷活氣出	pin lan waq chi tshyuq		258	120			55
@@ -15520,9 +15518,9 @@
 雪地蕻	syuq di hon		72				55
 雪花粉	syuq huo fen	343	57	347			55
 刷一度	syuq iq du						
-雪刮淡	syuq kuaq dae	343	276				418
-雪刮泥淡	syuq kuaq gni dae		276				55
-雪刮斯淡	syuq kuaq sy dae	343	276				578
+雪刮淡	syuq kuaq dae	343	276		很淡		418
+雪刮泥淡	syuq kuaq gni dae		276		很淡		55
+雪刮斯淡	syuq kuaq sy dae	343	276		很淡		578
 雪裏紅	syuq li ghon	343					
 雪裏蕻	syuq li hon	343					
 雪裏斯白	syuq li sy baq	344	273	347			55
@@ -16317,10 +16315,9 @@
 偷伴	theu bun		295				55
 偷盤	theu bun	193	295	362			55
 偷針	theu cin	194	52	471			55
-透刮鮮	theu kuaq shi	194	277				55
-透刮新鮮	theu kuaq shin shi	194	265				55
-透骨新鮮	theu kuaq shin shi		265	309			55
-透刮斯鮮	theu kuaq sy shi	194	277				55
+透骨鮮	theu kuaq shi	194	277		很鮮		55
+透骨新鮮	theu kuaq shin shi	194	265	309	很鮮	湯版作「透刮新鮮」。	55
+透刮斯鮮	theu kuaq sy shi	194	277		很鮮		55
 偷力勿旺	theu liq vaq waon						
 偷力弗旺	theu liq vaq waon						1
 偷生	theu san		22	361			
@@ -17497,8 +17494,8 @@
 簇刮剌	tshaq kuaq laq		265	486			55
 簇刮剌剌新	tshaq kuaq laq laq shin			486			
 簇刮剌新	tshaq kuaq laq shin	313	265	486	很新	湯版作「簇刮勒新」，《阿拉宁波话》作「簇括剌新」。	55
-簇刮新	tshaq kuaq shin	313	265	486			55
-簇刮斯新	tshaq kuaq sy shin	313	265	486			55
+簇刮新	tshaq kuaq shin	313	265	486	很新		55
+簇刮斯新	tshaq kuaq sy shin	313	265	486	很新		55
 拆爛屙	tshaq lae ou	311	320	192			
 拆爛涴	tshaq lae ou	311	320	192			418
 撮了	tshaq laq						
@@ -20540,20 +20537,18 @@
 石階凳	zaq ka ten		92				55
 石階沿	zaq ka yi	314					55
 雜格楞敦	zaq kaq len ten	315	229	118			578
-賊苦	zaq khu	315	275				578
+賊苦	zaq khu	315	275			很苦	578
 石庫門	zaq khu men	314	85	55			
 賊苦出	zaq khu tshyuq	315					55
 石庫牆門	zaq khu zhian men	314	85	55			55
 閘角	zaq koq		228				55
 雜角	zaq koq		228				55
 賊骨頭	zaq kuaq deu	315	28	306			578
-賊刮老	zaq kuaq lau		233				55
-石刮硬	zaq kuaq ngan		263				55
-石骨硬	zaq kuaq ngan	315	263	56			578
-賊刮斯老	zaq kuaq sy lau		233				55
-石骨斯硬	zaq kuaq sy ngan						
-石刮鐵硬	zaq kuaq thiq ngan		263				55
-石骨鐵硬	zaq kuaq thiq ngan	315	263	56			578
+賊刮老	zaq kuaq lau		233		很老		55
+石骨硬	zaq kuaq ngan	315	263	56	很硬	《阿拉宁波话》也作「石刮硬」。	578
+賊刮斯老	zaq kuaq sy lau		233		很老		55
+石刮斯硬	zaq kuaq sy ngan				很硬		
+石骨鐵硬	zaq kuaq thiq ngan	315	263	56	很硬	《阿拉宁波话》也作「石刮鐵硬」。	578
 賊勒兒子	zaq laq ng tsy	315	34	306			418
 賊勒兒子臭灰蛋	zaq laq ng tsy chieu huei dae						
 賊牢	zaq lau						

@@ -1,7 +1,6 @@
 繁體	兼容格式	湯版頁碼	《阿拉宁波话》頁碼	朱版頁碼	釋義	備註	詞頻
 挨排生	a ba san		229	295			55
-矮棚狗	a ban keu	68					55
-矮趽狗	a ban keu		109	430			55
+矮棚狗	a ban keu	68	109	430	矮腳狗	《阿拉宁波话》及朱版作「矮趽狗」。《集韻》趽，蒲庚切，說文曲脛馬也。義不合。	55
 挨擠勿開	a ci vaq khe	68	230				
 挨擠弗開	a ci vaq khe			295			55
 挨埭	a da		294				55
@@ -348,8 +347,7 @@
 白蒲	baq bu		74	64			55
 白蒲西瓜	baq bu shi kuo		74				55
 白蒲棗	baq bu tsau	298	75	65			55
-拔秋	baq chieu		182				55
-祓秋	baq chieu	300					55
+祓秋	baq chieu	300	182		立秋那一天喫西瓜消暑的習俗	《阿拉宁波话》作「拔秋」。「祓」音 baq8，或爲寧波俗音，The Ningpo Syllabary 亦記作 bah。	55
 白金	baq cin	299					
 白糖	baq daon	299					
 白糖一沰	baq daon iq toq						
@@ -3809,9 +3807,8 @@
 蛇苗	dzo miau		75				55
 茶農	dzo non	100					
 茶杯	dzo pei	100					
-蛇手	dzo shi	100	53				55
-茶手	dzo shieu		38				55
-蛇手	dzo shieu	100	53	353			55
+蛇手	dzo shi		53				
+蛇手	dzo shieu	100	53	353	喪失運動能力的手	《阿拉宁波话》也作「茶手」。	55
 茶水	dzo syu	99					
 蛇褪殼	dzo then khoq	100					
 茶托	dzo thoq	100					
@@ -11649,14 +11646,13 @@
 麪	mi6	17					
 廟堂人	miau daon gnin	108	25	219			55
 描紅簿	miau ghon bu	108					55
-苗公	miau kon		75				55
-苗紅	miau kon	108		197			55
+苗紅	miau kon	108	75	197	覆盆子	《阿拉宁波话》作「苗公」。此處「紅」音特殊。	55
 妙山	miau sae						
-苗子	miau tsy	108	75	197			
+苗子	miau tsy	108	75	197	覆盆子		
 廟會	miau wei	108					
 苗繩	miau zhin	108	105	197			55
 描	miau2	108					
-苗	miau2	108		197			
+苗	miau2	108		197	覆盆子		
 苗	miau4		75				
 明朝	min ciau	259	14	206			40000
 明朝晝過	min ciau cieu kou						578
@@ -14586,8 +14582,7 @@
 小刀子	shiau tau tsy						
 小討飯一樣	shiau thau vae iq yan						
 小偷	shiau theu	116					
-小㪗卵	shiau theu loe	116					55
-小偷卵	shiau theu loe		23				
+小偷卵	shiau theu loe	116	23		舉止不穩重、流裏流氣的年輕人	湯版作「小㪗卵」。「㪗」字無相關含義。	55
 肖兔	shiau thu				生肖屬兔		
 肖兔子	shiau thu tsy				生肖屬兔		
 小店	shiau ti	114					
@@ -15457,8 +15452,7 @@
 雪刮淡	syuq kuaq dae	343	276		很淡		418
 雪刮泥淡	syuq kuaq gni dae		276		很淡		55
 雪刮斯淡	syuq kuaq sy dae	343	276		很淡		578
-雪裏紅	syuq li ghon	343					
-雪裏蕻	syuq li hon	343					
+雪裏蕻	syuq li hon	343			芥菜的一個栽培變種，葉常醃製後食用	湯版也作「雪裏紅」。	
 雪裏斯白	syuq li sy baq	344	273	347			55
 雪亮	syuq lian						
 雪落白洋洋	syuq loq baq yan yan						
@@ -16217,8 +16211,8 @@
 退過嘸賬	thei kou mh cian						
 推來攮去	thei le naon chi						
 貪領徑	thei lin cin						
-推扳	thei pae	167	215, 252	337			578
-推板	thei pae	167	86	337			55
+推扳	thei pae	167	215, 252	337	差勁，不好；相差		578
+推板	thei pae	167	86	337	舊式窗戶安裝在玻璃窗裏邊能移動的木板推窗，起掩蔽和保護作用		55
 推扳眼	thei pae ngae	167					418
 推扳三年	thei pae sae gni						
 推扳勿起	thei pae vaq chi	167					55
@@ -16226,8 +16220,7 @@
 貪小	thei shiau			214			
 貪小失大	thei shiau syuq dou						
 貪嘴落夜	thei tsyu loq ya		333				55
-推位	thei wei		252	337			55
-推爲	thei wei	167					
+推爲	thei wei	167	252	337	差勁，不好	《阿拉宁波话》及朱版作「推位」。	
 㷟	thei1	167	158	439			
 煺	thei1		158				
 貪	thei1		176				
@@ -17167,8 +17160,7 @@
 卒格爛眼	tsaq kaq lae ngae	310					
 側格楞敦	tsaq kaq len ten	310		32			55
 扎鉤	tsaq keu	310					55
-摘公	tsaq kon		75				55
-摘紅	tsaq kon			197, 444			
+摘紅	tsaq kon		75	197, 444	覆盆子	《阿拉宁波话》作「摘公」。此處「紅」音特殊。	55
 側角	tsaq koq		228				55
 側過來	tsaq kou le						
 扎括	tsaq kuaq	310		29			
@@ -17492,8 +17484,7 @@
 撮現成	tshaq yi jin						
 撮引	tshaq yin	312	197	461			55
 撮引烏龜	tshaq yin u ciu						
-珿齊	tshaq zhi	311		334			55
-簇齊	tshaq zhi		229				55
+珿齊	tshaq zhi	311	229	334	很齊	《阿拉宁波话》作「簇齊」。《廣韻》珿，初六切，齊也。「珿齊」又音 tshoq zhi，音義合。	55
 拆蝕	tshaq zhiq		187	192			55
 撮着	tshaq zoq						
 撮着撮	tshaq zoq tshaq						
@@ -18886,9 +18877,7 @@
 搵墨	uen moq						
 搵眼的	uen ngae tiq						
 搵筆	uen piq						
-瘟孫	uen sen		31	453			55
-瘟牲	uen sen	278					55
-瘟生	uen sen		31				55
+瘟孫	uen sen	278	31	453	不諳世事、容易受騙卻又不自知的人	湯版作「瘟牲」，《阿拉宁波话》也作「瘟生」。《明清吳語詞典》作「瘟孫」或「瘟生」。《杭州方言詞典》記音 uen suen，寫作「瘟孫」。杭州話「孫」suen1、「生」sen1 不同音，故應寫作「瘟孫」。	55
 瘟孫兒子	uen sen ng tsy						
 溫吞	uen then	278		410			
 溫吞水	uen then syu	278					55

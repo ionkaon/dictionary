@@ -4066,12 +4066,11 @@
 番薯	fae zyu	132	70	404			
 番薯年糕	fae zyu gni kau						
 番薯乾	fae zyu ki-ke	132	70	404			55
-番薯角	fae zyu koq		70	404			55
+番薯角	fae zyu koq		70	404	一種食物，番薯搗成泥狀，摻入芝麻、橘皮等，再切片曬成乾。常炒熟後作爲零食		55
 番薯䉭	fae zyu liq			405			
-番薯片	fae zyu phi	132	70	404			55
-番薯癟	fae zyu piq	132					55
-番薯屑	fae zyu shiq		70	404			55
-番薯錫	fae zyu shiq	132					55
+番薯片	fae zyu phi	132	70	404	一種食物，番薯搗成泥狀，摻入芝麻、橘皮等，再切片曬成乾。常炒熟後作爲零食		55
+番薯癟	fae zyu piq	132			一種食物，番薯搗成泥狀，摻入芝麻、橘皮等，再切片曬成乾。常炒熟後作爲零食		55
+番薯屑	fae zyu shiq	132	70	404	一種食物，番薯搗成泥狀，摻入芝麻、橘皮等，再切片曬成乾。常炒熟後作爲零食	湯版作「番薯錫」。	55
 番薯湯果	fae zyu thaon kou						
 番薯糊剌	fae zyu wu la		70				55
 番薯糊辣	fae zyu wu laq	132					55
@@ -7812,8 +7811,7 @@
 扣正好	kheu cin hau		225				55
 口頭	kheu deu	199	11	22			
 𧥣定	kheu din						
-口泛	kheu fae		128				55
-口番	kheu fae	199		22			55
+口泛	kheu fae	199	128	22	說話習慣；口頭禪	湯版及朱版作「口番」。	55
 扣分	kheu fen	199	225	320			
 口風	kheu fon	199		22			
 扣好	kheu hau	199	225	320			
@@ -14353,9 +14351,8 @@
 響米花	shian mi huo	221	133	255			55
 相幫	shian paon	219					
 香泡	shian phau	220	74	261			55
-相拋四天	shian phau sy thi						
-向拋天	shian phau thi		232	114			55
-相拋天	shian phau thi	221					578
+向拋四天	shian phau sy thi						
+向拋天	shian phau thi	221	232	114	仰面躺着的姿勢；沒有遮蓋的；事情沒人着手去做；對事情漠不關心	湯版作「相拋天」。	578
 享先	shian shi	221	179		舊時婚前拜菩薩、祭祀祖先的習俗	湯版作「相仙」，非。享：祭祀、供奉，先：先祖。	55
 享先湯果	shian shi thaon kou		79		男子結婚時分給親友鄰居的糯米丸		55
 響箱	shian shian	221					55
@@ -14367,11 +14364,10 @@
 相思樹	shian sy zyu	219					
 相勢	shian syu	221	49	244			55
 香水	shian syu	220					
-向天	shian thi		232				
-相天	shian thi	221					55
-向天河	shian thi ghou		124				55
-向天泅	shian thi jieu	221	124				55
-向天睏	shian thi khuen	221					55
+向天	shian thi	221	232		仰面躺着的姿勢；沒有遮蓋的；事情沒人着手去做；對事情漠不關心	湯版作「相天」。	
+向天河	shian thi ghou		124		仰泳		55
+向天泅	shian thi jieu	221	124		仰泳		55
+向天睏	shian thi khuen	221			仰睡		55
 香菜	shian tshe	220					
 香脆餅	shian tshei pin	220					55
 香椿樹	shian tshyun zyu	221					55
@@ -14637,8 +14633,7 @@
 手提琴	shieu di jin	156					55
 手泛	shieu fae		128				55
 手反背絞仔	shieu fae pei gau tsy	156					55
-休閒	shieu ghae	156					
-修閒	shieu ghae		272	265			55
+修閒	shieu ghae	156	272	265	菜不就着飯喫	湯版作「休閒」。	55
 修行個	shieu ghan ghoq						55
 修行個	shieu ghan goq	156					55
 手藝人	shieu gni gnin	156					55
@@ -18155,8 +18150,7 @@
 揸	tso3	98	147	425			
 搾	tso5	98					55
 磚牑	tsoe bi	150	86	246			55
-轉漿	tsoe cian		189	202			55
-鑽漿	tsoe cian	150					55
+轉漿	tsoe cian	150	189	202	勾芡；亂作一團	湯版作「鑽漿」。	55
 磚頭	tsoe deu	150					
 磚方	tsoe faon	150					55
 磚方的角	tsoe faon tiq koq	150					55
@@ -19417,8 +19411,7 @@
 黃草雞	waon tshau ci		68				55
 黃糙米	waon tshau mi	243					55
 黃榨榨	waon tso tso			342			
-黃終爛熟	waon tson lae zoq	244					55
-黃腫爛熟	waon tson lae zoq		264				55
+黃腫爛熟	waon tson lae zoq	244	264		菜燒得過熟而發黃	湯版作「黃終爛熟」。	55
 黃鼠狼	waon tsy laon	242					
 黃鼠狼弶	waon tsy laon jian						
 旺旺動	waon waon don	244	243	205			55

@@ -44,6 +44,7 @@
 只	只	tsy3	2	只有
 祇	只	tsy3	2	只有
 齒	齿	tsy3	2	牙齒
+歯	齿	tsy3	2	牙齒
 鼠	鼠	tsy3	1	限於「老鼠」「黃鼠狼」等
 飳	飳	tsy3	3	又音 僅限於「窩飳」
 至	至	tsy5	1	
@@ -57,6 +58,7 @@
 此	此	tshy3	2	
 雌	雌	tshy3	1	
 齒	齿	tshy3	2	齒輪
+歯	齿	tshy3	2	齒輪
 疵	疵	tshy3	2	
 侈	侈	tshy3	2	
 次	次	tshy5	1	
@@ -76,6 +78,7 @@
 詞	词	dzy2	2	
 祠	祠	dzy2	2	
 遲	迟	dzy2	2	新讀
+遅	迟	dzy2	2	新讀
 持	持	dzy2	2	新讀
 池	池	dzy2	2	新讀
 馳	驰	dzy2	2	新讀
@@ -203,6 +206,7 @@
 蛀	蛀	tsyu5	1	
 疰	疰	tsyu5	1	
 鑄	铸	tsyu5	1	
+鋳	铸	tsyu5	1	
 制	制	tsyu5	1	
 製	制	tsyu5	1	
 𦥐	𦥐	tsyu5	2	𦥐鞋
@@ -217,12 +221,14 @@
 吹	吹	tshyu1	1	白讀
 處	处	tshyu1	1	處暑
 處	处	tshyu3	2	相處
+処	处	tshyu3	2	相處
 鼠	鼠	tshyu3	2	文讀
 取	取	tshyu3	1	
 娶	娶	tshyu3	2	
 耻	耻	tshyu3	2	
 恥	耻	tshyu3	2	
 處	处	tshyu5	2	到處
+処	处	tshyu5	2	到處
 趣	趣	tshyu5	1	
 覷	觑	tshyu5	1	
 覰	觑	tshyu5	1	
@@ -340,6 +346,7 @@
 閉	闭	pi5	1	
 陛	陛	pi5	2	
 變	变	pi5	2	
+変	变	pi5	2	
 批	批	phi1	1	
 砒	砒	phi1	1	
 披	披	phi1	1	
@@ -529,6 +536,7 @@
 地	地	di6	1	
 逮	逮	di6	2	
 遞	递	di6	2	
+逓	递	di6	2	
 墊	垫	di6	1	
 電	电	di6	1	
 鈿	钿	di6	1	
@@ -597,6 +605,7 @@
 丽	丽	li6	2	
 淚	泪	li6	1	白讀
 泪	泪	li6	1	白讀
+涙	泪	li6	1	白讀
 厲	厉	li6	2	
 勵	励	li6	2	
 蠣	蛎	li6	1	
@@ -675,6 +684,7 @@
 繭	茧	ci3	1	
 蠒	茧	ci3	1	
 檢	检	ci3	2	
+検	检	ci3	2	
 柬	柬	ci3	2	
 撿	捡	ci3	2	
 揀	拣	ci3	2	文讀
@@ -684,10 +694,13 @@
 穄	穄	ci5	1	蘆穄
 𣥼	𣥼	ci5	1	𣥼飯
 濟	济	ci5	2	
+済	济	ci5	2	
 劑	剂	ci5	2	
+剤	剂	ci5	2	
 稷	稷	ci5	3	
 季	季	ci5	2	
 繼	继	ci5	1	
+継	继	ci5	1	
 寄	寄	ci5	2	
 計	计	ci5	1	
 記	记	ci5	1	
@@ -727,6 +740,7 @@
 溪	溪	chi1	1	
 谿	溪	chi1	1	
 豀	溪	chi1	1	
+渓	溪	chi1	1	
 蹊	蹊	chi1	3	
 豈	岂	chi1	2	
 弃	弃	chi1	2	
@@ -759,6 +773,7 @@
 覰	觑	chi5	1	又音 眯覷眼
 契	契	chi5	1	
 氣	气	chi5	1	
+気	气	chi5	1	
 炁	气	chi5	1	
 气	气	chi5	1	
 汽	汽	chi5	1	
@@ -768,11 +783,13 @@
 欠	欠	chi5	1	
 芡	芡	chi5	1	
 齊	齐	ji2	1	齊巧
+斉	齐	ji2	1	齊巧
 臍	脐	ji2	1	
 薺	荠	ji2	1	
 鱭	鲚	ji2	1	
 持	持	ji2	2	
 遲	迟	ji2	1	
+遅	迟	ji2	1	
 池	池	ji2	1	
 馳	驰	ji2	2	
 稚	稚	ji2	2	白讀
@@ -803,6 +820,7 @@
 潜	潜	ji2	2	
 潛	潜	ji2	2	
 錢	钱	ji2	2	
+銭	钱	ji2	2	
 纏	缠	ji2	1	
 纒	缠	ji2	1	
 踐	践	ji2	2	文讀
@@ -818,6 +836,7 @@
 亁	乾	ji2	2	
 虔	虔	ji2	2	
 儉	俭	ji2	2	
+倹	俭	ji2	2	
 鍵	键	ji2	2	
 腱	腱	ji2	2	
 掮	掮	ji2	2	
@@ -854,6 +873,7 @@
 囈	呓	gni2	2	
 閻	阎	gni2	1	
 嚴	严	gni2	2	
+厳	严	gni2	2	
 儼	俨	gni2	5	
 年	年	gni2	1	
 秊	年	gni2	1	
@@ -893,6 +913,7 @@
 西	西	shi1	2	
 犀	犀	shi1	2	
 髓	髓	shi1	1	
+髄	髓	shi1	1	
 徙	徙	shi1	2	
 嘶	嘶	shi1	3	大聲喊叫
 圾	圾	shi1	1	
@@ -900,6 +921,7 @@
 稀	稀	shi1	1	
 羲	羲	shi1	2	
 犧	牺	shi1	2	
+犠	牺	shi1	2	
 嬉	嬉	shi1	1	
 兮	兮	shi1	2	又音
 禧	禧	shi1	2	
@@ -928,6 +950,7 @@
 險	险	shi3	1	
 険	险	shi3	1	
 顯	显	shi3	1	
+顕	显	shi3	1	
 細	细	shi5	1	
 婿	婿	shi5	1	
 壻	婿	shi5	1	
@@ -949,6 +972,7 @@
 譆	嘻	shi5	2	
 纖	纤	shi5	2	
 纎	纤	shi5	2	
+繊	纤	shi5	2	
 線	线	shi5	1	
 綫	线	shi5	1	
 苫	苫	shi5	1	草苫
@@ -959,6 +983,7 @@
 掀	掀	shi5	2	
 徐	徐	zhi2	2	
 齊	齐	zhi2	1	白讀
+斉	齐	zhi2	1	白讀
 前	前	zhi2	1	
 自	自	zhi6	1	白讀
 賤	贱	zhi6	1	白讀
@@ -1049,6 +1074,7 @@
 現	现	yi6	1	
 焰	焰	yi6	1	
 燄	焰	yi6	1	
+焔	焰	yi6	1	
 筵	筵	yi6	1	
 鹽	盐	yi6	3	動詞
 塩	盐	yi6	3	動詞
@@ -1110,6 +1136,7 @@
 浦	浦	phu3	2	
 鋪	铺	phu5	1	床鋪
 舖	铺	phu5	1	床鋪
+舗	铺	phu5	1	床鋪
 菩	菩	bu2	1	
 脯	脯	bu2	1	
 鯆	𫚙	bu2	1	土鯆魚
@@ -1398,11 +1425,13 @@
 涓	涓	ciu1	2	
 舉	举	ciu3	1	
 擧	举	ciu3	1	
+挙	举	ciu3	1	
 鬼	鬼	ciu3	1	白讀
 捲	卷	ciu3	1	
 卷	卷	ciu3	1	
 巻	卷	ciu3	1	
 據	据	ciu5	1	
+拠	据	ciu5	1	
 句	句	ciu5	1	
 貴	贵	ciu5	1	白讀
 苣	苣	ciu5	1	「萵苣」中常快讀成清聲母
@@ -1414,6 +1443,7 @@
 區	区	chiu1	2	
 嶇	岖	chiu1	2	
 驅	驱	chiu1	2	
+駆	驱	chiu1	2	
 駈	驱	chiu1	2	
 軀	躯	chiu1	2	
 虧	亏	chiu1	1	
@@ -1422,6 +1452,7 @@
 券	券	chiu1	2	
 劵	券	chiu1	2	
 勸	劝	chiu1	2	
+勧	劝	chiu1	2	
 犬	犬	chiu3	1	
 圈	圈	chiu3	1	
 圏	圈	chiu3	1	
@@ -1440,6 +1471,7 @@
 瞿	瞿	jiu2	2	
 衢	衢	jiu2	2	
 權	权	jiu2	1	
+権	权	jiu2	1	
 顴	颧	jiu2	1	
 拳	拳	jiu2	1	
 跪	跪	jiu6	2	白讀
@@ -1498,6 +1530,7 @@
 俞	俞	yu2	2	
 愉	愉	yu2	2	
 榆	榆	yu2	1	
+楡	榆	yu2	1	
 逾	逾	yu2	2	
 踰	逾	yu2	2	
 圍	围	yu2	1	白讀 圍巾
@@ -1563,6 +1596,7 @@
 襬	摆	pa3	2	
 把	把	pa3	2	文讀
 拜	拜	pa5	1	
+拝	拜	pa5	1	
 爸	爸	pa5	1	
 伯	伯	pa5	3	又音 僅限於「叔伯姆」
 派	派	pha5	1	
@@ -1621,6 +1655,7 @@
 攋	𪮶	la6	1	
 喇	喇	la6	1	
 賴	赖	la6	1	
+頼	赖	la6	1	
 癩	癞	la6	1	
 垃	垃	la6	1	
 拉	拉	la6	1	粗拉柴
@@ -1900,6 +1935,7 @@
 ⿰鬧	⿰闹	nau6	3	踩；踏
 踔	踔	nau6	2	踔殺
 勞	劳	lau2	1	
+労	劳	lau2	1	
 澇	涝	lau2	2	
 癆	痨	lau2	1	
 牢	牢	lau2	1	
@@ -1913,6 +1949,7 @@
 蹧	糟	tsau1	1	
 遭	遭	tsau1	1	
 搔	搔	tsau1	1	
+掻	搔	tsau1	1	
 早	早	tsau3	1	
 棗	枣	tsau3	1	
 蚤	蚤	tsau3	1	
@@ -1938,8 +1975,10 @@
 曹	曹	dzau2	2	
 嘈	嘈	dzau2	2	
 巢	巢	dzau2	2	
+巣	巢	dzau2	2	
 造	造	dzau6	1	造反
 騷	骚	sau1	1	
+騒	骚	sau1	1	
 臊	臊	sau1	2	
 艄	艄	sau1	2	
 梢	梢	sau1	1	梢頭
@@ -1983,6 +2022,7 @@
 鎬	镐	kau3	2	
 搞	搞	kau3	2	又音
 攪	搅	kau3	2	白讀
+撹	搅	kau3	2	白讀
 叫	叫	kau5	1	僅限於「叫花子」一詞
 告	告	kau5	1	
 吿	告	kau5	1	
@@ -2004,6 +2044,7 @@
 犒	犒	khau5	2	
 搞	搞	gau6	1	
 攪	搅	gau6	1	
+撹	搅	gau6	1	
 絞	绞	gau6	1	
 交	交	gau6	1	指傳家產給後代
 熬	熬	ngau2	1	
@@ -2219,6 +2260,7 @@
 家	家	o1	3	又音 僅限於「頭家」
 啞	哑	o3	1	
 瘂	哑	o3	1	
+唖	哑	o3	1	
 𦫪	𦫪	o3	1	
 惑	惑	o3	3	又音 僅限於「疑心疑惑」
 掗	挜	o5	1	掗賣
@@ -2413,6 +2455,7 @@
 召	召	zhiau2	2	
 紹	绍	zhiau6	1	
 搖	摇	yau2	1	
+揺	摇	yau2	1	
 謠	谣	yau2	2	
 鷂	鹞	yau2	1	鷂子
 窑	窑	yau2	1	
@@ -2781,6 +2824,7 @@
 瀾	澜	lae2	2	
 襴	襕	lae2	1	布襴
 覽	览	lae2	2	
+覧	览	lae2	2	
 纜	缆	lae2	2	
 攬	揽	lae2	2	
 欖	榄	lae6	1	
@@ -2789,6 +2833,7 @@
 濫	滥	lae6	2	
 爛	烂	lae6	1	
 賴	赖	lae6	5	依賴
+頼	赖	lae6	5	依賴
 邅	邅	tsae1	1	更換時間或地點
 斬	斩	tsae1	1	
 盞	盏	tsae3	1	
@@ -2835,6 +2880,7 @@
 賺	赚	dzae6	1	
 綻	绽	dzae6	1	
 棧	栈	dzae6	1	
+桟	栈	dzae6	1	
 㻵	㻵	dzae6	1	
 踐	践	dzae6	2	白讀 僅限於「實踐」
 山	山	sae1	1	
@@ -2877,6 +2923,7 @@
 減	减	kae3	1	
 堿	碱	kae3	2	
 鹼	碱	kae3	2	
+鹸	碱	kae3	2	
 鹻	碱	kae3	2	
 碱	碱	kae3	2	
 揀	拣	kae3	1	
@@ -2913,6 +2960,7 @@
 諫	谏	gae6	1	
 岩	岩	ngae2	1	
 巖	岩	ngae2	1	
+巌	岩	ngae2	1	
 喦	岩	ngae2	1	
 嵒	岩	ngae2	1	
 碞	岩	ngae2	1	
@@ -2936,6 +2984,7 @@
 餡	馅	ghae6	1	
 限	限	ghae6	1	
 陷	陷	ghae6	1	
+陥	陷	ghae6	1	
 揞	揞	ghae6	3	又音
 鴨	鸭	ae3	1	兒化殘留
 𩿼	鸭	ae3	1	兒化殘留
@@ -3173,10 +3222,12 @@
 秀	秀	shieu5	1	
 綉	绣	shieu5	1	
 繡	绣	shieu5	1	
+繍	绣	shieu5	1	
 銹	锈	shieu5	2	
 鏽	锈	shieu5	2	
 鏥	锈	shieu5	2	
 獸	兽	shieu5	2	
+獣	兽	shieu5	2	
 宿	宿	shieu5	2	星宿
 嗅	嗅	shieu5	2	文讀
 柔	柔	zhieu2	1	
@@ -3285,6 +3336,7 @@
 昧	昧	mei2	2	
 美	美	mei6	1	
 每	每	mei6	1	
+毎	每	mei6	1	
 痗	痗	mei6	3	
 煝	煝	mei6	3	
 𤈦	𤈦	mei6	1	
@@ -3341,10 +3393,12 @@
 蕾	蕾	lei6	2	
 癗	癗	lei6	1	
 壘	垒	lei6	1	
+塁	垒	lei6	1	
 屢	屡	lei6	2	
 類	类	lei6	2	
 淚	泪	lei6	2	文讀
 泪	泪	lei6	2	文讀
+涙	泪	lei6	2	文讀
 擂	擂	lei6	1	碾
 𢺢	𢺢	lei6	1	
 洡	洡	lei6	1	
@@ -3377,6 +3431,7 @@
 水	水	sei3	2	文讀
 毨	毨	sei3	3	又音
 碎	碎	sei5	1	
+砕	碎	sei5	1	
 稅	税	sei5	2	
 税	税	sei5	2	
 歲	岁	sei5	1	文讀
@@ -3398,6 +3453,7 @@
 穂	穗	zei2	2	
 繐	穗	zei2	2	
 粹	粹	zei2	2	
+粋	粹	zei2	2	
 瘁	瘁	zei2	2	
 睡	睡	zei2	2	
 瑞	瑞	zei2	2	
@@ -3554,6 +3610,7 @@
 渭	渭	wei6	2	
 會	会	wei6	1	
 繪	绘	wei6	2	
+絵	绘	wei6	2	
 位	位	wei6	1	
 爲	为	wei6	1	爲什麼
 為	为	wei6	2	為什麼
@@ -3823,6 +3880,7 @@
 𪞫	𪞫	seu1	1	冷𪞫𪞫
 毨	毨	seu3	1	禽類、鳥類用嘴整理羽毛
 瘦	瘦	seu5	1	
+痩	瘦	seu5	1	
 嗽	嗽	seu5	1	
 漱	漱	seu5	2	
 潄	漱	seu5	2	
@@ -3989,6 +4047,7 @@
 両	两	lian6	1	
 倆	俩	lian6	2	
 輛	辆	lian6	2	
+輌	辆	lian6	2	
 亮	亮	lian6	1	
 張	张	cian1	1	
 將	将	cian1	1	將來
@@ -4007,6 +4066,7 @@
 蔣	蒋	cian3	2	
 奬	奖	cian3	2	
 獎	奖	cian3	2	
+奨	奖	cian3	2	
 長	长	cian3	1	長輩
 漲	涨	cian3	1	
 槳	桨	cian3	1	
@@ -4016,6 +4076,7 @@
 帳	帐	cian5	1	
 賬	账	cian5	1	
 醬	酱	cian5	1	
+醤	酱	cian5	1	
 仗	仗	cian5	2	打仗
 借	借	cian5	3	又音 僅限於「借米聾」
 槍	枪	chian1	1	
@@ -4057,15 +4118,19 @@
 弶	弶	jian6	1	
 娘	娘	gnian2	1	
 孃	娘	gnian2	1	
+嬢	娘	gnian2	1	
 瓤	瓤	gnian2	2	
 穰	穰	gnian2	2	
+穣	穰	gnian2	2	
 嚷	嚷	gnian2	2	
 央	央	gnian2	1	僅限於表「當中」義的數詞
 梁	梁	gnian2	3	鼻頭梁
 樑	梁	gnian2	3	鼻頭樑
 仰	仰	gnian6	1	
 壤	壤	gnian6	1	地壤
+壌	壤	gnian6	1	
 釀	酿	gnian6	1	
+醸	酿	gnian6	1	
 讓	让	gnian6	1	
 譲	让	gnian6	1	
 𥽬	𥽬	gnian6	1	冷飯𥽬
@@ -4269,6 +4334,7 @@
 妝	妆	tsaon1	1	
 粧	妆	tsaon1	1	
 莊	庄	tsaon1	1	
+荘	庄	tsaon1	1	
 裝	装	tsaon1	1	
 臧	臧	tsaon1	2	
 髒	脏	tsaon1	2	
@@ -4311,6 +4377,7 @@
 唱	唱	tshaon5	1	
 摐	𪭢	tshaon5	1	用棍棒等垂直擊物
 藏	藏	dzaon2	2	
+蔵	藏	dzaon2	2	
 常	常	dzaon2	1	
 嫦	嫦	dzaon2	2	
 嘗	尝	dzaon2	2	未嘗
@@ -4319,6 +4386,7 @@
 幢	幢	dzaon6	1	
 狀	状	dzaon6	1	形狀
 藏	藏	dzaon6	1	
+蔵	藏	dzaon6	1	
 臟	脏	dzaon6	1	
 臓	脏	dzaon6	1	
 撞	撞	dzaon6	1	
@@ -4416,6 +4484,7 @@
 曠	旷	khuaon5	2	
 礦	矿	khuaon5	2	
 鑛	矿	khuaon5	2	
+鉱	矿	khuaon5	2	
 狂	狂	guaon2	1	
 逛	逛	guaon6	2	
 滉	滉	guaon6	3	
@@ -4499,6 +4568,7 @@
 欵	款	khun3	2	
 窾	窾	khun3	4	
 歡	欢	hun1	1	
+歓	欢	hun1	1	
 懽	欢	hun1	1	
 驩	欢	hun1	1	
 花	花	hun1	1	兒化音殘留，表小稱，愛稱，限「奶花」一詞
@@ -4657,6 +4727,7 @@
 曾	曾	tsen1	2	姓
 曽	曽	tsen1	2	姓
 增	增	tsen1	2	
+増	增	tsen1	2	
 憎	憎	tsen1	1	
 甑	甑	tsen1	1	陶器，口大於底，壁斜，口緣較厚，質粗厚而黃黑，一般盛菜肴用
 朕	朕	tsen1	2	
@@ -4894,6 +4965,7 @@
 金	金	cin1	1	
 今	今	cin1	1	
 經	经	cin1	1	
+経	经	cin1	1	
 莖	茎	cin1	2	
 荊	荆	cin1	2	
 荆	荆	cin1	2	
@@ -4949,6 +5021,7 @@
 淸	清	chin1	1	
 欽	钦	chin1	2	
 輕	轻	chin1	1	
+軽	轻	chin1	1	
 衾	衾	chin1	1	
 請	请	chin3	1	
 乘	乘	chin3	2	僅限於「乘車」
@@ -5088,6 +5161,7 @@
 興	兴	shin5	1	
 盛	盛	zhin2	2	旺盛
 繩	绳	zhin2	1	
+縄	绳	zhin2	1	
 乘	乘	zhin2	2	乘涼
 晴	晴	zhin2	1	
 尋	寻	zhin2	1	
@@ -5095,8 +5169,9 @@
 塍	塍	zhin2	3	
 葚	葚	zhin2	2	
 甚	甚	zhin6	1	
-凈	净	zhin6	1	
 淨	净	zhin6	1	
+凈	净	zhin6	1	
+浄	净	zhin6	1	
 靜	静	zhin6	2	
 循	循	zhin6	1	又音
 贏	赢	yin2	1	
@@ -5109,9 +5184,11 @@
 滛	淫	yin2	2	
 婬	淫	yin2	2	
 營	营	yin2	2	
+営	营	yin2	2	
 邢	邢	yin2	2	
 盈	盈	yin2	2	
 螢	萤	yin2	1	
+蛍	萤	yin2	1	
 塋	茔	yin2	2	
 堘	塍	yin2	2	
 塍	塍	yin2	2	
@@ -5422,6 +5499,7 @@
 塚	冢	tson3	2	
 冢	冢	tson3	2	
 縱	纵	tson5	1	
+縦	纵	tson5	1	
 糉	粽	tson5	1	
 粽	粽	tson5	1	
 衆	众	tson5	2	
@@ -5555,6 +5633,7 @@
 胷	胸	shion1	1	
 嗅	嗅	shion5	1	
 榮	荣	yon2	2	
+栄	荣	yon2	2	
 融	融	yon2	2	
 螎	融	yon2	2	
 容	容	yon2	2	
@@ -5566,6 +5645,7 @@
 熊	熊	yon2	2	
 庸	庸	yon2	2	庸俗
 螢	萤	yon2	3	又音 僅限於「火螢頭」
+蛍	萤	yon2	3	又音 僅限於「火螢頭」
 佣	佣	yon6	1	
 傭	佣	yon6	1	
 用	用	yon6	1	
@@ -5614,6 +5694,7 @@
 潑	泼	phaq7	1	
 白	白	baq8	1	
 拔	拔	baq8	1	
+抜	拔	baq8	1	
 鈸	钹	baq8	1	
 坺	坺	baq8	3	
 跋	跋	baq8	2	
@@ -5677,6 +5758,7 @@
 物	物	vaq8	1	
 弗	弗	vaq8	3	不，字也作「勿」
 佛	佛	vaq8	1	
+仏	佛	vaq8	1	
 𡍲	𡍲	taq7	1	地名用字
 𢝉	𢝉	taq7	2	𢝉𢝉動
 𢱕	𢱕	taq7	1	𢱕𢱕動
@@ -5741,12 +5823,14 @@
 辣	辣	laq8	1	
 辢	辣	laq8	1	
 蠟	蜡	laq8	1	
+蝋	蜡	laq8	1	
 臘	腊	laq8	1	
 臈	腊	laq8	1	
 剌	剌	laq8	1	不剌
 瘌	瘌	laq8	2	
 劣	劣	laq8	2	白讀
 獵	猎	laq8	2	
+猟	猎	laq8	2	
 鑞	镴	laq8	1	
 邋	邋	laq8	1	
 𦪴	𦪴	laq8	3	𦪴子
@@ -5794,6 +5878,7 @@
 臿	臿	tshaq7	3	
 插	插	tshaq7	1	
 揷	插	tshaq7	1	
+挿	插	tshaq7	1	
 𨔨	𨔨	tshaq7	3	形容走路輕快的樣子
 珿	珿	tshaq7	1	珿齊
 促	促	tshaq7	1	又音
@@ -5808,8 +5893,10 @@
 濯	濯	dzaq8	3	
 捽	捽	dzaq8	1	用力拉；用力使折斷
 澤	泽	dzaq8	2	
+沢	泽	dzaq8	2	
 擇	择	dzaq8	2	
 雜	杂	dzaq8	2	文讀
+雑	杂	dzaq8	2	文讀
 襍	杂	dzaq8	2	文讀
 殺	杀	saq7	1	
 薩	萨	saq7	2	
@@ -5821,6 +5908,7 @@
 𥈊	𥈊	saq7	1	「眨」本字當作「𥈊」
 眨	眨	saq7	1	「眨」本字當作「𥈊」
 澀	涩	saq7	1	
+渋	涩	saq7	1	
 濇	涩	saq7	1	
 澁	涩	saq7	1	
 嗇	啬	saq7	1	
@@ -5835,9 +5923,11 @@
 蝨	虱	saq7	1	
 颯	飒	saq7	2	
 釋	释	saq7	2	雪釋掉
+釈	释	saq7	2	雪釋掉
 濕	湿	saq7	2	衣裳濕濕其
 溼	湿	saq7	2	衣裳濕濕其
-碎	碎	saq7	3	又音 就需要「碎食」
+碎	碎	saq7	3	又音 僅限於「碎食」
+砕	碎	saq7	3	又音 僅限於「碎食」
 石	石	zaq8	1	
 閘	闸	zaq8	1	
 牐	闸	zaq8	1	
@@ -5849,6 +5939,7 @@
 䥷	铡	zaq8	2	
 賊	贼	zaq8	1	
 雜	杂	zaq8	2	白讀
+雑	杂	zaq8	2	白讀
 襍	杂	zaq8	2	白讀
 夾	夹	kaq7	1	
 裌	夹	kaq7	1	
@@ -5891,6 +5982,7 @@
 刻	刻	khaq7	1	
 咳	咳	khaq7	1	
 渴	渴	khaq7	2	
+渇	渴	khaq7	2	
 軋	轧	gaq8	1	
 扤	扤	ngaq8	1	又音 僅限於「扤頭」等
 額	额	ngaq8	1	
@@ -5915,6 +6007,7 @@
 合	合	ghaq8	1	
 盒	盒	ghaq8	1	
 壓	压	aq7	1	
+圧	压	aq7	1	
 鴨	鸭	aq7	1	
 𩿼	鸭	aq7	1	
 𪀌	鸭	aq7	1	
@@ -5941,11 +6034,13 @@
 叠	叠	diaq8	1	
 曡	叠	diaq8	1	
 疊	叠	diaq8	1	
+畳	叠	diaq8	1	
 沓	沓	diaq8	1	量詞 又音
 掠	掠	liaq8	1	
 略	略	liaq8	2	
 畧	略	liaq8	2	
 獵	猎	liaq8	2	
+猟	猎	liaq8	2	
 劣	劣	liaq8	2	
 雀	雀	ciaq7	1	
 爵	爵	ciaq7	2	
@@ -6257,6 +6352,7 @@
 哭	哭	khoq7	1	
 廓	廓	khoq7	2	
 擴	扩	khoq7	2	
+拡	扩	khoq7	2	
 確	确	khoq7	2	白讀
 确	确	khoq7	2	白讀
 𤿩	𤿩	khoq7	1	東西乾後與粘着處脫開，中間凸起
@@ -6494,6 +6590,7 @@
 棘	棘	ciq7	2	
 孑	孑	ciq7	2	
 揭	揭	ciq7	1	
+掲	揭	ciq7	1	
 羯	羯	ciq7	1	羯豬
 夾	夹	ciq7	3	僅限用筷子夾取食物一義
 砌	砌	chiq7	2	
@@ -6532,6 +6629,7 @@
 寂	寂	jiq8	2	
 擲	掷	jiq8	1	
 涉	涉	jiq8	2	
+渉	涉	jiq8	2	
 捷	捷	jiq8	2	
 疾	疾	jiq8	1	
 截	截	jiq8	2	
@@ -6579,8 +6677,10 @@
 蜥	蜥	shiq7	2	
 錫	锡	shiq7	1	
 攝	摄	shiq7	1	
+摂	摄	shiq7	1	
 適	适	shiq7	2	
 釋	释	shiq7	2	
+釈	释	shiq7	2	
 悉	悉	shiq7	2	
 膝	膝	shiq7	2	
 息	息	shiq7	1	
@@ -6630,7 +6730,9 @@
 弈	弈	yiq8	2	
 逸	逸	yiq8	2	
 驛	驿	yiq8	2	
+駅	驿	yiq8	2	
 譯	译	yiq8	2	
+訳	译	yiq8	2	
 翼	翼	yiq8	1	
 弋	弋	yiq8	2	
 𢖺	𢖺	yiq8	1	
@@ -6642,6 +6744,7 @@
 縊	缢	iq7	2	
 溢	溢	iq7	5	
 壹	壹	iq7	2	
+壱	壹	iq7	2	
 噎	噎	iq7	1	
 揖	揖	iq7	2	
 邑	邑	iq7	2	
@@ -6699,6 +6802,7 @@
 悅	悦	yuq8	2	
 悦	悦	yuq8	2	
 閱	阅	yuq8	2	
+閲	阅	yuq8	2	
 越	越	yuq8	1	
 粵	粤	yuq8	2	
 粤	粤	yuq8	2	

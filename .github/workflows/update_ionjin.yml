@@ -24,6 +24,8 @@ jobs:
           cd ./script
           chmod +x ./pure_dictionary.py
           ./pure_dictionary.py
+          chmod +x ./revise_dictionary.py
+          ./revise_dictionary.py
           cd ../
       - name: commit
         run: |

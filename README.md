@@ -64,6 +64,7 @@
 - [PeiTsengtung](https://github.com/PeiTsengtung)
 - [sacheong](https://github.com/sacheong)
 - slim
+- [timbei](https://www.zhihu.com/people/timbei)
 - [再言](https://www.zhihu.com/people/zai-yan-50)
 - [神死慟瞑](https://www.zhihu.com/people/cao-wei-feng)
 
@@ -81,5 +82,5 @@
 10. 周志锋、胡方：《北仑方言》，中国文史出版社，2007
 11. 方松熹：《舟山方言研究》，社会科学文献出版社，1993
 12. 岱山县志编纂委员会：《岱山县志·方言》，浙江人民出版社，2006
-12. 周时奋：《活色生香宁波话》，宁波出版社，2000
+13. 周时奋：《活色生香宁波话》，宁波出版社，2000
 

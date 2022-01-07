@@ -6296,8 +6296,8 @@
 一挈毛蟹	iq chiq mau ha						
 一挈帶魚	iq chiq ta ng						
 一記	iq ci						90000
-一記挼	iq ci nou						
-一記打	iq ci tan						
+一記挼	iq ci nou	366				撫摸一下。可以與「一記打」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
+一記打	iq ci tan	366				打一下。可以與「一記挼」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
 一家	iq cia						
 一架	iq cia						
 一張	iq cian						
@@ -6530,7 +6530,7 @@
 一勢眼	iq syu ngae		271	2			55
 一帶兩便	iq ta lian bi	365	326	4			55
 一帶順便	iq ta zyun bi						
-一打一挼	iq tan iq nou	366	326	2			55
+一打一挼	iq tan iq nou	366	326	2	比喻一會兒來硬的，一會兒來軟的，恩威兼施。		55
 一搭一檔	iq taq iq taon	366	326	4			55
 一到	iq tau	365	288	1			
 一刀肉	iq tau gnioq						
@@ -12547,11 +12547,13 @@
 暖壺	noe wu	162					
 囡	noe2	162	20	110			
 膿線頭	non shi deu	287	54	317			55
+挼記	nou ci					撫摸一下。可以與「打記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
 儂個	nou ghoq						40000
 儂個	nou goq	181					578
 儂要啥人抱	nou iau so gnin bau						
 儂要啥人抱	nou iau soq gnin bau						
 儂要啥人抱	nou iau sou gnin bau						
+挼一記	nou iq ci					撫摸一下。可以與「打一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
 儂慢慢叫走	nou mae mae ciau tseu						
 糯米	nou mi	181					
 糯米絞	nou mi gau						
@@ -15483,6 +15485,7 @@
 打箍	tan chieu	205	193	51	箍桶	此處 chieu1 當爲「箍」之白讀，見《北仑方言》同音字表。「箍」爲一等字，不知爲何增生 i 介音，台州亦有類似讀音。湯版作「打揫」，《阿拉宁波话》引《甬言稽古》作「打𥫷」。另有 chieu1，《鄞縣通志》p. 3060「揪（揫）」繫緊繩結，p. 3012「𣫐（抽）」收緊引線。均爲尖音，與箍桶無關。	55
 打抽豐	tan chieu fon						
 打秋風	tan chieu fon						
+打記	tan ci					打一下。可以與「挼記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
 打家賊	tan cia zaq						
 打賬	tan cian			50			
 打腳埭	tan ciaq da						
@@ -15519,7 +15522,7 @@
 打腰鼓	tan iau ku	205					55
 打噎	tan iq	206					55
 打一槍	tan iq chian						
-打一記	tan iq ci						
+打一記	tan iq ci					打一下。可以與「挼一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
 打其勒過	tan ji laq kou						
 打渠勒過	tan ji laq kou						
 打其勿過	tan ji vaq kou						

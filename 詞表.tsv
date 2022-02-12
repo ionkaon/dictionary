@@ -761,8 +761,7 @@
 蒲薺甜嫩嫩	bu ji di nen nen						
 蒲薺扁窄窄	bu ji pi tsaq tsaq						
 步鴣	bu ku	43	111	149			55
-篰籃	bu lae		106				55
-𥳖籃	bu lae			492			
+篰籃	bu lae		106	492	一種孔眼較大的大竹籃	朱版作「𥳖籃」。	55
 蒲帽	bu mau	43	56	423			55
 蒲包	bu pau	43					
 菩薩	bu saq	43					
@@ -779,9 +778,8 @@
 步梯	bu thi			149			
 蒲宗殼	bu tson khoq						
 簿子	bu tsy						
-篰	bu4		106				
+篰	bu4	44	106	492	1. 用篾條等編成的容器，比籮矮，孔較大；2. 量詞	湯版、朱版作「𥳖」。《說文》篰，㒼爰也。《集韻》𥳖，伴姥切，竹器。宜取 Unicode 基本區的「篰」。	
 部	bu4	43	120	320			
-𥳖	bu4	44	106	492			
 伏	bu6	44	204	112	1. 孵卵；2. 將浸透的豆、稻穀等放在容器裏使發芽	本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	
 孵	bu6	44	204	112	1. 孵卵；2. 將浸透的豆、稻穀等放在容器裏使發芽	本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	
 脯	bu6	43	210	345			
@@ -10015,7 +10013,7 @@
 涼帽戴篷	lian mau te bon		56	320			55
 兩門題目	lian men di moq						
 亮眼	lian ngae	214		270			
-亮眼𥳖	lian ngae bu	214					55
+亮眼篰	lian ngae bu	214			用篾條等編成的容器，比籮矮，孔較大。因孔眼較大，故稱		55
 亮眼頭絲	lian ngae deu sy	214	114	270			55
 亮眼瞎	lian ngae haq		37	270			55
 亮眼瞎子	lian ngae haq tsy	214	37	270			55
@@ -12413,9 +12411,8 @@
 牛鞭子	ngeu pi tsy	199					55
 藕色	ngeu saq	200					
 藕絲糖	ngeu sy daon	200					55
-牛草篰	ngeu tshau bu						
-牛草𥳖	ngeu tshau bu			37			
-牛草籃	ngeu tshau lae	199					55
+牛草篰	ngeu tshau bu			37	一種孔眼較大的大竹籃，用於盛草	朱版作「牛草𥳖」。	
+牛草籃	ngeu tshau lae	199			一種孔眼較大的大竹籃，用於盛草		55
 偶湊	ngeu tsheu	200					55
 牛車盤	ngeu tsho bun	199	105	37			55
 牛肚	ngeu tu	199					
@@ -14240,7 +14237,7 @@
 向白籃	shian baq lae	221	232	114			55
 鑲盆	shian ben	221	63	502			55
 香肥皂	shian bi zau	220					55
-鯗𥳖	shian bu	221					55
+鯗篰	shian bu	221			用篾條等編成的容器，比籮矮，孔較大。常盛放魚鯗類食品，故稱	湯版作「鯗𥳖」。	55
 響器	shian chi		107				
 相親	shian chin	220					
 鑲金牙齒	shian cin ngo tshy						
@@ -15741,8 +15738,7 @@
 倒角	tau koq		208				55
 倒掛眉毛	tau kuo mi mau	77					55
 倒㼑	tau li	77	206	312			55
-刀籠篰	tau lon bu		106				55
-刀籠𥳖	tau lon bu			8			
+刀籠篰	tau lon bu		106	8	一種一尺來長圓柱體的小竹簍，常系在背上用來盛刀具或魚蝦等	朱版作「刀籠𥳖」。	55
 刀絡殼	tau loq khoq						
 倒沒	tau maq		210	312			55
 到門	tau men	78					55

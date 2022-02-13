@@ -2007,6 +2007,7 @@
 緘	缄	kyin	ci1	7							0.00	文讀	
 靬	靬		ci1										
 幵	幵		ci1										
+趼	趼		ci1	3			ci5	10					
 豣	豣		ci1										
 麉	麉		ci1										
 玪	玪		ci1										
@@ -2795,7 +2796,6 @@
 甗	甗		gni6										
 顑	顑		gni6										
 #			gni6									煙韻	
-趼	趼		kni1	3			ci5	10					
 研	研		kni1										
 黏	黏	nyin	kni1	1			kni5	10	knien1	11			
 #			kni1									煙韻	
@@ -18295,7 +18295,7 @@
 曡	叠		diaq8	1									
 疊	叠	diah	diaq8	1	diq8	9	diq8	10					
 畳	叠		diaq8	1									
-沓	沓		diaq8	1							0.05	量詞 又音	
+沓	沓		diaq8	1							0.05	量詞 又音	#
 揲	揲		diaq8										
 #			diaq8										
 掠	掠	liah	liaq8	1	liq8	9	liq8	10	liq8	11			

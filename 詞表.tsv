@@ -4006,7 +4006,7 @@
 翻肚	fae tu		210	492			55
 翻肚肚	fae tu tu		210				55
 反文旁	fae ven baon	133					
-𨠒黃	fae waon			416			
+泛黃	fae waon			416	紙張等日久變成黃色	朱版作「𨠒黃」。	
 番薯	fae zyu	132	70	404			
 番薯年糕	fae zyu gni kau						
 番薯乾	fae zyu ki-ke	132	70	404			55
@@ -4019,9 +4019,8 @@
 番薯糊剌	fae zyu wu la		70				55
 番薯糊辣	fae zyu wu laq	132					55
 翻	fae1	132	160	492			
-㽹	fae5	133	137	270			
-泛	fae5	133	137, 207, 249	63			
-𨠒	fae5			415			
+㽹	fae5	133	137	270	噁心想吐	《阿拉宁波话》也作「泛」。	
+泛	fae5	133	137, 207, 249	63, 415	1. 酒變質；2. 變色，褪色；3. 好，熟練	義 1 及義 2 朱版作「𨠒」。	
 方矮凳	faon a ten	229					55
 放白鴿	faon baq kaq	230	321				55
 放雞	faon ci	229					55
@@ -4042,7 +4041,7 @@
 方角	faon koq	229					55
 放爛草	faon lae tshau			220			
 放落沙䥛就嘸飯	faon loq so ci jieu mh vae						
-方面敦敦	faon mi ten ten						
+方面頓頓	faon mi ten ten				形容方方的		
 放命	faon min	229	285	220			55
 放命頭	faon min deu	229	285	220			55
 放啞炮	faon o phau						
@@ -4068,12 +4067,10 @@
 發牌	faq ba						
 發青沙	faq chin so						
 髮腳	faq ciaq	303					
-發酒瘋	faq cieu fon	302					
-發酒凚	faq cieu jin		172				55
-發酒勁	faq cieu jin	302					55
-弗知	faq ciq	304		75			
-弗結	faq ciq	301					578
-弗結咋是咋	faq ciq dza zy dza	301					
+發酒瘋	faq cieu fon	302			醉酒後胡鬧或發冷		
+發酒勁	faq cieu jin	302	172		醉酒後胡鬧或發冷	《阿拉宁波话》作「發酒凚」。	55
+弗知	faq ciq	301		75	不知		578
+弗知咋是咋	faq ciq dza zy dza	301			說不出怎麼回事；給人異樣或不舒服的感覺		
 發大興	faq da shin	302	315	82			55
 發動機叿叿響	faq don ci ghon ghon shian						
 發喥	faq du	302	178	82			55
@@ -4098,7 +4095,8 @@
 發利市	faq li zy						
 發流火	faq lieu hou						
 發爐子	faq lu tsy	302					55
-發買㾹病	faq ma za bin	302					
+發買㾹病	faq ma za bin	302			瘧疾發作		
+發買㾹病	faq mau za bin				瘧疾發作		
 發呆勁	faq nge jin	302	315				55
 發票	faq phiau	302					
 發䨣	faq phoq	303	209	82	物體浸水後體積變大	《阿拉宁波话》作「發䨣」。䨣，《集韻》匹各切。說文段註：雨濡革也，雨濡革則虛起，今俗語若朴。	55
@@ -4156,7 +4154,7 @@
 粉蒸肉	fen cin gnioq	251					55
 分唐紙	fen daon tsy	251					
 分頭	fen deu	251	95	41			
-粉慈慈	fen dzy dzy		277				55
+粉慈慈	fen dzy dzy		277	321	形容食物喫起來有粉質感	朱版作「粉滋滋」。	55
 粉粉燥	fen fen sau	251					578
 粉紅	fen ghon	251					
 粉滯滯	fen ji ji						
@@ -4176,8 +4174,7 @@
 分鯗絲	fen shian sy						
 分書	fen syu		126				
 分歲	fen syu			41			
-粉滋滋	fen tsy tsy			321			
-粉慈慈	fen zy zy		277				55
+粉慈慈	fen zy zy		277		形容食物喫起來有粉質感	朱版作「粉滋滋」。	55
 粉	fen3	251		321			
 否格	feu kaq		287, 300				55
 否則	feu tsaq		287	147			
@@ -4215,8 +4212,7 @@
 風爐	fon lou	283	98	42			
 風色	fon saq	284					
 風箱	fon shian	284		42			
-瘋手	fon shieu			42			
-風手	fon shieu	283	53	42			55
+風手	fon shieu	283	53	42	手臂癱垂	朱版作「瘋手」。	55
 風手爛腳	fon shieu lae ciaq						
 風水	fon syu	283	4	42			
 風水先生	fon syu shi san	283					
@@ -8819,8 +8815,8 @@
 角票	koq phiau	344	95	167			418
 閣柵	koq saq	345	86	271	用來支撐樓板、地板的長木	《阿拉宁波话》作「擱柵」。	55
 各色各樣	koq saq koq yan		270				
-各手勿知賬	koq shieu vaq tsyu cian		340				
-各手弗知賬	koq shieu vaq tsyu cian			119			55
+各手勿知賬	koq shieu vaq tsyu cian		340	119	各人經手，互不知情		
+各手弗知賬	koq shieu vaq tsyu cian		340	119	各人經手，互不知情		55
 擱沙	koq so	345					55
 各到各態	koq tau koq the						
 各到各退	koq tau koq thei						
@@ -18928,9 +18924,8 @@
 罰咒	vaq cieu	304					55
 物證	vaq cin	304					
 勿結	vaq ciq		297				
-弗知	vaq ciq	304					55
-勿結咋是咋	vaq ciq dza zy dza		339				
-弗知咋是咋	vaq ciq dza zy dza						55
+弗知	vaq ciq	304	297		不知		55
+弗知咋是咋	vaq ciq dza zy dza		339		說不出怎麼回事；給人異樣或不舒服的感覺		55
 勿大	vaq da	303					
 弗大	vaq da						55
 佛堂	vaq daon	304					

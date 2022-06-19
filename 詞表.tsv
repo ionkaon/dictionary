@@ -1399,7 +1399,7 @@
 喫嚇	chiq haq		174		受驚		55
 漆蒿蒿	chiq hau hau	360	276	455	形容食物日久變質滲油那種刺喉的味道（比「油蒿蒿」程度更深，相當於普通話「哈喇」）		55
 喫𢞕	chiq hoq	360	174		受驚		55
-七依八𠡒	chiq i paq tei	359	254	6			55
+七依八𠡒	chiq i paq tei	359	254	6	形容弄岔了，對不上號		55
 七一	chiq iq	359					
 漆一度	chiq iq du						
 七纏八纏	chiq ji paq ji	359	327	6	糾纏不休		55
@@ -4268,8 +4268,7 @@
 解斷	ga doe						
 解大樹	ga dou zyu						
 解樹螂	ga dzyu laon		112				55
-嘎嘎	ga ga			479			
-茄茄	ga ga		280				55
+嘎嘎	ga ga		280	479	形容從喉嚨發出的笑聲	《阿拉宁波话》作「茄茄」。	55
 解解	ga ga						
 嘎嘎鴨	ga ga ae	66					
 解好	ga hau						
@@ -4306,17 +4305,14 @@
 戇戇鵝	gaon gaon ngou	240					55
 戇鵝	gaon ngou			338			
 扛冰箱	gaon pin shian						
-㽘杴	gaon shi	240	103	254			55
-㽘鍁	gaon shi		103				55
+㽘杴	gaon shi	240	103	254	鏟溝用的鐵杴		55
 戇性性	gaon shin shin	240	242				55
 戇搭搭	gaon taq taq	240	242	502			55
 㽘底	gaon ti		5	254			55
 㽘	gaon2	240					55
-扛	gaon2	240	143				
-摃	gaon2			85			
+扛	gaon2	240	143	85	共同用手或肩膀搬東西		
 戇	gaon4	240	242	502			
-扛	gaon6	240	143				
-摃	gaon6			85			
+扛	gaon6	240	143	85	擱置於上；一般指臨時擱置一下或指擱在不很適宜的地方等		
 軋朋友	gaq ban yeu	319		57			418
 軋平	gaq bin	319					
 軋起軋倒	gaq chi gaq tau	318					55
@@ -4340,10 +4336,8 @@
 軋瓜子	gaq kuo tsy						
 軋攔門	gaq laq men		127	57			55
 軋牢	gaq lau	319					418
-軋立軋煞	gaq li gaq saq		230				55
-軋裏軋煞	gaq li gaq saq			58			
-軋力軋煞	gaq liq gaq saq			58			
-軋立軋煞	gaq liq gaq saq		230				55
+軋裏軋煞	gaq li gaq saq		230	58	形容很擁擠		
+軋力軋煞	gaq liq gaq saq		230	58	形容很擁擠		
 軋米	gaq mi	318					
 軋苗頭	gaq miau deu	319					418
 軋鬧猛	gaq nau man						
@@ -4377,7 +4371,7 @@
 寋鈸	ge baq	127			銅鈸	湯版作「戤鈸」。《鄞縣通志》作「寋」，音 ɡɪ̃ 陽上，與「戤」 ɡɛ 不同音（p.3062）。寋，《集韻》巨偃切，徒鼓磬。寧波今讀 ge4。	55
 戤白皮	ge baq bi	127	324	442			55
 戤糖碗	ge daon un	127					55
-戤大白	ge dou baq	127					
+寋大鈸	ge dou baq	127			銅鈸		
 戤絲	ge sy	127	42				55
 戤勢道	ge syu dau	127					55
 寋尺板	ge tshaq pae	127			鼓板	湯版作「戤叉」。《鄞縣通志》作「寋」，音 ɡɪ̃ 陽上，與「戤」 ɡɛ 不同音（p.3062）。寋，《集韻》巨偃切，徒鼓磬。寧波今讀 ge4。	55
@@ -4396,9 +4390,7 @@
 跔頭縮頸	geu deu soq cin	199	236	398			55
 跔掉	geu diau	199		398			55
 跔指末頭	geu tsy maq deu						
-痀	geu6			319			
-跔	geu6	199	165	398		湯版作「𧺤」，「𧺤」、「跔」互爲異體。推薦寫位於 Unicode 基本區的「跔」。	55
-𧺤	geu6	199	165	398		湯版作「𧺤」，「𧺤」、「跔」互爲異體。推薦寫位於 Unicode 基本區的「跔」。	
+跔	geu6	199	165	319, 398	1. 肢體蜷曲收縮；2. 衣物等因縮水、曝曬而蜷曲收縮；3. 扣除；減去	湯版作「𧺤」，朱版也作「痀」，「𧺤」、「跔」互爲異體。推薦寫位於 Unicode 基本區的「跔」。	55
 鞋爿	gha bae	68	60	462			578
 鞋拔	gha baq	68	60				
 鞋蒲薺	gha bu ji	68	29	463			418
@@ -4412,7 +4404,7 @@
 鞋面	gha mi	68					
 鞋幫	gha paon	68					
 合撲	gha phoq		173	116			
-鞋揎	gha shiu	68					55
+鞋楦	gha shiu	68					55
 鞋帶	gha ta	68					
 鞋底	gha ti	68					
 鞋底奔薄	gha ti pen boq						
@@ -4540,8 +4532,7 @@
 害連百場	ghe li paq jian						
 害爹害孃	ghe tia ghe gnian		336				55
 亥	ghe4	128					
-咳	ghe4	128					
-嗐	ghe6		301	428			
+嗐	ghe6	128	301	428	表示贊同或驚歎	湯版作「咳」。	
 汗爬雨淋	ghei-ghe bo yu lin	171	260	123			55
 汗跡	ghei-ghe ciq	171					
 咸頭咸腦	ghei-ghe deu ghei-ghe nau						

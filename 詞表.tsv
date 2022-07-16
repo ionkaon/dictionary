@@ -1651,7 +1651,7 @@
 借邊	cia pi		10		左邊		55
 借手	cia shieu	69	46		左手		
 借手蹩腳	cia shieu biq ciaq						
-借手箬鰨	cia shieu gnioq thaq		67		眼睛長在左邊的比目魚		55
+借手鰙鰨	cia shieu gnioq thaq		67		眼睛長在左邊的比目魚		55
 借手抲筷	cia shieu kho khuae				左手拿筷子		
 借手㪝槌	cia shieu li dzyu	69					
 借手半邊	cia shieu pun pi	69	10		左邊		55
@@ -4549,9 +4549,8 @@
 寒露	ghei-ghe lu	171					
 寒毛	ghei-ghe mau	171					
 寒毛管	ghei-ghe mau kun	171	48				418
-寒毛懍懍	ghei-ghe mau lin lin	171	219				55
-汗毛懍懍	ghei-ghe mau lin lin			123			
-汗毛尺䞁	ghei-ghe mau tshaq i						
+寒毛懍懍	ghei-ghe mau lin lin	171	219	123	形容非常害怕	朱版作「汗毛懍懍」。	55
+寒毛尺䞁	ghei-ghe mau tshaq i						
 汗𩂢𩂢響	ghei-ghe nga nga shian		260				55
 汗斑	ghei-ghe pae	171					
 汗背心	ghei-ghe pei shin	171					55
@@ -4774,8 +4773,7 @@
 紅頭黑炭	ghon deu haq thae	293					55
 紅頭蒼蠅	ghon deu tshaon in		113	133			55
 紅緞鑲邊	ghon doe shian pi	293					55
-紅粉細白	ghon fen shi baq			133			
-紅粉鮮白	ghon fen shi baq	293	274				55
+紅粉鮮白	ghon fen shi baq	293	274	133	形容膚色紅潤白晳	朱版作「紅粉細白」。	55
 洪峯	ghon fon	292					
 叿叿	ghon ghon		179	103	聲音嘈雜	《阿拉宁波话》作「紅紅」。《集韻》叿，胡公切，大聲或作叿𠲓。	55
 紅紅帳子拖踏牀	ghon ghon cian tsy thou daq zaon						
@@ -4853,8 +4851,7 @@
 鑊子	ghoq tsy	346	96				578
 或上或落	ghoq zaon ghoq loq		270				55
 個	ghoq8		304	255			
-嚄	ghoq8			478			
-嚯	ghoq8		301	478			
+嚯	ghoq8		301	478	表示驚訝	朱版也作「嚄」。	
 鑊	ghoq8	346	96				
 和排	ghou ba	190	229				55
 河蚌	ghou ban	191					
@@ -4889,7 +4886,6 @@
 和家	ghou ko	190	129				55
 和家計掇出	ghou ko ci taq tshyuq						
 和家老小	ghou ko lau shiau	190	129				55
-和家老少	ghou ko lau shiau						
 和家瘟	ghou ko uen						
 和個	ghou kou	190	285	210			55
 荷蘭水	ghou lae syu	191					55
@@ -4922,12 +4918,10 @@
 和三個	ghou sae goq						
 和三隻	ghou sae tsaq						
 和筲箕覆出	ghou sau ci foq tshyuq						
-和消頭	ghou shiau deu	190	34	210			55
-禍消頭	ghou shiau deu						
+和消頭	ghou shiau deu	190	34	210	爲人勸架解紛、和事消氣的人		55
 河屍鬼	ghou sy ciu	191					55
 河水鬼	ghou syu ciu		131	223			55
 河水翻漿	ghou syu fae cian						
-禍水翻漿	ghou syu fae cian						
 河水怪清	ghou syu kuan chin						
 和擔判	ghou tae phun						
 河對頭	ghou tei deu						
@@ -4956,8 +4950,7 @@
 泥鰍打渾	gni chieu tan wen						
 年紀	gni ci	33					
 二汁	gni ciq	34					55
-念頭	gni deu		128				
-癮頭	gni deu			480			
+癮頭	gni deu		128	480	癮	《阿拉宁波话》作「念頭」。	
 黏頭樹	gni deu zyu	34	96	486			55
 泥桶	gni don		103				55
 泥洞活鬼	gni don waq ciu						
@@ -5081,7 +5074,7 @@
 喵呣喵呣	gnian mh gnian mh				擬聲。很美味地咀嚼		
 喵呣貓	gnian mh mae				兒童用語，貓咪		
 孃戲孃倒	gnian shi gnian tau	219	336		形容連續不斷地、兇狠地罵人的樣子	湯版作「仰死仰倒」，《阿拉宁波话》也作「孃死孃倒」。見《明清吳語詞典》「娘戏」詞條，後字爲團音。	55
-娘嬉䏘	gnian shi phiq						
+孃嬉䏘	gnian shi phiq				詈語，相當於北京話中的「他媽的」		
 孃戳屄	gnian tshoq pi	219					55
 娘子	gnian tsy	219	20	19			
 娘子阿姆	gnian tsy a m						55
@@ -5112,7 +5105,7 @@
 原方	gnieu faon	155					55
 揉揉看	gnieu gnieu khe						
 扭扭作作	gnieu gnieu tsoq tsoq		248				55
-扭紐子	gnieu gnieu tsy	155					55
+扭鈕子	gnieu gnieu tsy	155					55
 扭秧歌	gnieu ian kou	155					
 原舊	gnieu jieu	155					55
 鈕襻	gnieu phae	155					55
@@ -5148,8 +5141,7 @@
 銀角子	gnin koq tsy	271					55
 人滾壯	gnin kuen tsaon						
 人辣辣瘦落去	gnin laq laq seu loq chi						
-人來瘋	gnin le fon	270					
-人來風	gnin le fon			7			
+人來瘋	gnin le fon	270		7	客人來時，小孩過分興奮、嬉鬧	朱版作「人來風」。	
 銀樓	gnin leu	271					
 人立勒骨挺	gnin liq laq kuaq thin						
 凝攏	gnin lon	271					55
@@ -5225,9 +5217,8 @@
 肉絲糊臘	gnioq sy wu laq	350					55
 肉搭搭	gnioq taq taq			110			
 肉頓頓	gnioq ten ten						
-箬鰨	gnioq thaq		67	449			55
-鰙鰨	gnioq thaq		67				55
-箬鰨魚	gnioq thaq ng		67				55
+鰙鰨	gnioq thaq		67	449	比目魚	朱版作「箬鰨」。	55
+鰙鰨魚	gnioq thaq ng		67		比目魚		55
 肉痛	gnioq thon	350	176	110			
 肉店	gnioq ti	350					
 肉店倌	gnioq ti kun						
@@ -5242,9 +5233,8 @@
 肉油	gnioq yeu	350					55
 肉圓	gnioq yu	350	63	110			
 玉石	gnioq zaq	350					
-掿	gnioq8		150				
+掿	gnioq8	350	150	238	1. 兩手用力揉搓；2. 把平展的東西揉在一起	湯版、朱版作「𢫭」。	
 肉	gnioq8	350	63	109			
-𢫭	gnioq8	350		238			
 熱勃勃	gniq baq baq	362	258	293		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 熱勃幾糟	gniq baq ci tsau						
 熱氣肉	gniq chi gnioq	362	63	293			55
@@ -5352,7 +5342,6 @@
 軟宕宕	gniu than than		262	203			55
 軟塌皮	gniu thaq bi	54	262	203			55
 軟塌塌	gniu thaq thaq	54	262				
-軟貼紕	gniu thiaq bi						
 軟菜	gniu tshe	54	72	203			55
 軟菜蛤螷羹	gniu tshe kaq bi kan						
 愚豬	gniu tsyu	54	109				55
@@ -5947,7 +5936,7 @@
 衣櫥頭頂	i dzyu deu ten						
 衣櫥裏向	i dzyu li shian						
 菸盒子	i ghaq tsy	42					55
-挔紐子	i gnieu tsy						
+挔鈕子	i gnieu tsy						
 煙火氣	i hou chi	42					
 菸灰	i huei	41					
 䞁䞁看	i i khe						
@@ -14091,9 +14080,8 @@
 細倭豆	shi ou deu	37	71				55
 死坯	shi phei	36					55
 戲票	shi phiau	37					
-嬉䏘	shi phiq	36	170	474			55
-戲䏘	shi phiq		170				55
-戲䏘揹命	shi phiq pei min						
+嬉䏘	shi phiq	36	170	474	男女性交；牲畜交配		55
+嬉䏘揹命	shi phiq pei min						
 搧巴掌	shi po tsaon	37					55
 西半邊	shi pun pi	35					
 西曬日頭	shi sa gniq deu		3				55
@@ -14591,8 +14579,8 @@
 新人家	shin gnin ko	273					55
 新肉	shin gnioq	273					55
 心花開	shin huo khe	272					55
-新花暴熱	shin huo pau gniq	272	338	437			55
-新花暴時熱	shin huo pau zy gniq	272					55
+新花暴熱	shin huo bau gniq	272	338	437	比喻對新人或新事物充滿熱情		55
+新花暴時熱	shin huo bau zy gniq	272			比喻對新人或新事物充滿熱情		55
 新街口	shin ka kheu						
 聖珓	shin kau	273	131				55
 醒覺轉	shin kau tsoe		169				55
@@ -20915,7 +20903,7 @@
 純怕	zyun pho	281					55
 順邊	zyun pi		10				55
 順手	zyun shieu	281	46				
-順手箬鰨	zyun shieu gnioq thaq		67				55
+順手鰙鰨	zyun shieu gnioq thaq		67				55
 順手骨接	zyun shieu kuaq ciq						
 順手半邊	zyun shieu pun pi	281	10				55
 人心難料	zyun shin nae liau						

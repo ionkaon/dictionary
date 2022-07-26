@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AUTHOR : Electric Sheep
+AUTHOR : Shin Zoqchiuq
 VERSION : v2021.11.12
 
 從 `字表.tsv` 生成 `甬城（考證）.tsv`

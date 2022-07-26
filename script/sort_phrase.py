@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-AUTHOR: Electric Sheep
+AUTHOR: Shin Zoqchiuq
 VERSION : v2021.08.06
 
 詞表排序

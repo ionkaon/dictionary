@@ -5594,8 +5594,6 @@
 許	he5	128	179				
 熯下飯	hei- gho vae				用水蒸汽把菜熱一下；把菜蒸熟		
 許願心	hei- gniu shin		140				55
-漢郎頭	hei- laon deu						
-蚶子口棉鞋	hei- tsy kheu mi gha						
 咳	hei-1			256			
 許	hei-1		179	126			
 熯	hei-5	170		473			
@@ -5604,8 +5602,7 @@
 浫水紙	hen syu tsy	257		325			55
 臖陽𣝗	hen yan waq	256	55		腫起的淋巴結，多見於頷下及大腿根		55
 狠	hen3	256, 257	140	268			
-擤	hen5		149				
-洵	hen5	256		279			
+擤	hen5	256	149	279	捏住鼻子，用氣排出鼻涕	湯版、朱版作「洵」。《集韻》洵，須倫切，揮涕也。《篇海》擤，呼梗切，亨上聲。手捻鼻膿曰擤。「洵」義不合，「擤」音義合。	
 浫	hen5	257	212	325			
 狠	hen5	257	140	268			
 臖	hen5		171	368	淋巴結腫起	湯版、朱版作「脪」，《阿拉宁波话》作「臖」。《廣韻》脪，興腎切，腫起。臖，許應切，腫起。二字義同，音皆不合。「脪」上聲，「臖」去聲，「臖」更合適。	
@@ -5616,9 +5613,8 @@
 佝的	heu tiq						
 佝仔	heu tsy						
 煦飯	heu vae		61	426			55
-吼	heu1	200	246, 302				
+吼	heu1	200	246, 302	159	急迫；着急	朱版標爲陰上聲。	
 吽	heu1		302	208	吆喝牛行走的聲音		
-吼	heu3	200		159			
 煦	heu5	200	190	426			
 鱟	heu5	200	4	440			
 烘烘響	hon hon shian				形容天氣熱：熱勒烘烘響		
@@ -5704,7 +5700,6 @@
 火熜蓋頭	hou tshon ke deu						
 火赤練	hou tshoq li	189	113	46			55
 火赤練	hou tshoq yi	189	113	46			55
-火赤蜒	hou tshoq yi						
 火種彭生	hou tson ban san	189	328	46			55
 火種菩薩	hou tson bu saq	189					55
 火種垃圾	hou tson la shi						
@@ -5718,8 +5713,7 @@
 火螢頭	hou yon dei			46			
 火螢頭	hou yon deu		112	46			55
 火𤵥病	hou zau bin	188	56	46			55
-伙食	hou zhiq	189					
-火食	hou zhiq	189					55
+伙食	hou zhiq	189			飯食，多指集體所辦的飯菜		
 火字旁	hou zy baon	188					55
 藃	hou1	188	165	484			
 火	hou3		121				
@@ -5850,8 +5844,7 @@
 花薺菜	huo ji tshe			143			
 花轎	huo jiau	120		143			
 花蛤	huo kaq	120	65	143			
-花杆	huo ki-ke			143			
-花稈	huo ki-ke	119	115				55
+花稈	huo ki-ke	119	115	143	摘去棉花後的莖杆		55
 蝦乾	huo ki-ke	121					
 花稈當柴燒	huo ki-ke taon za shiau						
 蝦蛄彈	huo ku dae	121	68	254			55
@@ -5890,9 +5883,8 @@
 花店	huo ti	119					
 花癲	huo ti	119		143			55
 花癲病	huo ti bin			143			
-花癲大糊	huo ti da wu	119					55
 花蒂頭	huo ti deu						
-花癲大糊	huo ti dou wu			143			
+花癲大糊	huo ti dou wu	119		143	因嚮往異性而精神失常的人		55
 花雕	huo tiau	119					
 花菜	huo tshe	120	72	143			
 花菜炒肉片	huo tshe tshau gnioq phi						
@@ -5913,13 +5905,12 @@
 蝦𩻣薧	huo zae khau			254			
 蝦𩻣鮳	huo zae khau						
 花蕊	huo zei						
-呵	huo1	120					
-花	huo1	119	115, 169, 247	142			
+花	huo1	119, 120	115, 169, 247	142	1. 棉花；2. 兌秤星；3. 稍睡一會兒；4. 好色	義 3 湯版作「呵（同音替代）」。	
 颬	huo1		138	217			
 蝦	huo3	120					
 煆	huo5	121	190	439			
-花	huo5		115, 155				
-華	huo5		155	113			
+花	huo5		115		動詞。用花言巧語說服人	湯版記爲陰平。	
+華	huo5	119	155	113	用刀劃割瓜果、魚肉等而不使斷裂	湯版作「花」。	
 䞁棒	i baon			429			
 燕青	i chin	42	273	315			55
 意姿	i ci	42	51	438			55
@@ -5944,8 +5935,7 @@
 衣架	i ko	41					
 傿價鈿	i ko di			432			
 依賴	i lae						
-吚哩嗚嚕	i li u lu			158			
-咿哩嗚嚕	i li u lu		179				55
+咿哩嗚嚕	i li u lu		179	158	形容說話含混不清	朱版作「吚哩嗚嚕」。	55
 依路	i lu	41	294				55
 依路餵小雞	i lu iu shiau ci						
 依路抲蜻蜓	i lu kho chin din						
@@ -6080,8 +6070,7 @@
 幽貓	ieu mhau		184				55
 幼羞	ieu shieu	160	238		害羞；靦腆	湯版作「幼秀」。	55
 幽頓頓	ieu ten ten	160	275	258	火光幽暗	湯版作「幽敦敦」，《阿拉宁波话》、朱版作「幽燉燉」。	55
-幽	ieu1	160	167	258			
-幽	ieu5		167	258			
+幽	ieu1	160	167	258	1. 藏；2. 形容詞。風、火、聲音等微弱	義 1 《阿拉宁波话》記爲陰去調。	
 陰靉	in a		257	129			55
 陰靉天家	in a thi ko	274					418
 䌥被針	in bi cin	275	93	490			55
@@ -6125,9 +6114,6 @@
 影戲館	in shi kun	275					55
 洇溼	in shiq	275					
 陰溼	in shiq	275	258				
-應許	in shiu	275					
-應許呂布	in shiu li pu						
-應許董卓	in shiu ton tsoq						
 陰司鬼	in sy ciu	274					55
 陰𡍲頭	in taq deu	275					55
 陰𡍲頭裏	in taq deu li	275					55
@@ -6146,9 +6132,8 @@
 影牆	in zhian	275					55
 陰壽	in zhieu	274					
 飲食店	in zhiq ti	275					
-縈	in1		150	344			
 䌥	in3	275	160	490			
-縈	in3	275					
+縈	in3	275	150	344	把線狀物捲成一團或一圈	《阿拉宁波话》及朱版記作陰平。	
 隱	in3	275					
 飲	in3	275	204	170			
 印	in5		175	67			
@@ -6157,14 +6142,14 @@
 壅田	ion di	295					55
 甬劇	ion jiq	295	124				
 甬江小片	ion kaon shiau phi						
-甬江言話	ion kaon yi wo						
+甬江閒話	ion kaon ghae wo						
+甬江言話	ion kaon ghae wo						
 壅料	ion liau	295					55
 壅芋艿	ion n na						
 永生永世	ion san ion shi		17				578
 甬蓆	ion zhiq	295	91				55
-擁	ion1	295					
+擁	ion1	295	176	193	同情	《阿拉宁波话》與朱版記爲陰上。	
 勇	ion3		249				
-擁	ion3		176	193			
 一排生	iq ba san		229	2			55
 一爿廠	iq bae chian						
 一爿店	iq bae ti						
@@ -6247,8 +6232,7 @@
 一疊紙頭	iq diaq tsy deu						
 一錠貢	iq din kon						
 一錠恭喜	iq din kon shi						
-一定不易	iq din paq yi		326				
-一定不移	iq din paq yi			3			
+一定不移	iq din paq yi		326	3	確定不變	《阿拉宁波话》作「一定不易」。	
 一大摙	iq dou li		224				55
 一大半	iq dou pun	366					
 一堵	iq du						
@@ -6337,6 +6321,7 @@
 一窠地方	iq khou di faon						
 一窠生	iq khou sen						
 一塊頭	iq khuei deu						
+一架	iq ko				一塊		2000
 一家	iq ko		119				
 一架絹帕	iq ko ciu phae						
 一家頭	iq ko deu						
@@ -6437,7 +6422,6 @@
 一世湊頭嘸後還	iq shi tsheu deu mh gheu wae						
 一世爲人	iq shi wei gnin		17				55
 一手一腳	iq shieu iq ciaq	366	326	2			55
-抑手抑腳	iq shieu iq ciaq						
 一手落	iq shieu loq	365	313	1			55
 一聲響	iq shin shian		304	2			55
 一世界	iq syu ka						
@@ -6478,8 +6462,7 @@
 一隻角子	iq tsaq koq tsy	367					55
 一隻鼎	iq tsaq tin		313				55
 一隻糉子四隻角	iq tsaq tson tsy sy tsaq koq						
-一轉一回	iq tsoe iq wei			3			
-一轉一迴	iq tsoe iq wei	365	326				55
+一轉一回	iq tsoe iq wei	365	326	3	一個來回，指收支相較		55
 一桌酒水	iq tsoq cieu syu	367					55
 𥣘子	iq tsy	367	115	355			55
 一支	iq tsyu						
@@ -6553,7 +6536,7 @@
 冤枉百刁	iu uaon paq tiau						
 䩩	iu3	56	132	494	稱東西時盛器的重量	䩩《廣韻》於阮切，䩩，量物之䩩也。也作「𩌑」。𩌑《廣韻》於阮切，上同。二字同義。「䩩」位於 Unicode 擴展 A 區，「𩌑」位於 Unicode 擴展 B 區，推薦作「䩩」。	25
 𩌑	iu3	56	132	494	稱東西時盛器的重量	䩩《廣韻》於阮切，䩩，量物之䩩也。也作「𩌑」。𩌑《廣韻》於阮切，上同。二字同義。「䩩」位於 Unicode 擴展 A 區，「𩌑」位於 Unicode 擴展 B 區，推薦作「䩩」。	25
-餧	iu5			370			
+餵	iu5			370	餵	朱版作「餧」。	
 鬱勃勃	iuq baq baq	370	258	201		後綴 baq baq，《阿拉宁波话》作「勃勃」，湯版作「拔拔」。據《字語彙解》p.394。resentment 註「怨氣勃勃」ün'-kyʽi-beh-beh'。清末「拔」爲 bah，與「勃」不同音。故選擇「勃勃」。	55
 鬱氣勿過	iuq chi vaq kou						
 鬱氣弗過	iuq chi vaq kou						1
@@ -6634,11 +6617,7 @@
 其	ji6		39, 305	196			
 廄	ji6	32					
 渠	ji6	32					
-喳喳	jia jia		179	499			55
-喳喳叫	jia jia ciau						
-喳喳叫叫	jia jia ciau ciau						
-喳喳哭	jia jia khoq						
-喳喳哭哭	jia jia khoq khoq						
+喳喳	jia jia		179	499	形容很響的叫聲、哭聲		55
 喳喳嘶	jia jia shi				大聲嘶吼		
 喳喳嘶嘶	jia jia shi shi				大聲嘶吼	《阿拉宁波话》作「⿰口茄⿰口茄嘶」，「⿰口茄」爲詞典造字，手寫並不困難，但輸入存在問題。參考 @sacheong 的寫法，改作「喳喳嘶」。	
 茄子	jia tsy	70					
@@ -6781,9 +6760,9 @@
 橋頭三叔公	jiau deu sae soq kon	113	35	298			55
 撬地菜	jiau di tshe						
 撬軋	jiau gaq	113					55
+朝日頭	jiau gniq deu	113			對着太陽，一般指朝南		55
 朝日頭花	jiau gniq deu huo	113	118				55
 潮菸	jiau i	113					
-朝口頭	jiau kheu deu	113					55
 撬棍	jiau kuen		104				
 朝裏	jiau li	113					55
 蕎麥	jiau maq	113					
@@ -6854,8 +6833,7 @@
 敐敐走	jin jin tseu	270					
 陳家段	jin ko doe						
 辰光	jin kuaon		12	147			578
-仍歸	jin kuei			40			
-仍規	jin kuei	269	294				578
+仍規	jin kuei	269	294	40	依舊	朱版作「仍歸」。	578
 循規蹈矩	jin kuei dau ciu		251	404			
 城裏頭	jin li deu	269					418
 城裏頭人	jin li deu gnin	269					418
@@ -6864,14 +6842,12 @@
 勤力	jin liq	270	239	422			
 勤力無價之寶	jin liq vu cia tsy pau						
 勤力無價之寶	jin liq wu- cia tsy pau						
-成攏	jin lon	269					55
+凌攏	jin lon	269			液體凝結爲固體		55
 剩落	jin loq						
 城門	jin men	269					
 城外頭	jin nga deu	269					55
-近手勿	jin shieu vaq		332				
-近手弗	jin shieu vaq						55
-近手勿來	jin shieu vaq le						
-近手弗來	jin shieu vaq le			164			
+近手勿來	jin shieu vaq le		332	164	不可收拾；無法處理		
+近手弗來	jin shieu vaq le		332	164	不可收拾；無法處理		55
 情信	jin shin		107				55
 盡走	jin tseu	270					
 芹菜	jin tshe	269					
@@ -6890,8 +6866,7 @@
 埕	jin2	269		291			
 成	jin2	269					
 擎	jin2	270					
-凚	jin4	270	167	474			
-噤	jin4		167				
+凚	jin4	270	167	474	因受寒或受驚而哆嗦	《阿拉宁波话》也作「噤」。	
 剩	jin6	270					
 鈐	jin6	270	157	259			
 陣	jin6	270					
@@ -6906,13 +6881,11 @@
 值鈿	jiq di	361	176	311			578
 值銅鈿	jiq don di		269				55
 直肚白腸	jiq du baq jian	361	239	198			55
-劇劇	jiq jiq		280				55
-直直	jiq jiq			419			
+劇劇	jiq jiq		280	419	1. 形容敲擊聲；2. 形容走路很快聲音很響的樣子		55
 直直軋軋	jiq jiq gaq gaq			305			
 直直過	jiq jiq kou	361		197			55
 直直刮刮	jiq jiq kuaq kuaq						
-極克	jiq khaq			145			
-極刻	jiq khaq		224				55
+極刻	jiq khaq		224	145	最少；最低限度	朱版作「極克」。	55
 直過	jiq kou	361	188	197			55
 其拉	jiq laq		39	196			100000
 渠拉	jiq laq	361					50000
@@ -6938,11 +6911,9 @@
 極䪆	jiq thi	361	261				55
 直通大道	jiq thon da dau			198			
 劇	jiq8	361	123	330			
-扱	jiq8		142				
-搩	jiq8		142				
 極	jiq8		283	145			
 直	jiq8	361					
-𢷒	jiq8	361	142	483			55
+𢷒	jiq8	361	142	483	1. 腋下夾，抱持；2. 擔保，負責	《阿拉宁波话》也作「扱」「搩」。	55
 櫃檯	jiu de	53					
 櫃檯活猻	jiu de waq sen		24	198			55
 拳頭	jiu deu	53					
@@ -9149,7 +9120,6 @@
 爛薄稀涴	lae boq shi ou	140	46	275			55
 爛賬	lae cian	140					
 爛腳疤	lae ciaq po		56				55
-藍接接	lae ciq ciq	139					55
 藍結結	lae ciq ciq	139	273	422	藍藍的	湯版作「藍接接」。	55
 爛糖雞屙	lae daon ci ou		110				
 爛糖雞涴	lae daon ci ou		110				55
@@ -13349,7 +13319,7 @@
 筆筆挺	piq piq thin	329					55
 碧波清	piq pou chin			443			
 癟三	piq sae	352					
-癟兮兮	piq shi shi			472			
+癟稀稀	piq shi shi			472			
 筆得斯尖	piq taq sy ci						
 筆得斯直	piq taq sy jiq						
 碧得斯綠	piq taq sy loq						

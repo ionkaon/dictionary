@@ -3555,9 +3555,9 @@
 咋個大	dza kou dou				多大		
 咋個長	dza kou jian				多長；多高		
 咋光景	dza kuaon cin		41		怎麼樣		578
-咋個	dza kun	64	41	207	多少	後字湯版等作「管」。音後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1500
-咋個大	dza kun dou				多大		55
-咋個長	dza kun jian				多長；多高		55
+咋管	dza kun	64	41	207	多少	後字借音寫作「管」。後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1500
+咋管大	dza kun dou				多大		55
+咋管長	dza kun jian				多長；多高		55
 射爛薄屙	dza lae boq ou				拉肚子；腹瀉		
 射爛薄涴	dza lae boq ou				拉肚子；腹瀉		55
 撒爛薄屙	dza lae boq ou				拉肚子；腹瀉		
@@ -6964,7 +6964,7 @@
 介講既講	ka kaon ci kaon		328				55
 介看既看	ka khi-khe ci khi-khe		328				55
 介個	ka kou		41	41			418
-介個	ka kun	66	41	41		後字湯版等作「管」。音後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1000
+介管	ka kun	66	41	41	這麼些	後字借音寫作「管」。後字又常讀作 kou，本字或爲「個」，kun 爲 kou 的兒化變讀。	1000
 解纜	ka lae		195				
 介勒	ka laq		300				55
 介癆槽	ka lau zau						
@@ -7057,9 +7057,7 @@
 羹飯	kan vae	210	77	498			
 庚	kan1	210					
 梗	kan3		122	344			
-䢚	kan5		205	300			
-梗	kan5	210					
-耿	kan5		205				
+䢚	kan5	210	205	300	1. （魚、蛇等）拱，擠，鑽；2. （自行車等）車把活，難以把握；3. 脾氣倔強，不順從；4. 唱戲、唱歌走調	湯版作「梗」。	
 缸鴨狗	kaon aq keu						
 講白馱	kaon baq dou						
 江白蝦	kaon baq huo	238	67	124			55
@@ -7121,8 +7119,8 @@
 鋼種鍋子	kaon tson kou tsy		96				55
 講勿來	kaon vaq le	239					418
 講弗來	kaon vaq le						55
-講勿理踩	kaon vaq li tshe	239					
-講弗理踩	kaon vaq li tshe						55
+講勿理睬	kaon vaq li tshe	239			不能接受批評或勸告		
+講弗理睬	kaon vaq li tshe				不能接受批評或勸告		55
 講勿靈清	kaon vaq lin chin						
 講弗靈清	kaon vaq lin chin						1
 講勿相相	kaon vaq shian shian						
@@ -7149,8 +7147,7 @@
 缸	kaon1	238					
 港	kaon3		9				
 夾襖	kaq au	316	57				
-蛤皮	kaq bi	317	65				55
-蛤螷	kaq bi		65	399			55
+蛤螷	kaq bi	317	65	399	蛤蜊	湯版及《阿拉宁波话》也作「蛤皮」。《玉篇》螷，扶幸、步支二切。蛤也。	55
 蛤螷油	kaq bi yeu		57	399			55
 革頻道	kaq bin dau						
 格步河墈	kaq bu ghou khe						
@@ -7185,11 +7182,8 @@
 隔火牆	kaq hou zhian	317	83	415			55
 疙疙瘩瘩	kaq kaq taq taq		255				
 合棺材	kaq kun ze						
-介勒	kaq laq						55
 格勒	kaq laq	317	300	298			50000
-介勒介	kaq laq kaq						55
 格勒格	kaq laq kaq		300	298			55
-介勒話	kaq laq wo						55
 格勒話	kaq laq wo		300				55
 㾸𤶁	kaq lau	317	54	473			55
 格楞敦	kaq len ten	316	308	299			55
@@ -7264,18 +7258,14 @@
 格相貌介	kaq shian mau kaq	316					55
 割小腸氣	kaq shiau jian chi						
 隔手賬	kaq shieu cian	317					55
-介星	kaq shin						55
 格星	kaq shin	316	41				55
 夾心餅乾	kaq shin pin ki-ke	316					
-介式貌	kaq shiq mau						55
 格式貌	kaq shiq mau		40				55
-介式貌介	kaq shiq mau kaq						55
 格式貌格	kaq shiq mau kaq		40				55
 合算	kaq soe	316					578
 割螄螺	kaq sy lou	317	70				55
 夾尿夾屙	kaq syu kaq ou						
 夾尿夾涴	kaq syu kaq ou						1
-介打	kaq tan						55
 格打	kaq tan		41				55
 夾襠	kaq taon		161				55
 疙瘩	kaq taq	316	255	219			
@@ -7297,11 +7287,10 @@
 吃舌頭	kaq zhiq deu	317	38	107			55
 合着	kaq zoq	316					
 䀫	kaq7	316		348			55
-介	kaq7	66					
 割	kaq7	317	186	412			
 合	kaq7		193				
 夾	kaq7	315, 316	145		用壓力將物體固定在中間；夾雜；雙層的		
-格	kaq7	316	122, 299	298			
+格	kaq7	66, 316	122, 299	298	1. 量詞。用於分層的東西；2. 助詞。相當於「……似的」；3. 助詞。相當於結構助詞「地」	做助詞時爲「介」的促化。	
 溢	kaq7	317	212	440			
 革	kaq7	315, 316	145	101	調節	湯版等作「夾」。一說爲「革」的白讀，見 https://www.zhihu.com/question/472601372/answer/2003915676。革，《廣韻》古核切，改也。	
 高矮凳	kau a ten	89					55
@@ -7513,12 +7502,10 @@
 靠墊	khau di	90					
 敲地𡍲	khau di taq	90					55
 敲定	khau din	90		237			
-㸆大頭菜	khau dou deu tshe						
 烤大頭菜	khau dou deu tshe						
 敲大鑼	khau dou lou	90					55
 烤番薯	khau fae zyu						
-㸆麩	khau fu						55
-烤麩	khau fu	90		322			55
+烤麩	khau fu	90		322	一種用麪粉糊發酵製成的食品		55
 拷火油箱	khau hou yeu shian	90	338	237	舊指嫖低級妓女	《阿拉宁波话》作「敲火油箱」。	55
 敲花字	khau huo zy	90					55
 靠腰身	khau iau shin	90					55
@@ -7558,7 +7545,6 @@
 敲釘鑽節	khau tin tsoe ciq						
 敲𧰵	khau toq	90	141	237			55
 敲隻大櫥	khau tsaq dou dzyu						
-㸆菜	khau tshe						
 烤菜	khau tshe						
 敲竹槓	khau tsoq kaon						
 敲橫檔	khau wan taon		325				55
@@ -7569,14 +7555,14 @@
 靠十歲	khau zyuq syu						
 拷	khau1	90	186	236			
 敲	khau1	90	151	452			
-烤	khau3		189				
-㸆	khau5			322			
+烤	khau5		189	322	煮；燒	當作「㸆」。	
+㸆	khau5		189	322	煮；燒	俗作「烤」。	
 靠	khau5		290	469			
 開步	khe bu	126					
 開缺窞	khe chiuq dei						
 開缺頭	khe chiuq deu	126					55
 開張	khe cian	126					
-開交	khe ciau			26			
+開交	khe ciau		126	26	開支；開銷		
 開皸	khe ciun		171				55
 開頭	khe deu		18				
 開庭	khe din	126					
@@ -7591,7 +7577,6 @@
 開着	khe jiaq				開啓電器		
 開庎櫥門	khe ka dzyu men	126	328	27			55
 開講	khe kaon				會說話；能說會道		
-開交	khe kau		126				
 開口	khe kheu	126					
 開骻	khe khuo	126					55
 開面	khe mi	126	179	26			
@@ -7636,7 +7621,8 @@
 哏哏嗆	khen khen chian						
 哏哏嗽	khen khen seu						
 懇苦	khen khu		239	330			55
-掯腦子卜	khen nau tsy boq	256					55
+掯腦子卜	khen nau tsy boq	256			栗暴，用手指骨節敲擊人腦袋		55
+掯腦子卜	khen nau tsy poq				栗暴，用手指骨節敲擊人腦袋		55
 肯歇	khen shiq		176				55
 啃	khen3	256					
 口臭	kheu chieu	199					
@@ -18262,8 +18248,7 @@
 做百日	tsou paq gniq						
 做坯	tsou phei	183	33				55
 做產	tsou sae	184	180	358			55
-做三朝	tsou sae ciau		180				55
-做三朝	tsou sae jiau	183					55
+做三朝	tsou sae jiau	183	180		舊俗小孩生下後第三天祭祀牀神的活動，以求小孩睡眠安寧，快速成長。祭品除了一般酒菜之外，還有用十二隻酒盞盛的上綴紅糖的糯米飯，稱爲「商量盞」，供奉「牀公牀婆」。祭畢將糖飯分給鄰居小朋友喫		55
 做生	tsou san	184	181	357			55
 做生意	tsou san i	184					
 做生姆	tsou san m	184					55

@@ -3131,7 +3131,7 @@
 豤	豤		khi-khe3										
 #			khi-khe3										
 看	看	kʽen	khi-khe5	1	khii1	9	khi5	10	khien5	11			
-堪	堪	kʽæn	khi-khe5	3							0.01	堪好	
+堪	堪	kʽæn	khi-khe5	3							0.01	堪好	#
 墈	墈		khi-khe5	3					khien5	11		高峻的堤岸；高地的崖壁	
 幹	干	ken	khi-khe5		kii3	9	ki1	10	kien5	11	0.00	又音 僅限於「啥幹」	*
 衎	衎		khi-khe5										
@@ -9419,7 +9419,6 @@
 鰌	鳅	tsʽiu	chieu1	1									
 揫	揫		chieu1	1								揫水桶	#
 揪	揫	tsʽiu	chieu1	1					chieu1	11	0.00	揫水桶	#
-箍	箍		chieu1				chieu1	10			0.05	白讀	
 抽	抽	tsʽiu	chieu1	1	chieu1	9	chieu1	10	chieu1	11			
 𥻤	𥻤		chieu1	1					chieu1	11		用布包好濕物置於灰中使乾燥，或掛起來瀝乾其中水分	
 湫	湫	tsʽiu	chieu1	7	chieu1	9							
@@ -9445,6 +9444,7 @@
 丠	丘		chieu1	1									
 邱	邱	kyʽiu	chieu1	2	chieu1	9							
 蚯	蚯	kyʽiu	chieu1	2	chieu1	9							
+箍	箍		chieu1				chieu1	10			0.05	白讀	
 𥫷	𥫷	kyʽiu	chieu1	7					chieu1	11			
 恘	恘		chieu1										
 繑	繑		chieu1										
@@ -16700,7 +16700,7 @@
 彸	彸		tson1										
 炂	炂		tson1										
 衳	衳		tson1										
-供	供		tson1	3			tson1	10	cion5	11	0.05	僅限於贍養一義	
+供	供	cong	tson1	3			tson1	10	cion5	11	0.05	僅限於贍養一義	
 潨	潨		tson1										
 橦	橦		tson1										
 #			tson1									翹舌	

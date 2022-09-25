@@ -75,7 +75,7 @@
 阿缺弄	aq chiuq lon		38		豁嘴；兔脣的人		55
 阿屈死	aq chiuq shi	322	31		譏罵不識貨、不內行、不講事理的人	《阿拉宁波话》作「阿曲死」。《上海方言詞典》作「阿屈死」，老派上海話「曲」、「屈」不同音，故應爲「屈」。	55
 阿姊	aq ci	321			姐姐，面稱、敘稱皆可		578
-阿姐	aq cia	321			姐姐		
+阿姐	aq cia	321			1. 變調 5-31，姐姐（面稱）；2. 變調 3-35，姐姐（敘稱）		
 阿姐屄	aq cia pi	321	30		娘娘腔	末字爲清音，《阿拉宁波话》作「婢」，音不合。	418
 阿姐式	aq cia shiq	321			娘娘腔		55
 阿姐式	aq cia soq	321			娘娘腔		55
@@ -86,7 +86,7 @@
 鴨蛋子	aq dae tsy	323					55
 鴨蛋石子	aq dae zaq tsy			303			
 押頭	aq deu	323	126	190	用來抵押的東西		55
-阿弟	aq di	321					578
+阿弟	aq di	321			弟弟，面稱、敘稱皆可		578
 餲掉	aq diau	320	207	495	食物變質，發出黴味		55
 阿大	aq dou	322	23	182	1. 舊稱商店經理；2. 排行第一的人		418
 阿大打鐵	aq dou tan thiq						
@@ -95,19 +95,19 @@
 阿二	aq gni	322					55
 鴨泥	aq gni	323	105	303	鴨廄中墊底的草和糞便的混合物，可作肥料		55
 阿二嬉䏘	aq gni shi phiq						
-阿孃	aq gnian	322	19	183	1. 阿輕讀。祖母；2. 阿重讀。母親		
+阿孃	aq gnian	322	19	183	1. 變調 5-31，祖母；2. 變調 3-35，母親		
 阿育王寺	aq gnioq waon zy	322					55
 鴨廄間	aq ji kae	323	88		鴨棚；鴨舍		55
-阿舅	aq jieu	321	21	184	妻子的兄弟，敘稱		578
-阿侄	aq jiq	323					55
+阿舅	aq jieu	321	21	184	1. 變調 5-31，舅舅；2. 變調 3-35，妻子的兄弟，敘稱		578
+阿侄	aq jiq	323			之子		55
 阿講	aq kaon	322	295	182	使勁；好好地		55
 阿狗阿貓	aq keu aq mae		36		喻指隨便什麼人或身份低下的人		55
 阿狗阿貓	aq keu aq mhau		36		喻指隨便什麼人或身份低下的人		55
 阿公	aq kon	322	21	182	公公，丈夫的父親		578
 阿公老頭	aq kon lau deu	322			公公，丈夫的父親		418
-阿哥	aq kou	322					
-阿姑	aq ku	321	21	183	1. 姑媽（姑字不重讀）；2. 小姑，丈夫的妹妹（姑字重讀）		578
-阿姑侄子	aq ku jiq tsy	321					55
+阿哥	aq kou	322			1. 變調 5-31，哥哥（面稱）；2. 變調 3-35，哥哥（敘稱）		
+阿姑	aq ku	321	21	183	變調 5-31 或 3-35。1. 姑媽；2. 小姑，丈夫的妹妹		578
+阿姑侄子	aq ku jiq tsy	321			姑姑和侄子		55
 阿拐	aq kua		38		瘸子		55
 阿拉	aq laq	322	38	183	我們；我		300000
 阿拉老酒	aq laq lau cieu						
@@ -128,7 +128,7 @@
 壓末腳	aq maq ciaq			95			
 壓末名	aq maq min	323			倒數第一名		55
 阿毛娘	aq mau gnian						
-阿妹	aq mei	321					
+阿妹	aq mei	321			妹妹，面稱、敘稱皆可		
 阿木人	aq moq gnin			184	木頭木腦的傻瓜		
 阿木林	aq moq lin	322	29	184	木頭木腦的傻瓜		
 阿奶	aq na	322			乳母		578
@@ -138,8 +138,8 @@
 阿五	aq ng	322					55
 阿嗯奶	aq ng ne				兒童用語，奶水		
 阿囡	aq noe	321	20	182	父母或長輩對小孩的暱稱		578
-阿伯	aq pan	322	18		父親；1. 伯父。；2. 丈夫的哥哥。		
-阿伯	aq paq	322	18	182	父親；1. 伯父。；2. 丈夫的哥哥。		4000
+阿伯	aq pan	322	18		丈夫的哥哥		
+阿伯	aq paq	322	18	182	父親		4000
 阿爸	aq paq		18	183	父親		10000
 阿伯阿姆勿認得	aq paq a m vaq gnin taq		286		用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		
 阿伯阿姆弗認得	aq paq a m vaq gnin taq				用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		1
@@ -157,9 +157,9 @@
 阿嫂	aq sau	321					578
 阿鄉	aq shian	322	27		鄉巴佬		
 阿小	aq shiau	321					55
-阿嬸	aq shin	322	21	184	1. 叔母（嬸字不重讀）；2. 丈夫的弟妻（嬸字重讀）		578
+阿嬸	aq shin	322	21	184	變調 5-31 或 3-35。1. 叔母；2. 丈夫的弟妻		578
 鴨血	aq shiuq	323			鴨血		55
-阿叔	aq son	322	21	183	1. 叔父（叔字不重讀）；2. 小叔子，丈夫的弟弟（叔字重讀）		578
+阿叔	aq son	322	21	183	變調 5-31 或 3-35。1. 叔父；2. 小叔子，丈夫的弟弟		578
 阿叔侄子	aq son jiq tsy	322					55
 阿啥	aq soq	322	40		1. 爲什麼；2. 動詞。幹什麼		40000
 阿啥道理	aq soq dau li		40		爲什麼		55
@@ -203,8 +203,8 @@
 阿旺牛	aq waon ngeu						
 阿活靈	aq waq lin		49		靈魂，多用於長輩對小孩或年輕女性之間說「活靈嚇出」時		55
 阿爺	aq ya	321	19	182	祖父		
-阿爺孫子	aq ya sen tsy	321					55
-阿姨	aq yi	321	21	19	1. 母親的妹妹；2. 稱呼與父母年齡相仿或稍小的婦女；3. 小姨子，妻子的妹妹（姨字重讀）		
+阿爺孫子	aq ya sen tsy	321			爺爺和孫子		55
+阿姨	aq yi	321	21	19	1. 母親的妹妹；2. 稱呼與父母年齡相仿或稍小的婦女		
 阿裏	aq yi		40	182	1. 哪裏；什麼地方；2. 哪		578
 啊唷哇	aq yoq ua				疼痛時的喊叫		
 阿賊揹板凳	aq zaq pei pae ten						
@@ -485,7 +485,7 @@
 刨山粉	bau sae fen						
 暴生	bau san	75	287		1. 初；剛剛；2. 偶爾		55
 抱手	bau shieu	75	20		嬰兒		55
-刨痧氣	bau so chi			266			
+刨痧氣	bau so chi			266	刮痧		
 跑單幫	bau tae paon	75					
 刨黃瓜	bau waon kuo						
 暴鹽	bau yi		190	466	短時間醃製	《阿拉宁波话》也作「暴醃」。	55
@@ -1519,8 +1519,8 @@
 𣥼進	ci cin						
 雞蛋	ci dae	27					
 薦頭人	ci deu gnin	28					55
-尖頭辣椒	ci deu laq ciau	26					55
-尖頭辣茄	ci deu laq jie						
+尖頭辣椒	ci deu laq ciau	26			辣椒的一種，形似毛筆筆尖，味辣，供食用		55
+尖頭辣茄	ci deu laq jie				辣椒的一種，形似毛筆筆尖，味辣，供食用		
 見大頭鬼	ci dou deu ciu	28	328	35	罵人話，見鬼		55
 雞雜	ci dzaq	27					
 氈鞋	ci gha	26					55
@@ -2125,7 +2125,7 @@
 酒足飯飽	cieu tsoq vae pau						
 晝飯	cieu vae	154	62	284	中飯		578
 糾會	cieu wei	153	185		舊時一種自由結合的經濟上進行互助的活動，類似現在的互助儲金會		55
-酒壺	cieu wu	153					
+酒壺	cieu wu	153			盛酒的壺		
 救護車	cieu wu tsho	154			救護車		
 九月團臍十月尖	cieu yuq doe ji zyuq yuq ci						
 九月廿七風	cieu yuq ne-gnie chiq fon						
@@ -4846,7 +4846,7 @@
 鑊鏟	ghoq tshae	346	96	491	鍋鏟		578
 鑊子	ghoq tsy	346	96		鍋		578
 或上或落	ghoq zaon ghoq loq		270		1. 或多點或不夠點；2. 時好時差		55
-個	ghoq8		304	255	1. 相當於結構助詞「的」；2. 相當於結構助詞「地」；3. 相當於語氣助詞「的」；後綴，用在單音節形容詞重疊式後面		
+個	ghoq8		304	255	1. 相當於結構助詞「的」；2. 相當於結構助詞「地」；3. 相當於語氣助詞「的」		
 嚯	ghoq8		301	478	表示驚訝	朱版也作「嚄」。	
 鑊	ghoq8	346	96		鍋		
 和排	ghou ba	190	229		全排；整列		55
@@ -5359,7 +5359,7 @@
 嗰嗰𧮙	goq goq zoq				形容連續不斷地罵人		
 嗰隆咚	goq lon don				形容翻滾摔落的聲音		
 嗰碌獨	goq loq doq				形容翻滾摔落的聲音		
-個	goq8	346	304	255	1. 相當於結構助詞「的」；2. 相當於結構助詞「地」；3. 相當於語氣助詞「的」；後綴，用在單音節形容詞重疊式後面		
+個	goq8	346	304	255	1. 相當於結構助詞「的」；2. 相當於結構助詞「地」；3. 相當於語氣助詞「的」		
 擱	goq8	346			架，放；耽擱		
 咕咕叨叨	gu gu tau tau						
 咕咕忖忖	gu gu tshen tshen						
@@ -7808,7 +7808,7 @@
 箍桶限卯	khou don ghae mau						
 箍桶師父	khou don sy vu				製造和修理圓木器的工匠		55
 可可看	khou khou khi-khe	187			估算看看		55
-可憐	khou li	187	286	55	用在動詞加「勒」的後面，表示完成動作很費力氣，或表示程度深		
+可憐	khou li	187	286	55	用在動詞加「勒」「煞」的後面，表示完成動作很費力氣，或表示程度深		
 可憐可相	khou li khou shian		246		可憐巴巴		55
 可憐可相學簟匠	khou li khou shian ghoq di zhian						
 可憐相	khou li shian		246		可憐巴巴		
@@ -8673,339 +8673,341 @@
 家	ko1	102			名詞後綴，用在名詞（通常雙音節）之後構成指人名詞		
 架	ko1	102	122	254	1. 量詞。塊，片		
 架	ko5	102	205	285	1. 兩柱之間的距離叫一架；2. 獸類直立，前兩腳搭在人或物上；3. 嬰孩手和身體前傾，要人抱的樣子		
-公婆	kon bou	291					
-貢橘	kon ciuq	291					55
-公道	kon dau	291					
-工鈿	kon di	291		11			55
-工人	kon gnin	291					
-弓長張	kon jian cian	291					55
-公公	kon kon	291	22				
-公路	kon lu	291					
+公婆	kon bou	291			公公和婆婆		
+貢橘	kon ciuq	291			橘子的一個品種，原產於江西南豐，小而紅，味甚甜		55
+公道	kon dau	291			1. 公平，合理；2. 公正的道理		
+工鈿	kon di	291		11		工錢	55
+工人	kon gnin	291			在工廠裏做工、靠工資收入爲生的勞動者		
+弓長張	kon jian cian	291			指「張」姓，爲區別其他同音姓氏		55
+公公	kon kon	291	22		對年邁男子的尊稱		
+公路	kon lu	291			公路		
 公牛	kon ngeu						
 公鵝瘃	kon ngou tsoq						
-拱趣趣	kon tshyu tshyu		185				55
-供佛	kon vaq	291					
-弓	kon1	291					
-拱	kon3	291		457			
-擱排凳	koq ba ten	345	92	271	舊式衣櫥前放置的一種凳子，每櫥兩條，略呈長方形，做工考究	朱版作「閣排凳」。	55
+拱趣趣	kon tshyu tshyu		185		一種兒童遊戲，各人一起喊玩法名稱，喊末尾一字時同時伸手，以手勢來定勝負。玩法多樣，常見的有「剪刀破絹帕」「三家軋出做頭家」「單雙」等		55
+供佛	kon vaq	291			上供		
+弓	kon1	291			弓；探棉花的繃		
+拱	kon3	291		457	1. 軟體動物彎曲伸張而行；2. 物體彎成拱形		
+擱排凳	koq ba ten	345	92	271	舊式衣櫥前放置的一種凳子，每櫥兩條，略呈長方形，做工考究	朱版作「閣排凳」	55
 各爿廠	koq bae chian						
 各部汽車	koq bu chi tsho						
 各部腳踏車	koq bu ciaq daq tsho						
-各起管	koq chi kun		270	118			55
+各起管	koq chi kun		270	118	各管各的，各不相同		55
 各親自親	koq chin zhi chin						
-擱几	koq ci	345	92	388			55
-角麂	koq ci	344	111	167			55
+擱几	koq ci	345	92	388	舊時置於中堂的一種長條桌，面子厚實		55
+角麂	koq ci	344	111	167	麂子，小型的鹿，雄的有長牙和短角		55
 擱幾大座	koq ci dou zou						
-角麂嘸郎	koq ci mh laon	344	111				55
+角麂嘸郎	koq ci mh laon	344	111		麂子，小型的鹿，雄的有長牙和短角		55
 各張	koq cian						
 各埭路	koq da lu						
 𰟫苔條	koq de diau						
-角頭	koq deu	344	95				578
+角頭	koq deu	344	95		用在數字後，表示以「角」爲單位的錢幣面額		578
 角頭角尾	koq deu koq mi	344	12	118		《阿拉宁波话》作「角頭角面」。滸山話中末字爲「尾」的兒化，「面」音不合。	55
-擱田	koq di	345	194				55
-擱碟	koq diaq	345	99	388			55
+擱田	koq di	345	194		停止灌水，讓水稻長根發棵或便於收割		55
+擱碟	koq diaq	345	99	388	高腳的碟子，用於盛醬油、醋等		55
 擱掉	koq diau				掛掉（電話）		
 各段路	koq doe lu						
-覺着	koq dzoq		175				80000
-穀櫥	koq dzyu	345	90				55
-各號	koq ghau	344	270	118			
+覺着	koq dzoq		175		感覺到		80000
+穀櫥	koq dzyu	345	90		存放糧食的櫥櫃		55
+各號	koq ghau	344	270	118	不一樣		
 各人各忖相	koq gnin koq tshen shian						
-各人管自	koq gnin kun zhi		330				55
+各人管自	koq gnin kun zhi		330		各管各的		55
 各張	koq jian						
 各梗	koq kan						
 郭家畤	koq ko ji						
-角角落落	koq koq loq loq	344	12				55
+角角落落	koq koq loq loq	344	12		各個角落；到處		55
 各梗	koq kuan						
-擱廊	koq laon	345	84	388			55
-閣樓	koq leu	345					
+擱廊	koq laon	345	84	388	依牆而設的長條形板架，用來擱放物品		55
+閣樓	koq leu	345			閣樓		
 𰟫龍頭鮳	koq lon deu khau						
 擱落	koq loq				擱下；掛掉（電話）		
-角落頭	koq loq dei			167			
-角落頭	koq loq deu	345	12	167			55
-穀籮	koq lou	345	105				55
-穀籮頭	koq lou deu	345		165			55
-穀蜢	koq man	345	112	165			418
-各貌	koq mau		40				55
-該貌	koq mau			233			
-穀眼子	koq ngae tsy	345	115	165			55
-穀眼珠	koq ngae tsyu			165			
-穀眼烏珠	koq ngae u ciu						
-穀眼烏珠	koq ngae u tsyu	345	115	165			55
+角落頭	koq loq dei			167	1. 角落；2. 指偏僻的地方		
+角落頭	koq loq deu	345	12	167	1. 角落；2. 指偏僻的地方		55
+穀籮	koq lou	345			盛穀物的器具，用竹篾或柳條編成，一般方底圓口，製作比較細緻		55
+穀籮頭	koq lou deu	345	105	165	裝滿稻穀的籮筐		55
+穀蜢	koq man	345	112	165	蝗蟲		418
+各貌	koq mau		40		這樣；那樣		55
+該貌	koq mau			233	這樣；那樣		
+穀眼子	koq ngae tsy	345	115	165	穀殼尖端的小圓粒		55
+穀眼珠	koq ngae tsyu			165	穀殼尖端的小圓粒		
+穀眼烏珠	koq ngae u ciu				穀殼尖端的小圓粒		
+穀眼烏珠	koq ngae u tsyu	345	115	165	穀殼尖端的小圓粒		55
 閣板	koq pae	345	86	271	閣樓的樓板	湯版作「擱板」。	55
-角票	koq phiau	344	95	167			418
+角票	koq phiau	344	95	167	面值成角的鈔票		418
 閣柵	koq saq	345	86	271	用來支撐樓板、地板的長木	《阿拉宁波话》作「擱柵」。	55
-各色各樣	koq saq koq yan		270				
+各色各樣	koq saq koq yan		270		各種各樣		
 各手勿知賬	koq shieu vaq tsyu cian		340	119	各人經手，互不知情		
 各手弗知賬	koq shieu vaq tsyu cian		340	119	各人經手，互不知情		55
-擱沙	koq so	345					55
-各到各態	koq tau koq the						
-各到各退	koq tau koq thei						
-各到各采	koq tau koq tshe	344	12				55
-各到各處	koq tau koq tshyu	344	12	119			55
+擱沙	koq so	345			船擱淺在泥沙中		55
+各到各態	koq tau koq the				每一處；到處		
+各到各退	koq tau koq thei				每一處；到處		
+各到各采	koq tau koq tshe	344	12		每一處；到處		55
+各到各處	koq tau koq tshyu	344	12	119	每一處；到處		55
 閣頂	koq ten	345	84	271	閣樓	湯版作「擱登」。	55
-各𡍲	koq thaq		11				55
-各𡍲地方	koq thaq di faon						
+各𡍲	koq thaq		11		不是同一個處所		55
+各𡍲地方	koq thaq di faon				不是同一個地方		
 各彖路	koq thoe lu						
 各段路	koq thoe lu						
-穀倉	koq tshaon	345					
-角尺	koq tshaq	344					
-各岔	koq tsho		231				55
-角子	koq tsy		95	167			578
-角子銅板	koq tsy don pae						
+穀倉	koq tshaon	345			存放糧食的倉庫		
+角尺	koq tshaq	344			曲尺		
+各岔	koq tsho		231		不同方向；不同道路		55
+角子	koq tsy		95	167	硬幣		578
+角子銅板	koq tsy don pae				硬幣		
 各份人家	koq ven gnin ko						
-穀蝴蝶	koq wu diaq		113	165			55
-各樣	koq yan	344	173, 270	118			
-各有人	koq yeu gnin		270	118			55
-穀雨	koq yu	345					
-該晌	koq zaon		14	233			50000
-該晌記	koq zaon ci		14	233			5000
-該晌裏	koq zaon li		14	233			578
-覺着	koq zoq	345					10000
-穀	koq7	345					
-𰟫	koq7	345	189				55
-過簿	kou bu	187					55
-果盤	kou bun	185					
-過去	kou chi			93			
-過昶	kou chian		289	94			55
-果鍬	kou chiau	185					
-過繼	kou ci	186					
-過賬	kou cian	186	185	94			
-過賬簿	kou cian bu	187	126	95			55
-過賬洋鈿	kou cian yan di	187	126	95			55
-過堂	kou daon	187		94			
-過道	kou dau	186					
-過頭	kou deu	186					
-過頭勢	kou deu syu	186	183				55
-過頭話	kou deu wo		52				
-果桶	kou don	185	100	205			55
-過癮	kou gni	186					
-過年過節	kou gni kou ciq		16				55
-過年過界	kou gni kou ka		16	95			55
-過年過界	kou gni kou kau		16	95			55
+穀蝴蝶	koq wu diaq		113	165	一種生活在陳谷、陳米中的小飛蟲		55
+各樣	koq yan	344	173, 270	118	1. 不一樣；2. 指有所好轉		
+各有人	koq yeu gnin		270	118	因人而異		55
+穀雨	koq yu	345			二十四節氣之一		
+該晌	koq zaon		14	233	現在；這會兒		50000
+該晌記	koq zaon ci		14	233	現在；這會兒		5000
+該晌裏	koq zaon li		14	233	現在；這會兒		578
+覺着	koq zoq	345			感覺到		10000
+穀	koq7	345			稻的籽粒		
+𰟫	koq7	345	189		食物加少量油，用微火炒制		55
+過簿	kou bu	187			舊時過賬時使用的賬本		55
+果盤	kou bun	185			盛放瓜子、糖果等的帶蓋兒的器具，內有格子隔開不同的瓜子和糖果		
+過去	kou chi			93	用在動詞之後表示動作持續進行，相當於「下去」		
+過昶	kou chian		289	94	過一會兒		55
+果鍬	kou chiau	185			用來鏟糧食等的木質農具，形狀與鐵鍬內資，但柄較短		
+過繼	kou ci	186			過繼		
+過賬	kou cian	186	185	94	舊時買賣雙方結算賬目的一種方式，類似現在的支票轉賬		
+過賬簿	kou cian bu	187	126	95	舊時過賬時使用的賬本		55
+過賬洋鈿	kou cian yan di	187	126	95	指只在賬面上收付的款項		55
+過堂	kou daon	187		94	就是訴訟當事人到公堂上受審問		
+過道	kou dau	186			1. 舊式住宅中房屋與房屋之間的通道，上有頂篷以便雨天行走；2. 新式房子由大門通向個房門的走道		
+過頭	kou deu	186			超過某個範圍或限度		
+過頭勢	kou deu syu	186	183		1. 腳叉開忘他人頭上跨過；2. 從晾着的褲子下經過。寧波人對此比較忌諱		55
+過頭話	kou deu wo		52		滿話；不留餘地的話		
+果桶	kou don	185	100	205	漆成硃紅色的圓球形木桶，比提桶大，有蓋無提樑，用來貯存乾果糕餅等		55
+過癮	kou gni	186			滿足某種癖好或嗜好		
+過年過節	kou gni kou ciq		16		過年、過節的時候；也泛指節日裏		55
+過年過界	kou gni kou ka		16	95	年關；年底		55
+過年過界	kou gni kou kau		16	95	年關；年底		55
 過年黃曆	kou gni waon liq						
-果肉	kou gnioq	185	71	205			
+果肉	kou gnioq	185	71	205	花生米		
 過日腳勿來	kou gniq ciaq vaq le						
 過日腳弗來	kou gniq ciaq vaq le						1
 過意勿去	kou i vaq chi						
 過意弗去	kou i vaq chi						1
-過一昶	kou iq chian		289				55
-過一晌	kou iq zaon		289				55
-過橋	kou jiau	186	6	94			
-過橋石板	kou jiau zaq pae						
+過一昶	kou iq chian		289		過一會兒		55
+過一晌	kou iq zaon		289		過一會兒		55
+過橋	kou jiau	186	6	94	搭在溝上以便行走的板		
+過橋石板	kou jiau zaq pae				搭在溝上以便行走的石板		
 過街老鼠	kou ka lau tsy						
 過街老鼠人人喊打	kou ka lau tsy gnin gnin hae tan						
-過街樓	kou ka leu	186					
-過格	kou kaq	187	215	94			55
-過口	kou kheu		63	93			
-哥哥	kou kou	185					
-過老酒	kou lau cieu	186					55
-過路	kou lu	186	83	95			
-過門	kou men	187	128	93			
-過邊	kou pi		267	94			55
+過街樓	kou ka leu	186			弄堂口上跨過行路過道的樓		
+過格	kou kaq	187	215	94	過分；超過一定程度		55
+過口	kou kheu		63	93	下酒飯的菜餚		
+哥哥	kou kou	185			哥哥，新的叫法		
+過老酒	kou lau cieu	186			下酒，就着菜把酒喝下去		55
+過路	kou lu	186	83	95	1. 舊式住宅中房屋與房屋之間的通道，上有頂篷以便雨天行走；2. 新式房子由大門通向個房門的走道		
+過門	kou men	187	128	93	1. 變調 33-55，故意岔開去的掩飾性的話；2. 變調 33-55，歌曲的前後或中間由樂器演奏的部分；3. 變調 33-24，過關；4. 變調 33-24，指嫁到婆家		
+過邊	kou pi		267	94	僻靜		55
 個把個	kou po ghoq						55
 個把個	kou po goq	186					55
-過性	kou shin	187	207	94			55
-個數	kou su	186					
-過世	kou syu	186					
-過歲	kou syu	186	179				55
-裹腿	kou thei	185					
+過性	kou shin	187	207	94	米飯、番薯、土豆等煮熟後過了一段時間，冷了硬了，以致不好喫		55
+個數	kou su	186			數字		
+過世	kou syu	186			亡故		
+過歲	kou syu	186	179		男女雙方交換生辰八字，借指訂婚		55
+裹腿	kou thei	185			軍人用的纏在褲子外面小腿部分的布條		
 鍋貼	kou thiaq	185					
-鍋子	kou tsy		96	401			
+鍋子	kou tsy		96	401	鋁製的平底鍋，一般用來燒湯等		
 個子病	kou tsy bin						
-個子頭	kou tsy deu	186	48	23			55
-過飯	kou vae	186		94			55
-裹餛飩	kou wen den	186					55
-過戶	kou wu	186					
-過夜	kou ya	186					
+個子頭	kou tsy deu	186	48	23	個頭		55
+過飯	kou vae	186		94	就着菜把飯喫下去		55
+裹餛飩	kou wen den	186			包餛飩		55
+過戶	kou wu	186			過戶		
+過夜	kou ya	186			過夜		
 過油飽	kou yeu pau				喫得過飽		
 過雲雨	kou yun yu	187	4	95	雲來即雨，雲過即止的陣雨		
-過晌	kou zaon		289	94			
-過謝	kou zhia			95			
-裹	kou3	185					
-個	kou5	186	307	23, 255			
-過	kou5	186	137	93			
-姑婆	ku bou	49	22	234			
-臌脹病	ku cian bin	49	55	487			55
-古銅色	ku don saq	49					
-僱着	ku dzoq						55
-顧着	ku dzoq		174	301			
+過晌	kou zaon		289	94	過一會兒		
+過謝	kou zhia			95	謝，尤指以禮物表示謝意		
+裹	kou3	185			1. 包紮；2. 吸入體內		
+個	kou5	186	307	23, 255	後綴，用在單音節形容詞重疊式後面		
+過	kou5	186	137	93	用菜餚等下飯、下酒		
+姑婆	ku bou	49	22	234	1. 父母的姑媽；2. 丈夫的姑媽		
+臌脹病	ku cian bin	49	55	487	血吸蟲病		55
+古銅色	ku don saq	49			像古代銅器一樣的深褐色		
+僱着	ku dzoq				花費		55
+顧着	ku dzoq		174	301	1. 留心，注意；2. 照顧，照看		
 古人老話頭	ku gnin lau wo deu						
-姑丈	ku jian	49	21	234			
-姑丈公	ku jian kon	49	22	234			55
-僱工	ku kon	49					
-咕咕	ku ku		281	205			
+姑丈	ku jian	49	21	234	1. 姑父；2. 丈夫的姐夫、妹夫		
+姑丈公	ku jian kon	49	22	234	1. 父母的姑父；2. 丈夫的姑父		55
+僱工	ku kon	49			受僱傭的工人		
+咕咕	ku ku		281	205	1. 形容認真思索的樣子；2. 形容肚子餓時發出的聲音		
 咕咕叫	ku ku ciau						
-咕咕忖	ku ku tshen	48					55
-孤老	ku lau	48	22	234			
-孤老頭	ku lau deu	48					55
+咕咕忖	ku ku tshen	48			沉思		55
+孤老	ku lau	48	22	234	無子女的老人		
+孤老頭	ku lau deu	48			孤寡		55
 孤老住祠堂	ku lau dzyu zy daon						
 孤老老太婆	ku lau lau tha bou						
 古老百千	ku lau paq chi		332		形容很陳舊，很古老		55
-孤老太婆	ku lau tha bou	48					55
-姑嬤	ku mho	48					55
-姑嬤頭	ku mho deu	48					55
-牯牛	ku ngeu		109				
-孤孀	ku saon	48					
-孤孀老𡢿	ku saon lau gnion	48	22	234			55
-孤鳥	ku tiau		32				
-牯豬	ku tsyu	49	109	261			55
-顧野	ku ya	49	135	301			55
-僱着	ku zoq	49					55
-顧着	ku zoq	49					
-估	ku1	48					
-股	ku3	49					
-拐腳	kua cian		38	190			
+孤老太婆	ku lau tha bou	48			孤寡老婦人		55
+姑嬤	ku mho	48			1. 父親的姐姐；2. 丈夫的姐姐		55
+姑嬤頭	ku mho deu	48			丈夫的姐姐，敘稱		55
+牯牛	ku ngeu		109		公牛		
+孤孀	ku saon	48			寡婦		
+孤孀老𡢿	ku saon lau gnion	48	22	234	寡婦		55
+孤鳥	ku tiau		32		喻指孤零零一個人		
+牯豬	ku tsyu	49	109	261	用來配種的公豬		55
+顧野	ku ya	49	135	301	注意力不集中		55
+僱着	ku zoq	49			花費		55
+顧着	ku zoq	49			1. 留心；注意；2. 照顧；照看		
+估	ku1	48			估量，揣測		
+股	ku3	49			量詞		
+拐腳	kua cian	72	38	190	瘸子		
 拐腳火輪	kua cian hou len						
-拐腳	kua ciaq	72		190			
-拐拐動	kua kua don			191			
-拐籮窠	kua lou khou	72					55
-柺子	kua tsy	72					
-拐搖籮	kua yau lou						
-拐	kua3	72	148	190			
-關照	kuae ciau	148					
-關晝學	kuae cieu ghoq	148	182				55
+拐腳	kua ciaq			190	不平		
+拐拐動	kua kua don			191	物體不牢、不平會搖動的樣子		
+拐籮窠	kua lou khou	72			搖搖籃		55
+柺子	kua tsy	72			騙子，騙取財物或拐騙孩子的人		
+拐搖籮	kua yau lou				搖搖籃		
+拐	kua3	72	148	190	搖動；不穩的樣子		
+關照	kuae ciau	148			囑咐		
+關晝學	kuae cieu ghoq	148	182		中午放學時被老師留下做作業		55
 關肚腸門	kuae du jian men						
-關肚仙	kuae du shi		181				55
-慣常	kuae dzaon	148	203	379			
-關門	kuae men	148					
-關胎	kuae the	148	205	122			55
-關店	kuae ti	148					55
-關帝菩薩	kuae ti bu saq	148					55
+關肚仙	kuae du shi		181		女巫裝神弄鬼替人祈福禳災的迷信活動		55
+慣常	kuae dzaon	148	203	379	習慣		
+關門	kuae men	148			1. 將門關上；2. 工廠、商店等停業		
+關胎	kuae the	148	205	122	牲畜交配		55
+關店	kuae ti	148			停業		55
+關帝菩薩	kuae ti bu saq	148			關公		55
 關熓	kuae u				關掉電器		
-關夜學	kuae ya ghoq	148	182				55
-關	kuae1			122			
-怪清	kuan chin		266	228			55
-怪青	kuan chin	226	273	228			55
+關夜學	kuae ya ghoq	148	182		下午放學時被老師留下做作業		55
+關	kuae1			122	牲畜交配		
+怪清	kuan chin		266	228	1. （水）很清；2. 反語，形容頭腦很糊塗		55
+怪青	kuan chin	226	273	228	顏色很青		55
 挭漿糊	kuan cian wu						
-光火	kuan hou	226	178	102			
-怪怪青	kuan kuan chin						
-怪怪酸	kuan kuan soe						
-怪怪斯酸	kuan kuan sy soe						
-怪酸	kuan soe	226	275	228			55
+光火	kuan hou	226	178	102	發火；發怒		
+怪怪青	kuan kuan chin				顏色很青		
+怪怪酸	kuan kuan soe				很酸		
+怪怪斯酸	kuan kuan sy soe				很酸		
+怪酸	kuan soe	226	275	228	很酸		55
 挭水泥	kuan syu gni						
-怪得頭酸	kuan taq deu soe		275	228			55
-怪得斯青	kuan taq sy chin						
-怪得斯酸	kuan taq sy soe	226	275	228			55
-梗子	kuan tsy	226	117	344			55
-挭	kuan1	226	157	289			
-梗	kuan3	226	122	344			
-廣橘	kuaon ciuq	242	74	23			55
+怪得頭酸	kuan taq deu soe		275	228	很酸		55
+怪得斯青	kuan taq sy chin				顏色很青		
+怪得斯酸	kuan taq sy soe	226	275	228	很酸		55
+梗子	kuan tsy	226	117	344	植物的莖		55
+挭	kuan1	226	157	289	1. 甩上或塗抹半固體物；2. 沾染上污物		
+梗	kuan3	226	122	344	量詞。根；條		
+廣橘	kuaon ciuq	242	74	23	橙子		55
 廣橘青㿮㿮	kuaon ciuq chin an an						
-光芋	kuaon gniu	242					55
-廣貨店	kuaon hou ti	242	88	23			55
-廣告	kuaon kau	242					
-光棍	kuaon kuen	242					
-杠棍	kuaon kuen	242					55
-光棍老倌	kuaon kuen lau kun	242					55
+光芋	kuaon gniu	242			芋頭的一種		55
+廣貨店	kuaon hou ti	242	88	23	百貨店的舊稱		55
+廣告	kuaon kau	242			廣告		
+光棍	kuaon kuen	242			單身漢		
+杠棍	kuaon kuen	242			粗棍子		55
+光棍老倌	kuaon kuen lau kun	242			單身漢		55
 光郎頭	kuaon laon deu	242	42	102	光頭	湯版作「光榔頭」。	55
 光米落鑊純米飯	kuaon mi loq ghoq zyun mi vae						
-光禿芋艿頭	kuaon thaq n na deu	242					55
+光禿芋艿頭	kuaon thaq n na deu	242			光頭		55
 廣東言話	kuaon ton ghae wo						1
 廣東閒話	kuaon ton ghae wo						
-光是	kuaon zy	242					
-骨牌凳	kuaq ba ten		92				55
-刮皮	kuaq bi	328	245	209			55
-刮皮鬼	kuaq bi ciu	328					55
-刮氣	kuaq chi	328	308	238			55
+光是	kuaon zy	242			只是；單單		
+骨牌凳	kuaq ba ten		92		舊式衣櫥前放置的一種凳子，每櫥兩條，略呈長方形，做工考究，凳面形似骨牌，故名		55
+刮皮	kuaq bi	328	245	209	1. 吝嗇，小氣；2. 動詞。指白喫白拿		55
+刮皮鬼	kuaq bi ciu	328			罵一毛不拔、專剋扣別人的人		55
+刮氣	kuaq chi	328	308	238	形容詞後綴		55
 骨僵	kuaq cian	328	264	258	飯燒得半生不熟，還有點硬		55
 骨僵飯	kuaq cian vae				燒得半生不熟的飯		
 摑腳摑手	kuaq ciaq kuaq shieu						
-骨針	kuaq cin	329	93	257			
-刮結	kuaq ciq	328					55
-骨急	kuaq ciq		230	257			55
-骨頭	kuaq deu	328	117, 334	257			
-骨頭輕煞	kuaq deu chin saq		334				55
-骨頭腦髓	kuaq deu nau shi	328	117, 334				418
-骨頭屁輕	kuaq deu phi chin		334				55
+骨針	kuaq cin	329	93	257	1. 梳頭髮時用以挑髮使兩邊分開的工具；2. 打毛衣用的編織針的統稱。其中竹製的叫「竹針」，鋁製的叫「鋼針」		
+刮結	kuaq ciq	328			罵人喫東西		55
+骨急	kuaq ciq		230	258	繃得很緊		55
+骨頭	kuaq deu	328	117, 334	257	1. 骨骼；2. 指果核、魚刺、烏賊骨等；3. 表示否定，貶義，相當於「什麼」「狗屁」		
+骨頭輕煞	kuaq deu chin saq		334		1. 形容心裏舒服，飄飄然；2. 形容過分主動，過分熱情		55
+骨頭腦髓	kuaq deu nau shi	328	117, 334		表示否定，貶義，相當於「什麼」「狗屁」		418
+骨頭屁輕	kuaq deu phi chin		334		1. 形容心裏舒服，飄飄然；2. 形容過分主動，過分熱情		55
 骨頭生癢	kuaq deu san yan						
-摑耳光	kuaq gni kuaon	329					
-䀨瞎	kuaq haq		135	348			55
-骨灰箱	kuaq huei shian	328					55
+摑耳光	kuaq gni kuaon	329			用手打在耳朵附近的面頰		
+䀨瞎	kuaq haq		135	348	瞎；失明（多用於罵人）		55
+骨灰箱	kuaq huei shian	328			安放骨灰的匣子		55
 骨直	kuaq jiq	329	227	257	很直		578
-骨直憐	kuaq jiq li						
-刮刮	kuaq kuaq	328	307	238			
+骨直憐	kuaq jiq li				直直的		
+刮刮	kuaq kuaq	328	307	238	形容詞後綴		
 骨骨直	kuaq kuaq jiq	329			很直		55
-刮刮煞煞	kuaq kuaq saq saq		283				55
+刮刮煞煞	kuaq kuaq saq saq		283		全部；一點不剩		55
 骨骨斯直	kuaq kuaq sy jiq			257	很直		
-刮刮抖	kuaq kuaq teu	328	220				55
+刮刮抖	kuaq kuaq teu	328	220		形容不停地發抖的樣子		55
 骨骨挺	kuaq kuaq thin	329			很挺拔		55
 刮刮轉	kuaq kuaq tsoe						
 骨勒勒	kuaq laq laq	329	236	258	形容轉動或滾動的樣子；形容喫得很快的樣子	《阿拉宁波话》及朱版作「骨辣辣」。	55
 刮剌斯黃	kuaq laq sy waon				很黃		
 骨勒斯圓	kuaq laq sy yu	329	227		很圓		55
 骨裏斯直	kuaq li sy jiq			257	很直		
-骨碌碌	kuaq loq loq	329					
-刮牙鬚	kuaq ngo su	328					55
-刮板	kuaq pae	328					55
-摑巴掌	kuaq po tsaon						
-骨生	kuaq san	328					55
-刮痧	kuaq so	328					
-刮痧氣	kuaq so chi			209			
-刮斯	kuaq sy	328	308	238			55
-刮水缸腳	kuaq syu kaon ciaq	328					55
-刮搭	kuaq taq	328	268, 307	238	擬聲詞，一下子；形容詞後綴	湯版等作「刮得」，《蘇州方言詞典》爲「刮搭」。可知後字非割韻。	55
+骨碌碌	kuaq loq loq	329			形容轉動或滾動的樣子；形容喫得很快的樣子		
+刮牙鬚	kuaq ngo su	328			刮鬍子		55
+刮板	kuaq pae	328			平斗斛的木片		55
+摑巴掌	kuaq po tsaon				用手打在耳朵附近的面頰		
+骨生	kuaq san	328			飯燒得半生不熟，還有點硬		55
+刮痧	kuaq so	328			刮痧		
+刮痧氣	kuaq so chi			209	刮痧		
+刮斯	kuaq sy	328	308	238	中綴，用來構成四字格形容詞		55
+刮水缸腳	kuaq syu kaon cian	328			將水缸中沉澱的污穢雜物舀刮乾淨		55
+刮水缸腳	kuaq syu kaon ciaq	328			將水缸中沉澱的污穢雜物舀刮乾淨		55
+刮搭	kuaq taq	328	268, 307	238	形容詞後綴；擬聲詞，一下子	湯版等作「刮得」，《蘇州方言詞典》爲「刮搭」。可知後字非割韻。	55
 刮搭咽落	kuaq taq i loq						
 刮搭變花轎	kuaq taq pi huo jiau						
 刮搭變麻將	kuaq taq pi mo cian						
-刮刀布	kuaq tau pu	328	95	209			55
-骨敦	kuaq ten	328	227	258			55
-骨陡翹	kuaq teu chiau		228				55
-骨挺	kuaq thin	328	227				55
-骨篤	kuaq toq	329	227	258			55
-骨篤翹	kuaq toq chiau	329		258			55
-摑桌打凳	kuaq tsoq tan ten		333				55
+刮刀布	kuaq tau pu	328	95	209	理髮匠磨刮剃刀的帆布條		55
+骨敦	kuaq ten	328	227	258	1. 很挺，很直；2. （精神）足；（氣勢）盛		55
+骨陡翹	kuaq teu chiau		228		形容向上翹起		55
+骨挺	kuaq thin	328	227		筆挺		55
+骨篤	kuaq toq	329	227	258	1. 很陡；2. 很直，豎起來的；3. （精神）足；（氣勢）盛		55
+骨篤翹	kuaq toq chiau	329		258	形容向上翹起		55
+摑桌打凳	kuaq tsoq tan ten		333		吵架時拍打桌子等		55
 刮嘴刮搭	kuaq tsyu kuaq taq						
 刮	kuaq7	328	137, 211, 308	209, 238	1. 黏，附着；2. 用手或工具往外潑水、舀水；3. 人工流產；4. 喫（含貶義）；5. 中綴，用來構成三字格形容詞	義 5 朱版作「括」。	
-桂皮	kuei bi	173					
-會計	kuei ci	173					
+摑	kuaq7		152	238, 336	用巴掌打（耳光）	也作「括」。	
+桂皮	kuei bi	173			一種調味香料		
+會計	kuei ci	173			1. 監督和管理財務的工作，包括填制記帳憑證，處理帳務，編制財務報表等；2. 擔任會計工作的人員		
 桂發哥	kuei faq kou						
-桂花	kuei huo	173					
-桂花蒸	kuei huo cin	173	17	297			55
+桂花	kuei huo	173			桂花		
+桂花蒸	kuei huo cin	173	17	297	農曆八月桂花開放時節天氣驟然蒸熱叫「桂花蒸」		55
 桂花時裏	kuei huo zy li						
-歸陰	kuei in			58			
-鱖魚	kuei ng	173					
-桂圓	kuei yu	173					
-桂圓肉	kuei yu gnioq	173					55
-桂圓甩蛋	kuei yu huaq dae						
-歸	kuei1		187	58			
-癸	kuei1	173					
-規	kuei1	173					
-滾耙	kuen bo		104				55
-滾條	kuen diau	277					55
+歸陰	kuei in			58	死的迷信說法		
+鱖魚	kuei ng	173			鱖魚		
+桂圓	kuei yu	173			桂圓		
+桂圓肉	kuei yu gnioq	173			桂圓的肉		55
+桂圓甩蛋	kuei yu huaq dae				用桂圓和雞蛋煮成的一種湯食甜品		
+歸	kuei1		187	58	交付鈔票（用於下對上）		
+癸	kuei1	173			天干之一		
+規	kuei1	173			定期付給贍養或扶養非		
+滾耙	kuen bo		104		耙的一種，裝有滾筒，滾筒上有鐵齒，用來打碎泥土		55
+滾條	kuen diau	277			衣服的滾邊，取斜條縫製		55
 滾咚爛煙	kuen don lae i		266		形容煙霧瀰漫	《阿拉宁波话》作「滾洞爛煙」。	55
-滾滾壯	kuen kuen tsaon	277					578
-滾滾圓	kuen kuen yu	277					55
-滾勒斯圓	kuen laq sy yu						
-滾龍	kuen lon		183				55
-滾龍燈	kuen lon ten		183				55
-滾獅子	kuen sy tsy	277					55
-滾水	kuen syu	277					
-滾得斯圓	kuen taq sy yu	277	227	440			55
-滾燙	kuen thaon	277					
-滾天黑地	kuen thi haq di		266	440			55
-滾壯	kuen tsaon	277	234	440			578
-滾壯活脫	kuen tsaon waq thaq	277					55
-滾圓	kuen yu	277					
-滾	kuen3	277	196	440			
-管且啥	kun chia sou		296				55
+滾滾壯	kuen kuen tsaon	277			很胖；很肥		578
+滾滾圓	kuen kuen yu	277			很圓		55
+滾勒斯圓	kuen laq sy yu				很圓		
+滾龍	kuen lon		183		一種民間舞蹈，一條龍燈由十幾個人同時舞動，上下翻騰		55
+滾龍燈	kuen lon ten		183		一種民間舞蹈，一條龍燈由十幾個人同時舞動，上下翻騰		55
+滾獅子	kuen sy tsy	277			舞獅子，由兩人合作扮成獅子，上下左右翻滾		55
+滾水	kuen syu	277			燒開的水		
+滾得斯圓	kuen taq sy yu	277	227	440	很圓		55
+滾燙	kuen thaon	277			很燙		
+滾天黑地	kuen thi haq di		266	440	形容煙霧、沙塵等遮天蔽日		55
+滾壯	kuen tsaon	277	234	440	很胖；很肥		578
+滾壯活脫	kuen tsaon waq thaq	277			很胖；很肥		55
+滾圓	kuen yu	277			很圓		
+滾	kuen3	277	196	440	1. 水沸；2. 騙		
+管且啥	kun chia sou		296		隨隨便便地		55
 管且咋	kun chie dza			450			
 管且咋個	kun chie dza goq			450			
-管且啥	kun chie sou			450			
+管且啥	kun chie sou			450	隨隨便便地		
 管且啥個	kun chie sou goq			450			
-罐頭	kun deu	247	100	502			
-管團圓	kun doe yu		325				55
-管着	kun dzoq		187	450			
-管閒賬	kun ghae cian		325				55
-觀音菩薩	kun in bu saq	247					
-觀音娘娘	kun in gnian gnian	247					55
-觀音暴	kun in pau	247					55
+罐頭	kun deu	247	100	502	罐子		
+管團圓	kun doe yu		325		指把子女的事情都管好了		55
+管着	kun dzoq		187	450	花費		
+管閒賬	kun ghae cian		325		管閒事		55
+觀音菩薩	kun in bu saq	247			佛教中的觀音		
+觀音娘娘	kun in gnian gnian	247			佛教中的觀音		55
+觀音暴	kun in pau	247			傳說農曆二月十九是觀音菩薩生日，那天或那天前後颳的大風稱爲「觀音暴」		55
 貫橋頭	kun jiau deu						
-官司	kun sy	247					
-官司草	kun sy tshau	247	115	230			55
-灌水	kun syu	247					
-觀世音菩薩	kun syu in bu saq	247					
+官司	kun sy	247			訴訟		
+官司草	kun sy tshau	247	115	230	車前草，兒童常用其花莖相拉，以被拉斷與否來決勝負，故名		55
+灌水	kun syu	247			向田裏灌水		
+觀世音菩薩	kun syu in bu saq	247			佛教中的觀音		
 官話	kun wo						
-棺材	kun ze	247					
+棺材	kun ze	247			棺材		
 棺材瓤子	kun ze gnian tsy						
 棺材裏	kun ze li						
 棺材裏伸手	kun ze li shin shieu						
@@ -9015,14 +9017,14 @@
 棺材楦子	kun ze shiu tsy						
 棺材店	kun ze ti						
 棺材座子	kun ze zou tsy						
-管着	kun zoq						
-管	kun3	247	122, 187	450			
+管着	kun zoq				花費		
+管	kun3	247	122, 187	450	1. 量詞。支，把；2. 花費		
 掛招牌	kuo ciau ba						
-掛錶	kuo piau	102					
-瓜子	kuo tsy	102					
-瓜子盆	kuo tsy ben	102					55
-瓜子臉	kuo tsy li	102					
-賴皮	la bi		184				
+掛錶	kuo piau	102			懷錶		
+瓜子	kuo tsy	102			瓜子		
+瓜子盆	kuo tsy ben	102			盛放瓜果的高腳盆子		55
+瓜子臉	kuo tsy li	102			瓜子型的臉		
+賴皮	la bi		184		耍賴；不認賬		
 賴伏	la bu	63	204	423	母雞停止下蛋並賴在窩裏	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	55
 賴孵	la bu	63	204	424	母雞停止下蛋並賴在窩裏	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	
 賴伏雞	la bu ci	63	110	424	停止下蛋並賴在窩裏的母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	55
@@ -9031,39 +9033,39 @@
 賴孵雞娘	la bu ci gnian		110		停止下蛋並賴在窩裏的母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	
 賴伏草雞	la bu tshau ci		110		停止下蛋並賴在窩裏的母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	55
 賴孵草雞	la bu tshau ci		110		停止下蛋並賴在窩裏的母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	
-賴臭皮	la chieu bi	63	34				55
-賴賬	la cian	63					
-癩頭	la dei		52				
-攋藤	la den	63	206				55
-攋藤瓜	la den kuo		74				55
-癩頭	la deu	63	52	493			
-癩頭花	la deu huo	63		493			55
+賴臭皮	la chieu bi	63	34		1. 愛耍賴的人；2. 動詞。耍賴		55
+賴賬	la cian	63			不承認欠賬		
+癩頭	la dei		52		1. 長在頭上的黃癬；2. 頭上長黃癬的人		
+攋藤	la den	63	206		拉秧；瓜類過了生長期後，把藤蔓清理掉		55
+攋藤瓜	la den kuo		74		最後一批收摘的瓜		55
+癩頭	la deu	63	52	493	1. 長在頭上的黃癬；2. 頭上長黃癬的人		
+癩頭花	la deu huo	63		493	杜鵑花，映山紅		55
 癩頭兒子	la deu ng tsy	63					55
-賴學	la ghoq	63	182	423			
-賴學精	la ghoq cin	63	33				55
-賴學坯	la ghoq phei		33				55
-賴婚	la huen	63					
+賴學	la ghoq	63	182	423	逃學		
+賴學精	la ghoq cin	63	33		老是不肯上學的人		55
+賴學坯	la ghoq phei		33		老是不肯上學的人		55
+賴婚	la huen	63			已經訂婚，而女方又反悔		
 賴花頭	la huo deu	63	287	423	偶爾；有時候		55
-癩蛤蚆	la kaq po	63					55
-攋鉤	la keu			475			
-剌開	la khe	62					55
-賴屙皮	la ou bi	63	34				
-賴涴皮	la ou bi	63	34				55
-喇叭	la pa	63					
-喇叭花	la pa huo	63					
-喇叭裙	la pa jiun	63					
-喇叭褲	la pa khu	63					
-喇叭袖	la pa zhieu	63					55
-賴三	la sae	63	27	423			55
-垃圾	la shi	63, 309	133				13771
-垃圾畚斗	la shi pen teu	63					55
+癩蛤蚆	la kaq po	63			蟾蜍，癩蛤蟆		55
+攋鉤	la keu			475	一種捕魚工具。在一條帶有浮標的長線上每隔一段距離裝上一枚預購，捕魚時在鉤上裝好釣餌，放到水中，過一段時間來取		
+剌開	la khe	62			劃開口子		55
+賴屙皮	la ou bi	63	34		耍賴		
+賴涴皮	la ou bi	63	34		耍賴		55
+喇叭	la pa	63			1. 一種管樂器；2. 起擴音作用的、喇叭狀的東西		
+喇叭花	la pa huo	63			牽牛花		
+喇叭裙	la pa jiun	63			下襬很大，呈喇叭狀的裙子		
+喇叭褲	la pa khu	63			褲腿上小下大，呈喇叭狀的褲子		
+喇叭袖	la pa zhieu	63			袖口比袖筒打，呈喇叭狀的袖子		55
+賴三	la sae	63	27	423	女流氓		55
+垃圾	la shi	63, 309	133		垃圾	也音 laq saq	13771
+垃圾畚斗	la shi pen teu	63			畚斗		55
 攋沙䥛	la so ci						
 攋松毛絲	la son mau sy						
 癩𪓿	la sy	63	114	493	蛙類的統稱	《阿拉宁波话》也作「癩螄」。	55
-癩𪓿蛤蚆	la sy kaq po	63	114				55
-癩𪓿哥	la sy kou	63	111	493			55
-攋草耙	la tshau bo	63	97	475			55
-攋草耙	la tshau bun		97	475			55
+癩𪓿蛤蚆	la sy kaq po	63	114		蟾蜍，癩蛤蟆		55
+癩𪓿哥	la sy kou	63	111	493	蟬的一種，模擬鳴聲而得名		55
+攋草耙	la tshau bo	63	97	475	裝有長柄，一端有竹齒或鐵齒的耙子，用於聚攏亂草或柴葉		55
+攋草耙	la tshau bun		97	475	裝有長柄，一端有竹齒或鐵齒的耙子，用於聚攏亂草或柴葉		55
 攋草絨	la tshau gnion						
 癩嘴	la tsyu				口角炎		
 癩嘴小娘	la tsyu shiau gnian	63			口角炎		55
@@ -9072,530 +9074,527 @@
 剌柴鬍子	la za wu tsy	63	44	194	絡腮鬍		55
 剌	la2		155	475	劃破	《阿拉宁波话》及朱版作「攋」。	55
 攋	la4	63	155	475	1. 帶齒工具用鈍後銼齒使利；2. 用耙子等工具聚攏柴草		
-啦	la6		303	351			
-洡	la6			276			
-賴	la6	63					
+啦	la6		303	351	1. 相當於用在句末表示疑問語氣的「啊」；2. 相當於用在列舉事項之後的「啊」；3. 用在句末，表示增強語氣		
+洡	la6			276	沾；沾上污物		
+賴	la6	63			1. 抵賴；2. 打牌等娛樂活動時反悔，或耍手段；3. 留在某處不肯走		
 爛鼻頭管正經人	lae baq deu kun cin cin gnin						
-爛薄屙	lae baq ou	140		275			
-爛薄涴	lae baq ou	140		275			55
-爛薄稀屙	lae baq shi ou	140		275			
-爛薄稀涴	lae baq shi ou	140		275			55
+爛薄屙	lae baq ou	140		275	稀屎		
+爛薄涴	lae baq ou	140		275	稀屎		55
+爛薄稀屙	lae baq shi ou	140		275	稀屎		
+爛薄稀涴	lae baq shi ou	140		275	稀屎		55
 懶笨性僞	lae ben shin wei						
-爛薄屙	lae boq ou	140	46	275			
-爛薄涴	lae boq ou	140	46	275			55
-爛薄稀屙	lae boq shi ou	140	46	275			
-爛薄稀涴	lae boq shi ou	140	46	275			55
-爛賬	lae cian	140					
-爛腳疤	lae ciaq po		56				55
+爛薄屙	lae boq ou	140	46	275	稀屎		
+爛薄涴	lae boq ou	140	46	275	稀屎		55
+爛薄稀屙	lae boq shi ou	140	46	275	稀屎		
+爛薄稀涴	lae boq shi ou	140	46	275	稀屎		55
+爛賬	lae cian	140			要不回來的帳		
+爛腳疤	lae ciaq po		56		原指腳上的瘡疤，喻指痛處或短處		55
 藍結結	lae ciq ciq	139	273	422	藍藍的	湯版作「藍接接」。	55
-爛糖雞屙	lae daon ci ou		110				
-爛糖雞涴	lae daon ci ou		110				55
-爛稻索	lae dau soq	140					55
-爛田	lae di	139					55
-爛唾水	lae do syu	139					
-懶惰坯	lae dou phei	139					55
+爛糖雞屙	lae daon ci ou		110		形如溶化了的黃糖的雞屎		
+爛糖雞涴	lae daon ci ou		110		形如溶化了的黃糖的雞屎		55
+爛稻索	lae dau soq	140			較粗的稻草繩		55
+爛田	lae di	139			地勢較低，常年蓄水的田地		55
+爛唾水	lae do syu	139			唾沫；口水		
+懶惰坯	lae dou phei	139			懶惰的人		55
 懶惰嫂	lae dou sau						
 懶惰現眼現報	lae dou yi ngae yi pau						
 爛肚腸	lae du jian						
-爛蟲	lae dzon	140					55
+爛蟲	lae dzon	140			一種生活在水邊的蠕蟲		55
 懶懈懈	lae ga ga	139			形容懶惰		55
 爛下橛	lae gho jiuq						
 爛泥坺頭	lae gni baq deu						
 爛泥沒過	lae gni maq kou						
-爛泥糊漿	lae gni wu cian			275			
+爛泥糊漿	lae gni wu cian			275	稀泥		
 蘭銀官話	lae gnin kun wo						
-籃環	lae guae						
+籃環	lae guae				籃子的提樑		
 籃環筲箕	lae guae sau ci						
 爛狂性	lae guaon shin						
-爛好人	lae hau gnin	140	35	275			
+爛好人	lae hau gnin	140	35	275	老好人		
 爛孝子	lae hau tsy						
-爛貨	lae hou		27	275			
+爛貨	lae hou		27	275	指腐爛的東西		
 懶呵呵	lae hou hou	139	247	482	形容懶惰		55
-蘭花	lae huo	139					
-蘭花豆	lae huo deu	139					55
-蘭花倭豆	lae huo ou deu	139	71	69			55
-蘭花手	lae huo shieu	139					55
-蘭花指末頭	lae huo tsy maq deu	139					55
+蘭花	lae huo	139			蘭花		
+蘭花豆	lae huo deu	139			1. 用帶殼蠶豆製成，泡脹後在尾部剪一刀，油炸後開裂呈蘭花形狀；2. 形容人遇到有好處的事情跑得快		55
+蘭花倭豆	lae huo ou deu	139	71	69	1. 用帶殼蠶豆製成，泡脹後在尾部剪一刀，油炸後開裂呈蘭花形狀；2. 形容人遇到有好處的事情跑得快		55
+蘭花手	lae huo shieu	139			拇指和中指相對彎曲、其餘三指翹起的姿勢		55
+蘭花指末頭	lae huo tsy maq deu	139			拇指和中指相對彎曲、其餘三指翹起的姿勢		55
 攔腰𢷒牢	lae iau jiq lau						
-藍印紙	lae in tsy	139					55
+藍印紙	lae in tsy	139			複寫紙		55
 籃䩩	lae iu						
-籃球	lae jieu	139					
-籃球鞋	lae jieu gha	139	60				55
+籃球	lae jieu	139			籃球		
+籃球鞋	lae jieu gha	139	60		籃球鞋		55
 懶講懶話	lae kaon lae wo						
 懶過去	lae kou chi						
 懶勒嘸采去	lae laq mh tshe chi						
 爛料阿狗	lae liau aq keu						
 爛料泥水	lae liau gni syu						
-爛眼	lae ngae		25, 38	275			55
+爛眼	lae ngae		25, 38	275	1. 眼緣長期發炎的人；2. 對警察不尊敬的稱呼；3. 用在職業稱謂後面，貶稱某種人		55
 爛眼臭貌	lae ngae chieu mau						
 爛眼結夾	lae ngae ciq kaq						
-爛眼沿	lae ngae yi	140					55
-爛屙	lae ou	140	46	275			
-爛涴	lae ou	140	46	275			418
+爛眼沿	lae ngae yi	140			發炎的眼圈		55
+爛屙	lae ou	140	46	275	稀屎		
+爛涴	lae ou	140	46	275	稀屎		418
 爛屙賊臭	lae ou zaq chieu						
 爛涴賊臭	lae ou zaq chieu						
-藍扮	lae pae	139	287	422			55
-藍扮頭	lae pae deu	139	287				55
-爛䏘	lae phiq	140	27	274			55
+藍扮	lae pae	139	287	422	偶爾		55
+藍扮頭	lae pae deu	139	287		偶爾		55
+爛䏘	lae phiq	140	27	274	罵人話，婊子，娼婦		55
 爛䏘多花頭	lae phiq tou huo deu						
-懶撲	lae phoq	139	27	482	懶漢，懶鬼	《阿拉宁波话》及朱版作「懶樸」。	55
-藍邊碗	lae pi un	139	99	422			55
-爛雪片	lae syuq phi	140	4				55
+懶撲	lae phoq	139	27	482	懶惰的人	《阿拉宁波话》及朱版作「懶樸」。	55
+藍邊碗	lae pi un	139	99	422	外描藍邊的白瓷菜碗		55
+爛雪片	lae syuq phi	140	4		大而密的雪片		55
 爛搭瓜	lae taq kuo						
 懶嘆氣	lae thae chi	139			形容心灰意冷，失望而放棄努力		
 懶嘆心頭氣	lae thae shin deu chi		341	482	形容心灰意冷，失望而放棄努力		
+懶塌塌	lae thaq thaq	139	247	482	形容懶惰	《阿拉宁波话》及朱版作「懶塔塔」。	55
 懶嘆氣	lae thei chi	139			形容心灰意冷，失望而放棄努力		
 懶嘆心頭氣	lae thei shin deu chi		341	482	形容心灰意冷，失望而放棄努力		
-懶塌塌	lae thaq thaq	139	247	482	形容懶惰	《阿拉宁波话》及朱版作「懶塔塔」。	55
 懶拖拖	lae thou thou	139		482	形容懶惰		55
-爛唾水	lae thu syu	139	44				418
+爛唾水	lae thu syu	139	44		唾沫；口水		418
 爛草子	lae tshau tsy						
-爛污泥	lae u gni	139					55
+爛污泥	lae u gni	139			較溼的泥土		55
 爛汚三鮮湯	lae u sae shi thaon						
-爛飯	lae vae	140					55
-懶婦	lae vu			482			
-爛腐	lae vu	139	208	275			55
+爛飯	lae vae	140			煮得又溼又爛的飯		55
+懶婦	lae vu			482	懶婆娘		
+爛腐	lae vu	139	208	275	1. 腐爛；2. 形容詞。差；不好		55
 爛腐勃脹	lae vu baq cian						
 爛腐結夾	lae vu ciq kaq						
 懶婦掏䶓箜	lae vu dau cia khon						
 懶婦掏䶓箜	lae vu dau cian khon						
-爛腐貨	lae vu hou	139	27	275			55
+爛腐貨	lae vu hou	139	27	275	1. 罵人話，婊子，娼婦；2. 指腐爛的東西；3. 指次貨		55
 懶黃泥鰍	lae waon gni chieu						
-藍藥水	lae yaq syu		56	422			55
+藍藥水	lae yaq syu		56	422	紫藥水		55
 爛賤	lae zhi		269	275	價格非常便宜	也作「濫賤」。	55
 爛樹變沉香	lae zyu pi jin shian						
-籃	lae2	139					
-藍	lae2	139					
-冷呃	lan aq			172			
-冷盆	lan ben	207	63	172			
+籃	lae2	139			1. 用藤、竹、柳條、塑料等編成的容器，上有提樑；2. 量詞		
+藍	lae2	139			一種顏色		
+冷呃	lan aq			172	嗝，受冷而膈肌痙孿		
+冷盆	lan ben	207	63	172	冷盤		
 冷氣勃出	lan chi baq tshyuq						
-冷氣肉	lan chi gnioq	207	63	172			55
+冷氣肉	lan chi gnioq	207	63	172	凍肉		55
 冷氣黃魚	lan chi waon ng						
 冷清清	lan chin chin	207	259	173	有點冷	湯版作「冷凊凊」。	
-冷茶	lan dzo	207	81				55
-冷茶壺	lan dzo wu	207					55
+冷茶	lan dzo	207	81		冷開水		55
+冷茶壺	lan dzo wu	207			盛放冷開水的水壺		55
 冷汗直淋	lan ghei-ghe jiq lin						
-冷熱病	lan gniq bin		55	173			
-冷灰豆爆	lan huei deu pau			173			
-冷灰頭爆	lan huei deu pau	207	332				55
-冷幽幽	lan ieu ieu	207	258	173			55
+冷熱病	lan gniq bin		55	173	瘧疾		
+冷灰頭爆	lan huei deu pau	207	332	173	1. 灰燼重新燃燒；2. 比喻舊事重提	朱版作「冷灰豆爆」。	55
+冷幽幽	lan ieu ieu	207	258	173	形容涼涼的		55
 冷陰	lan in	207	258	172	涼快	湯版作「冷蔭」	55
-冷開水	lan khe syu	207					55
-冷角落頭	lan koq loq deu	207					55
-冷刮刮	lan kuaq kuaq	207	258	173			55
-冷落	lan loq	207					
-冷麪	lan mi	207					
+冷開水	lan khe syu	207			冷開水		55
+冷角落頭	lan koq loq deu	207			偏僻的角落		55
+冷刮刮	lan kuaq kuaq	207	258	173	形容冷冷的		55
+冷落	lan loq	207			背靜，不熱鬧		
+冷麪	lan mi	207			煮熟後冷卻的麪條		
 冷面冷搭	lan mi lan taq						
-冷板凳	lan pae ten	207					
-冷冰冰	lan pin pin	207					
-冷𪞫𪞫	lan seu seu	207	259	173			55
-冷痧	lan so	207					55
-冷水	lan syu	207					
+冷板凳	lan pae ten	207			比喻受冷雨		
+冷冰冰	lan pin pin	207			形容態度、口氣等冷冷的，不熱情		
+冷𪞫𪞫	lan seu seu	207	259	173	形容有點兒冷		55
+冷痧	lan so	207			受寒氣		55
+冷水	lan syu	207			冷的水		
 冷水澆落	lan syu ciau loq						
-冷勢勢	lan syu syu	207	259	173			55
-冷水壺	lan syu wu	207					55
-冷天家	lan thi ko	207	17	172			55
-冷凍凍	lan ton ton	207	259	173			55
-冷飯	lan vae	207					55
-冷飯頭	lan vae dei			172			
-冷飯頭	lan vae deu	207		172			55
+冷勢勢	lan syu syu	207	259	173	形容比較冷；有寒意		55
+冷水壺	lan syu wu	207			盛放冷開水的水壺		55
+冷天家	lan thi ko	207	17	172	冬天		55
+冷凍凍	lan ton ton	207	259	173	形容天氣寒冷		55
+冷飯	lan vae	207			不是本餐新做的飯；剩下來的飯		55
+冷飯頭	lan vae dei			172	不是本餐新做的飯；剩下來的飯		
+冷飯頭	lan vae deu	207		172	不是本餐新做的飯；剩下來的飯		55
 冷飯𥽬	lan vae gnian	207	61	172	煮飯時摻入的部分冷飯	𥽬，《廣韻》女亮切，雜也。《活色生香宁波话》中稱末字爲「孃」，母本之義，有附會之嫌。	55
-冷飯塊	lan vae khuei	207	54	172			55
-冷飯筲箕	lan vae sau ci		98				55
-冷飯得	lan vae taq	207	54	173			55
-冷黃梅	lan waon mei	207					55
-冷黃黴	lan waon mei	207					55
+冷飯塊	lan vae khuei	207	54	172	因蛔蟲病而在臉上呈現的白斑。民間傳說是由於偷喫冷飯而得病，故稱		55
+冷飯筲箕	lan vae sau ci		98		盛飯用的竹籃，有蓋，有竹提樑，可以手提或掛起		55
+冷飯得	lan vae taq	207	54	173	因蛔蟲病而在臉上呈現的白斑。民間傳說是由於偷喫冷飯而得病，故稱		55
+冷黃梅	lan waon mei	207			不悶熱的黃梅天		55
+冷黃黴	lan waon mei	207			不悶熱的黃梅天		55
 冷言冷語	lan yi lan gniu						
-冷靜	lan zhin	207		172			
-良士	lan zy	207		178			
-良士嬸	lan zy shin	207		178			
-冷	lan4	206		172			
-浪喫浪用	laon chioq laon yon	233	336	325			55
-狼萁	laon ci		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫。	《阿拉宁波话》作「狼基」。《廣韻》萁，居之切，菜似蕨。	55
-狼萁屙撲	laon ci ou phoq		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫。		
-狼萁涴撲	laon ci ou phoq		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫。		55
-𧻴趤公子	laon daon kon tsy	233	27	444			55
-榔頭	laon deu	233					
-浪頭	laon deu	233					
-㝗泛泛	laon fae fae	233	231	328			55
-朗炕	laon haon	233	212	328			55
+冷靜	lan zhin	207		172	1. 人少不熱鬧；2. 沉着而不感情用事		
+良士	lan zy	207		178	舊時稱老闆		
+良士嬸	lan zy shin	207		178	舊時稱老闆娘		
+冷	lan4	206		172	1. 形容詞，溫度低，與「熱」相對；2. 動詞，擱置使冷		
+浪喫浪用	laon chioq laon yon	233	336	325	大肆揮霍（浪：隨意）		55
+狼萁	laon ci		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫	《阿拉宁波话》作「狼基」。《廣韻》萁，居之切，菜似蕨。	55
+狼萁屙撲	laon ci ou phoq		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫		
+狼萁涴撲	laon ci ou phoq		118		一種蕨類植物，可用作燒火。嫩葉爲蕨菜，可喫		55
+𧻴趤公子	laon daon kon tsy	233	27	444	整天閒蕩無事的人		55
+榔頭	laon deu	233			榔頭		
+浪頭	laon deu	233			波浪		
+㝗泛泛	laon fae fae	233	231	328	稀疏，間隙大		55
+朗炕	laon haon	233	212	328	久雨暫晴		55
 㫰好	laon hau						55
 㫰花	laon huo	233	206	352	稻等作物抽穗開花授粉的階段	湯版作「蓈花」。蓈，《玉篇》「力當切。莠也。《說文》曰：禾之穗生而不成謂之董蓈。」莠，狗尾草。湯版中可能將「禾之穗生而不成謂之董蓈」錯解爲「禾之穗生而未成」，將生穗但不會成熟的狗尾草錯誤理解爲水稻生穗但還未成熟的階段。所以此處義不合。《阿拉宁波话》作「㫰花」。㫰，曬。稻穀開花，即稻穀將花曬出來，可取。	55
 㫰衣	laon i						55
 㫰衣架	laon i ko						55
-㫰衣墩	laon i ten	233	93	352			55
-㫰衣裳	laon i zaon	233					55
-㫰衣繩	laon i zhin						55
-㫰竿	laon ki-ke	233	93	352			55
+㫰衣墩	laon i ten	233	93	352	用來插入並固定住眼丫叉的穿孔大圓石		55
+㫰衣裳	laon i zaon	233			晾衣服		55
+㫰衣繩	laon i zhin				晾衣繩		55
+㫰竿	laon ki-ke	233	93	352	曬衣用的竹竿		55
 㫰勒	laon laq						55
-㫰黴	laon mei	233	192	352			55
+㫰黴	laon mei	233	192	352	梅雨季節過後晾曬衣物以防發黴		55
 郎丫扁擔	laon o pi tae	233					55
-㫰丫叉	laon o tsho	233	93	353			418
-㫰燥	laon sau						55
-㝗稀稀	laon shi shi		231				55
-踉䠀	laon thaon	233	94	448			55
-㫰的	laon tiq						55
+㫰丫叉	laon o tsho	233	93	353	1. 用來擱置㫰竿的竹竿，上有許多小分叉；2. 用來叉取衣物的長柄叉子		418
+㫰燥	laon sau				晾乾		55
+㝗稀稀	laon shi shi		231		稀疏，間隙大		55
+踉䠀	laon thaon	233	94	448	瘸腿的人拄於腋下幫助走路的柺杖		55
+㫰的	laon tiq				晾着		55
 㫰出	laon tshyuq						55
-郎中	laon tson	233	24	231			
-廊檐	laon yi	233					
-狼籍	laon zhiq		202	318			
-狼藉	laon zhiq	233	202	317, 318			55
-㝗	laon2	233	231	328			
-㫰	laon6	233	192	352			
-浪	laon6	233					
-肋排骨	laq ba kuaq	308	45				418
-蠟白	laq baq	309					
-辣白菜	laq baq tshe	309					55
-臘皮一樣	laq bi iq yan		238				55
-臘皮介	laq bi ka		238				55
+郎中	laon tson	233	24	231	中醫醫生		
+廊檐	laon yi	233			廊頂突出在柱子外的部分		
+狼藉	laon zhiq	233	202	317, 318	糟蹋；浪費	也作「狼籍」「浪藉」「浪籍」。	55
+㝗	laon2	233	231	328	稀疏，間隙大		
+㫰	laon6	233	192	352	晾，把東西放在通風透氣而陽光照不到的地方使乾燥		
+浪	laon6	233			波浪		
+肋排骨	laq ba kuaq	308	45		肋骨		418
+鑞白	laq baq	309			用平耙耙田，將田整平		
+辣白菜	laq baq tshe	309			加鹽加辣料製成的白菜		55
+臘皮一樣	laq bi iq yan		238		形容對人很服帖，很畏懼		55
+臘皮介	laq bi ka		238		形容對人很服帖，很畏懼		55
 辣氣	laq chi						
-辣醬油	laq cian yeu	309					
-辣椒	laq ciau	309					
-辣椒粉	laq ciau fen	309					
-鑞酒壺	laq cieu wu	309	100				55
-肋條	laq diau	308	64	117			
+辣醬油	laq cian yeu	309			帶辣味的醬油		
+辣椒	laq ciau	309			辣椒		
+辣椒粉	laq ciau fen	309			辣椒粉		
+鑞酒壺	laq cieu wu	309	100		用錫鋁合金鑄成的酒壺，表面鑄有花紋圖案		55
+肋條	laq diau	308	64	117	豬肋條肉		
 捋番薯葉	laq fae zyu yiq						
-攔軋	laq gaq		127	249			55
-臘肉	laq gnioq	309					
+攔軋	laq gaq		127	249	說話、朗讀時卡住，結巴，不流暢		55
+臘肉	laq gnioq	309			臘肉		
 攔好	laq hau						
-辣火	laq hou	309					55
-辣火醬	laq hou cian	309	76	454		《阿拉宁波话》作「辣貨醬」，湯版作「辣火醬」。辣椒稱 laq hou，據變調，後字當爲陰上。故當作「辣火醬」。	55
-辣呵呵	laq hou hou	309	275	454			55
-勒其	laq ji		304				55
-勒及	laq ji						55
-勒渠	laq ji	308					55
-辣茄	laq jia			454			
-臘腸	laq jian	309					
-辣茄	laq jie	309	73	454			55
-肋胳肢下	laq kaq tsy gho	308	45	118		湯版作「肋膈肢下」。「胳肢」的寫法更爲常見。	578
-肋胳肢下毛	laq kaq tsy gho mau	308					55
-勒可憐	laq khou li						
-勒過	laq kou		298				55
-辣辣	laq laq		281	202			55
+辣火	laq hou	309			把辣椒曬乾後，切碎醃製而成的糊狀調味品		55
+辣火醬	laq hou cian	309	76	454	用乾辣椒切碎製成的醬	《阿拉宁波话》作「辣貨醬」，湯版作「辣火醬」。辣椒稱 laq hou，據變調，後字當爲陰上。故當作「辣火醬」。	55
+辣呵呵	laq hou hou	309	275	454	形容辣辣的		55
+勒其	laq ji		304		1. 表示動作的方式或動作狀態的持續，相當於「着」；2. 用在動詞後面，表示祈使語氣		55
+勒及	laq ji				…得及		55
+勒渠	laq ji	308			1. 表示動作的方式或動作狀態的持續，相當於「着」；2. 用在動詞後面，表示祈使語氣		55
+辣茄	laq jia			454	辣椒		
+臘腸	laq jian	309			臘腸		
+辣茄	laq jie	309	73	454	辣椒		55
+肋胳肢下	laq kaq tsy gho	308	45	118	腋下，胳肢窩	湯版作「肋膈肢下」。「胳肢」的寫法更爲常見。	578
+肋胳肢下毛	laq kaq tsy gho mau	308			腋毛		55
+勒可憐	laq khou li				用在動詞後面，表示完成動作很費力氣，或表示程度深		
+勒過	laq kou		298		用在動詞後面，表示容納得下，有「……得下」「……得了」的意思		55
+辣辣	laq laq		281	202	1. 形容快而持續的樣子；2. 形容用力、快速的樣子；3. 形容咀嚼聲、破碎聲、說話聲等		55
 辣辣喫帶進	laq laq chioq ta cin						
 辣辣喫帶進	laq laq chioq tae cin						
-辣辣茄	laq laq jie	309					55
+辣辣茄	laq laq jie	309			辣椒的一種，形似毛筆筆尖，味辣，供食用		55
 攔勒牢	laq laq lau						418
 攔勒外頭	laq laq nga deu						
 辣辣扳	laq laq pae						
 辣辣打	laq laq tan						
 辣辣做生活	laq laq tsou san waq						
 辣辣做生活	laq laq tsou san wo						
-蠟蠟黃	laq laq waon	309		448			55
+蠟蠟黃	laq laq waon	309		448	形容很黃，多指面色有病容		55
 辣辣話其一頓	laq laq wo ji iq ten						
 辣辣話渠一頓	laq laq wo ji iq ten						
 辣辣嚼	laq laq zhiaq						
-攔牢	laq lau						578
-蠟棱頭	laq len deu		263	487			55
+攔牢	laq lau				攔住		578
+蠟棱頭	laq len deu		263	487	形容挺括		55
 勒憐	laq li			340	用來構成某些形容詞		
-邋裏邋遢	laq li laq thaq	309					445
-辣蓼	laq liau		116				55
-捋落	laq loq			67			
-臘梅	laq mei	309					
-辣麻麻	laq mo mo	309		454			55
-勒眼	laq ngae	308	304	340			55
-攔板	laq pae	308	86				55
+邋裏邋遢	laq li laq thaq	309			髒，不乾淨		445
+辣蓼	laq liau		116		蓼，草本植物，莖葉有辣味，是製作酒釀的酒麴（即白藥）的重要原料		55
+捋落	laq loq			67	拉下（臉）		
+臘梅	laq mei	309			臘梅		
+辣麻麻	laq mo mo	309		454	形容辣辣的		55
+勒眼	laq ngae	308	304	340	表示動作的方式或動作狀態的持續，相當於「着」		55
+攔板	laq pae	308	86		擋板		55
 捋桑葉	laq saon yiq						
-垃圾	laq saq	309	133				25
-攔柵	laq saq	308	86	244			55
-攔煞	laq saq						55
-勒相相	laq shian shian		297				55
-勒相像	laq shian zhian		297				55
-勒相似	laq shian zy		298				55
-辣手	laq shieu	309					
-辣酥	laq su		263	454			55
-勒司克	laq sy khaq						
-邋遢	laq thaq	309	266				
-攔的	laq tiq						
-勒出產	laq tshyuq sae		314				55
-蠟燭	laq tsoq		29	448			
-蠟燭臺	laq tsoq de	309					
-蠟燭頭	laq tsoq deu	309					55
-蠟燭鈿	laq tsoq di		125				55
-蠟燭包	laq tsoq pau	309	58	448			55
-蠟燭巴釘	laq tsoq po tin	309					55
+垃圾	laq saq	309	133		垃圾		25
+攔柵	laq saq	308	86	244	用竹子等作的類似籬笆的東西，多用來圈住家禽		55
+攔煞	laq saq				攔住		55
+勒相相	laq shian shian		297		用在動詞或動賓結構後面，有「會……」的意思		55
+勒相像	laq shian zhian		297		用在動詞或動賓結構後面，有「會……」的意思		55
+勒相似	laq shian zy		298		「勿相似」的肯定式，只出現在反問句裏，表達與字面相反的意思		55
+辣手	laq shieu	309			1. 形容手段狠；2. 形容事情棘手		
+辣酥	laq su		263	454	非常酥脆		55
+勒司克	laq sy khaq				最後，英語 last card 的音譯，本義爲最後一張牌		
+邋遢	laq thaq	309	266		髒，不乾淨		
+攔的	laq tiq				攔着		
+勒出產	laq tshyuq sae		314		用在動詞後面，有「會有出息」的意思		55
+蠟燭	laq tsoq		29	448	1. 蠟燭；2. 喻指不識事務、不知好歹的人，蠢貨		
+蠟燭臺	laq tsoq de	309			燭臺		
+蠟燭頭	laq tsoq deu	309			點剩的小截蠟燭		55
+蠟燭鈿	laq tsoq di		125		參加喪禮所送的禮金。治喪必點蠟燭，故稱		55
+蠟燭包	laq tsoq pau	309	58	448	襁褓，包裹嬰兒的被或布		55
+蠟燭巴釘	laq tsoq po tin	309			插蠟燭尾的扦子		55
 𦪴子	laq tsy	309	89	117	船舷	朱版作「肋子」。	55
 攔子牌	laq tsy ba						
-攔勿牢	laq vaq lau						55
-攔弗牢	laq vaq lau						418
-蠟黃	laq waon	309					
+攔勿牢	laq vaq lau				攔不住		55
+攔弗牢	laq vaq lau				攔不住		418
+蠟黃	laq waon	309			形容很黃，多指面色有病容		
 鑞煬掉	laq yan diau						
-辣油	laq yeu	309					
-勒像	laq zhian		297				55
-鑞匠	laq zhian	309					55
-了	laq8		304				
-勒	laq8	308	304	340			
-啦	laq8	62	303	351			
-捋	laq8	308	146	292			
-攔	laq8	308	157	249		湯版等均作「迾」，《蘇州方言詞典》、《上海話大詞典》作「攔」。《廣韻》迾，良辥切，遮遏。「迾」音不合。「攔」無入聲讀法，或爲陽入對轉。考慮寫更常見的「攔」。	
-辣	laq8	308, 309	268	454, 464			
-老鴨	lau ae	82					55
-老鴨	lau aq	82					55
-老白酒	lau baq cieu	84					55
-老白蝨	lau baq saq	84					55
-癆病	lau bin	80					
+辣油	laq yeu	309			辣油		
+勒像	laq zhian		297		用在動詞或動賓結構後面，有「會……」的意思		55
+鑞匠	laq zhian	309			錫匠		55
+了	laq8		304		表示動作的實現		
+勒	laq8	308	304	340	1. 表示動作的方式或動作狀態的持續，相當於「着」；2. 表示程度或結果，相當於「得」；3. 表示所有格，相當於「的」；4. 趨向動詞。到；5. 介詞。在		
+啦	laq8	62	303	351	1. 相當於用在句末表示疑問語氣的「啊」；2. 相當於用在列舉事項之後的「啊」；3. 用在句末，表示增強語氣		
+捋	laq8	308	146	292	1. 用手握住向一端滑動以摘取；2. 把袖子往上推；3. 沉下臉		
+攔	laq8	308	157	249	遮攔，阻擋	湯版等均作「迾」，《蘇州方言詞典》、《上海話大詞典》作「攔」。《廣韻》迾，良辥切，遮遏。「迾」音不合。「攔」無入聲讀法，或爲陽入對轉。考慮寫更常見的「攔」。	
+辣	laq8	308, 309	268	454, 464	1. 薑、蒜、辣椒等有刺激性的味道；2. 辣味刺激口、鼻或眼；3. 價格高；4. 狠；厲害；5. 快速，利落		
+老鴨	lau ae	82			生蛋多年的鴨子		55
+老鴨	lau aq	82			生蛋多年的鴨子		55
+老白酒	lau baq cieu	84			江米酒		55
+老白蝨	lau baq saq	84			蝨子		55
+癆病	lau bin	80			肺結核		
 老伏卵	lau boq lou	84	110	88	老母雞		55
-老婆	lau bou	82	19	87			
-老婆婆	lau bou bou	82					
-老婆兒囡	lau bou ng no	82					55
+老婆	lau bou	82	19	87	妻子		
+老婆婆	lau bou bou	82			稱呼與祖母同輩的女子，也尊稱老年女子		
+老婆兒囡	lau bou ng no	82			老婆孩子		55
 老伏雞	lau bu ci	84			老母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	55
 老孵雞	lau bu ci	84			老母雞	次字本字爲「伏」，《廣韻》伏，扶富切，鳥菢子。也俗作「孵」。	55
-老氣	lau chi	81	238				
-老槍	lau chian	83	32	87			
-癆瘵	lau chiq		55	407			
-癆𤷾病	lau chiq bin	80					55
-老繭	lau ci	81					
-老酒	lau cieu	82	81	87			
-老酒甏	lau cieu ban	82	34	89			55
-老酒窞	lau cieu dei			90			
-老酒窞窞	lau cieu dei dei	82	43	90			55
+老氣	lau chi	81	238		小孩顯得老成		
+老槍	lau chian	83	32	87	指菸癮很大的人		
+癆瘵	lau chiq		55	407	肺結核		
+癆𤷾病	lau chiq bin	80			肺結核		55
+老繭	lau ci	81			老繭		
+老酒	lau cieu	82	81	87	1. 酒的統稱；2. 黃酒		
+老酒甏	lau cieu ban	82	34	89	酒鬼的謔稱		55
+老酒窞	lau cieu dei			90	酒窩		
+老酒窞窞	lau cieu dei dei	82	43	90	酒窩		55
 老酒一埕	lau cieu iq jin						
 老酒夾燒酒	lau cieu kaq shiau cieu						
-老酒包	lau cieu pau	82	34				55
+老酒包	lau cieu pau	82	34		酒鬼的謔稱		55
 老酒㕐勒胖頂	lau cieu shia laq phaon tin						
 老酒㕐彌滿	lau cieu shia mhi mun						
-老酒壺	lau cieu wu	82					55
-老結	lau ciq	84	233	87			55
-老鬼	lau ciu	81	31	87			
-老鬼三	lau ciu sae	81	31				55
+老酒壺	lau cieu wu	82			盛酒的壺		55
+老結	lau ciq	84	233	87	1. 老練；2. 成熟		55
+老鬼	lau ciu	81	31	87	1. 行家，老手；2. 形容詞。內行，老練		
+老鬼三	lau ciu sae	81	31		1. 行家，老手；2. 指稱人（含戲謔或不尊重的意味）		55
 老鬼失撇	lau ciu syuq phiq						
-老大	lau da		23				
-老頭	lau dei	83	19				
-老頭汗衫	lau dei ghei-ghe sae	83					55
-老頭伯	lau dei pan	83		88			418
-老頭子	lau dei tsy	83					
-老頭	lau deu	83	19	86			
-老頭汗衫	lau deu ghei-ghe sae	83					55
-老頭帽	lau deu mau		56	88			55
+老大	lau da		23		船長		
+老頭	lau dei	83	19		中老年婦女稱自己的丈夫多叫「老頭」		
+老頭汗衫	lau dei ghei-ghe sae	83			夏令穿的短袖針織圓領衫，通常胸前有幾粒釦子		55
+老頭伯	lau dei pan	83		88	老頭子，對老年男子不尊敬或戲謔的稱呼		418
+老頭子	lau dei tsy	83			指父親，敘稱，含戲謔味道		
+老頭	lau deu	83	19	86	中老年婦女稱自己的丈夫多叫「老頭」		
+老頭汗衫	lau deu ghei-ghe sae	83			夏令穿的短袖針織圓領衫，通常胸前有幾粒釦子		55
+老頭帽	lau deu mau		56	88	用駝絨製成的帽子，翻下來可以遮住整個臉，只露出眼睛、鼻子和嘴巴		55
 老頭腦	lau deu nau						
-老頭伯	lau deu pan	83	22	88			418
-老頭子	lau deu tsy	83					
-老大	lau dou	82					
-老大姑娘	lau dou ku gnian	82					55
-老大小姐	lau dou shiau cia	82					55
-老茶婆	lau dzo bou		74				55
-老鴉	lau eu		111				
-勞發	lau faq		171	144			
-老虎	lau fu	81					
-老虎鉗	lau fu ji	81					
-老虎牙	lau fu ngo	81					55
-老虎屙	lau fu ou	81					
-老虎涴	lau fu ou	81					55
+老頭伯	lau deu pan	83	22	88	老頭子，對老年男子不尊敬或戲謔的稱呼		418
+老頭子	lau deu tsy	83			指父親，敘稱，含戲謔味道		
+老大	lau dou	82			船長		
+老大姑娘	lau dou ku gnian	82			老姑娘		55
+老大小姐	lau dou shiau cia	82			老姑娘		55
+老茶婆	lau dzo bou		74		質量不太好的老茶葉		55
+老鴉	lau eu		111		烏鴉		
+勞發	lau faq		171	144	發燒		
+老虎	lau fu	81			老虎		
+老虎鉗	lau fu ji	81			老虎鉗		
+老虎牙	lau fu ngo	81			突出的犬齒		55
+老虎屙	lau fu ou	81			1. 老虎的糞便；2. 比喻價錢昂貴的東西		
+老虎涴	lau fu ou	81			1. 老虎的糞便；2. 比喻價錢昂貴的東西		55
 老虎舔螞粉	lau fu thi mo fen						
 老虎天話	lau fu thi wo						
-老虎裝萎	lau fu tsaon uei			90			
-老虎竈	lau fu tsau	81	83				
-老虎窗	lau fu tshaon	81	84	88			55
-老虎刺	lau fu tshy		118				55
-老懈懈	lau ga ga	81					55
-老和尚過江暴	lau ghou zaon kou kaon pau	83					55
-老人	lau gnin		19				
-老人爿	lau gnin bae		22				55
-老𡢿	lau gnion	84	19	87			8000
-老𡢿爿	lau gnion bae	84	22	87			418
+老虎裝萎	lau fu tsaon uei			90	比喻假裝怯懦		
+老虎竈	lau fu tsau	81	83		1. 燒開水的大竈；2. 賣開水的小店或泡開水的地方		
+老虎窗	lau fu tshaon	81	84	88	屋頂上建造的形似小屋的通風設備，窗戶可以開合		55
+老虎刺	lau fu tshy		118		枸骨，葉略呈長方形，邊角有刺，秋天結紅果。過去當柴火，現在當觀賞植物		55
+老懈懈	lau ga ga	81			1. 形容長得老相；2. 形容小孩舉止老成		55
+老和尚過江暴	lau ghou zaon kou kaon pau	83			農曆二月廿八日或前後颳的大風，傳說那天是打磨離開金陵渡江前往洛陽的日子		55
+老人	lau gnin		19		1. 妻子；2. 稱已婚婦女（較粗俗）		
+老人爿	lau gnin bae		22		成年女子（含輕蔑意味）		55
+老𡢿	lau gnion	84	19	87	1. 妻子；2. 稱已婚婦女（較粗俗）		8000
+老𡢿爿	lau gnion bae	84	22	87	成年女子（含輕蔑意味）		418
 老𡢿香	lau gnion shian						
-老蟹	lau ha	81					55
+老蟹	lau ha	81			年老而狡猾的婦女		55
 老貨	lau hou					老的那個人	
-老蝦公	lau huo kon			89			
-老花眼	lau huo ngae	82	57				
-老鷹	lau in	83					
-老鷹鼻頭管	lau in baq deu kun	83	43	90			55
-老鷹抲小雞	lau in kho shiau ci	83					55
-老長	lau jian	81	288	86			
+老蝦公	lau huo kon			89	體大觸鬚長的雄蝦		
+老花眼	lau huo ngae	82	57		1. 老花眼；2. 矯正老花眼的眼鏡		
+老鷹	lau in	83			鷹		
+老鷹鼻頭管	lau in baq deu kun	83	43	90	鷹鉤鼻		55
+老鷹抲小雞	lau in kho shiau ci	83			一種遊戲，老鷹捉小雞		55
+老長	lau jian	81	288	86	經常		
 老長來走走	lau jian le tseu tseu						
-老成人	lau jin gnin	83	22	88			55
-牢監	lau kae	80	88	178			418
-牢監犯	lau kae vae	80	28	178			418
-老酵	lau kau	82	81	87			55
-老K牌	lau khe ba	82					55
-老K牌	lau khe bae	82	108				55
-老肯肯	lau khen khen	83	233	88			55
-老口	lau kheu	83	224	86			55
-老價鈿	lau ko di	82	126				55
-老公	lau kon	83	19	86			
-老公公	lau kon kon	83					
+老成人	lau jin gnin	83	22	88	上了年紀的人		55
+牢監	lau kae	80	88	178	監獄		418
+牢監犯	lau kae vae	80	28	178	1. 罪犯，囚徒；2. 指刑滿釋放分子		418
+老酵	lau kau	82	81	87	含有酵母的麪糰		55
+老K牌	lau khe ba	82			撲克牌		55
+老K牌	lau khe bae	82	108		撲克牌		55
+老肯肯	lau khen khen	83	233	88	形容長得老		55
+老口	lau kheu	83	224	86	1. 不多；2. 不好		55
+老價鈿	lau ko di	82	126		很貴的價錢		55
+老公	lau kon	83	19	86	丈夫		
+老公公	lau kon kon	83			對年邁男子的尊稱		
 老公老婆	lau kon lau bou						
 老公偷偷喫	lau kon theu theu chioq						
 老棺材	lau kun ze						
 老爛䏘	lau lae phiq						
-老老	lau lau	81	288	40, 86			
-老來	lau le	82	17	86			
+老老	lau lau	81	288	40, 86	經常		
+老來	lau le	82	17	86	老年時		
 老來當狗爬	lau le taon keu bo						
-老菱	lau len			87			
-老菱	lau lin	83	76	87			55
-老門檻	lau men khae	83					55
-老麻將	lau mo cian		30				55
+老菱	lau len			87	二角菱		
+老菱	lau lin	83	76	87	二角菱		55
+老門檻	lau men khae	83			指精於某事、不易上當、很有辦法的人		55
+老麻將	lau mo cian		30		處事老練、不會輕易上當的人		55
 老木儱倲	lau moq lon ton	84	241	89	形容因年老而反應遲鈍	湯版作「老木朧懂」，《阿拉宁波话》作「老木龍東」。《集韻》倲，都籠切，儱倲劣也	55
-老木躘踵	lau moq lon tshon	84	241	89			55
+老木躘踵	lau moq lon tshon	84	241	89	形容因年老而走路不穩的樣子		55
 老呆大	lau nge dou						
-老鴉	lau o	82	111	87			
-老鴉臭	lau o chieu	82	55	89			55
+老鴉	lau o	82	111	87	烏鴉		
+老鴉臭	lau o chieu	82	55	89	狐臭		55
 老鴉叫	lau o ciau						
 老鴉信	lau o shin						
-老闆	lau pae	82					
-老闆娘	lau pae gnian	82					
-老闆夥計	lau pae hou ci						
-老班輩	lau pae pei			89			
-老伯	lau pan	83					
-老伯伯	lau pan pan	83					
-老鴇	lau pau	81					
-老屁眼	lau phi ngae	81	30				55
+老闆	lau pae	82			老闆		
+老闆娘	lau pae gnian	82			老闆娘		
+老闆夥計	lau pae hou ci				老闆與夥計		
+老班輩	lau pae pei			89	長輩		
+老伯	lau pan	83			管家		
+老伯伯	lau pan pan	83			老伯伯，對老年男子的尊稱		
+老鴇	lau pau	81			老鴇		
+老屁眼	lau phi ngae	81	30		處事老練、不會輕易上當的人		55
 老魄屍	lau phoq sy		34		罵或戲稱老人	《阿拉宁波话》作「老樸屍」。	55
-老布	lau pu	81					55
-老三	lau sae	82	30	86			
-老三刮氣	lau sae kuaq chi	82	243				418
-老三老四	lau sae lau sy	82	243	89			418
-老生	lau san	83					
-老孫兒子	lau sen ng tsy	83	34	90			418
-老孫子	lau sen tsy						
-老先生	lau shi san	81	35	88			
-老相	lau shian	83	49				
-老相好	lau shian hau	83					55
-老相扮出	lau shian pae tshyuq	83	330	90			55
-老少無欺	lau shiau vu chi	82	293	90			55
-老少無欺	lau shiau wu- chi	82	293	90			55
-老手	lau shieu	83					
+老布	lau pu	81			家用老式織布機織的布		55
+老三	lau sae	82	30	86	1. 傲慢不虛心、好爲人師的人；2. 形容詞。不虛心，好爲人師；3. 形容詞。老成；4. 指鬼		
+老三刮氣	lau sae kuaq chi	82	243		形容說話口氣大，傲慢不虛心		418
+老三老四	lau sae lau sy	82	243	89	形容說話口氣大，傲慢不虛心		418
+老生	lau san	83			戲劇中生角的一種，扮演中年以上男子		
+老孫兒子	lau sen ng tsy	83	34	90	罵人話，相當於「龜孫子」		418
+老孫子	lau sen tsy				罵人話，相當於「龜孫子」		
+老先生	lau shi san	81	35	88	對人的一種詼諧稱呼		
+老相	lau shian	83	49		衰老的模樣		
+老相好	lau shian hau	83			非夫妻關係而發生性行爲的男女，也指情夫或情婦		55
+老相扮出	lau shian pae tshyuq	83	330	90	顯出衰老的模樣		55
+老少無欺	lau shiau vu chi	82	293	90	真的；着實		55
+老少無欺	lau shiau wu- chi	82	293	90	真的；着實		55
+老手	lau shieu	83			指精於某事、不易上當、很有辦法的人		
 老手勢	lau shieu syu						
-勞心	lau shin	80					
-老兄	lau shion	84					
-老縮縮	lau soq soq	83					55
-老師	lau sy	80					
-老筍頭	lau syun deu	83					55
-老旦	lau tae	82					
-老搭檔	lau taq taon	84					
-老太婆	lau tha boe	81	19, 22	87			
-老太婆	lau tha bou	81	19, 22	87			
+勞心	lau shin	80			操心		
+老兄	lau shion	84			對同事、同輩的尊稱或一般稱呼，有時含戲謔義		
+老縮縮	lau soq soq	83			形容長得老		55
+老師	lau sy	80			老師		
+老筍頭	lau syun deu	83			筍的根部，比較老，有時可與鹹菜一起做湯喫，味鮮		55
+老旦	lau tae	82			戲劇中旦角的一種，扮演年老的婦女		
+老搭檔	lau taq taon	84			一直合作共事的人		
+老太婆	lau tha boe	81	19, 22	87	1. 對年老婦女不尊敬的稱呼；2. 中老年男子稱自己的妻子多叫「老太婆」		
+老太婆	lau tha bou	81	19, 22	87	1. 對年老婦女不尊敬的稱呼；2. 中老年男子稱自己的妻子多叫「老太婆」		
 老太婆𧮙煞	lau tha bou zoq saq						
-老湯	lau thaon	83	224	86			
-老套套	lau thaon thau		129				55
-老搨蛋	lau thaq dae	84	34	89			55
-老套套	lau thau thau		129				55
-老鐵殼	lau thiq khoq				罵人如烏龜；形容人老成；形容人技藝嫺熟；指人臉皮厚		
-老土地	lau thu di	81	27	87			55
-老底子	lau ti tsy	81	18	88			55
-老早	lau tsau	81	18, 288				
-老早百地	lau tsau paq di	81					418
-老早百年	lau tsau paq gni		289	90			55
-老早百裏	lau tsau paq li	81	289	90			418
-老早子	lau tsau tsy	81	18, 288				418
-老拆	lau tshaq	84					
+老湯	lau thaon	83	224	86	1. 不多；2. 不好		
+老套套	lau thaon thau		129		老習慣；老方法		55
+老搨蛋	lau thaq dae	84	34	89	1. 詈語，略相當於北京話的「混蛋」，語意較輕；2. 熟悉的人之間的一種稱呼（含親昵味）		55
+老套套	lau thau thau		129		老習慣；老方法		55
+老鐵殼	lau thiq khoq				1. 罵人如烏龜；2. 形容人老成；3. 形容人技藝嫺熟；4. 指人臉皮厚		
+老土地	lau thu di	81	27	87	久居某地而熟悉當地情況的人		55
+老底子	lau ti tsy	81	18	88	從前；過去		55
+老早	lau tsau	81	18, 288		1. 很早，早就，早巳；2. 名詞。從前，過去		
+老早百地	lau tsau paq di	81			早就；早已		418
+老早百年	lau tsau paq gni		289	90	早就；早已		55
+老早百裏	lau tsau paq li	81	289	90	早就；早已		418
+老早子	lau tsau tsy	81	18, 288		從前；過去		418
+老拆	lau tshaq	84			老練，老成		
 勞作	lau tsoq	80					
-老鼠	lau tsy	80	111				
+老鼠	lau tsy	80	111		鼠的通稱		
 老鼠洞	lau tsy don						
 老鼠弶	lau tsy jian						
 老鼠窠	lau tsy khou						
 老鼠過街	lau tsy kou ka						
-老鼠奶奶	lau tsy nhe nhe	80	54	89			55
-老鼠手	lau tsy shieu	80	54	89			55
+老鼠奶奶	lau tsy nhe nhe	80	54	89	扁平疣，俗謂因吃了老鼠喫過的東西而生此物		55
+老鼠手	lau tsy shieu	80	54	89	扁平疣，俗謂因吃了老鼠喫過的東西而生此物		55
 老鼠拖木杴	lau tsy thou moq shi						
 老鼠會	lau tsy wei						
-老豬娘	lau tsyu gnian	81					55
+老豬娘	lau tsyu gnian	81			老母豬		55
 老賭坯	lau tu phei						
-老勿大	lau vaq dou		118				
-老弗大	lau vaq dou						55
-老勿大草	lau vaq dou tshau		118				
-老弗大草	lau vaq dou tshau			90			55
-老勿出	lau vaq tshyuq	84	238				
-老弗出	lau vaq tshyuq			88			55
-老菔乾	lau voq ki-ke	84					55
-老黃泥鰍	lau waon gni chieu		70				55
+老勿大	lau vaq dou		118		1. 紫金牛，一種野生小灌木，可治肝炎；2. 喻指身體長不高或職位升不上的人		
+老弗大	lau vaq dou		118		1. 紫金牛，一種野生小灌木，可治肝炎；2. 喻指身體長不高或職位升不上的人		55
+老勿大草	lau vaq dou tshau		118	90	紫金牛，一種野生小灌木，可治肝炎		
+老弗大草	lau vaq dou tshau		118	90	紫金牛，一種野生小灌木，可治肝炎		55
+老勿出	lau vaq tshyuq	84	238	88	1. 害羞，靦腆；2. 因怕羞而不敢見人或做某事		
+老弗出	lau vaq tshyuq	84	238	88	1. 害羞，靦腆；2. 因怕羞而不敢見人或做某事		55
+老菔乾	lau voq ki-ke	84			蘿蔔條或蘿蔔塊曬乾後加鹽製成的一種醬菜		55
+老黃泥鰍	lau waon gni chieu		70		大泥鰍		55
 老活猻	lau waq sen						
-老話頭	lau wo dei			89			
-老話頭	lau wo deu	82		89			55
-老壺	lau wu	82					55
-老爺	lau ya	81	252				
+老話頭	lau wo dei			89	流傳下來的熟語		
+老話頭	lau wo deu	82		89	流傳下來的熟語		55
+老爺	lau ya	81	252		1. 舊時對官吏、富室主人的尊稱；2. 形容陳舊，質量差的東西		
 老爺貨	lau ya hou						
 老爺手機	lau ya shieu ci						
 老爺車	lau ya tsho						
-老油條	lau yeu diau	82	30	88			
-老鹽頭	lau yi deu	81					55
-癆槽	lau zau		247	344			55
+老油條	lau yeu diau	82	30	88	1. 處世油滑的人；2. 屢教不改的人		
+老鹽頭	lau yi deu	81			浸漬時間久，味過於鹹的食品		55
+癆槽	lau zau		247	344	饞；貪食		55
 癆槽病	lau zau bin						
 癆槽窞	lau zau dei	80	42		後腦勺下方的一條豎形凹痕		55
-癆槽紋	lau zau ven		42	344			55
+癆槽紋	lau zau ven		42	344	後腦勺下方的一條豎形凹痕		55
 老牆門	lau zhian men						
 老壽頭	lau zhieu deu						
-老壽星頭	lau zhieu shin deu	82					55
+老壽星頭	lau zhieu shin deu	82			額頭凸出、較長的頭型		55
 老壽星討砒霜喫	lau zhieu shin thau phi saon chioq						
 老實彈涂	lau zyuq dae du						
-老實頭	lau zyuq deu	84	238	89			418
-老實頭氣	lau zyuq deu chi		238	89			55
-老實頭人	lau zyuq deu gnin	84					55
-老實頭西	lau zyuq deu shi	84					55
-老十三	lau zyuq sae	84					55
-牢	lau2	80	271				
-老	lau4	80	18	86			
-嘮	lau6	80	139	281			
-來去	le chi		195				
+老實頭	lau zyuq deu	84	238	89	老實巴交		418
+老實頭氣	lau zyuq deu chi		238	89	老實巴交		55
+老實頭人	lau zyuq deu gnin	84			老實人		55
+老實頭西	lau zyuq deu shi	84			老實巴交		55
+老十三	lau zyuq sae	84			罵年紀較大而言行輕浮、令人作嘔的人		55
+牢	lau2	80	271		用在動詞後，作補語，相當於「住」「緊」等		
+老	lau4	80	18	86	1. 年紀大，與「少」「幼」相對；2. 婉辭，指人死；3. 老練，有經驗；4. 早就存在的，陳舊，與「新」相對；5. 原先，過去；6. 蔬菜等長得過了適口的時期，與「嫩」相對；7. 食物火候過大，與「嫩」相對；8. 副詞，纔，強調確定的語氣；9. 名詞前綴，用在排行前構成稱爲，多爲敘稱；10. 用在單音節姓氏前構成稱爲，多稱呼年齡較大者；11. 用在另一些名詞語速前構成指人或物的名詞		
+嘮	lau6	80	139	281	重複叮囑		
+來去	le chi		195		來往；交往		
 來發哥	le faq kou						
 來發來發講啥西	le faq le faq kaon so shi						
-來該	le ke	124	214	148			55
-來勒	le laq	124	214				55
-來勒及	le laq ji					末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
-來當	le taon	124	214	148			55
-來的	le tiq	124	214	148			
+來該	le ke	124	214	148	1. 在，在（那裏），遠指；2. 副詞。在，正在（那裏），遠指		55
+來勒	le laq	124	214		1. 在；2. 介詞。在；3. 副詞。在，正在		55
+來勒及	le laq ji				來得及	末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
+來當	le taon	124	214	148	1. 在，在（這裏），近指；2. 副詞。在，正在（這裏），近指		55
+來的	le tiq	124	214	148	1. 在，在（這裏），近指；2. 副詞。在，正在（這裏），近指		
 來的了	le tiq lei						55
-來的𡀂	le tiq lei	124	214				55
-來東	le ton	124	214				55
+來的𡀂	le tiq lei	124	214		1. 在了；發生了；2. 有了；3. 好了；如願以償了		55
+來東	le ton	124	214		1. 在，在（這裏），近指；2. 副詞。在，正在（這裏），近指		55
 來弗及	le vaq ji				來不及	末字音 ji2，特殊。亦有說法稱末字作「洎」。	578
-來	le2	124	214	148			
-擂盆	lei ben	169	100	475			55
-礌盤	lei bun	169	89	476			55
+來	le2	124	214	148	1. 在；2. 介詞。在；3. 副詞。在，正在		
+擂盆	lei ben	169	100	475	用於研磨食物或藥物的口廣而深的石盆		55
+礌盤	lei bun	169	89	476	車輪		55
 礌進來	lei cin le						
 礌地十八滾	lei di zyuq paq kuen						
-礌銅板	lei don pae	169					55
-雷大	lei dou	168	222	424			55
-雷大大	lei dou dou	168	222				55
+礌銅板	lei don pae	169			一種遊戲，以磚斜靠於牆，擲銅板使沿着磚的斜面滾到地上，誰的銅板滾得遠，誰就可以用此銅板去碰近的銅板以決輸贏		55
+雷大	lei dou	168	222	424	很大		55
+雷大大	lei dou dou	168	222		很大		55
 雷賀倪湯	lei ghou gni thaon				《百家姓》中的一句，諧音「爛涴泥湯」，形容混亂又邋遢	《活色生香寧波話》p. 152	
-雷陣雨	lei jin yu	168					
+雷陣雨	lei jin yu	168			雷陣雨		
 礌來礌去𣍐倒翻	lei le lei chi vei tau fae						
 𨀤𨀤倒	lei lei tau						
-礌木圓	lei moq yu		108				55
-鰳魚	lei ng	169	67				55
-洡手	lei shieu		191	276			55
+礌木圓	lei moq yu		108		用木、瓦等製成的扁圓形小玩具，用來滾動		55
+鰳魚	lei ng	169	67		一種海魚，體扁長，銀白色，頭小，鱗薄而大，多刺。新鮮的叫「鮮白鰳魚」，醃製的叫「鹹鰳魚」		55
+洡手	lei shieu		191	276	沾手		55
 擂沙雞	lei so ci						
 擂沙麻糰	lei so mo doe						
-礌沙圓	lei so yu	169					55
-雷筍	lei syun		74	425			55
+礌沙圓	lei so yu	169			用糯米粉做成的球形食品，有豆沙餡，外沾一層豆屑		55
+雷筍	lei syun		74	425	雷竹的筍，因早春打雷即出筍而得名		55
 雷筍長	lei syun jian						
-雷打着了	lei tan dzoq lei						
-雷打着𡀂	lei tan dzoq lei						
-雷打着了	lei tan zoq lei						55
-雷打着𡀂	lei tan zoq lei	168					55
-𨀤倒	lei tau	169	166	476			55
-𨀤倒牌子	lei tau ba tsy	169	31	476			55
+雷打着了	lei tan dzoq lei				遭雷劈了		
+雷打着𡀂	lei tan dzoq lei				遭雷劈了		
+雷打着了	lei tan zoq lei				遭雷劈了		55
+雷打着𡀂	lei tan zoq lei	168			遭雷劈了		55
+𨀤倒	lei tau	169	166	476	倒下		55
+𨀤倒牌子	lei tau ba tsy	169	31	476	喻指不要面子，破罐破摔的人		55
 𨀤倒就睏着	lei tau jieu khuen dzoq						
 𨀤倒就睏着	lei tau jieu khuen zoq						
-礌鐵環	lei thiq guae	169	184				55
+礌鐵環	lei thiq guae	169	184		一種遊戲，滾鐵環		55
 擂釘板	lei tin pae						
 洡碗刮盞	lei un kuaq tsae						
-雷雨	lei yu	168					
-了	lei2		302				
-雷	lei2	168					
-𡀂	lei2	168	302	478			
-癗	lei4	169	53	480, 493			
+雷雨	lei yu	168			雷陣雨		
+了	lei2		302		1. 用在句末，表示已經出現或將要出現某種情況，或表示催促、勸阻等，相當於語氣助詞「了」；2. 用在句末，表示感嘆、誇張等語氣		
+雷	lei2	168			雷，雲層放電時發出的聲響		
+𡀂	lei2	168	302	478	1. 用在句末，表示已經出現或將要出現某種情況，或表示催促、勸阻等，相當於語氣助詞「了」；2. 用在句末，表示感嘆、誇張等語氣	通作「了」。	
+癗	lei4	169	53	480, 493	皮膚上的小疙瘩		
 擂	lei6	168	166	475	碾	《玉篇》擂，力堆切，研物也。調不合，義近。	
 洡	lei6	168	211	276	沾；沾上污物	《阿拉宁波话》也作「累」。	
 礌	lei6	168	166	475	滾動	湯版等作「擂」。《溫州方言志》作「礌」，《溫州方言詞典》作「㔣」。《集韻》礌，盧對切，𡌸倉推石自高而下也。《廣韻》㔣，盧對切，推也。二字音同，義近。「㔣」位於 Unicode 擴展 A 區，「礌」位於基本區，取「礌」。	
 𨀤	lei6	168	166	475	躺倒	湯版等作「擂」。《溫州方言志》作「𨀤」，盧對切，足跌。義近，可取。	
-輪盤	len bun	254	89	202			
+輪盤	len bun	254	89	202	車輪		
 惀頭勿到	len deu vaq tau						
 惀頭弗到	len deu vaq tau						1
-輪着	len dzoq						
+輪着	len dzoq				輪到		
 棱角勿倒	len koq vaq tau						
 棱角弗倒	len koq vaq tau						1
 棱棱角角	len len koq koq						
-惀帶	len ta	254	50	178			55
+惀帶	len ta	254	50	178	1. 腦筋，盤算；2. 動詞。計較		55
 惀帶好	len ta hau						
-輪胎	len the						
-輪胎	len thei						
-輪轉太婆	len tsoe tha bou	254	35	203			55
+輪胎	len the				輪胎		
+輪胎	len thei				輪胎		
+輪轉太婆	len tsoe tha bou	254	35	203	太婆年老，子孫衆多，往往輪流就食於孫家，因稱輪流於各處辦事或輪流於各家就食的人爲「輪轉太婆」		55
 㔂竹節	len tsoq ciq				刮去竹節		
-輪船	len zoe	254					
-輪着	len zoq	255					
+輪船	len zoe	254			輪船		
+輪着	len zoq	255			輪到		
 㔂樹皮	len zyu bi				刮去樹皮		
 㔂	len2		156	500	刮去（樹皮、竹節）		
-惀	len2	254	174	178			
+惀	len2	254	174	178	想；估量		
 樓下	leu gho	197					
 嘍吼	leu heu	197	256	273			55
 僂勾師	leu keu sy	197	34	449			55
@@ -15377,7 +15376,7 @@
 打官司	tan kun sy	205					
 打官司草	tan kun sy tshau						
 打纜頭扳	tan lae deu pae						
-打冷呃	tan lan aq	205	137				55
+打冷呃	tan lan aq	205	137		打嗝，受冷而膈肌痙孿		55
 打攔軋	tan laq gaq	206	314	52			55
 打勒過	tan laq kou						
 打老K	tan lau khe	204	183	52			55

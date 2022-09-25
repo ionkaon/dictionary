@@ -2059,7 +2059,7 @@
 叫子	ciau tsyu			60	哨子		
 招文袋	ciau ven de	111	101	194	朝聖用的香袋，多印有「朝山進香」字樣		55
 焦黃	ciau waon	111			形容很焦很黃		
-焦黃剌裏	ciau waon laq li	111	272	404	形容很焦很黃		55
+焦黃勒憐	ciau waon laq li	111	272	404	形容很焦很黃		55
 照會	ciau wei	112		427			
 招魂幡	ciau wen fae	111					55
 照樣	ciau yan	112					
@@ -8687,9 +8687,7 @@
 供佛	kon vaq	291					
 弓	kon1	291					
 拱	kon3	291		457			
-供	kon5	291		228			
-擱排凳	koq ba ten	345	92				55
-閣排凳	koq ba ten			271			
+擱排凳	koq ba ten	345	92	271	舊式衣櫥前放置的一種凳子，每櫥兩條，略呈長方形，做工考究	朱版作「閣排凳」。	55
 各爿廠	koq bae chian						
 各部汽車	koq bu chi tsho						
 各部腳踏車	koq bu ciaq daq tsho						
@@ -8801,7 +8799,6 @@
 過口	kou kheu		63	93			
 哥哥	kou kou	185					
 過老酒	kou lau cieu	186					55
-過雷雨	kou lei yu	187					55
 過路	kou lu	186	83	95			
 過門	kou men	187	128	93			
 過邊	kou pi		267	94			55
@@ -8821,7 +8818,7 @@
 過戶	kou wu	186					
 過夜	kou ya	186					
 過油飽	kou yeu pau				喫得過飽		
-過雲雨	kou yun yu		4	95			
+過雲雨	kou yun yu	187	4	95	雲來即雨，雲過即止的陣雨		
 過晌	kou zaon		289	94			
 過謝	kou zhia			95			
 裹	kou3	185					
@@ -8843,8 +8840,7 @@
 孤老頭	ku lau deu	48					55
 孤老住祠堂	ku lau dzyu zy daon						
 孤老老太婆	ku lau lau tha bou						
-古老八千	ku lau paq chi						
-古老百千	ku lau paq chi		332				55
+古老百千	ku lau paq chi		332		形容很陳舊，很古老		55
 孤老太婆	ku lau tha bou	48					55
 姑嬤	ku mho	48					55
 姑嬤頭	ku mho deu	48					55
@@ -8959,9 +8955,7 @@
 骨篤翹	kuaq toq chiau	329		258			55
 摑桌打凳	kuaq tsoq tan ten		333				55
 刮嘴刮搭	kuaq tsyu kuaq taq						
-刮	kuaq7	328	137, 211, 308	209			
-括	kuaq7		152	238			
-摑	kuaq7		152	336			
+刮	kuaq7	328	137, 211, 308	209, 238	1. 黏，附着；2. 用手或工具往外潑水、舀水；3. 人工流產；4. 喫（含貶義）；5. 中綴，用來構成三字格形容詞	義 5 朱版作「括」。	
 桂皮	kuei bi	173					
 會計	kuei ci	173					
 桂發哥	kuei faq kou						
@@ -9023,7 +9017,6 @@
 棺材座子	kun ze zou tsy						
 管着	kun zoq						
 管	kun3	247	122, 187	450			
-個	kun5			23, 255			
 掛招牌	kuo ciau ba						
 掛錶	kuo piau	102					
 瓜子	kuo tsy	102					
@@ -9050,8 +9043,7 @@
 賴學精	la ghoq cin	63	33				55
 賴學坯	la ghoq phei		33				55
 賴婚	la huen	63					
-癩花頭	la huo deu						
-賴花頭	la huo deu	63	287	423			55
+賴花頭	la huo deu	63	287	423	偶爾；有時候		55
 癩蛤蚆	la kaq po	63					55
 攋鉤	la keu			475			
 剌開	la khe	62					55
@@ -9067,8 +9059,7 @@
 垃圾畚斗	la shi pen teu	63					55
 攋沙䥛	la so ci						
 攋松毛絲	la son mau sy						
-癩螄	la sy		114				55
-癩𪓿	la sy	63	114	493			55
+癩𪓿	la sy	63	114	493	蛙類的統稱	《阿拉宁波话》也作「癩螄」。	55
 癩𪓿蛤蚆	la sy kaq po	63	114				55
 癩𪓿哥	la sy kou	63	111	493			55
 攋草耙	la tshau bo	63	97	475			55
@@ -9079,7 +9070,8 @@
 剌胡嚨	la wu lon						
 剌柴	la za	62	307	245	形容詞後綴	湯版作「拉柴」。	55
 剌柴鬍子	la za wu tsy	63	44	194	絡腮鬍		55
-攋	la4	63	155	475			
+剌	la2		155	475	劃破	《阿拉宁波话》及朱版作「攋」。	55
+攋	la4	63	155	475	1. 帶齒工具用鈍後銼齒使利；2. 用耙子等工具聚攏柴草		
 啦	la6		303	351			
 洡	la6			276			
 賴	la6	63					
@@ -9168,17 +9160,15 @@
 爛腐貨	lae vu hou	139	27	275			55
 懶黃泥鰍	lae waon gni chieu						
 藍藥水	lae yaq syu		56	422			55
-濫賤	lae zhi		269				55
-爛賤	lae zhi		269	275			55
+爛賤	lae zhi		269	275	價格非常便宜	也作「濫賤」。	55
 爛樹變沉香	lae zyu pi jin shian						
 籃	lae2	139					
 藍	lae2	139					
 冷呃	lan aq			172			
 冷盆	lan ben	207	63	172			
-冷氣拔出	lan chi baq tshyuq						
+冷氣勃出	lan chi baq tshyuq						
 冷氣肉	lan chi gnioq	207	63	172			55
 冷氣黃魚	lan chi waon ng						
-冷凊凊	lan chin chin	207					55
 冷清清	lan chin chin	207	259	173	有點冷	湯版作「冷凊凊」。	
 冷茶	lan dzo	207	81				55
 冷茶壺	lan dzo wu	207					55
@@ -9295,7 +9285,7 @@
 辣辣嚼	laq laq zhiaq						
 攔牢	laq lau						578
 蠟棱頭	laq len deu		263	487			55
-勒裏	laq li			340			
+勒憐	laq li			340	用來構成某些形容詞		
 邋裏邋遢	laq li laq thaq	309					445
 辣蓼	laq liau		116				55
 捋落	laq loq			67			
@@ -9322,8 +9312,7 @@
 蠟燭鈿	laq tsoq di		125				55
 蠟燭包	laq tsoq pau	309	58	448			55
 蠟燭巴釘	laq tsoq po tin	309					55
-肋子	laq tsy			117			
-𦪴子	laq tsy	309	89				55
+𦪴子	laq tsy	309	89	117	船舷	朱版作「肋子」。	55
 攔子牌	laq tsy ba						
 攔勿牢	laq vaq lau						55
 攔弗牢	laq vaq lau						418
@@ -9520,8 +9509,7 @@
 老鹽頭	lau yi deu	81					55
 癆槽	lau zau		247	344			55
 癆槽病	lau zau bin						
-癆槽窖	lau zau ciau		42				55
-癆槽窞	lau zau dei	80					55
+癆槽窞	lau zau dei	80	42		後腦勺下方的一條豎形凹痕		55
 癆槽紋	lau zau ven		42	344			55
 老牆門	lau zhian men						
 老壽頭	lau zhieu deu						
@@ -9585,9 +9573,8 @@
 𡀂	lei2	168	302	478			
 癗	lei4	169	53	480, 493			
 擂	lei6	168	166	475	碾	《玉篇》擂，力堆切，研物也。調不合，義近。	
-洡	lei6	168	211	276			
+洡	lei6	168	211	276	沾；沾上污物	《阿拉宁波话》也作「累」。	
 礌	lei6	168	166	475	滾動	湯版等作「擂」。《溫州方言志》作「礌」，《溫州方言詞典》作「㔣」。《集韻》礌，盧對切，𡌸倉推石自高而下也。《廣韻》㔣，盧對切，推也。二字音同，義近。「㔣」位於 Unicode 擴展 A 區，「礌」位於基本區，取「礌」。	
-累	lei6		211				
 𨀤	lei6	168	166	475	躺倒	湯版等作「擂」。《溫州方言志》作「𨀤」，盧對切，足跌。義近，可取。	
 輪盤	len bun	254	89	202			
 惀頭勿到	len deu vaq tau						
@@ -9601,10 +9588,11 @@
 輪胎	len the						
 輪胎	len thei						
 輪轉太婆	len tsoe tha bou	254	35	203			55
+㔂竹節	len tsoq ciq				刮去竹節		
 輪船	len zoe	254					
 輪着	len zoq	255					
-㔂	len2		156	500			
-㨆	len2		156				
+㔂樹皮	len zyu bi				刮去樹皮		
+㔂	len2		156	500	刮去（樹皮、竹節）		
 惀	len2	254	174	178			
 樓下	leu gho	197					
 嘍吼	leu heu	197	256	273			55
@@ -10009,8 +9997,7 @@
 靈光	lin kuaon	262	249				
 領來兒子	lin le ng tsy	262					55
 領領徑徑	lin lin cin cin	263					418
-㔂魚鱗	lin ng lin						
-㨆魚鱗	lin ng lin						
+㔂魚鱗	lin ng lin				刮去魚鱗		
 領囡	lin noe	263	22	364			55
 零碎	lin sei	262					
 零碎銅鈿	lin sei don di	262					578
@@ -10022,8 +10009,6 @@
 鄰舍家	lin so ko	262	87	165			578
 臨帖	lin thiaq	262					
 零拆躉買	lin tshaq ten ma	262					55
-㔂竹節	lin tsoq ciq						
-㨆竹節	lin tsoq ciq						
 翎子	lin tsy	262					
 零用鈿	lin yon di	262					578
 臨紹	lin zhiau						
@@ -19507,9 +19492,8 @@
 野鴨	ya ae	71					
 野牌子	ya ba tsy						
 野氣	ya chi	71	253	350			55
-野氣勃出	ya chi baq tshyuq			350			
-野氣白出	ya chi baq tshyuq		253				55
-野氣百出	ya chi paq tshyuq		253				55
+野氣勃出	ya chi baq tshyuq		253	350	形容言行出格，不合套路		55
+野氣百出	ya chi paq tshyuq		253		形容言行出格，不合套路		55
 野雞	ya ci	71					
 夜叫	ya ciau	70					55
 夜稻	ya dau	70	71	218			55

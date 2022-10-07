@@ -8022,7 +8022,7 @@
 #			nge6										
 蚶	蚶	hen	he1	1	hei1	9	hei1	10	hei1	11			
 酣	酣	hen	he1	1	hei1	9			hei1	11			
-邯	邯	hen	he1	7									
+邯	邯	hen	he1	7							0.00	疑爲錯記	#
 炶	炶		he1										
 甝	甝		he1										
 魽	𫠐		he1										
@@ -10523,7 +10523,7 @@
 #			zei6										
 蚶	蚶	hen	hei-1	2							0.06	又音	
 酣	酣	hen	hei-1	2							0.06	又音	
-邯	邯	hen	hei-1	7							0.06		
+邯	邯	hen	hei-1	7							0.00	疑爲錯記	#
 炶	炶		hei-1								0.06		
 甝	甝		hei-1								0.06		
 魽	𫠐		hei-1								0.06		
@@ -10569,6 +10569,7 @@
 邗	邗		ghei-ghe2										
 頇	顸	ʽen	ghei-ghe2	7									
 虷	虷		ghei-ghe2										
+邯	邯	hen	ghei-ghe2										
 鶾	鶾		ghei-ghe2										
 銜	衔		ghei-ghe2	2					ghei2	11	0.05	又音	
 啣	衔		ghei-ghe2	2							0.05	又音	
@@ -12500,7 +12501,7 @@
 場	场		jian2	1	jian2	9	jian2	10	jian2	11			
 塲	场	dziang	jian2	1									
 戕	戕	dziang	jian2	7									
-庠	庠	dziang	jian2								0.00		
+庠	庠	dziang	jian2	7									
 薔	蔷	ziang	jian2	1	zhian2	9							
 瓺	瓺		jian2										
 #			jian2									尖音	
@@ -12641,7 +12642,7 @@
 羊	羊	yiang	yan2	1	yan2	9	yan6	10	yan2	11			
 垟	垟	yiang	yan2	7					yan2	11			
 洋	洋	yiang	yan2	1	yan2	9	yan2	10	yan2	11			
-庠	庠	dziang	yan2	2									
+庠	庠	dziang	yan2	2							0.00	疑爲錯記	#
 烊	烊	yiang	yan2	1	yan2	9	yan2	10	yan2	11			
 佯	佯	yiang	yan2	7									
 徉	徉	yiang	yan2	7									

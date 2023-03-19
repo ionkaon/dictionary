@@ -139,13 +139,13 @@
 阿嗯奶	aq ng ne				兒童用語，奶水		
 阿囡	aq noe	321	20	182	父母或長輩對小孩的暱稱		578
 阿伯	aq pan	322	18		丈夫的哥哥		
-阿伯	aq paq	322	18	182	父親		4000
-阿爸	aq paq		18	183	父親		10000
+阿伯	aq paq	322	18	182	父親		10000
+阿爸	aq paq		18	183	父親		4000
 阿伯阿姆勿認得	aq paq a m vaq gnin taq		286		用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		
 阿伯阿姆弗認得	aq paq a m vaq gnin taq				用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		1
 阿伯阿姆勿認得	aq paq an m vaq gnin taq				用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		
 阿伯阿姆弗認得	aq paq an m vaq gnin taq				用在動詞、形容詞加「勒」的後面，表示程度深（多用於消極方面）		1
-阿爸值鈿小兒子	aq paq jiq di shiau ng tsy						
+阿伯值鈿小兒子	aq paq jiq di shiau ng tsy						
 阿伯老頭	aq paq lau deu						
 壓寶	aq pau	323			賭博的一種		
 押寶	aq pau	323			賭博的一種		
@@ -919,7 +919,7 @@
 汽油燈	chi yeu ten	30					55
 千言萬語	chi yi vae gniu	29					
 碶閘街	chi zaq ka				路名，在海曙		
-千層	chi zen	29		22			
+千層	chi zen	29		22	千張		
 千層餅	chi zen pin	29	80	22	一種方形小糕餅，用荅菜和麪粉加調料碾成極薄的薄片，摺疊供製而成。溪口千層餅是奉化傳統名特糕點。		55
 縴繩	chi zhin	30		133			
 欺善怕惡	chi zoe pho oq						
@@ -3058,7 +3058,7 @@
 地作貨	di tsoq hou	23	70	92	田地上出產的農副產品的總稱，包括蔬菜、瓜果等		55
 地租	di tsu	22					
 提子	di tsy	22					
-地主阿太	di tsyu aq tha	22					55
+地主阿太	di tsyu aq tha	22			住宅的神		55
 填房	di vaon	22			妻子死後續絃再娶的妻子		
 地坋	di ven			91			
 地袱蹵勩	di voq tshoq yi						
@@ -6661,8 +6661,7 @@
 長年到頭	jian gni tau deu	217	16		整年；一年到頭		55
 丈人	jian gnin	218	21	13	岳父		
 滰人	jian gnin	218	168		洗澡		578
-丈人阿伯	jian gnin aq paq	218			岳父		418
-丈人阿爸	jian gnin aq paq		21	13	岳父		55
+丈人阿伯	jian gnin aq paq	218	21	13	岳父		418
 滰人腳桶	jian gnin ciaq don	218			澡盆		418
 丈人老頭	jian gnin lau deu	218	21	13	岳父		418
 仗人勢	jian gnin syu	218	315		仗着人多欺負人		55
@@ -12093,7 +12092,7 @@
 眼睛生勒屁眼裏	ngae cin san laq phi ngae li						
 眼睛眨眨	ngae cin saq saq	146					55
 眼睛𥈊𥈊	ngae cin saq saq						55
-眼睛小羅嗦	ngae cin shiau lou sou						
+眼睛小囉嗦	ngae cin shiau lou sou						
 眼鏡店	ngae cin ti	146					55
 眼睛癢	ngae cin yan	146	176	349			55
 眼窞	ngae dei	146					55
@@ -12144,16 +12143,14 @@
 眼烏珠䀨瞎	ngae u tsyu kuaq haq	145					55
 眼烏珠碧綠	ngae u tsyu piq loq		337				55
 眼癢	ngae yan	146	176	349			55
-眼沿	ngae yi		43				55
-眼緣	ngae yu			349			
+眼沿	ngae yi		43	349	眼皮	朱版作「眼緣」	55
 岩	ngae2		8				
 硬拗纏	ngan au ji	211	263				55
 硬照	ngan ciau	211		393			55
-硬勁	ngan cin	211	292			《阿拉宁波话》作「硬勁」，湯版作「硬竟」。杭州、崇明、上海等地的方言詞典作「硬勁」。	55
+硬勁	ngan cin	211	292	393	副詞，硬是，堅決	《阿拉宁波话》作「硬勁」，湯版作「硬竟」。杭州、崇明、上海等地的方言詞典作「硬勁」。	55
 硬結結	ngan ciq ciq	211	263	394			55
 硬結刮剌	ngan ciq kuaq laq	211					55
 硬糖	ngan daon	211					
-硬動	ngan don			393			
 硬絞纏	ngan gau ji	211	263	394			55
 硬要當	ngan iau taon			394			
 硬槓子	ngan kaon tsy		129				55
@@ -12196,8 +12193,8 @@
 咬弗動	ngau vaq don						55
 咬勿落	ngau vaq loq	91					
 咬弗落	ngau vaq loq						55
-熬	ngau2	91	177				
-咬	ngau4	91	159				
+熬	ngau2	91	159, 177		1. 把東西放在容器內，在火上煨或燒；2. 忍，忍受；3. 衣物洗前先打上肥皂浸漬一會兒再漂洗	義 3《阿拉宁波话》作「咬」。	
+咬	ngau4	91			1. 上下牙齒用力對着；2. 犯人供出同謀		
 傲	ngau6	91	140	403			
 艾青	nge chin		116				
 呆頭呆腦	nge deu nge nau	127	242				
@@ -12218,8 +12215,7 @@
 呆客氣	nge khaq chi						
 呆快	nge khua						
 呆古古	nge ku ku	127					55
-呆臉呆搭	nge li nge taq		242	156			55
-呆裏呆搭	nge li nge taq						
+呆裏呆搭	nge li nge taq		242	156	形容傻氣，不靈活	《阿拉宁波话》及朱版作「呆臉呆搭」。	55
 呆不愣敦	nge paq len ten				形容人呆傻		55
 呆剝儱倲	nge poq lon ton	127	241		形容人呆傻	湯版作「呆剝𢙱倲」，《阿拉宁波话》作「呆剝龍東」。《集韻》倲，都籠切，儱倲劣也	55
 呆剝剝	nge poq poq	127	241	156			55
@@ -12283,7 +12279,7 @@
 瓦辣	ngo laq		113				55
 瓦楞草	ngo len tshau	103	115				55
 瓦流縫	ngo lieu von	103					55
-瓦粒	ngo liq	103					55
+瓦礫	ngo liq	103			破碎的磚瓦	湯版作「瓦粒」。	55
 我儂	ngo lou		38	160			418
 衙門	ngo men	103					
 牙牙響	ngo ngo shian						
@@ -12295,8 +12291,7 @@
 牙屙	ngo ou	103					
 牙涴	ngo ou	103					55
 瓦片	ngo phi	103	86	33			
-牙梳	ngo su		44				55
-牙鬚	ngo su	103	44	32			578
+牙鬚	ngo su	103	44	32	鬍子	《阿拉宁波话》也作「牙梳」。	578
 牙鬚翹聳聳	ngo su chiau son son						
 牙刷	ngo syuq	103					
 瓦刀	ngo tau	103					
@@ -12334,7 +12329,7 @@
 吶	nha1		303	351			
 哪	nha1	61	303				
 吶	nhau1			351			
-奶脯	nhe bu	123					55
+奶脯	na bu	123			乳房		55
 奶奶	nhe nhe	123	45	80			
 奶奶脯	nhe nhe bu	123	45				418
 奶奶頭	nhe nhe deu	123					55
@@ -12377,13 +12372,13 @@
 暖壺	noe wu	162					
 囡	noe2	162	20	110			
 膿線頭	non shi deu	287	54	317			55
-挼記	nou ci					撫摸一下。可以與「打記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
+挼記	nou ci					撫摸一下。可以與「打記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 儂個	nou ghoq						40000
 儂個	nou goq	181					578
 儂要啥人抱	nou iau so gnin bau						
 儂要啥人抱	nou iau soq gnin bau						
 儂要啥人抱	nou iau sou gnin bau						
-挼一記	nou iq ci					撫摸一下。可以與「打一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
+挼一記	nou iq ci					撫摸一下。可以與「打一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 儂慢慢叫走	nou mae mae ciau tseu						
 糯米	nou mi	181					
 糯米絞	nou mi gau						
@@ -12393,8 +12388,7 @@
 糯米飯	nou mi vae						
 糯米飯糰	nou mi vae doe						
 糯米飯蝦	nou mi vae huo	181	67				55
-挼	nou2	181	151	292			
-捼	nou2		151	336			
+挼	nou2	181	151	292	用手輕輕來回撫摩	《阿拉宁波话》也作「捼」。	
 儂	nou6	181	38	211			
 糯	nou6	181	262	500			
 梧桐樹	nu don zyu						
@@ -12409,10 +12403,8 @@
 下火藥	o hou yaq						
 下勁道	o jin dau		323				55
 下功夫	o kon fu						
-丫各亂經	o koq loe cin			24			
-丫角亂經	o koq loe cin		256				55
+丫角亂經	o koq loe cin		256	24	稀奇古怪	朱版作「丫各亂經」。	55
 丫臉	o li	105	42	93			55
-丫臉漆黑	o li chiq haq						
 丫臉覅其	o li fe ji						
 丫臉覅渠	o li fe ji						
 丫臉黑落	o li haq loq	105	134				55
@@ -12449,8 +12441,7 @@
 傴倒施揖	on tau sy iq		330				55
 傴的	on tiq						
 蕹菜	on tshe	294					
-甕中	on tson	294					
-翁中	on tson		177	497			55
+翁中	on tson	294	177	497	懊惱；煩躁		55
 傴仔	on tsy						
 傴	on5		165	112			
 屋爿	oq bae	347	82	283			55
@@ -12630,12 +12621,11 @@
 涴嘴疙搭	ou tsyu kaq taq	191	255	219, 332			55
 屙注蒼蠅	ou tsyu tshaon in	191	113	332	專叮糞便的一種蒼蠅，綠色有光澤	《阿拉宁波话》作「屙嘴蒼蠅」。	
 涴注蒼蠅	ou tsyu tshaon in	191	113	332	專叮糞便的一種蒼蠅，綠色有光澤	《阿拉宁波话》作「屙嘴蒼蠅」。	55
-捼	ou1	191	142	336			
-倭	ou5		243				
-屙	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩		
-惡	ou5		46	296			
-污	ou5		46	123			
-涴	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	通行作「屙」，聲調不合，「屙」字也無糞便義。《金華方言詞典》作「涴」，《廣韻》烏臥切，泥著物也。推薦寫「涴」，「屙」已較爲通行，仍保留。	
+捼	ou1	191	142	336	抱		
+屙	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	推薦作「涴」。義 2、3《阿拉宁波话》也作「倭」。	
+惡	ou5		46	296	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	推薦作「涴」。義 2、3《阿拉宁波话》也作「倭」。	
+污	ou5		46	123	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	推薦作「涴」。義 2、3《阿拉宁波话》也作「倭」。	
+涴	ou5	191	46, 243	330	1. 糞便; 2. 脾氣倔，執拗; 3. 事情麻煩	通行作「屙」，聲調不合，「屙」字也無糞便義。《金華方言詞典》作「涴」，《廣韻》烏臥切，泥著物也。推薦寫「涴」，「屙」已較爲通行，仍保留。義 2、3《阿拉宁波话》也作「倭」。	
 擺平	pa bin	57		419			
 擺俏功	pa chiau kon	57					55
 拜見鈿	pa ci di		125	259			55
@@ -12676,7 +12666,7 @@
 板板六十四	pae pae loq zyuq sy	130	340	198			
 板壁	pae piq	130					
 瘢疤	pae po	130	54	487			55
-斑駁	pae poq			139			
+扳駁	pae poq			139	詰難；批駁		
 扮相	pae shian	131					
 板箱	pae shian	130					55
 板篩	pae sy	130	101				55
@@ -12791,8 +12781,7 @@
 不	paq7		308				
 八	paq7	296					
 撥	paq7	297	143, 298	194			
-栢	paq7		60				
-襞	paq7	297		498		《阿拉宁波话》作「袹」。袹，莫白切，又莫轄切。音不合，也無褶皺義。襞，《集韻》必益切，説文韏衣也徐鉉曰韏革中辨也衣襞積如辨也。音不合，義合。取「襞」。又見《鄞縣通志》p. 2857。	
+襞	paq7	297	60	498	用糨糊粘合後曬乾的多層硬布，舊時用來做鞋幫及鞋底的襯層	《阿拉宁波话》作「袹」。袹，莫白切，又莫轄切。音不合，也無褶皺義。襞，《集韻》必益切，説文韏衣也徐鉉曰韏革中辨也衣襞積如辨也。音不合，義合。取「襞」。又見《鄞縣通志》p. 2857。	
 迫	paq7	297					
 胞漿水	pau cian syu	74					55
 包頭	pau deu	74	78	67			
@@ -12815,6 +12804,7 @@
 包心菜	pau shin tshe	74	72	69			
 包打聽	pau tan thin	74					
 飽膯膯	pau ten ten	74	221	217			55
+爆胎	pau the						
 爆胎	pau thei						
 爆凍米胖	pau ton mi phaon	74					55
 包車	pau tsho		89				
@@ -14181,8 +14171,7 @@
 小鴨	shiau ae	115					
 小鴨毨毛	shiau ae sei mau						
 小鴨毨毛	shiau ae seu mau						
-小阿伯	shiau aq paq						
-小阿爸	shiau aq paq			20			
+小阿伯	shiau aq paq			20			
 小奧魚	shiau au ng				兒童用語 海蜒		
 小排	shiau ba	115					
 小朋友	shiau ban yeu	116					
@@ -15318,7 +15307,7 @@
 打箍	tan chieu	205	193	51	箍桶	此處 chieu1 當爲「箍」之白讀，見《北仑方言》同音字表。「箍」爲一等字，不知爲何增生 i 介音，台州亦有類似讀音。湯版作「打揫」，《阿拉宁波话》引《甬言稽古》作「打𥫷」。另有 chieu1，《鄞縣通志》p. 3060「揪（揫）」繫緊繩結，p. 3012「𣫐（抽）」收緊引線。均爲尖音，與箍桶無關。	55
 打抽豐	tan chieu fon						
 打秋風	tan chieu fon						
-打記	tan ci					打一下。可以與「挼記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
+打記	tan ci					打一下。可以與「挼記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 打家賊	tan cia zaq						
 打賬	tan cian			50			
 打腳埭	tan ciaq da						
@@ -15355,7 +15344,7 @@
 打腰鼓	tan iau ku	205					55
 打噎	tan iq	206					55
 打一槍	tan iq chian						
-打一記	tan iq ci					打一下。可以與「挼一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施。	
+打一記	tan iq ci					打一下。可以與「挼一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 打其勒過	tan ji laq kou						
 打渠勒過	tan ji laq kou						
 打其勿過	tan ji vaq kou						

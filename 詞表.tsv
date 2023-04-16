@@ -13947,8 +13947,8 @@
 死人	shi gnin	36					
 仙人球	shi gnin jieu	35					
 仙人掌	shi gnin tsaon	35					
-死人勿怪	shi gnin vaq kua	36	330				
-死人弗怪	shi gnin vaq kua			100			55
+死人勿怪	shi gnin vaq kua	36	330	100	什麼事情都不管		
+死人弗怪	shi gnin vaq kua	36	330	100	什麼事情都不管		55
 死蟹還會吹白	shi ha gha wei tshyu baq						
 死蟹一隻	shi ha iq tsaq	36	330	100			55
 死蟹了	shi ha lei						55
@@ -18857,6 +18857,8 @@
 弗敢當	vaq ki-ke taon						55
 勿過	vaq kou		298				
 弗過	vaq kou			75			55
+勿怪	vaq kua				不管；不聞不問		
+弗怪	vaq kua				不管；不聞不問		55
 勿管賬	vaq kun cian	304	314				
 弗管賬	vaq kun cian			78			55
 勿啦	vaq laq		303				418

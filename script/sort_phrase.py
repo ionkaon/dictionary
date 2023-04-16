@@ -14,5 +14,5 @@ sheet.fillna(value="",inplace=True)
 sheet.sort_values(by=["兼容格式", "繁體"], inplace=True)
 sheet.drop_duplicates(inplace=True)
 sheet.to_csv(
-    "../詞表.tsv", sep="\t", encoding="utf-8", index=False, line_terminator="\n"
+    "../詞表.tsv", sep="\t", encoding="utf-8", index=False, lineterminator="\n"
 )

@@ -15042,7 +15042,6 @@
 丼	丼		cin3										
 盡	尽		cin3	3							0.00	僅限於「儘夠」	
 儘	尽		cin3	3							0.00	僅限於「儘夠」	
-堇	堇		cin3		jin2	9							
 䐶	䐶		cin3										
 駗	駗		cin3										
 黰	黰		cin3										
@@ -15059,7 +15058,9 @@
 錦	锦	kying	cin3	2	cin3	9	cin3	10	cin3	11			
 頸	颈	kying	cin3	1	cin3	9	cin3	10	cin3	11			
 璥	璥		cin3										
+堇	堇		cin3		jin2	9							
 漌	漌		cin3										
+槿	槿		cin3										
 菦	菦		cin3										
 憼	憼		cin3										
 蟼	蟼		cin3										
@@ -15309,7 +15310,7 @@
 勍	勍		jin2										
 謹	谨	kying	jin2	2					jin4	11		又音	
 僅	仅	gying	jin2	2	jin2	9	jin6	10	jin6	11			
-槿	槿	gying	jin2	7									
+槿	槿	gying	jin2	7							0.00		
 勤	勤	gying	jin2	1	jin2	9	jin2	10	jin2	11			
 懃	勤	gying	jin2	1									
 厪	厪		jin2										

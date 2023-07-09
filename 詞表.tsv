@@ -4988,6 +4988,7 @@
 泥螺䨣	gni lou phoq		53		因喫新鮮或未醃透的泥螺過敏而面孔發腫的病症		55
 泥艋船	gni man zoe			226	在海塗上可以一腳踏行的小船		
 膩悶頭	gni mhen deu						
+三眠	gni mi				蠶在成長過程中要眠三次，分別叫頭眠、二眠、三眠		
 二眠	gni mi				蠶在成長過程中要眠三次，分別叫頭眠、二眠、三眠		
 硯墨爿	gni moq bae	35			硯臺		55
 泥墁	gni mun	34		226	建築中的一層平面，以木條爲主幹，面上抹石灰	《阿拉宁波话》作「泥㒼」。《廣韻》墁，莫半切，所以塗飾牆。	55
@@ -13079,21 +13080,21 @@
 撲克牌	phoq khaq ba	333			撲克牌		
 撲克牌	phoq khaq bae	333			撲克牌		
 撲落	phoq loq	333	102	54	插頭		55
-𩔈莫	phoq moq		234	451	（嬰兒）肥胖，塊頭大	《阿拉宁波话》及朱版作「魄莫」。𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	
 奤莫	phoq moq		234	451	（嬰兒）肥胖，塊頭大	《阿拉宁波话》及朱版作「魄莫」。𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	55
+𩔈莫	phoq moq		234	451	（嬰兒）肥胖，塊頭大	《阿拉宁波话》及朱版作「魄莫」。𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	
 撲腦殼	phoq nau khoq	333	42		前額凸出的臉型		55
 樸樸拜	phoq phoq pa						
 魄屍	phoq sy	333	48	451	貶稱人的軀體	《阿拉宁波话》作「樸屍」。	578
+奤	phoq7	333			嬰孩長得肥墩墩，塊頭大	𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	55
 撲	phoq7	333	152		拍打		
 醭	phoq7	333	132	495	酒醋醬等變質後表面長的白色黴菌或白色泡沫		
 𩔈	phoq7	333			嬰孩長得肥墩墩，塊頭大	𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	
-奤	phoq7	333			嬰孩長得肥墩墩，塊頭大	𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	55
 坡地	phou di	176			山坡上傾斜的田地		
 破鞋爿	phou gha bae	176			破舊的鞋子		55
 破衣兩頭環	phou i lian deu wae						
 破裏破色	phou li phou saq	176			破爛貨；廢舊物品		55
-破裏破碎	phou li phou sei		131	300	破爛貨；廢舊物品		55
 破裏破色兌糖喫	phou li phou saq dei daon chioq						
+破裏破碎	phou li phou sei		131	300	破爛貨；廢舊物品		55
 破裏破碎兌糖喫	phou li phou sei dei daon chioq						
 破屋爿	phou oq bae						
 破鈔	phou tshau	176			破費		
@@ -13525,7 +13526,6 @@
 三兩冠	sae lian kun						
 三弄四弄	sae lon sy lon	142	295		居然；竟然		55
 三六	sae loq	143			三十六		
-三眠	gni mi				蠶在成長過程中要眠三次，分別叫頭眠、二眠、三眠		
 杉木	sae moq	143			杉樹的木材		
 山艿	sae na	143			山藥		55
 三五	sae ng	143			三十五		
@@ -13582,25 +13582,25 @@
 散菜枚	sae tshe maq						
 三寸金蓮	sae tshen cin li						
 三彎涼牀	sae uae lian zaon	142			舊式大木牀，做工考究，根據牀前木框的彎曲弧度可分爲「七彎涼牀」「九彎涼牀」等種類		55
-三萬七千	sae vae chiq chi				三萬七千		
 三萬七	sae vae chiq	142			三萬七千		
-三萬九千	sae vae cieu chi				三萬九千		
+三萬七千	sae vae chiq chi				三萬七千		
 三萬九	sae vae cieu	142			三萬九千		
+三萬九千	sae vae cieu chi				三萬九千		
 三萬二	sae vae gni	142			三萬兩千		
-三萬一千	sae vae iq chi				三萬一千		
 三萬一	sae vae iq	142			三萬一千		
-三萬兩千	sae vae lian chi				三萬兩千		
+三萬一千	sae vae iq chi				三萬一千		
 三萬兩	sae vae lian	142			三萬兩千		
-三萬六千	sae vae loq chi				三萬六千		
+三萬兩千	sae vae lian chi				三萬兩千		
 三萬六	sae vae loq	142			三萬六千		
+三萬六千	sae vae loq chi				三萬六千		
 三萬五	sae vae ng	142			三萬五千		
 三萬五千	sae vae ng chi	142			三萬五千		
-三萬八千	sae vae paq chi				三萬八千		
 三萬八	sae vae paq	142			三萬八千		
-三萬三千	sae vae sae chi				三萬三千		
+三萬八千	sae vae paq chi				三萬八千		
 三萬三	sae vae sae	142			三萬三千		
-三萬四千	sae vae sy chi				三萬四千		
+三萬三千	sae vae sae chi				三萬三千		
 三萬四	sae vae sy	142			三萬四千		
+三萬四千	sae vae sy chi				三萬四千		
 三勿相信	sae vaq shian shin		327		原意是不信天、不信地、不信人，指不輕易信從（多含貶義）		
 三弗相信	sae vaq shian shin				原意是不信天、不信地、不信人，指不輕易信從（多含貶義）		55
 三勿引	sae vaq yin						

@@ -11145,6 +11145,7 @@
 跛	跛	pʽo	phou5	2									
 破	破	pʽo	phou5	1	phou5	9	phou5	10	phou5	11			
 剖	剖	pʽeo	phou5	1	phou1	9	phou5	10	phou5	11			
+㠮	㠮		phou5									胓㠮	
 #			phou5										
 婆	婆	bo	bou2	1	bou2	9	bou2	10	bou2	11			
 蔢	蔢	bo	bou2	7									
@@ -13606,7 +13607,7 @@
 #			pun5										
 潘	潘	pʽun	phun1	2	phoe5	9	pheu1	10	phoen1	11			
 番	番		phun1								0.01	番禺	
-盤	盘		phun1	1							0.05	又音 全部貨物折價一次出售	
+盤	盘		phun1	1							0.05	又音 全部貨物折價一次出售	#
 #			phun1										
 𧺾	𧺾	pʽun	phun3	7									
 #			phun3										
@@ -13622,7 +13623,6 @@
 眫	眫		phun5										
 頖	頖		phun5										
 #			phun5										
-判	判		bun2	5	phoe5	9	pheu5	10	phun5	11	0.05	又音 全部貨物折價一次出售	
 盤	盘	bun	bun2	1	boe2	9	beu2	10	bun2	11			
 蟠	蟠	bun	bun2	1	boe2	9							
 磐	盘	bun	bun2	1	boe2	9							
@@ -19565,7 +19565,7 @@
 碧	碧	pih	piq7	1	piq7	9	piq7	10	piq7	11			
 逼	逼	pih	piq7	2	piq7	9	piq7	10	piq7	11			
 偪	逼		piq7	2									
-煏	煏	pih	piq7	3									
+煏	煏	pih	piq7	3									#
 愊	愊	pih	piq7	7									
 憋	憋		piq7	2	piq7	9	piq7	10	piq7	11			
 鱉	鳖	pih	piq7	1	piq7	9	piq7	10	piq7	11			

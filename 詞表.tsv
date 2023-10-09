@@ -3704,6 +3704,7 @@
 藏青	dzaon chin	235			藏青色		
 撞頭	dzaon deu	235	201	462	相撞		
 幢籃	dzaon lae	235	101	399	盛食物的大竹籃，分若干格，疊在一起，常用扁擔挑		55
+撞落風	dzaon loq fon				穿堂風		
 撞傷	dzaon saon	235			撞傷		
 幢箱櫥	dzaon shian dzyu	235	90	399	上可疊放箱子的木櫃		55
 幢	dzaon4	234	123, 143	399	量詞。用於重疊的物品；疊放	《阿拉宁波话》也作「𰤻」「撞」。	
@@ -10681,6 +10682,7 @@
 媒人	mei gnin	164			婚姻介紹人		
 美人肩	mei gnin ci	165			下垂的肩膀		55
 美人蕉	mei gnin ciau	165			美人蕉		
+謎殼	mei gnioq				謎底		
 每日	mei gniq	165			每天		25000
 煤灰	mei huei	164			煤炭燃燒後剩下的灰		
 梅花	mei huo	164			梅花		
@@ -10694,6 +10696,7 @@
 煤球爐子	mei jieu lu tsy	164	98		用煤球或煤餅作燃料，用來做飯、燒菜、燒水等的爐子		55
 煤球店	mei jieu ti	164			加工、出售蜂窩煤、煤球的商店		55
 每梗	mei kan				每根		
+謎殼	mei khoq				謎面		
 黴乾菜	mei ki-ke tshe	165	76	465	一種經特殊加工製成的鹹菜乾		
 黴乾菜㸆肉	mei ki-ke tshe khau gnioq						
 黴乾菜烤肉	mei ki-ke tshe khau gnioq						
@@ -13775,7 +13778,7 @@
 煞人	saq gnin	313	286	435			55
 煞格	saq kaq	314	250	436			55
 澀格格	saq kaq kaq	314	260	326	形容出汗之後身上黏糊糊	《阿拉宁波话》作「溼格格」	55
-煞克	saq khaq			345			
+嗇刻	saq khaq			345	吝嗇，小氣		
 澀肯頭	saq khen deu	314	276				55
 澀肯肯	saq khen khen	314	276	326			55
 澀口	saq kheu	314	276	326			55
@@ -13902,8 +13905,7 @@
 生三奔	sen sae pen						
 生三寫	sen sae shia						
 孫新婦	sen shin vu	256					55
-生四	sen sy	255					418
-生死	sen sy		295	61			
+生死	sen sy	255	295	61	拼命；竭盡全力地	湯版作「生四」。	
 孫子	sen tsy	255					
 孫悟空	sen wu khon						
 生油	sen yeu	255					
@@ -13914,12 +13916,10 @@
 瘦刮刮	seu kuaq kuaq	198					55
 瘦骨材	seu kuaq ze	198	37	454			55
 瘦勒嘸采去	seu laq mh tshe chi						
-瘦削削	seu shiaq shiaq		235				55
-瘦㽺㽺	seu shiq shiq			453			55
-搜	seu1		204				
+瘦㽺㽺	seu shiq shiq		235	453	形容身體瘦瘦的	《阿拉宁波话》作「瘦削削」。	55
 毨	seu3	198	204	308			
 嗽	seu5	198	138	447			
-摗	seu5	198		444			
+摗	seu5	198	204	444	鴨、鵝等用嘴尋取食物	《阿拉宁波话》作「搜」。	
 瘦	seu5	198					
 鮮白蟹	shi baq ha		65				55
 鮮白鰳魚	shi baq lei ng	36	67				55
@@ -14042,20 +14042,17 @@
 死樣怪氣	shi yan kua chi	36	248	100			55
 死樣刮氣	shi yan kuaq chi						
 細鹽	shi yi	37					55
-手抈抈	shi yuq yuq	157					
 先	shi1	35					
 嘶	shi1	35	138	467			
 嬉	shi1	36					
 西	shi1		308				
 軒	shi1		227	149			
 鮮	shi1	36					
-死	shi3	36	164, 283	100			
+死	shi3	36	164, 283	69, 100	1. 滾，走（含斥責意）；2. 名詞。中老年夫妻背稱自己配偶時加在「老太婆」、「老頭」前，表示親暱或厭惡	義 1 朱版也作「閃」。	
 癬	shi3	36					
-閃	shi3			69			
 扇	shi5	36					
 絮	shi5		160	415			
-鏾	shi5			485			
-騸	shi5		156				
+鏾	shi5		156	485	閹（雞）	《阿拉宁波话》作「騸」。	
 寫白字眼	shia baq zy ngae	70					55
 傻氣氣	shia chi chi			432			
 㕐酒	shia cieu	70					55
@@ -14073,9 +14070,7 @@
 傻子	shia tsy		30	432			
 寫字檯	shia zy de	70					
 寫字間	shia zy kae	70					
-㕐	shia3	70	145	225, 446			
-寫	shia3		145				
-瀉	shia3		145	225			
+㕐	shia3	70	145	225, 446	斟；傾斜容器倒出液體	《阿拉宁波话》也作「寫」「瀉」。	
 傻	shia5			432			
 向白籃	shian baq lae	221	232	114			55
 鑲盆	shian ben	221	63	502			55
@@ -14467,7 +14462,7 @@
 手指末頭	shieu tsy maq deu	156					55
 手指末頭縫蕩	shieu tsy maq deu von daon	156					55
 手用家生	shieu yon ko san						
-手抈抈	shieu yuq yuq						
+手抈抈	shieu yuq yuq	157			擺手		
 收罪過	shieu zei khou			128			
 收罪過	shieu zei kou	156	318	128			55
 手	shieu3	156		35			
@@ -20731,8 +20726,7 @@
 士林藍	zy lin lae	5					55
 逝落	zy loq		177				55
 市面	zy mi			69			
-自鳴鍾	zy min tson	5					55
-自鳴鐘	zy min tson						
+自鳴鐘	zy min tson	5					
 鰣魚	zy ng	5					
 時眼	zy ngae	5	283	150			55
 柿餅	zy pin	5					

@@ -2589,11 +2589,10 @@
 帺	帺		ji6										
 其	其	gyi	ji6	3			ji2	10			608894		
 渠	渠		ji6	1	ji6	9					304447		
-厩	厩		ji6	1									
-廐	厩		ji6	1									
-廄	厩		ji6	1									
-廏	厩		ji6	1									
-圈	圈						ji6	10			0.00	豬圈間：豬圈	#
+厩	厩		ji6	1								關牲口、家畜的圈，音不合	#
+廐	厩		ji6	1								關牲口、家畜的圈，音不合	#
+廄	厩		ji6	1								關牲口、家畜的圈，音不合	#
+廏	厩		ji6	1								關牲口、家畜的圈，音不合	#
 鱀	鱀		ji6										
 忌	忌	gyi	ji6	1	ji6	9	ji6	10	ji6	11			
 𡜱	𡜱		ji6	7									
@@ -2616,6 +2615,7 @@
 健	健	gyin	ji6	2	jii6	9	ji6	10	jien6	11			
 踺	踺		ji6										
 荐	荐		ji6										
+圈	圈		ji6				ji6	10			0.02	關牲口、家畜的圈	
 #			ji6									團音、煙韻	
 泥	泥	nyi	gni2	1	gni2	9	gni2	10	gni2	11			
 尼	尼	nyi	gni2	1	gni2	9	gni2	10	gni2	11			
@@ -4659,7 +4659,6 @@
 貗	𫎌		jiu4										
 鐻	鐻		jiu4										
 #			jiu4									余韻	
-圈	圈		jiu4								0.02	養家畜的棚欄	
 裙	裙	gyüing	jiu4	3							0.00	僅限於「褓裙」	
 蜎	蜎		jiu4										
 萒	萒		jiu4										
@@ -8768,6 +8767,8 @@
 散	散	sæn	sae5	1	sae5	9			sae5	11			
 釤	钐	sæn	sae5	7								化學元素	
 帴	帴		sae5										
+柵	栅		sae5	3							0.00	雞柵	
+栅	栅		sae5	3							0.00	雞柵	
 狦	狦		sae5										
 #			sae5										
 嚵	嚵		zae2	1									
@@ -9413,6 +9414,10 @@
 #			cieu5									尖音	
 疚	疚	kyiu	cieu5	7	cieu5	9							
 救	救	kyiu	cieu5	1	cieu5	9	cieu5	10	cieu5	11			
+厩	厩		cieu5										
+廐	厩		cieu5										
+廄	厩		cieu5										
+廏	厩		cieu5										
 僦	僦		cieu5										
 #			cieu5									團音	
 秋	秋	tsʽiu	chieu1	1	chieu1	9	chieu1	10	chieu1	11			

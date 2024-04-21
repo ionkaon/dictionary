@@ -6993,7 +6993,7 @@
 糶	粜	tʽiao	thiau1	2	thiau1	9	thiau5	10	thiau5	11			
 脁	脁		thiau1										
 #			thiau1										
-𣂁	𣂁		thiau3	1								給人輕易可得的好處	
+𣂀	𣂀		thiau3	1								給人機會或好處	
 挑	挑	tʽiao	thiau3	3			thiau3	10	thiau3	11		給人機會或好處	
 朓	朓		thiau3										
 窱	窱		thiau3										
@@ -7770,7 +7770,7 @@
 貸	贷	tʽæ	the1	2			the5	10			0.10		
 梯	梯		the1	1	the1	9	the1	10			0.05	限於「路梯」及與此意義相關數詞	
 #			the1										
-⿰忄態	⿰忄态		the3	3								⿰忄態話	
+⿰忄態	⿰忄态		the3	3								⿰忄態話	#
 態	态	tʽæ	the3	4							0.01	態話	
 #			the3										
 曃	曃		the5										
@@ -8372,6 +8372,7 @@
 癉	瘅	tæn	tae1	7									
 𨢿	𨡙	tæn	tae1	7									
 撢	撢	tæn	tae1	7									
+勯	勯		tae1										
 耽	耽	tæn	tae1	1	tae5	9	tae1	10	tae1	11			
 躭	耽	tæn	tae1	1									
 眈	眈	tæn	tae1	2									
@@ -8412,7 +8413,7 @@
 灘	滩	tʽæn	thae1	1	thae1	9	thae1	10	thae1	11			
 坍	坍	tʽæn	thae1	1	thae1	9	thae1	10	thae1	11	1257		
 癱	瘫	tʽæn	thae1	1	thae1	9			thae1	11			
-勯	勯		thae1	1								疲倦已極	
+勯	勯		thae1	1								疲倦已極	#
 毯	毯	tʽæn	thae1	1	thae3	9	thae3	10	thae1	11			
 舑	舑		thae1	1								舑舌頭	
 聃	聃		thae1										
@@ -14068,7 +14069,8 @@
 燉	炖	teng	ten5	1	ten5	9			ten1	11			
 敦	敦	teng	ten5	1	ten1	9	ten1	10	ten1	11	0.05	①動詞：豎立；挺。②形容詞，直。	
 撉	撉		ten5	2								撉撉齊	
-澄	澄		ten5	2					ten5	11	0.01		
+澄	澄		ten5	2					ten5	11	0.01	又音，使水中雜質沉澱下去	#
+濎	濎		ten5	4								又音，使水中雜質沉澱下去	
 膯	膯		ten5	1								滯膯	
 磴	磴		ten5										
 隥	隥		ten5										
@@ -14710,8 +14712,8 @@
 薡	薡		tin3										
 葶	葶		tin3										
 #			tin3										
-濎	濎		tin5	1								沉澱	
-澄	澄		tin5	3					tin5	11	0.01	使水中雜質沉下去	
+濎	濎		tin5	1								使水中雜質沉下去	
+澄	澄		tin5	3					tin5	11	0.01	使水中雜質沉下去	#
 釘	钉	ting	tin5	2	tin5	9	tin5	10	tin5	11		動詞	
 訂	订	ting	tin5	2	tin5	9	tin5	10	tin5	11			
 飣	饤		tin5										

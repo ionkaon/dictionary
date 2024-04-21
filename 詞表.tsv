@@ -1594,7 +1594,7 @@
 肌身熱	ci shin gniq	26	171	117	發燒		55
 肌身火熱	ci shin hou gniq	26	171		發高燒		55
 雞血	ci shiuq	27					55
-雞打水	ci tan syu						
+雞打勢	ci tan syu						
 記得	ci taq	28					
 剪刀	ci tau	26			剪刀		
 剪刀破絹帕	ci tau phou ciu phae	26					55
@@ -7960,7 +7960,7 @@
 睏甦醒	khuen su shin				睡醒		
 睏失覺	khuen syuq kau	277	169	397	睡過了頭		55
 睏到	khuen tau						
-睏⿰忄態覺	khuen the kau		169		睡安穩覺，也喻指過安穩日子		55
+睏態覺	khuen the kau		169		睡安穩覺，也喻指過安穩日子		55
 睏的	khuen tiq						
 睏棕繃	khuen tson pan				睡棕繃牀		
 睏棕繃眠牀	khuen tson pan mi zaon				睡棕繃牀		
@@ -15153,8 +15153,7 @@
 貰屋	syu oq	9					55
 書阿講讀	syu oq kaon doq						
 書包	syu pau	9					
-書包架	syu pau ko	9	88				55
-書報架	syu pau ko			49			
+書包架	syu pau ko	9	88	49	自行車等座位後面放東西的架子	朱版作「書報架」。	55
 尿泡泡	syu phau phau	9					55
 水泡泡	syu phau phau	10					55
 水波浪	syu pou laon	10					55
@@ -15166,9 +15165,9 @@
 舒舒意意	syu syu i i	9					55
 水筍	syu syun	11					55
 水塌窞	syu thaq dei	10		35			418
-水𡍲頭	syu thaq deu		5				55
+水塌頭	syu thaq deu		5		地上的淺水坑	《阿拉宁波话》作「水𡍲頭」。	55
 水搨糕	syu thaq kau	11	80	35			55
-舒⿰忄態	syu the	9					
+舒態	syu the	9					
 書店	syu ti	9					
 水底工	syu ti kon	10	24	35			55
 水汀	syu tin	11					
@@ -15408,12 +15407,11 @@
 打手銃	tan shieu tshon	205	170	52			55
 打錫箔個	tan shiq boq ghoq						55
 打錫箔個	tan shiq boq goq	206					55
-打勢	tan syu	204	204	50			55
-打水	tan syu		204				
+打勢	tan syu	204	204	50	禽類交配	《阿拉宁波话》也作「打水」。	55
 打水機	tan syu ci						
 打水機船	tan syu ci zoe	204	90	53			55
 打水陸	tan syu loq	204					55
-打水雄雞	tan syu yon ci						
+打勢雄雞	tan syu yon ci						
 打倒	tan tau		215				
 打胎	tan the	205					
 打探動	tan thei don		314				55
@@ -15504,8 +15502,7 @@
 搭漿板	taq cian pae						
 搭積木	taq ciq moq	306					55
 答頭	taq deu		50	403			55
-搭地灰撲	taq di huei phoq		113				55
-搭地灰扎	taq di huei tsaq			385			
+搭地灰撲	taq di huei phoq		113	385	蝮蛇		55
 得法	taq faq	305		363			
 得人惜	taq gnin shiq	305	238	363			55
 得人犯憎	taq gnin vae tsen						
@@ -15588,8 +15585,7 @@
 刀磨勒鋒快	tau mou laq fen khua						
 倒牛爿	tau ngeu bae						
 到儂客氣	tau nou khaq chi						
-到壩	tau po			203			
-到靶	tau po	78	215				55
+到靶	tau po	78	215	203	（時間、年齡等）達到一定階段	朱版作「到壩」。	55
 倒向	tau shian			311			
 倒塌聳	tau thaq son		228				55
 倒天燈油	tau thi ten yeu						
@@ -15714,7 +15710,7 @@
 頂	ten3		9, 121				
 撉	ten5		153	480			
 敦	ten5	253		406			
-澄	ten5			474			
+濎	ten5	261	160	474	使水中雜質沉澱下去	又音，《阿拉宁波话》及朱版作「澄」。《集韻》澄，唐亘切，清濁分也。義合音不合。《廣韻》濎，都挺切，濎濘，水皃。音合，義不合。	
 燉	ten5		189	481			
 頓	ten5	253					
 斗篷	teu bon	193					
@@ -15750,7 +15746,6 @@
 太公	tha kon	60	19	32			
 太公牙鬚	tha kon ngo su				長鬚		
 討保	tha pau		197				
-它山堰	tha sae i	59			全國重點文物保護單位，我國古代著名的水利工程之一。位於寧波市鄞江鎮它山旁，興建於唐代太和七年（833年），起阻鹹蓄淡、飲水灌溉之用。	湯版記音爲 tha sae i，或有誤，應爲 thou sae i。	
 太師椅	tha sy i	60					
 太師椅	tha sy iu	60					
 太太	tha tha	60	19	32			
@@ -15782,15 +15777,13 @@
 毯子	thae tsy	136					
 灘簧	thae waon	136	124	440			
 舑舌頭	thae zhiq deu						
-勯	thae1	136		472			
-坍	thae1		171	419			
+坍	thae1	136	171	472	因爲疲勞過度而體力不支	湯版、朱版作「勯」。《集韻》勯，多寒切，力竭也。湯版、朱版引《吳下方言考》：「今吳諺謂用力已倦爲勯，字從力，亶聲，俗用『癱』，乃疾也。」「勯」字音不合。	
 攤	thae1	136	121	421			
 灘	thae1		9				
 舑	thae1	136	136	355			
 坦	thae3	136	231				
 炭	thae5	136					
-宕鑼	than lou			230			
-鐋鑼	than lou	206	107				
+鐋鑼	than lou	206	107	230	手提的小銅鑼	朱版作「宕鑼」。	
 淌白	thaon baq	231					55
 湯婆子	thaon bou tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 湯婆子	thaon bun tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
@@ -15867,8 +15860,7 @@
 忒老	thaq lau						
 搨老豆腐	thaq lau deu vu						
 脫力	thaq liq	306	171	368			55
-沓落	thaq loq			379			
-脫落	thaq loq		201				
+沓落	thaq loq		201	379	拖延；拉下；落在後面	《阿拉宁波话》作「脫落」，朱版作「㥆落」。	
 忒慢	thaq mae						
 忒忙	thaq maon						
 搨襪底	thaq maq ti	307	161				55
@@ -15953,14 +15945,13 @@
 胎裏記認	the li ci gnin	122					55
 胎裏殘疾	the li dzae jiq		52				55
 胎裏毛病	the li mau bin		52				55
-⿰忄態鬆	the son	122					
-⿰忄態話	the wo		52				55
-⿰忄態	the3	122	246				
-態	the3			202			
+態鬆	the son	122					
+態話	the wo		52				55
+態	the3	122	246	202	性子緩，不會着急發愁	替字。《阿拉宁波话》作「⿰忄態」。	
 推牌九	thei ba cieu	166	184				
 退皮	thei bi	167	188	283			55
 推緝	thei chiq		194				55
-㷟雞	thei ci						
+煺雞	thei ci				用滾水燙後除去雞毛		
 腿腈	thei cin	167					55
 退堂	thei daon	167					
 退庭	thei din	167					
@@ -15983,8 +15974,7 @@
 貪小失大	thei shiau syuq dou						
 貪嘴落夜	thei tsyu loq ya		333				55
 推爲	thei wei	167	252	337	差勁，不好	《阿拉宁波话》及朱版作「推位」。	
-㷟	thei1	167	158	439			
-煺	thei1		158				
+煺	thei1	167	158	439	已宰殺的豬、雞等用滾水燙後去掉毛	湯版、朱版作「㷟」，《阿拉宁波话》也作「㷟」。《康熙字典》「煺」同「㷟」。「煺」位於 Unicode 基本區，「㷟」位於擴展 A 區，推薦作「煺」。	
 貪	thei1		176				
 㶒	thei5	167	159	279			
 褪缺	then chiuq	253	208	457			55
@@ -16001,8 +15991,7 @@
 氽	then3	253	188	117, 323, 411			
 褪	then5	253	208	457	脫落；掉；使脫落		
 偷爬	theu bo						
-偷伴	theu bun	193	295	362	偷偷地；暗地裏	也作「偷盤」。	
-偷盤	theu bun	193	295	362	偷偷地；暗地裏	也作「偷伴」。	55
+偷伴	theu bun	193	295	362	偷偷地；暗地裏	《阿拉宁波话》也作「偷盤」。《明清吳語詞典》作「偷伴」。後字本字或爲「𨒃」或「瞞」。	55
 偷針	theu cin	194	52	471			55
 透骨鮮	theu kuaq shi	194	277		很鮮		55
 透骨新鮮	theu kuaq shin shi	194	265	309	很鮮	湯版作「透刮新鮮」。	55
@@ -16106,10 +16095,9 @@
 天夜	thi ya	19	13	27			55
 天象巖	thi zhian ngae						
 天晴落雨	thi zhin loq yu						
-添	thi1	20					
 舔	thi3	20					
 䪆	thi5	21	261	501			55
-添	thi5		146	376			
+添	thi5	20	146	376	1. 襯；夾；2. 往磨眼裏續（米、黃豆等）	湯版記爲陰平。	
 貼紕	thiaq bi	324	58	257	衣服邊緣往裏摺的部分	《阿拉宁波话》也作「貼皮」。	55
 貼堂房	thiaq daon vaon	324					55
 貼袋	thiaq de	324	58	257			55
@@ -16162,8 +16150,7 @@
 跳橡皮筋	thiau zhian bi cin	109					55
 跳繩	thiau zhin	109					
 挑	thiau1	109	146				
-挑	thiau3		196				
-𣂁	thiau3	109		395			
+挑	thiau3	109	196	395	給人機會或好處	湯版、朱版作「𣂀」。《明清吳語詞典》作「挑」。《集韻》𣂀，他彫切，說文斛旁有𣂀，一曰利也。視作本字很牽強。	
 跳	thiau5		7				
 聽張	thin cian	261	136	158			418
 聽頭	thin deu	261	76	158			
@@ -16380,8 +16367,7 @@
 店	ti5	19					
 渧	ti5	19		411		《阿拉宁波话》作「滴」，音不合。	
 踮	ti5	19					
-爹頭娘腳	tia deu gnian ciaq			316			
-爹頭孃腳	tia deu gnian ciaq	69	254				55
+爹頭孃腳	tia deu gnian ciaq	69	254	316	形容牛頭不對馬嘴		55
 爹孃	tia gnian	69					
 嗲聲嗲氣	tia shin tia chi						
 爹做郎中醫勿好	tia tsou laon tson i vaq hau						
@@ -16394,7 +16380,7 @@
 鳥頭	tiau deu	108	51	67			
 吊紅	tiau ghon	109	75	209			55
 吊紅大舌頭	tiau ghon dou zhiq deu						
-彫花臉	tiau huo li						
+雕花臉	tiau huo li						
 雕花師父	tiau huo sy vu	108					55
 鳥窠	tiau khou	108					55
 窵角	tiau koq	108	267	328			55
@@ -16423,12 +16409,10 @@
 刁𩍐	tiau ten			8			
 吊吊唱	tiau tiau tshaon						
 鳥測字	tiau tshaq zy	108					55
-刁嘴故生	tiau tsyu ku san						
-吊嘴鼓腮	tiau tsyu ku se						
+刁嘴故生	tiau tsyu ku san				1. 撒嬌，使小性子；2. 委屈相	兩個意思《活色生香寧波話》p. 99 和 p. 123 分別記作「刁嘴故生」和「吊嘴鼓腮」。	
 吊胃口	tiau wei kheu	108					
 刁	tiau1	108	198	8			
-彫	tiau1		157	369			
-雕	tiau1	108					
+雕	tiau1	108	57	369	1. 塗抹（化妝品）；2. 製作（皮衣）		
 鳥	tiau3	108					
 吊	tiau5	108	120	105			
 頂晏	tin ae						
@@ -16456,7 +16440,6 @@
 頂基本	tin ci pen						
 頂簡單	tin ci tae						
 丁僵骨粒	tin cian kuaq liq	260			飯燒得半生不熟，還有點硬	湯版作「頂僵骨粒」。根據變調，首字當爲陰平。	55
-頂真	tin cin	261					
 頂進	tin cin	261					55
 頂貴	tin ciu						
 頂頭摸腳	tin deu moq ciaq	260	294	192			578
@@ -16609,7 +16592,7 @@
 頂主要	tin tsyu iau						
 頂主要個	tin tsyu iau ghoq						
 頂主要個	tin tsyu iau goq						
-頂真	tin tsyun		240	192			
+頂真	tin tsyun	161	240	192	1. 認真,一絲不苟；2. 副詞。一定,準定		
 頂壞	tin ua						
 頂壞個是	tin ua ghoq zy						
 頂壞個是	tin ua goq zy						
@@ -16626,8 +16609,7 @@
 丁	tin1	260					
 釘	tin1	260					
 頂	tin3	260	283				
-澄	tin5		160	474			
-濎	tin5	261					
+濎	tin5	261	160	474	使水中雜質沉澱下去	《阿拉宁波话》及朱版作「澄」。《集韻》澄，唐亘切，清濁分也。義合音不合。《廣韻》濎，都挺切，濎濘，水皃。音合，義不合。	
 的薄	tiq boq	354	227	212			55
 的薄憐	tiq boq li	354	227				55
 嫡親	tiq chin						
@@ -19719,7 +19701,7 @@
 油光水滑	yeu kuaon syu waq	158	261	225			
 有勒	yeu laq	160					55
 有佬	yeu lau	159	249	98			55
-有佬佃倌講⿰忄態話	yeu lau di kun kaon the wo						
+有佬佃倌講態話	yeu lau di kun kaon the wo						
 有佬人家殺豬羊	yeu lau gnin ko saq tsyu yan						
 有佬兒子	yeu lau ng tsy						
 釉璃傢伙	yeu li ko hou			404			

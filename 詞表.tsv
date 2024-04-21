@@ -12978,6 +12978,7 @@
 屁輕	phi chin	13	264	180	很輕		55
 偏頭	phi deu	13	82	362	正屋旁邊搭建的小屋		
 偏頭間	phi deu kae	13	82		正屋旁邊搭建的小屋		55
+偏方	phi faon	135			民間流傳不見於古典醫學著作的中藥方		
 披風	phi fon	12			短的斗篷		
 蝙蝠	phi foq				蝙蝠		
 蝙蝠老鼠	phi foq lau tsy				蝙蝠		
@@ -15274,9 +15275,6 @@
 單角	tae koq		267	221			55
 單角落頭	tae koq loq dei			222			
 單角落頭	tae koq loq deu	135	12, 267	222			55
-打埋	tae ma						
-擔漫	tae mae		175				55
-打埋	tae mae-me			51			
 撣蚊蟲	tae men dzon		192				55
 單耳朵	tae ng to	135					55
 單眼竈	tae ngae tsau	135					55
@@ -15286,6 +15284,7 @@
 單邊	tae pi	135	10, 267	221			
 單布衫	tae pu sae		57				55
 單衫	tae sae	135					55
+打埋	tae mae-me		175	51	打算，準備	《阿拉宁波话》作「擔漫」。	55
 單雙蛾	tae saon ngou						
 擔雙身	tae saon shin		180	190			55
 擔心落事	tae shin loq zy		333				55
@@ -15322,10 +15321,9 @@
 打稻	tan dau	204					55
 打稻機	tan dau ci	204	105	53			55
 打地鋪	tan di phu	204					
-打獨流	tan doq lieu			53			
-打獨溜	tan doq lieu		314				55
 打杜勒克	tan du laq khaq	204					55
 打杜路克	tan du lu khaq		183	144			55
+打獨溜	tan doq lieu		314	53	單獨行動	朱版作「打獨流」。《海天鴻雪記》第一回：「堂子裏原不過幾搭老場化，俚耐是歡喜小路道，一干仔獨溜格。」	55
 打暗碼	tan ei-e mo						
 打虎跳	tan fu thiau	204	182	52			55
 打䬵	tan ge	205	137	51			55
@@ -15367,14 +15365,13 @@
 打攔軋	tan laq gaq	206	314	52			55
 打勒過	tan laq kou						
 打老K	tan lau khe	204	183	52			55
-打蓮花朗	tan li huo laon	204					55
-打蓮花落	tan li huo laon	204					55
 打連草	tan li tshau		183				55
 打潦草	tan liau tshau		183				55
 打亂草	tan loe tshau	205					55
 打末知頭	tan maq tsyu deu		289				55
 打眠鼾	tan mi he	204	169				55
 打眠鼾	tan mi hei-		169				55
+打蓮花落	tan li huo laon	204			舊時要飯的唱着曲兒踩着步子，一邊還搖晃兩尺來長的放銅錢的竹筒在人門前乞討	湯版作「打蓮花朗」，並註明末字本字爲「落」。	55
 打馬撥李聽	tan mo paq li thin						
 打腦頭	tan nau deu						
 打俉勒過	tan ng laq kou						
@@ -15469,7 +15466,8 @@
 擋過來	taon kou le						
 擋勒	taon laq						
 擋牢	taon lau						
-當𡀂	taon lei			102			
+當𡀂	taon lei			102	表示動作已經完成		
+當了	taon lei			102	表示動作已經完成		1
 擋落去	taon loq chi						
 擋落來	taon loq le						
 當路	taon lu			102			
@@ -15606,8 +15604,6 @@
 倒陽	tau yan	77	170	311			55
 倒運	tau yun	77	256	311			
 倒運年口	tau yun gni kheu						
-刀	tau1	77					
-刀	tau3		121	8			
 搗	tau3	77	152	294			
 到	tau5	78	196				
 戴頭篷	te deu bon	122	56	483	舊時女子出嫁時蓋住新娘頭臉的紅布		55
@@ -15619,6 +15615,7 @@
 𠡒九筋	tei cieu cin		287				55
 對襟	tei cin	166					
 對進	tei cin	166	11	83			55
+刀	tau3	77	121	8	1. 量詞。疊；2. 量詞。塊	湯版記爲陰平。	
 對折攔腰環	tei ciq lae iau guae	166					55
 堆頭	tei deu	165	120	337			55
 對頭	tei deu	166	11	83			
@@ -15701,15 +15698,9 @@
 等於講	ten yu kaon		324				55
 等晌	ten zaon	253		403			55
 墩	ten1		8				
-敦	ten1		143				
-登	ten1	252		416			
 膯	ten1		110	480			
 戥	ten3	253	158	403			
-搭爾	ten3	305					
-等	ten3		298	403			
-頂	ten3		9, 121				
 撉	ten5		153	480			
-敦	ten5	253		406			
 濎	ten5	261	160	474	使水中雜質沉澱下去	又音，《阿拉宁波话》及朱版作「澄」。《集韻》澄，唐亘切，清濁分也。義合音不合。《廣韻》濎，都挺切，濎濘，水皃。音合，義不合。	
 燉	ten5		189	481			
 頓	ten5	253					
@@ -15719,6 +15710,9 @@
 鬥雞眼	teu ci ngae	193	37				
 鬥賬	teu cian		185	47			418
 鬥地主	teu di tsyu		183				
+搭爾	ten3	305	298		和你；給你；對你；把你	「搭爾」的合音。	
+頂	ten3	252	9		上面，上頭	湯版作「登」。周志鋒, 2012 認爲本字就是「頂」。	
+敦	ten5	253	143	406	1. 豎，直立；2. 形容詞。直，垂直		
 鬥肚皮	teu du bi						
 鬥風	teu fon	193	257	47			
 兜勒轉	teu laq tsoe	193					55
@@ -15809,8 +15803,7 @@
 湯壺子	thaon wu tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 湯藥	thaon yaq	231					
 湯	thaon1	231					
-摥	thaon5		192				
-耥	thaon5	231		443			
+摥	thaon5	231	192	443	在長竿上系網兜或竹器，用它在河底推拉以撮取螺螄	湯版、朱版作「耥」。《玉篇》摥，他浪切，推。	
 忒晏	thaq ae						
 塌鼻頭管	thaq baq deu kun	307	43				55
 忒笨	thaq ben						
@@ -15908,15 +15901,11 @@
 忒油	thaq yeu						
 忒遠	thaq yu						
 塌	thaq7	307	231	419			
-塔	thaq7		121				
-宊	thaq7			178			
 忒	thaq7	306	283	148			
 搨	thaq7	307	157, 188	256, 336, 419	攤平	湯版及蘇滬的方言詞典皆作「搨」，《阿拉宁波话》作「貼」，音不合。	
 搭	thaq7		298	181			
 沓	thaq7	306	202	378	1. 拖延；2. 拖沓	朱版作「㥆」。	
-突	thaq7		135				
 脫	thaq7	306	121	368			
-𡍲	thaq7	307	121	385			
 討便宜	thau bi gni	78					
 套盤圈	thau bun chiu	78					55
 討賬	thau cian	78					
@@ -15926,6 +15915,8 @@
 套間	thau kae	78					
 討價	thau ko	78					
 討老婆	thau lau bou	78					
+突	thaq7		135	178	眼珠凸出	又音，朱版作「宊」。	
+𡍲	thaq7	307	121	385	量詞。處	《阿拉宁波话》也作「塔」。	
 討米難落鑊	thau mi nae loq ghoq						
 套衫	thau sae	78					
 討虛頭	thau shiu deu						
@@ -16062,10 +16053,9 @@
 天亮紅霞靉愁愁	thi lian ghon ya a zeu zeu						
 天落水	thi loq syu	19					55
 天落雨毛絲	thi loq yu mau sy						
-天羅	thi lou			27			
-天蘿	thi lou	19	73	27			55
 天蘿花箲	thi lou huo shi	19					55
 天蘿箲	thi lou shi	19	98	28			55
+天蘿	thi lou	19	73	27	即絲瓜，嫩時可食用	朱版也作「天羅」。	55
 天外人	thi nga gnin						
 天外落材	thi nga loq ze						
 剃牙鬚	thi ngo su	21					55
@@ -16209,8 +16199,6 @@
 跺底	tho ti	98	60	427			55
 跺	tho3	98	161	427			
 段頭	thoe deu	161	60	264			
-彖	thoe1		121				
-段	thoe1	161	121				
 統整	thon cin	285	283	287			55
 通條	thon diau	285					
 統貨	thon hou	285					
@@ -16220,6 +16208,7 @@
 統扯	thon tsha	285					55
 統扯	thon tsho	285	215	287			55
 通知	thon tsyu	285					
+段	thoe1	161	121		量詞。截	《阿拉宁波话》也作「彖」。	
 通用吳語拼音	thon yon wu gniu phin in						
 拓拓看	thoq thoq khi-khe						
 拓	thoq7	337	121, 158	189			
@@ -16298,11 +16287,8 @@
 忒弗像樣	thou vaq zhian yan						1
 拖黃魚	thou waon ng						
 忒油	thou yeu						
-拖有病	thou yeu bin			191			
-拖油瓶	thou yeu bin	178	22	191			
+拖油瓶	thou yeu bin	178	22	191	俗稱改嫁婦女所攜帶的子女（含貶義）	朱版也作「拖有病」。	
 忒遠	thou yu						
-䴱	thou1			383			
-拖	thou1	177	188, 204				
 忒	thou5	306	283	148		《阿拉宁波话》作「太」，音不合。	
 土鯆魚	thu bu ng	45	70	11			55
 吐清水	thu chin syu	45					55
@@ -16311,6 +16297,7 @@
 堍頭	thu dei			338			
 堍頭	thu deu	46	7	338			55
 土地堂	thu di daon	45					55
+拖	thou1	177	188, 204	383	1. 拉着物體使其愛着地面或另一物體表面移動；2. 在身後耷拉着；3. 攜帶，領；4. 掛，垂下；5. 拖延；6. 喫飯時，使勁夾菜喫；7. 魚蝦等在外面糊上溼麪粉後在油裏炸；8. 獸類用嘴叼東西；9. 拿（含貶義）；10. 拉開吵架或打架的人	義 7 朱版作「䴱」。義 8 - 10 又音 tha1。	
 吐綻	thu dzae						
 土匪	thu fi	45					
 土郎中	thu laon tson	45					55
@@ -16405,8 +16392,7 @@
 吊心火	tiau shin hou		316				55
 吊水	tiau syu	108					
 吊水繩	tiau syu zhin	108					55
-刁蹬	tiau ten	108	198				
-刁𩍐	tiau ten			8			
+刁蹬	tiau ten	108	198	8	1. 賭氣不理人；2. 刁難，故意使人爲難（多指撂挑子）	朱版作「刁𩍐」。	
 吊吊唱	tiau tiau tshaon						
 鳥測字	tiau tshaq zy	108					55
 刁嘴故生	tiau tsyu ku san				1. 撒嬌，使小性子；2. 委屈相	兩個意思《活色生香寧波話》p. 99 和 p. 123 分別記作「刁嘴故生」和「吊嘴鼓腮」。	

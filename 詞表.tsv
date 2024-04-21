@@ -520,7 +520,7 @@
 笨勒嘸采去	ben laq mh tshe chi						
 笨手笨腳	ben shieu ben ciaq						
 盆子	ben tsy	249	99	266	盤子，盛菜餚或調味品的器皿，底平而淺。與普通話指「盆」不同。		
-盆子菜	ben tsy tshe	249	72	266	塌棵菜，葉墨綠色，多皺摺，株矮，貼着地面向四周攤開，形似盆子，故名		55
+盆子菜	ben tsy tshe	249	72	266	塌棵菜，一種普通蔬菜。二年生草本植物，植株短，葉大，近圓形，墨綠色，葉面皺摺，貼地生長，花淡黃色，形似盆子，故名，又稱「塔古菜」「脫褲菜」		55
 坌橫頭	ben wan deu	249					55
 盆浴	ben yuq	249					
 笨賊佬	ben zaq lau	249	29	356	笨蛋		55
@@ -1166,7 +1166,7 @@
 傾燙火熱	chin thaon hou gniq		336		1. 形容東西剛煮好，正熱乎；2. 比喻事情剛剛發生，還沒有淡出		55
 清湯寡水	chin thaon kua syu		265		1. 形容菜少湯多味薄或稀飯裏米粒少；2. 比喻沒有額外收入或好處		
 清湯寡水	chin thaon kuan syu		265		1. 形容菜少湯多味薄或稀飯裏米粒少；2. 比喻沒有額外收入或好處		
-請帖	chin thiaq	268					
+請帖	chin thiaq	268			請帖		
 清通	chin thon	267					55
 撳釘	chin tin	269	107	386	圖釘		55
 清盯	chin tin	269		433			
@@ -2154,7 +2154,7 @@
 真真心焦煞	cin cin shin ciau saq						
 經摺	cin ciq	264	126	235	1. 舊時用來記賬的有硬殼的小摺子，憑經摺可向指定商店記賬購物，一年結算幾次；2. 舊稱錢莊存摺		
 金蛋	cin dae	263	74	213	金橘	湯版作「金彈」。	
-正堂房	cin daon vaon	265					55
+正堂房	cin daon vaon	265			舊式房子中堂兩旁的正房。東、西緊鄰的兩間稱爲「正堂房」，正堂房後面一間稱爲「後堂房」，再相鄰者爲「貼堂房」		55
 真道話	cin dau wo	264	293	297	1. 的確，確實；2. 真的，果真如此		55
 井頭	cin dei	265	7	27	井	又音cin deu，可知後字爲「頭」，湯版作「井窞」，非。	55
 井頭跟	cin dei ken		7		井邊		55
@@ -2516,7 +2516,7 @@
 淡水毛氣	dae syu mau chi		276		形容味淡，缺少油水、甜味等		578
 淡水毛漿	dae syu mau cian	137	276		形容味淡，缺少油水、甜味等		55
 淡水水	dae syu syu	137	276	377	1. 形容淡而無味；2. 形容平淡無趣味；3. 形容冷淡，不感興趣		55
-蛋湯	dae thaon	138			水蒸蛋		418
+蛋湯	dae thaon	138			水蒸蛋，雞蛋羹。將雞蛋打散，加水調和，放入鍋中蒸熟		418
 蛋炒飯	dae tshau vae	138			蛋炒飯		
 淡菜	dae tshe	137	65		貽貝		
 淡竹	dae tsoq	138	117	487	一種較細的竹子，可入藥	《阿拉宁波话》也作「𥲄竹」。	55
@@ -2627,7 +2627,7 @@
 糖煮蛋	daon tsy dae		65		去殼後整個放在開水裏煮並加糖的雞蛋		55
 盪嘴巴	daon tsyu po	232			漱口		55
 溏黃	daon uaon	232			燒得嫩而未凝固的蛋黃		55
-堂房	daon vaon	232					
+堂房	daon vaon	232			舊式房子中堂兩旁的正房。東、西緊鄰的兩間稱爲「正堂房」，正堂房後面一間稱爲「後堂房」，再相鄰者爲「貼堂房」		
 堂房姊妹	daon vaon ci mei	232			堂姐妹		55
 堂房兄弟	daon vaon shion di	232			堂兄弟		55
 蕩橫	daon wan	232	11		這一帶		578
@@ -3415,8 +3415,8 @@
 大胖嘵豬	dou phaon gniau tsyu	180	37	17	胖子（含貶義）		418
 大炮	dou phau	179					
 大炮仗	dou phau jian	179					55
-大泡辣椒	dou phau laq ciau	179					55
-大泡辣茄	dou phau laq jie						
+大泡辣椒	dou phau laq ciau	179			燈籠辣椒		55
+大泡辣茄	dou phau laq jie				燈籠辣椒		
 大奤奤	dou phoq phoq	181			形容臉盤大	湯版作「大撲撲」。𩔈，《廣韻》匹各切，面大皃，俗作「奤」。「奤」位於 Unicode 基本區，考慮替代「𩔈」作爲推薦寫法。	55
 大餅	dou pin	180			燒餅		
 大餅攤	dou pin thae	180			賣燒餅的小攤		55
@@ -4598,7 +4598,7 @@
 後腳煞	gheu ciaq saq	201	18	115	後來		55
 喉結	gheu ciq	200			喉結		
 後堂	gheu daon	201			中堂後面的一間房		
-後堂房	gheu daon vaon	201			中堂房後面的一間房		55
+後堂房	gheu daon vaon	201			舊式房子中堂兩旁的正房。東、西緊鄰的兩間稱爲「正堂房」，正堂房後面一間稱爲「後堂房」，再相鄰者爲「貼堂房」		55
 後代	gheu de	201			小輩、子孫		
 候隊	gheu dei	201	195	313	相約（做某事）		55
 後頭	gheu deu	201	18	115	1. 後來；2. 後；以後		
@@ -7296,7 +7296,7 @@
 合	kaq7		193		製作（棺材等）		
 夾	kaq7	315, 316	145		1. 用壓力將物體固定在中間；2. 夾雜；3. 雙層的；4. 正對着	義 4 湯版作「格（同音替代）」。	
 格	kaq7	66, 316	122, 299	298	1. 量詞。用於分層的東西；2. 助詞。相當於「……似的」；3. 助詞。相當於結構助詞「地」	做助詞時爲「介」的促化。	
-溢	kaq7	317	212	440	滿出，溢出	訓讀。另有周志鋒, 2008 認爲可類比「隘」讀 ka5，故本詞作「溢」。	
+溢	kaq7	317	212	440	滿出，溢出	訓讀。另有周志鋒 (2008) 認爲可類比「隘」讀 ka5，故本詞作「溢」。	
 革	kaq7	315, 316	145	101	調節	湯版等作「夾」。一說爲「革」的白讀，見 https://www.zhihu.com/question/472601372/answer/2003915676。革，《廣韻》古核切，改也。	
 高矮凳	kau a ten	89			高凳子		55
 高壓鍋滴子	kau aq kou tiq tsy						
@@ -15113,235 +15113,235 @@
 水泥船	syu gni zoe	10			用鋼筋爲骨架，以水泥製成的船		55
 水蝦	syu huo		67	34	一種海蝦，煮熟後呈白色		55
 舒意	syu i	9	217	404	舒適；愜意；妥帖		55
-水菸管	syu i kun	10					55
-水芹	syu jin	11					
-水渠	syu jiu	10					
-水缸	syu kaon	10					
-水缸腳	syu kaon cian	10					55
-水缸腳	syu kaon ciaq	10	132				55
+水菸管	syu i kun	10			水菸管		55
+水芹	syu jin	11			芹菜的一個品種		
+水渠	syu jiu	10			水渠		
+水缸	syu kaon	10			水缸		
+水缸腳	syu kaon cian	10			沉澱在水缸底的污物		55
+水缸腳	syu kaon ciaq	10	132		沉澱在水缸底的污物		55
 水缸蓋頭	syu kaon ke deu						
-水缸底	syu kaon ti	10					55
-水溝	syu keu	10					
-勢口	syu kheu		126	193			55
+水缸底	syu kaon ti	10			缸底		55
+水溝	syu keu	10			水溝		
+勢口	syu kheu		126	193	家境；一個家庭的經濟狀況		55
 水庫腳跟	syu khu ciaq ken						
-暑假	syu ko	11					
-書架	syu ko	9					
-水果	syu kou	10					
+暑假	syu ko	11			暑假		
+書架	syu ko	9			書架		
+水果	syu kou	10			水果		
 輸勒阿姆阿伯勿認得	syu laq a m aq paq vaq gnin taq						
 輸勒阿姆阿伯弗認得	syu laq a m aq paq vaq gnin taq						1
 輸勒阿姆阿伯勿認得	syu laq an m aq paq vaq gnin taq						
 輸勒阿姆阿伯弗認得	syu laq an m aq paq vaq gnin taq						1
-水老菱	syu lau lin	10					55
-水老鴉	syu lau o	10	111	35			
-水老鼠	syu lau tsy	10					55
-水菱	syu len			34			
-水裏	syu li	10					
-水溜	syu lieu	10	84	34			55
-水溜管	syu lieu kun	10					55
-水菱	syu lin		76	34			55
+水老菱	syu lau lin	10			小而多角的菱		55
+水老鴉	syu lau o	10	111	35	鸕鶿		
+水老鼠	syu lau tsy	10			一種生活在蛻變的老鼠		55
+水菱	syu len			34	四角菱，角有刺		
+水裏	syu li	10			睡裏面		
+水溜	syu lieu	10	84	34	安裝在屋檐下用來承接雨水的橫向槽形排水管，用竹或鐵皮製成		55
+水溜管	syu lieu kun	10			安裝在屋檐下用來承接雨水的橫向槽形排水管，用竹或鐵皮製成		55
+水菱	syu lin		76	34	四角菱，角有刺		55
 水望低頭流	syu maon ti deu lieu						
-水門汀	syu men thin	10					
-水明塘	syu min daon	10					418
-水明湯	syu min thaon	10	5	35			418
-水蜜桃	syu miq dau	11	74				
+水門汀	syu men thin	10			水泥，英語 cement 的音譯		
+水明塘	syu min daon	10			地上的淺水坑		418
+水明湯	syu min thaon	10	5	35	地上的淺水坑		418
+水蜜桃	syu miq dau	11	74		一種優質桃子，水分多，味兒甜。其中奉化水蜜桃最有名氣		
 水磨汀	syu mou thin						
 水漫金山	syu mun cin sae						
-尿衲	syu naq	9	59				55
+尿衲	syu naq	9	59		尿布		55
 尿衲架	syu naq ko						
-尿衲布	syu naq pu	9	59	181			55
-尿衲布頭	syu naq pu deu		59				55
-水牛	syu ngeu	10					
-貰屋	syu oq	9					55
+尿衲布	syu naq pu	9	59	181	尿布		55
+尿衲布頭	syu naq pu deu		59		尿布		55
+水牛	syu ngeu	10			水牛		
+貰屋	syu oq	9			租房子		55
 書阿講讀	syu oq kaon doq						
-書包	syu pau	9					
+書包	syu pau	9			書包		
 書包架	syu pau ko	9	88	49	自行車等座位後面放東西的架子	朱版作「書報架」。	55
-尿泡泡	syu phau phau	9					55
-水泡泡	syu phau phau	10					55
-水波浪	syu pou laon	10					55
-尿布	syu pu		59				
-尿臊氣	syu sau chi		277				55
-尿臊臭	syu sau chieu		277	181			55
-水仙花	syu shi huo	10					
-尿尿	syu syu						
-舒舒意意	syu syu i i	9					55
-水筍	syu syun	11					55
-水塌窞	syu thaq dei	10		35			418
+尿泡泡	syu phau phau	9			膀胱		55
+水泡泡	syu phau phau	10			水泡		55
+水波浪	syu pou laon	10			水波		55
+尿布	syu pu		59		尿布		
+尿臊氣	syu sau chi		277		尿的臭味（名詞兼形容詞）		55
+尿臊臭	syu sau chieu		277	181	尿的臭味（名詞兼形容詞）		55
+水仙花	syu shi huo	10			水仙花		
+尿尿	syu syu				尿（名詞），兒童用語。		
+舒舒意意	syu syu i i	9			舒適；愜意；妥帖		55
+水筍	syu syun	11			經浸泡後的筍乾		55
+水塌窞	syu thaq dei	10		35	地上的淺水坑		418
 水塌頭	syu thaq deu		5		地上的淺水坑	《阿拉宁波话》作「水𡍲頭」。	55
-水搨糕	syu thaq kau	11	80	35			55
-舒態	syu the	9					
-書店	syu ti	9					
-水底工	syu ti kon	10	24	35			55
-水汀	syu tin	11					
+水搨糕	syu thaq kau	11	80	35	溼米粉發酵後蒸制、切割而成的菱形塊糕，鬆軟，無餡	《阿拉宁波话》及朱版作「水貼糕」。	55
+舒態	syu the	9			和緩，不緊急		
+書店	syu ti	9			書店		
+水底工	syu ti kon	10	24	35	舊稱潛水打撈貨物的人		55
+水汀	syu tin	11			暖氣裝置，英語 steam 的音譯		
 書灒溼	syu tsae shiq						
-水草	syu tshau	10					
-水出爛糟	syu tshyuq lae tsau	11	260	35			55
-書桌	syu tsoq	9					
-水竹	syu tsoq		118				55
+水草	syu tshau	10			浮萍等水生植物的通稱		
+水出爛糟	syu tshyuq lae tsau	11	260	35	形容瓜果飯食等溼且爛		55
+書桌	syu tsoq	9			書桌		
+水竹	syu tsoq		118		煙竹，深綠色，多叢生，竹材甚韌，可用來編制器物，筍一般不食用		55
 世珠骨	syu tsyu kuaq						
-書房	syu vaon	9					
+書房	syu vaon	9			書房		
 水滉滉動	syu waon waon don						
-四圍	syu wei		48				
-水胡萄	syu wu dau		75	35		《阿拉宁波话》作「水胡桃」，末字當爲「萄」。有趣的是，上海話胡桃又稱蒲桃，寧波話葡萄又称胡萄。	55
-水葫蘆	syu wu lu	10	116				55
-水鳧鷺	syu wu-vu lu	10					55
+四圍	syu wei		48		臀圍		
+水胡萄	syu wu dau		75	35	葡萄	《阿拉宁波话》作「水胡桃」，末字當爲「萄」。有趣的是，上海話胡桃又稱蒲桃，寧波話葡萄又称胡萄。	55
+水葫蘆	syu wu lu	10	116		一種水生植物，莖上有圓球狀突起，形似葫蘆，故名。可作飼料		55
+水鳧鷺	syu wu-vu lu	10			野鴨子		55
 書上頂	syu zaon ten						
-水勺	syu zoq	11					55
+水勺	syu zoq	11			水舀子，底平，口圓，有柄，多用鋁或鐵皮製成		55
 輸入方案	syu zyuq faon ei-e						
 輸入法	syu zyuq faq						
-尿	syu1	9	46				
+尿	syu1	9	46		小便		
+舒	syu1		302	457	表示疼痛	《阿拉宁波话》作「⿰口舒」，朱版作「譆」。	
+貰	syu1	9			借；賃	貰，《廣韻》舒制切，賖也，貸也。湯版記陰平，朱版記陰去。盛益民、李旭平 (2018) 認爲本字是「稅」。	
 稅	syu1				借；賃	湯版記陰平，朱版記陰去。俗作「貰」。	
-舒	syu1		302	457			
-貰	syu1	9			借；賃	貰，《廣韻》舒制切，賖也，貸也。湯版記陰平，朱版記陰去。盛益民、李旭平, 2018 認爲本字是「稅」。	
-水	syu3	9		34			
-榫頭	syun deu	281					
+水	syu3	9		34	1. 一种无色、无臭、透明的液体；2. 量詞。衣服洗過一次稱「滰過一水」		
+榫頭	syun deu	281			器物或構件上利用凸凹方式相連接的凸出部分		
 筍麩鹹齏	syun fu ghae ci	280	76	310	鮮毛筍和鹹菜一起切碎、燒熟再曬乾製成的食品		55
-筍麩鹹菜	syun fu ghae tshe		76	310			55
-筍麩黃豆	syun fu waon deu	281	77	310			55
-筍乾	syun ki-ke	281					
-申報紙	syun pau tsy			59			
-筍	syun3	281					
-刷白	syuq baq		193				
-雪白	syuq baq	344					
-雪白粉嫩	syuq baq fen nen	344	273	347			55
+筍麩鹹菜	syun fu ghae tshe		76	310	鮮毛筍和鹹菜一起切碎煮熟後的乾製品		55
+筍麩黃豆	syun fu waon deu	281	77	310	鮮毛筍切成丁，與幹大豆一起烤熟後的乾製品		55
+筍乾	syun ki-ke	281			乾製的筍，食用前需浸泡		
+申報紙	syun pau tsy			59	報紙，《申報》是過去上海出的一種日報，後泛指報紙		
+筍	syun3	281			竹筍		
+刷白	syuq baq		193		在牆壁、欄杆等上面塗上石灰或白色塗料		
+雪白	syuq baq	344			形容很白或很乾淨		
+雪白粉嫩	syuq baq fen nen	344	273	347	形容皮膚白晳細嫩		55
 雪白憐	syuq baq li						
 雪平	syuq bin	343	227	346	很平	湯版作「刷平」。據《丹陽方言詞典》，前字當爲「雪」。	55
-刷帚	syuq cieu		102				55
-雪淡	syuq dae	343	276	347			418
+刷帚	syuq cieu		102		1. 用來粉刷牆壁的刷子；2. 用來清除髒物或聚攏細物的刷子		55
+雪淡	syuq dae	343	276	347	形容很淡		418
 雪竇山風景區	syuq deu sae fon cin chiu	343					
-雪地蕻	syuq di hon		72				55
-雪花粉	syuq huo fen	343	57	347			55
+雪地蕻	syuq di hon		72		雪裏蕻，芥菜的變種，多用於醃鹹菜。雪天諸菜凍損，此菜獨青，故名。		55
+雪花粉	syuq huo fen	343	57	347	雪花膏的舊稱		55
 刷一度	syuq iq du						
 雪刮淡	syuq kuaq dae	343	276		很淡		418
 雪刮泥淡	syuq kuaq gni dae		276		很淡		55
 雪刮斯淡	syuq kuaq sy dae	343	276		很淡		578
 雪裏蕻	syuq li hon	343			芥菜的一個栽培變種，葉常醃製後食用	湯版也作「雪裏紅」。	
-雪裏斯白	syuq li sy baq	344	273	347			55
+雪裏斯白	syuq li sy baq	344	273	347	形容非常白，有時也形容非常乾淨		55
 雪亮	syuq lian						
 雪落白洋洋	syuq loq baq yan yan						
-失面子	syuq mi tsy	372					
-失眼	syuq ngae		135				55
-雪眼	syuq ngae		4	346			55
-失撇	syuq phiq	372	202	63			55
-失心	syuq shin		170	63			
-雪雪白	syuq syuq baq	344	273	347			578
-刷刷平	syuq syuq bin	343					55
-雪雪斯白	syuq syuq sy baq			347			
-雪得斯白	syuq taq sy baq						
-刷桌布	syuq tsoq pu		102	233			55
-雪子	syuq tsy	343	4	346			
-說話	syuq wo	344	51	282			
+失面子	syuq mi tsy	372			丟面子		
+失眼	syuq ngae		135		走眼；看錯		55
+雪眼	syuq ngae		4	346	下雪期間，有陽光從雲縫中穿透，這種穿透陽光的雲隙稱「雪眼」		55
+失撇	syuq phiq	372	202	63	失着；失算		55
+失心	syuq shin		170	63	神經錯亂		
+雪雪白	syuq syuq baq	344	273	347	形容非常白，有時也形容非常乾淨		578
+雪雪平	syuq syuq bin	343			很平	湯版作「刷刷平」。據《丹陽方言詞典》，前二字當爲「雪」。	55
+雪雪斯白	syuq syuq sy baq			347	形容很白或很乾淨		
+雪得斯白	syuq taq sy baq				形容很白或很乾淨		
+刷桌布	syuq tsoq pu		102	233	用來擦桌子、洗碗等的布塊		55
+雪子	syuq tsy	343	4	346	霰		
+說話	syuq wo	344	51	282	話		
 雪上加霜	syuq zaon ko saon						
-失	syuq7	372	117	63			
-戌	syuq7	342					
-雪	syuq7	343					
+失	syuq7	372	117	63	農作物收穫後遺漏在田地中的零星塊莖、果實		
+戌	syuq7	342			地支之一		
+雪	syuq7	343			1. 天空中飄落的白色結晶體，多爲六角形，是天空中的水蒸氣冷至攝氏零度以下凝結而成；2. 顏色或光彩像雪的		
 帶皮帶骨	ta bi ta kuaq						
-帶豆	ta deu	59	71	241			55
-帶髮尼姑	ta faq gni ku	59					55
-帶孝	ta hau	59					
-戴高帽子	ta kau mau tsy	59					
+帶豆	ta deu	59	71	241	長豇豆，因豆莢細長如帶而得名		55
+帶髮尼姑	ta faq gni ku	59			不削髮的尼姑		55
+帶孝	ta hau	59			死者的親屬和親戚穿孝服、孝鞋，袖上戴黑紗，頸上掛苧麻，頭上戴白花等以示哀悼		
+戴高帽子	ta kau mau tsy	59			1. 戴高的帽子；2. 比喻吹捧；3. 說好話以哄騙孩子		
 戴口罩	ta kheu tsau						
 戴帽子	ta mau tsy						
-帶魚	ta ng	59					
-帶魚篰	ta ng bu						
+帶魚	ta ng	59			1. 一種魚，體長，形狀像帶子，銀白色，無鱗；2. 指月經帶		
+帶魚篰	ta ng bu				用篾條等編成的容器，比籮矮，孔較大，用於盛帶魚		
 帶魚新鮮猛	ta ng shin shi man						
-帶魚絲薧	ta ng sy khau			241			
-帶魚絲鮳	ta ng sy khau		69				55
+帶魚絲薧	ta ng sy khau			241	帶魚幼魚的乾製品		
+帶魚絲鮳	ta ng sy khau		69		帶魚幼魚的乾製品		55
 戴手錶	ta shieu piau						
-帶信	ta shin	59	192				
-帶帶	ta ta		278	208			
+帶信	ta shin	59	192		1. 寄信；2. 捎口信		
+帶帶	ta ta		278	208	形容連續不斷的說話聲		
 戴攃眼	ta tsha ngae						
-帶	ta5	59	147, 299, 305	241			
-戴	ta5		147				
+帶	ta5	59	299, 305	241	1. 動詞，隨身拿着；2. 動詞，捎帶；3. 動詞，引導，領；4. 動詞，郵寄；6. 介詞，連，表示包括；7. 用在動詞與表示結果或趨向的補語之間，表示動作的完成或請求完成動作，在語氣上帶有委婉的色彩	義 7 也音 tae5。	
+戴	ta5		147		把東西放在頭、臉、胸、臂等處	《阿拉宁波话》也作「帶」。	
 撣塳塵	tae bon jin						
-單薄	tae boq	135					
-單巧	tae chiau	135	301	221			55
+單薄	tae boq	135			1. 衣服穿得薄且少；2. 身體瘦弱		
+單巧	tae chiau	135	301	221	連詞，只要		55
 單超㫰過夜	tae chiau laon kou ya						
 單張	tae cian						
-打賬	tae cian			50			
+打賬	tae cian			50	打算，準備		
 單張頭	tae cian deu						
-單頭重	tae deu dzon	135	264	222			55
-撣田墈	tae di khe	135					55
-單方	tae faon	135					
-單隑人	tae ge gnin	135					55
-單耳朵	tae gni to	135					55
-單要	tae iau	135					55
+單頭重	tae deu dzon	135	264	222	擔子一頭輕，一頭重		55
+撣田墈	tae di khe	135			清理田沿上的雜草和多餘的土		55
+單方	tae faon	135			民間流傳不見於古典醫學著作的中藥方		
+單隑人	tae ge gnin	135			偏旁「亻」		55
+單耳朵	tae gni to	135			偏旁「阝」		55
+單要	tae iau	135			連詞，只要		55
 單件頭	tae ji deu						
 單張	tae jian						
 單張頭	tae jian deu						
-撣塵	tae jin	136	192	339			55
-擔鉤	tae keu	136	104	190			55
-單褲	tae khu	135	59				55
-單褲湯	tae khu thaon		59				55
-單角	tae koq		267	221			55
-單角落頭	tae koq loq dei			222			
-單角落頭	tae koq loq deu	135	12, 267	222			55
-撣蚊蟲	tae men dzon		192				55
-單耳朵	tae ng to	135					55
-單眼竈	tae ngae tsau	135					55
-單眼沿	tae ngae yi	135					55
-單票	tae phiau	135	95	221			55
-單怕	tae pho		295				55
-單邊	tae pi	135	10, 267	221			
-單布衫	tae pu sae		57				55
-單衫	tae sae	135					55
+撣塵	tae jin	136	192	339	過年前全面打掃房子		55
+擔鉤	tae keu	136	104	190	木製或鐵製的鉤子，一頭系在扁擔上，一頭用來勾住所挑的東西		55
+單褲	tae khu	135	59		一條單層褲子（除內褲外）		55
+單褲湯	tae khu thaon		59		一條單層褲子（除內褲外）		55
+單角	tae koq		267	221	偏僻		55
+單角落頭	tae koq loq dei			222	1. 隱僻的角落；2. 形容詞。形容地處隱僻的角落；偏僻		
+單角落頭	tae koq loq deu	135	12, 267	222	1. 隱僻的角落；2. 形容詞。形容地處隱僻的角落；偏僻		55
 打埋	tae mae-me		175	51	打算，準備	《阿拉宁波话》作「擔漫」。	55
+撣蚊蟲	tae men dzon		192		把蚊帳內的蚊子趕走		55
+單耳朵	tae ng to	135			偏旁「阝」		55
+單眼竈	tae ngae tsau	135			僅容一個鍋的小鍋		55
+單眼沿	tae ngae yi	135			單眼皮		55
+單票	tae phiau	135	95	221	指幣值較小的零票		55
+單怕	tae pho		295		只怕；惟恐		55
+單邊	tae pi	135	10, 267	221	1. 旁邊，靠近邊上；2.一邊，兩邊不對稱		
+單布衫	tae pu sae		57		單衣		55
+單衫	tae sae	135			單衣		55
 單雙蛾	tae saon ngou						
-擔雙身	tae saon shin		180	190			55
-擔心落事	tae shin loq zy		333				55
-擔心擔事	tae shin tae zy		333	190			55
-擔心事	tae shin zy						
-單單	tae tae	135					
-擔飯	tae vae	136	192	189			55
+擔雙身	tae saon shin		180	190	懷孕		55
+擔心落事	tae shin loq zy		333		擔心；放心不下		55
+擔心擔事	tae shin tae zy		333	190	擔心；放心不下		55
+擔心事	tae shin zy				擔心；放心不下		
+單單	tae tae	135			唯獨		
+擔飯	tae vae	136	192	189	帶飯菜；送飯菜		55
 單位裏	tae wei li						
 單位裏人	tae wei li gnin						
-擔	tae1		305	189			
-撣	tae3	135					
-膽	tae3	136					
-帶	tae5	59		241			
-擔	tae5	136					
-打牌九	tan ba cieu	204					55
-打棚	tan ban	205	197	51		湯版、朱版作「打朋」。	55
-打暴	tan bau						
+擔	tae1			189	拿、帶、送（飯食等）		
+撣	tae3	135			用手或撣子等輕輕抽或掃，以去除灰塵等		
+膽	tae3	136			膽囊		
+帶	tae5	59	305	241	用在動詞與表示結果或趨向的補語之間，表示動作的完成或請求完成動作，在語氣上帶有委婉的色彩	《阿拉宁波话》作「擔」。	
+擔	tae5	136			量詞		
+打牌九	tan ba cieu	204			玩牌九時，對莊家而言是「推牌九」，對其餘三方而言是「打牌九」		55
+打棚	tan ban	205	197	51	開玩笑；打鬧說笑取樂	湯版、朱版作「打朋」。	55
+打暴	tan pau				颳大風		
 打耙面	tan bo mi						
 打槍笆	tan chian po						
 打箍	tan chieu	205	193	51	箍桶	此處 chieu1 當爲「箍」之白讀，見《北仑方言》同音字表。「箍」爲一等字，不知爲何增生 i 介音，台州亦有類似讀音。湯版作「打揫」，《阿拉宁波话》引《甬言稽古》作「打𥫷」。另有 chieu1，《鄞縣通志》p. 3060「揪（揫）」繫緊繩結，p. 3012「𣫐（抽）」收緊引線。均爲尖音，與箍桶無關。	55
-打抽豐	tan chieu fon						
-打秋風	tan chieu fon						
+打抽豐	tan chieu fon				借各種名義或關係討取錢物	也作「打秋風」。	
+打秋風	tan chieu fon				借各種名義或關係討取錢物	也作「打抽豐」。	
 打記	tan ci					打一下。可以與「挼記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 打家賊	tan cia zaq						
-打賬	tan cian			50			
+打賬	tan cian			50	打算，準備		
 打腳埭	tan ciaq da						
-打腳骨軟	tan ciaq kuaq gniu	206	163				55
-打交	tan ciau	204					55
-打醮	tan ciau	204					
-打照面	tan ciau mi	204					
-打結	tan ciq	206	208				
-打蛋糕	tan dae kau		317	53			55
-打彈子	tan dae tsy	205	184	53			
-打稻	tan dau	204					55
-打稻機	tan dau ci	204	105	53			55
-打地鋪	tan di phu	204					
-打杜勒克	tan du laq khaq	204					55
-打杜路克	tan du lu khaq		183	144			55
+打腳骨軟	tan ciaq kuaq gniu	206	163		走路時腿發軟欲跌倒		55
+打交	tan ciau	204			指獸類交配		55
+打醮	tan ciau	204			爲消除災殃，請道士設壇誦經祈福		
+打照面	tan ciau mi	204			面對面碰到		
+打結	tan ciq	206	208		線狀物絞在一起		
+打蛋糕	tan dae kau		317	53	挨批評；批評		55
+打彈子	tan dae tsy	205	184	53	1. 用手指彈玻璃球的遊戲。；2. 失約；不兌現		
+打稻	tan dau	204			用機器或手工爲稻穀脫粒		55
+打稻機	tan dau ci	204	105	53	稻穀脫粒機，有腳踏和電動兩種		55
+打地鋪	tan di phu	204			鋪在地上睡		
 打獨溜	tan doq lieu		314	53	單獨行動	朱版作「打獨流」。《海天鴻雪記》第一回：「堂子裏原不過幾搭老場化，俚耐是歡喜小路道，一干仔獨溜格。」	55
+打杜勒克	tan du laq khaq	204			玩紙牌。「杜勒克」爲俄語 дурак 的音譯		55
+打杜路克	tan du lu khaq		183	144	玩紙牌。「杜路克」爲俄語 дурак 的音譯		55
 打暗碼	tan ei-e mo						
-打虎跳	tan fu thiau	204	182	52			55
-打䬵	tan ge	205	137	51			55
-打跔泥	tan geu gni	205	208	53			55
-打後手	tan gheu shieu	205	314				55
-打紅五	tan ghon ng		183				55
-打紅五星	tan ghon ng shin		183				55
-打銀針	tan gnin cin	205	173				55
-打軟腳骨	tan gniu ciaq kuaq		163				55
-打火石	tan hou zaq	205					
-打甩	tan huan	205					
+打虎跳	tan fu thiau	204	182	52	側身翻跟頭		55
+打䬵	tan ge	205	137	51	打嗝；胃裏的氣體從嘴裏出來併發出聲音		55
+打跔泥	tan geu gni	205	208	53	線狀物捲曲絞繞在一起，不順直		55
+打後手	tan gheu shieu	205	314		做小動作；私下得好處		55
+打紅五	tan ghon ng		183		一種紙牌玩法		55
+打紅五星	tan ghon ng shin		183		一種紙牌玩法		55
+打銀針	tan gnin cin	205	173		用毫針刺穴位來治病		55
+打軟腳骨	tan gniu ciaq kuaq		163		走路時腿發軟欲跌倒		55
+打火石	tan hou zaq	205			打火石		
+打甩	tan huan	205			開小差		
 打花	tan huo						
-打呵鼾	tan huo he	205	169				55
-打呵鼾	tan huo hei-	205	169				55
-打花㪝槌	tan huo li dzyu	205	94	53			55
+打呵鼾	tan huo he	205	169		打呵欠		55
+打呵鼾	tan huo hei-	205	169		打呵欠		55
+打花㪝槌	tan huo li dzyu	205	94	53	彈棉花時敲弓弦用的木槌，形似㪝槌，故名		55
 打花㪝槌下大上	tan huo li dzyu gho dou zaon						
-打腰鼓	tan iau ku	205					55
-打噎	tan iq	206					55
+打腰鼓	tan iau ku	205			傳統民間舞蹈，腰間掛圓柱形小鼓，邊跳邊敲打		55
+打噎	tan iq	206			噎住		55
 打一槍	tan iq chian						
 打一記	tan iq ci					打一下。可以與「挼一記」連起來說，比喻一會兒來硬的，一會兒來軟的，恩威兼施	
 打其勒過	tan ji laq kou						
@@ -15350,28 +15350,28 @@
 打其弗過	tan ji vaq kou						1
 打渠勿過	tan ji vaq kou						
 打渠弗過	tan ji vaq kou						1
-打長	tan jian	205	288	50			55
-打強嘴巴	tan jian tsyu po		329				55
-打泅	tan jieu	205	168	51			55
+打長	tan jian	205	288	50	長久地；不間斷地		55
+打強嘴巴	tan jian tsyu po		329		用事實回擊別人口氣強硬的話語		55
+打泅	tan jieu	205	168	51	游泳		55
 打街拳	tan ka jiu						
-打襉	tan kae		160	52			55
+打襉	tan kae		160	52	1. 在裙子或上衣上打褶子；2. 比喻臉上起皺紋		55
 打教方板	tan kau faon pae						
-打瞌𥅻	tan khaq tshon	206	169	53			418
-打角麂	tan koq ci		111				55
-打官司	tan kun sy	205					
+打瞌𥅻	tan khaq tshon	206	169	53	打盹		418
+打角麂	tan koq ci		111		麂子，小型的鹿，雄的有長牙和短角		55
+打官司	tan kun sy	205			進行訴訟		
 打官司草	tan kun sy tshau						
 打纜頭扳	tan lae deu pae						
 打冷呃	tan lan aq	205	137		打嗝，受冷而膈肌痙孿		55
-打攔軋	tan laq gaq	206	314	52			55
+打攔軋	tan laq gaq	206	314	52	1. 說話、朗讀時卡住，結巴，不流暢；2. 線狀物打結，理不順		55
 打勒過	tan laq kou						
-打老K	tan lau khe	204	183	52			55
-打連草	tan li tshau		183				55
-打潦草	tan liau tshau		183				55
-打亂草	tan loe tshau	205					55
-打末知頭	tan maq tsyu deu		289				55
-打眠鼾	tan mi he	204	169				55
-打眠鼾	tan mi hei-		169				55
+打老K	tan lau khe	204	183	52	玩紙牌		55
 打蓮花落	tan li huo laon	204			舊時要飯的唱着曲兒踩着步子，一邊還搖晃兩尺來長的放銅錢的竹筒在人門前乞討	湯版作「打蓮花朗」，並註明末字本字爲「落」。	55
+打連草	tan li tshau		183		寫潦草的字		55
+打潦草	tan liau tshau		183		寫潦草的字		55
+打亂草	tan loe tshau	205			寫潦草的字		55
+打末知頭	tan maq tsyu deu		289		突然		55
+打眠鼾	tan mi he	204	169		打呼嚕		55
+打眠鼾	tan mi hei-		169		打呼嚕		55
 打馬撥李聽	tan mo paq li thin						
 打腦頭	tan nau deu						
 打俉勒過	tan ng laq kou						
@@ -15380,17 +15380,17 @@
 打俉弗過	tan ng vaq kou						
 打爾勿過	tan ng vaq kou						
 打爾弗過	tan ng vaq kou						1
-打硬嘴巴	tan ngan tsyu po		329				55
-打窩飳	tan ou tsyu						
-打扮	tan pae	205					
-打板子	tan pae tsy	205					
-打寶	tan pau	204					55
-打派司	tan pha sy	204	183				55
-打屁股	tan phi ku	204					
+打硬嘴巴	tan ngan tsyu po		329		用事實回擊別人口氣強硬的話語		55
+打窩飳	tan ou tsyu				釣魚時事先撒下誘餌		
+打扮	tan pae	205			1. 裝飾；2. 裝飾出來的樣子		
+打板子	tan pae tsy	205			舊稱瘧疾		
+打寶	tan pau	204			賭博的一種		55
+打派司	tan pha sy	204	183		玩紙牌		55
+打屁股	tan phi ku	204			打屁股		
 打拼	tan phin	205	194	51	在生意上合作、合夥	湯版作「打併」。	
-打撲克	tan phoq khaq	204	183				
+打撲克	tan phoq khaq	204	183		玩紙牌		
 打把勢	tan po syu	204	314	52	以蠻橫霸道的行爲、聲勢欺壓人	湯版作「打霸勢」。	
-打煞坯	tan saq phei	206	108	52		湯版作「打煞坯」。考慮統一性，宜作「煞」。	55
+打煞坯	tan saq phei	206	108	52	用繩抽打旋轉的陀螺	湯版作「打煞坯」。考慮統一性，宜作「煞」。	55
 打煞黃狗勿離窠	tan saq waon keu vaq li khou						
 打煞黃狗弗離窠	tan saq waon keu vaq li khou						1
 打煞黃狗勿離窠	tan saq waon ki-ke vaq li khou						
@@ -15399,69 +15399,69 @@
 打煞黃狗弗離窠	tan saq wu keu vaq li khou						1
 打煞黃狗勿離窠	tan saq wu ki-ke vaq li khou						
 打煞黃狗弗離窠	tan saq wu ki-ke vaq li khou						1
-打相打	tan shian tan	205	197	52			418
-打手天心	tan shieu thi shin	205					55
-打手銃	tan shieu tshon	205	170	52			55
+打相打	tan shian tan	205	197	52	打架		418
+打手天心	tan shieu thi shin	205			打手心		55
+打手銃	tan shieu tshon	205	170	52	手淫		55
 打錫箔個	tan shiq boq ghoq						55
-打錫箔個	tan shiq boq goq	206					55
+打錫箔個	tan shiq boq goq	206			做錫箔爲業者		55
 打勢	tan syu	204	204	50	禽類交配	《阿拉宁波话》也作「打水」。	55
 打水機	tan syu ci						
-打水機船	tan syu ci zoe	204	90	53			55
-打水陸	tan syu loq	204					55
+打水機船	tan syu ci zoe	204	90	53	抽水機船		55
+打水陸	tan syu loq	204			一種佛事活動，給死者儲備陰間使用的錢，程序比拜梁王繁複一些		55
 打勢雄雞	tan syu yon ci						
-打倒	tan tau		215				
-打胎	tan the	205					
-打探動	tan thei don		314				55
-打探動鼓	tan thei don ku	205	314				55
+打倒	tan tau		215		足夠；使滿足；搞定		
+打胎	tan the	205			墮胎		
+打探動	tan thei don		314		試探		55
+打探動鼓	tan thei don ku	205	314		試探		55
 打鐵肚皮	tan thiq du bi						
-打鐵師父	tan thiq sy vu	206					55
-打底	tan ti	204					
+打鐵師父	tan thiq sy vu	206			鐵匠		55
+打底	tan ti	204			1. 墊底；2. 作爲基數		
 打底稿	tan ti kau						
 打底色	tan ti saq						
-打短	tan toe	205	191				55
-打凍	tan ton	206	207	50			55
-打掌子	tan tsaon tsy	205					55
-打草稿	tan tshau kau	204					
+打短	tan toe	205	191		打短工，一般以日計酬		55
+打凍	tan ton	206	207	50	魚、肉等湯汁遇冷結凍		55
+打掌子	tan tsaon tsy	205			釘鞋掌		55
+打草稿	tan tshau kau	204			起稿子		
 打草籠	tan tshau lon						
 打菜蕻	tan tshe hon						
-打中覺	tan tson kau	206	169				55
-打渾	tan uen			51			
-打勿記頭	tan vaq ci deu		289				
-打弗記頭	tan vaq ci deu						55
+打中覺	tan tson kau	206	169		睡午覺		55
+打渾	tan uen			51	魚類在水中攪動把水攪渾		
+打勿記頭	tan vaq ci deu		289		突然		
+打弗記頭	tan vaq ci deu				突然		55
 打勿過	tan vaq kou						
 打弗過	tan vaq kou						1
-打勿煞	tan vaq saq		108			湯版作「打勿殺」。考慮統一性，宜作「煞」。	
-打弗煞	tan vaq saq	206		52		湯版作「打勿殺」。考慮統一性，宜作「煞」。	55
-打橫	tan wan	205	192	51			
-打滑躂	tan waq daq	206					55
-打滑脫	tan waq thaq	206					55
-打回	tan wei	205	188	50			
-打渾	tan wen	206	205	51			55
+打勿煞	tan vaq saq	206	108	52	用繩抽打旋轉的陀螺	湯版作「打勿殺」。考慮統一性，宜作「煞」。	
+打弗煞	tan vaq saq	206	108	52	用繩抽打旋轉的陀螺	湯版作「打勿殺」。考慮統一性，宜作「煞」。	55
+打橫	tan wan	205	192	51	1. 做零碎活；2. 中途順便做別的事情		
+打滑躂	tan waq daq	206			1. 地滑行走不穩；2. 打滑		55
+打滑脫	tan waq thaq	206			1. 地滑行走不穩；2. 打滑		55
+打回	tan wei	205	188	50	三人（或三人以上）之間結清連環債		
+打渾	tan wen	206	205	51	魚類在水中攪動把水攪渾		55
 打野拳	tan ya jiu						
-打烊	tan yan	205	186				
+打烊	tan yan	205	186		商店晚上關門，停止營業		
 打樣鬼	tan yan ciu						
 打樣規	tan yan kuei						
 打烊了	tan yan lei						
 打烊𡀂	tan yan lei						
-打牆	tan zhian		193				55
-打	tan3	204	309	50			
+打牆	tan zhian		193		砌牆		55
+打	tan3	204	309	50	1. 中綴，用在重疊的量詞中間，構成「量詞+打+量詞」格式。表示無一例外，相當於「個個」「每一個」（量詞可替換，下同）；2. 中綴，用在重疊的量詞中間，構成「量詞+打+量詞」格式。表示論某個數量單位，相當於「論只（的）」「一隻一隻（的）」		
 擋去	taon chi						
 擋起	taon chi						
 擋起來	taon chi le						
-擋起媒人	taon chi mei gnin		25				55
-當晝過	taon cieu kou	230	13	103			55
-當晝過頭	taon cieu kou deu	230	13				55
-當即	taon ciq	230					
-當大兒子	taon dou ng tsy	230					55
-當大囡	taon dou noe	230					55
+擋起媒人	taon chi mei gnin		25		男女婚事談妥後所找的名義上的媒人		55
+當晝過	taon cieu kou	230	13	103	正午		55
+當晝過頭	taon cieu kou deu	230	13		正午		55
+當即	taon ciq	230			隨即；立刻		
+當大兒子	taon dou ng tsy	230			長子；兄弟姐妹中排行最大的兒子		55
+當大囡	taon dou noe	230			長女；兄弟姐妹中排行最大的女兒		55
 當坊土地	taon faon thu di						
-擋喊	taon hae		25				
-擋瞎眼	taon haq ngae	231	25				55
+擋喊	taon hae		25		替瞎子引路的兒童	「擋瞎眼」的快讀。	
+擋瞎眼	taon haq ngae	231	25		替瞎子引路的兒童		55
 擋椅	taon i						
-當值	taon jiq	231	191	102		朱版作「當直」。	
+當值	taon jiq	231	191	102	照顧；服侍	朱版作「當直」。	
 當值生姆孃	taon jiq san m gnian						
-當家尼姑	taon ko gni ku	230					55
-當家人	taon ko gnin	230					
+當家尼姑	taon ko gni ku	230			庵堂的主事		55
+當家人	taon ko gnin	230			1. 家中理財、主持家務的人；2. 指稱張獨，敘稱		
 擋過去	taon kou chi						
 擋過來	taon kou le						
 擋勒	taon laq						
@@ -15470,363 +15470,363 @@
 當了	taon lei			102	表示動作已經完成		1
 擋落去	taon loq chi						
 擋落來	taon loq le						
-當路	taon lu			102			
-當忙	taon maon	230	289	102			55
-當面	taon mi	230					
+當路	taon lu			102	路上；路中央		
+當忙	taon maon	230	289	102	隨即；立刻		55
+當面	taon mi	230			在面前；面對面		
 當面嘸沒急口令	taon mi mh maq ciq kheu lin						
 當面嘸嘸腳色	taon mi mh mh ciaq saq						
-當馬	taon mo		289	102			55
-當票	taon phiau	231					
-當鋪	taon phu	231					
-當心	taon shin	230					
-鐺鐺響	taon taon shian	231					55
-當店	taon ti	231					55
+當馬	taon mo		289	102	隨即；立刻		55
+當票	taon phiau	231			當鋪所開的抵押品的單據		
+當鋪	taon phu	231			收典當物作爲抵押而貸款的店鋪		
+當心	taon shin	230			留神		
+鐺鐺響	taon taon shian	231			形容很好		55
+當店	taon ti	231			收典當物作爲抵押而貸款的店鋪		55
 擋的	taon tiq						
 擋出	taon tshyuq						
 擋出去	taon tshyuq chi						
 擋出來	taon tshyuq le						
-當中	taon tson	230					
-當中央	taon tson gnian	230					578
-當中央央	taon tson gnian gnian	230	10	34, 103			578
-當中央亨	taon tson gnian han	230					55
-擋娃	taon uae	231	25	237			55
-當月	taon yuq	231					
-當	taon1	230	305				
-擋	taon5	231	147	237			
-當	taon5	230, 231	147	102			
+當中	taon tson	230			當中		
+當中央	taon tson gnian	230			當中		578
+當中央央	taon tson gnian gnian	230	10	34, 103	當中		578
+當中央亨	taon tson gnian han	230			當中		55
+擋娃	taon uae	231	25	237	替瞎子引路的兒童		55
+當月	taon yuq	231			就在本月；同一月		
+當	taon1	230	305		助詞，用在動詞、形容詞等的後面，表示客觀存在或表示動作、狀態的存在、實現或持續，近指		
+擋	taon5	231	147	237	扶		
+當	taon5	230, 231	147	102	1. 以爲；2. 把……當作		
 掇矮凳	taq a ten						
-搭袱	taq boq		58	385			55
-搭漿	taq cian	306	202	384			55
-搭漿板	taq cian pae						
-搭積木	taq ciq moq	306					55
-答頭	taq deu		50	403			55
+搭袱	taq boq		58	385	裹在腰間的錢袋		55
+搭漿	taq cian	306	202	384	敷衍；應付		55
+搭漿板	taq cian pae				釀製漿板		
+搭積木	taq ciq moq	306			搭積木		55
+答頭	taq deu		50	403	分寸；法度；規矩		55
 搭地灰撲	taq di huei phoq		113	385	蝮蛇		55
-得法	taq faq	305		363			
-得人惜	taq gnin shiq	305	238	363			55
+得法	taq faq	305		363	得當		
+得人惜	taq gnin shiq	305	238	363	小孩討人喜歡		55
 得人犯憎	taq gnin vae tsen						
-搭夥精	taq hou cin	306	27	385			55
+搭夥精	taq hou cin	306	27	385	專門勾搭男人，搞不正當男女關係的婦女，相當於「破鞋」。多用作詈語		55
 搭一腳	taq iq ciaq						
-搭其	taq ji	305					
-搭渠	taq ji						
-搭橋	taq jiau	305		384			
-搭界	taq ka	305	195	384			
-搭肝	taq ki-ke	305	65	384			55
-搭架子	taq ko tsy	305					
-搭牢	taq lau	305					55
-搭老酒	taq lau cieu						
-德律風	taq liq fon						
-得漫	taq mae	305	175				55
-搭脈	taq maq	306	173	384			55
-嗒味道	taq mi dau						
-搭俉	taq ng						
-搭爾	taq ng	305					1
-搭我	taq ngo	305					
-搭儂	taq nou						
-搭班	taq pae	305	194	384			
-搭襻	taq phae	305	60	385			55
-得怕	taq pho		290	363			55
+搭其	taq ji	305			和他；給他；對他；把他；和她；給她；對她；把她；和它；給它；對它；把它		
+搭渠	taq ji	305			和他；給他；對他；把他；和她；給她；對她；把她；和它；給它；對它；把它		
+搭橋	taq jiau	305		384	從中牽線		
+搭界	taq ka	305	195	384	有牽扯；有關聯		
+搭肝	taq ki-ke	305	65	384	用作食物的家畜胰臟		55
+搭架子	taq ko tsy	305			擺架子		
+搭牢	taq lau	305			1. 粘住；2. 糾纏；3. 捉住		55
+搭老酒	taq lau cieu				釀酒		
+德律風	taq liq fon				電話的舊稱，英語 telephone 的音譯		
+得漫	taq mae	305	175		打算；準備		55
+搭脈	taq maq	306	173	384	診脈；按脈		55
+嗒味道	taq mi dau				嚐嚐味道		
+搭俉	taq ng				和你；給你；對你；把你		
+搭爾	taq ng	305			和你；給你；對你；把你		1
+搭我	taq ngo	305			和我；給我；對我；把我		
+搭儂	taq nou				和你；給你；對你；把你		
+搭班	taq pae	305	194	384	合夥（做某事）		
+搭襻	taq phae	305	60	385	鞋上的襻兒，用於扣住鞋子		55
+得怕	taq pho		290	363	難道		55
 掇箱子	taq shian tsy						
-搭手	taq shieu	306					
-得斯	taq sy	305	308	363			55
-搭檔	taq taon	306	194				
+搭手	taq shieu	306			插手；管賬		
+得斯	taq sy	305	308	363	中綴，用來構成四字格形容詞		55
+搭檔	taq taon	306	194		兩人合作（做某事）		
 搭搭	taq taq	305	307	363	形容詞後綴	湯版等作「得得」，《上海方言詞典》作「搭搭」。可知該詞不是割韻。	
-答答	taq taq		278	208			
-搭搭漿	taq taq cian	306		384			55
-𢝉𢝉動	taq taq don	306	220	412		𢝉，《集韻》德盍切，心恐也。湯版作「𢱕𢱕動」，義不合。	55
-溚溚渧	taq taq ti	306	260	409			578
-搭對	taq tei	306	194	384			55
-得寵	taq tshon	305					
-搭錯	taq tshou						
-搭仔	taq tsy	305	299	384			55
-搭子	taq tsy	305	31	384			55
+答答	taq taq		278	208	形容連續不斷的說話聲		
+搭搭漿	taq taq cian	306		384	敷衍；應付		55
+𢝉𢝉動	taq taq don	306	220	412	形容有所愧疚，內心不安	𢝉，《集韻》德盍切，心恐也。湯版作「𢱕𢱕動」，義不合。	55
+溚溚渧	taq taq ti	306	260	409	1. 形容很溼，水往下滴的樣子；2. 形容程度深		578
+搭對	taq tei	306	194	384	兩人合作（做某事）		55
+得寵	taq tshon	305			受寵愛		
+搭錯	taq tshou				接錯		
+搭仔	taq tsy	305	299	384	連詞。和，跟		55
+搭子	taq tsy	305	31	384	指一起打牌或搓麻將的人		55
 搭是	taq zy				倒是		
-啄	taq7	336	203	352			
-嗒	taq7	306	137	397			
-得	taq7	304	308	363			
-掇	taq7	305	142	339			
-搭	taq7	305	152, 298	181, 383, 462	1. 輕輕拍打；2. 用胳膊攏着；3. 連接；4. 釀製；5. 跟，同；6. 替，給；7. 對；8. 把；9. 到；10. 從；11. 連詞。和，跟；12. 副詞。都；13. 副詞。倒	義 1、4 朱版作「撘」。義 5 - 11 清末傳教士文獻多用 teng，漢字作「等」。《寧波方言便覽》中亦有用「搭」，記音 teh。teh 在清末傳教士文獻中的使用頻率遠小於 teng。盛益民, 2018 認爲 teng 由 teh 增生鼻音尾而來，且今日該詞與蘇滬等地的「搭」只是偶然同音，并非同源。義 12、13 分別爲「都」和「倒」的促化。	
-𡍲	taq7	307	7	385			
-倒笡聳	tau chia son	77	228	312			55
+啄	taq7	336	203	352	禽類用嘴叩擊或夾住		
+嗒	taq7	306	137	397	品嚐；嘗		
+得	taq7	304	308	363	形容詞後綴：用來構成四字格形容詞		
+掇	taq7	305	142	339	1. 雙手端；2. 借錢（多指臨時借用，老派說法）		
+搭	taq7	305	152, 298	181, 383, 462	1. 輕輕拍打；2. 用胳膊攏着；3. 連接；4. 釀製；5. 跟，同；6. 替，給；7. 對；8. 把；9. 到；10. 從；11. 連詞。和，跟；12. 副詞。都；13. 副詞。倒	義 1、4 朱版作「撘」。義 5 - 11 清末傳教士文獻多用 teng，漢字作「等」。《寧波方言便覽》中亦有用「搭」，記音 teh。teh 在清末傳教士文獻中的使用頻率遠小於 teng。盛益民 (2018) 認爲 teng 由 teh 增生鼻音尾而來，且今日該詞與蘇滬等地的「搭」只是偶然同音，并非同源。義 12、13 分別爲「都」和「倒」的促化。	
+𡍲	taq7		7	385	地名用詞，意爲一塊地方		
+倒笡聳	tau chia son	77	228	312	傾斜；有坡度		55
 刀槍有夥	tau chian yeu hou						
-搗親	tau chin	77	141	294			55
-倒皵皮	tau chiq bi	77	47	312			55
-搗蛋鬼	tau dae ciu	77					
-倒宕木蓮	tau dan moq li	77					55
-倒頭	tau deu	77	11	311			
-倒頭順腦	tau deu zyun nau		336				55
-到地	tau di			9			
-搗地聾	tau di lon	77					55
-倒掉	tau diau	77					
+搗親	tau chin	77	141	294	從中搗亂，阻撓人家親事		55
+倒皵皮	tau chiq bi	77	47	312	指甲上方翹起的一絲皮		55
+搗蛋鬼	tau dae ciu	77			罵導彈滋事者，多指小孩		
+倒宕木蓮	tau dan moq li	77			上小下大的臉型		55
+倒頭	tau deu	77	11	311	與順頭相反的方向		
+倒頭順腦	tau deu zyun nau		336		（東西）方向不一致		55
+到地	tau di			9	後綴，用在「亂+單音節動詞+到地」結構中，強調動作胡亂隨意		
+搗地聾	tau di lon	77			耳朵完全聽不到聲音		55
+倒掉	tau diau	77			1. 傾倒掉；2. 指企業倒閉		
 倒掉兩籮蛋	tau diau lian lou dae						
-倒大	tau dou	77	222	311			55
-倒翻	tau fae	77	210	312			55
+倒大	tau dou	77	222	311	夫妻或情侶女的年齡比男的大		55
+倒翻	tau fae	77	210	312	傾倒		55
 倒翻四六	tau fae sy loq						
-搗鯁	tau gan	77	141	294			55
-倒汗	tau ghei-ghe		131				55
-搗臼	tau jieu	77	100				55
-搗臼子	tau jieu tsy	77	100				55
-搗臼丸	tau jieu wun		100	294			55
-到成	tau jin		196				55
-到介辰光	tau ka zyun kuaon	78					55
-倒叩	tau kheu		290	59			55
+搗鯁	tau gan	77	141	294	反對；阻撓		55
+倒汗	tau ghei-ghe		131		水蒸氣結成的水珠子		55
+搗臼	tau jieu	77	100		大石臼		55
+搗臼子	tau jieu tsy	77	100		在石臼中搗物的杵，頂端爲半球形石頭		55
+搗臼丸	tau jieu wun		100	294	大石臼		55
+到成	tau jin		196		待；對待		55
+到介辰光	tau ka zyun kuaon	78			1. 到一定的時候；2. 有時候		55
+倒叩	tau kheu		290	59	哪裏見得		55
 到口糊	tau kheu wu						
-倒角	tau koq		208				55
-倒掛眉毛	tau kuo mi mau	77					55
-倒㼑	tau li	77	206	312			55
+倒角	tau koq		208		書頁卷角		55
+倒掛眉毛	tau kuo mi mau	77			呈八字形的眉毛		55
+倒㼑	tau li	77	206	312	1. 西瓜切開時瓜心倒下；2. 西瓜過熟變質		55
 刀籠篰	tau lon bu		106	8	一種一尺來長圓柱體的小竹簍，常系在背上用來盛刀具或魚蝦等	朱版作「刀籠𥳖」。	55
 刀絡殼	tau loq khoq						
-倒沒	tau maq		210	312			55
-到門	tau men	78					55
-搗門	tau men	77					55
-倒摸順埭	tau moq zyun da		335	312			55
-倒摸順踏	tau moq zyun daq		335				55
+倒沒	tau maq		210	312	翻船		55
+到門	tau men	78			相當好；很不錯		55
+搗門	tau men	77			敲門		55
+倒摸順埭	tau moq zyun da		335	312	來來回回		55
+倒摸順踏	tau moq zyun daq		335		來來回回		55
 刀磨勒鋒快	tau mou laq fen khua						
 倒牛爿	tau ngeu bae						
 到儂客氣	tau nou khaq chi						
 到靶	tau po	78	215	203	（時間、年齡等）達到一定階段	朱版作「到壩」。	55
-倒向	tau shian			311			
-倒塌聳	tau thaq son		228				55
+倒向	tau shian			311	相反，反過來		
+倒塌聳	tau thaq son		228		傾斜；有坡度		55
 倒天燈油	tau thi ten yeu						
-倒拖	tau thou	77	228				55
-到底	tau ti	78		9, 203			
-倒篤	tau toq	77	228				55
-倒篤筋倒	tau toq cin tau	77	228				55
+倒拖	tau thou	77	228		稱東西時秤尾向下垂，所稱東西分量不足		55
+到底	tau ti	78		9, 203	1. 究竟；2. 後綴，用在「亂+單音節動詞+到底」結構中，強調動作胡亂隨意		
+倒篤	tau toq	77	228		頭或頂端朝下		55
+倒篤筋倒	tau toq cin tau	77	228		頭或頂端朝下		55
 倒篤大糊	tau toq dou wu						
-倒篤和尚	tau toq ghou zaon	77					
+倒篤和尚	tau toq ghou zaon	77			久雨時用紙剪一和尚倒貼在門窗上以求天晴，稱爲「倒篤和尚」。		
 倒篤丁倒	tau toq tin tau		228		頭朝下		55
-倒扎鉤	tau tsaq keu		106	312			55
-倒竈	tau tsau	77	256	312			
-倒作	tau tsoq	77	256	312			55
-搗子頭	tau tsy deu	77	100	294			55
+倒扎鉤	tau tsaq keu		106	312	有倒刺的魚鉤，魚上鉤後不易逃脫		55
+倒竈	tau tsau	77	256	312	糟糕		
+倒作	tau tsoq	77	256	312	倒黴；處境難堪		55
+搗子頭	tau tsy deu	77	100	294	在石臼中搗物的杵，頂端爲半球形石頭		55
 倒環楊柳	tau wae yan lieu						
-倒夜	tau ya		170				55
+倒夜	tau ya		170		遺精		55
 倒爺笨	tau ya ben	77	240	312	越長越笨	朱版作「倒夜笨」。	55
-倒陽	tau yan	77	170	311			55
-倒運	tau yun	77	256	311			
+倒陽	tau yan	77	170	311	遺精		55
+倒運	tau yun	77	256	311	運氣不好；倒黴		
 倒運年口	tau yun gni kheu						
-搗	tau3	77	152	294			
-到	tau5	78	196				
-戴頭篷	te deu bon	122	56	483	舊時女子出嫁時蓋住新娘頭臉的紅布		55
-戴涼帽介	te lian mau ka			483			
-點心	te shin	18					
-點心飯	te shin vae	18	62	251			55
-點心時	te shin zy	122	13	251			55
-𠡒腳	tei ciaq	166	196				55
-𠡒九筋	tei cieu cin		287				55
-對襟	tei cin	166					
-對進	tei cin	166	11	83			55
 刀	tau3	77	121	8	1. 量詞。疊；2. 量詞。塊	湯版記爲陰平。	
+搗	tau3	77	152	294	1. 使勁敲、撞（門）；2. 踢；3. 戳		
+到	tau5	78	196		待；對待		
+戴頭篷	te deu bon	122	56	483	舊時女子出嫁時蓋住新娘頭臉的紅布	朱版作「戴頭袱」。	55
+戴涼帽介	te lian mau ka			483	東西裝得高出容器		
+點心	te shin	18			點心		
+點心飯	te shin vae	18	62	251	下午三點鐘左右喫的點心或飯		55
+點心時	te shin zy	122	13	251	下午三點鐘左右的一段時間		55
+𠡒腳	tei ciaq	166	196		援引類似情況，要求一視同仁		55
+𠡒九筋	tei cieu cin		287		用在動詞加「勒」的後面，表示完成動作費盡力氣		55
+對襟	tei cin	166			中式上衣的一種式樣，兩襟相對，鈕釦在胸前正中		
+對進	tei cin	166	11	83	裏邊		55
 對折攔腰環	tei ciq lae iau guae	166					55
-堆頭	tei deu	165	120	337			55
-對頭	tei deu	166	11	83			
+堆頭	tei deu	165	120	337	成堆物的體積		55
+對頭	tei deu	166	11	83	1. 對面；2. 對方		
 堆頭大	tei deu dou						
-𠡒後腳	tei gheu ciaq		319				55
-對河	tei ghou	166	11	83			55
-對河干岸	tei ghou ki-ke nge			83			
-對河岸	tei ghou nge			83			
-對蝦	tei huo	166					
-對江	tei kaon	166	11	83			55
-對過	tei kou	166	11				
+𠡒後腳	tei gheu ciaq		319		暗中阻撓		55
+對河	tei ghou	166	11	83	河對面		55
+對河干岸	tei ghou ki-ke nge			83	河對面		
+對河岸	tei ghou nge			83	河對面		
+對蝦	tei huo	166			對蝦		
+對江	tei kaon	166	11	83	江對面		55
+對過	tei kou	166	11		對面		
 𠡒來扯去	tei le tsho chi						
 𠡒來扯去小事體	tei le tsho chi shiau zy thi						
-對攏	tei lon	166					55
-對落	tei loq	166	11	84			55
-對馬路	tei mo lu	166	11	84			55
+對攏	tei lon	166			對上		55
+對落	tei loq	166	11	84	下面		55
+對馬路	tei mo lu	166	11	84	馬路對面		55
 𠡒牛皮	tei ngeu bi						
-𠡒百筋	tei paq cin	166	287	213			55
-𠡒八𠡒九筋	tei paq tei cieu cin		287				
-𠡒布	tei pu	166					55
-對半夾起	tei pun kaq chi	166	271	84			55
-對手	tei shieu	166	31	83			
+𠡒百筋	tei paq cin	166	287	213	用在動詞加「勒」的後面，表示完成動作費盡力氣		55
+𠡒八𠡒九筋	tei paq tei cieu cin		287		用在動詞加「勒」的後面，表示完成動作費盡力氣（由百諧音八衍化而來）		
+𠡒布	tei pu	166			買布		55
+對半夾起	tei pun kaq chi	166	271	84	各一半		55
+對手	tei shieu	166	31	83	1. 幫手；2. 爲人處事的本領		
 對帶	tei ta	166	224	83	很多		55
 對帶	tei tan	166	224	83	很多	湯版作「對打」，《阿拉宁波话》又作「堆打」。其生動形式爲 tei44 tei31 don11。tei tan 常作後綴，變調不易確定，據其生動形式的變調，可確認前字非陰平，故非「堆打」。又因後字常無鼻化，故寫法暫定爲「對帶」。	55
 對對動	tei tei don				很多，生動形式		
 對對看	tei tei khe						
 𠡒𠡒會長牛皮糖	tei tei wei jian ngeu bi daon						
-對章	tei tsaon	166	250	83			55
-對出	tei tshyuq	166	11	83			55
-對注	tei tsyu			83			
+對章	tei tsaon	166	250	83	1. 合適，適宜；2. 合得來		55
+對出	tei tshyuq	166	11	83	外邊		55
+對注	tei tsyu			83	對飲		
 對注注	tei tsyu tsyu						
-對勿起	tei vaq chi	166					
-對弗起	tei vaq chi						55
-對勿住	tei vaq dzyu	166					
-對弗住	tei vaq dzyu			84			55
-對上	tei zaon	166	11	83			
-堆	tei1	165					
-𠡒	tei3	166	147, 186	213			
-對	tei5	166					
-戥盤	ten bun	253					55
-等昶	ten chian			403			
-頓腳	ten ciaq	253					
+對勿起	tei vaq chi	166			對不起		
+對弗起	tei vaq chi	166			對不起		55
+對勿住	tei vaq dzyu	166		84	對不起		
+對弗住	tei vaq dzyu	166		84	對不起		55
+對上	tei zaon	166	11	83	上方，上面		
+堆	tei1	165			量詞		
+𠡒	tei3	166	147, 186	213	1. 用力拉；2. 買（布）；3. 說，扯；閒談，買（布）		
+對	tei5	166			量詞。用於成對的人或物		
+戥盤	ten bun	253			戥子上盛所稱物體的小盤子		55
+等昶	ten chian			403	過一會兒		
+頓腳	ten ciaq	253			跺腳		
 頓腳陷地	ten ciaq ghae di						
-燈椒	ten ciau	253					55
-燉蛋湯	ten dae thaon	253					55
+燈椒	ten ciau	253			燈籠辣椒		55
+燉蛋湯	ten dae thaon	253			水蒸蛋，雞蛋羹。將雞蛋打散，加水調和，放入鍋中蒸熟		55
 蹲地炮	ten di phau						
-燉茶	ten dzo	253					55
+燉茶	ten dzo	253			燒開水		55
 燉茶壺	ten dzo wu				燒水壺		55
-凳櫥	ten dzyu	253	91	458			55
+凳櫥	ten dzyu	253	91	458	牀頭櫃		55
 敦枋	ten faon	253	85	407	立在兩扇門之間用來閂門的直木	湯版作「頓枋」。	55
 撉斧頭柄	ten fu deu pin						
-燈茄	ten jie	253					55
+燈茄	ten jie	253			燈籠辣椒		55
 燈開着	ten khe jiaq						
 等過去	ten kou chi						
-燈關熓	ten kuae u	252					55
+燈關熓	ten kuae u	252			關燈		55
 燈光照亮	ten kuaon ciau lian						
-膯牢	ten lau	253					55
-燉老酒	ten lau cieu	253					55
-燈籠	ten lon	252					
-燈籠褲	ten lon khu	253		123			
-燈籠辣茄	ten lon laq jie	253					55
-燈蛾	ten ngou	252					
-燈泡辣茄	ten phau laq jie						
-燈心	ten shin	252					
-燈心梗	ten shin kuan	252					55
-燈心草	ten shin tshau	252					
-訰訰	ten ten		179	126			
-頓頓	ten ten	253	307	301			55
+膯牢	ten lau	253			喫得過多來不及消化		55
+燉老酒	ten lau cieu	253			給酒加熱		55
+燈籠	ten lon	252			燈籠		
+燈籠褲	ten lon khu	253		123	褲腿肥大，褲腳口收緊，形似燈籠的一種褲子。		
+燈籠辣茄	ten lon laq jie	253			燈籠辣椒		55
+燈蛾	ten ngou	252			一種蛾，夜間常飛向燈光		
+燈泡辣茄	ten phau laq jie				燈籠辣椒		
+燈心	ten shin	252			油燈上用來點火的燈草、燈紗、燈線等		
+燈心梗	ten shin kuan	252			燈草		55
+燈心草	ten shin tshau	252			燈草		
+訰訰	ten ten		179	126	形容喋喋不休的責罵聲		
+頓頓	ten ten	253	307	301	形容詞後綴		55
 戥戥看	ten ten khi-khe						
-登登樣樣	ten ten yan yan	252					55
+登登樣樣	ten ten yan yan	252			模樣好；好看		55
 訰訰𧮙	ten ten zoq						
-燈盞	ten tsae	252		123			
-燈盞爿	ten tsae bae	252					55
-燈罩	ten tsau	252					
-戥子	ten tsy	253					
-躉注	ten tsyu	253	283	301			578
-登樣	ten yan	252	232	407			55
-燈油	ten yeu	252					
+燈盞	ten tsae	252		123	沒有燈罩的油燈		
+燈盞爿	ten tsae bae	252			沒有燈罩的油燈		55
+燈罩	ten tsau	252			燈罩		
+戥子	ten tsy	253			用以稱量微量物品的小型桿秤		
+躉注	ten tsyu	253	283	301	一併		578
+登樣	ten yan	252	232	407	模樣好；好看		55
+燈油	ten yeu	252			用來點燈的油，通常有煤油、菜油、豆油等		
 等於喫屁	ten yu chioq phi						
-等於講	ten yu kaon		324				55
-等晌	ten zaon	253		403			55
-墩	ten1		8				
-膯	ten1		110	480			
-戥	ten3	253	158	403			
-撉	ten5		153	480			
-濎	ten5	261	160	474	使水中雜質沉澱下去	又音，《阿拉宁波话》及朱版作「澄」。《集韻》澄，唐亘切，清濁分也。義合音不合。《廣韻》濎，都挺切，濎濘，水皃。音合，義不合。	
-燉	ten5		189	481			
-頓	ten5	253					
-斗篷	teu bon	193					
-鬥𥉻眼	teu chi ngae		37	47			55
-兜圈子	teu chiu tsy	193					
-鬥雞眼	teu ci ngae	193	37				
-鬥賬	teu cian		185	47			418
-鬥地主	teu di tsyu		183				
+等於講	ten yu kaon		324		口頭禪，說話時的多餘成分		55
+等晌	ten zaon	253		403	過一會兒		55
+墩	ten1		8		地名用詞，意爲平地上高起之處		
+膯	ten1		110	480	禽類的嗉囊		
+戥	ten3	253	158	403, 416	掂（重量），用手拖着物體上下晃動估計重量	朱版作「登」「等」。	
 搭爾	ten3	305	298		和你；給你；對你；把你	「搭爾」的合音。	
 頂	ten3	252	9		上面，上頭	湯版作「登」。周志鋒, 2012 認爲本字就是「頂」。	
+撉	ten5		153	480	1. 器具柄脫卯或鬆動後，握住柄垂直在地上猛擊，使柄入卯；2. 把東西豎起來在地上或桌上碰擊，以振落灰塵或使整齊		
 敦	ten5	253	143	406	1. 豎，直立；2. 形容詞。直，垂直		
+濎	ten5			474	使水中雜質沉澱下去	又音。	
+燉	ten5		189	481	1. 燒，加熱；2. 蒸		
+頓	ten5	253			量詞		
+斗篷	teu bon	193			斗篷		
+鬥𥉻眼	teu chi ngae		37	47	內斜視的人		55
+兜圈子	teu chiu tsy	193			繞圈		
+鬥雞眼	teu ci ngae	193	37		內斜視的人		
+鬥賬	teu cian		185	47	覈算賬目		418
+鬥地主	teu di tsyu		183		一種紙牌玩法		
 鬥肚皮	teu du bi						
-鬥風	teu fon	193	257	47			
-兜勒轉	teu laq tsoe	193					55
+鬥風	teu fon	193	257	47	逆風		
+兜勒轉	teu laq tsoe	193			神通廣大		55
 兜落帽風	teu loq mau fon						
-兜心	teu shin	193	285	362			55
+兜心	teu shin	193	285	362	完全；徹底		55
 兜心兜肺	teu shin teu fi						
-鬥水	teu syu	193	257	47			55
-兜尿布	teu syu pu	193					55
-兜當中	teu taon tson		10				578
+鬥水	teu syu	193	257	47	逆水		55
+兜尿布	teu syu pu	193			把尿布包在嬰兒下身		55
+兜當中	teu taon tson		10		正當中		578
 抖抖卵脬	teu teu loe phau				詈語，謂喋喋不休之人		
-兜底	teu ti		285				
+兜底	teu ti		285		完全；徹底		
 兜底兜面	teu ti teu mi						
-鬥甑	teu tsen		99				55
+鬥甑	teu tsen		99		較大的甑		55
 兜	teu1	193	216		正對着	湯版作「鬥」。《明清吳語詞典》作「兜」。	
-陡	teu3		228				
+陡	teu3		228		陡；坡度大		
 鬥	teu5		187	47	湊錢		
-太白星	tha baq shin	60					
+太白星	tha baq shin	60			金星		
 太平鳥	tha bin gniau						
 太平杠	tha bin kaon						
-太婆	tha bou	60	19	32			
+太婆	tha bou	60	19	32	曾祖母		
 太婆要喫自家扚	tha bou iau chioq zhi ko tiq						
 拖去	tha chi						
-討饒	tha gniau	60	197				
-太陰菩薩	tha in bu saq	60	3	32			55
-太公	tha kon	60	19	32			
+討饒	tha gniau	60	197		求饒		
+太陰菩薩	tha in bu saq	60	3	32	月亮		55
+太公	tha kon	60	19	32	曾祖父		
 太公牙鬚	tha kon ngo su				長鬚		
-討保	tha pau		197				
-太師椅	tha sy i	60					
-太師椅	tha sy iu	60					
-太太	tha tha	60	19	32			
+討保	tha pau		197		求情；說情		
+太師椅	tha sy i	60			老式寬大、帶靠背、扶手的木製椅子		
+太師椅	tha sy iu	60			老式寬大、帶靠背、扶手的木製椅子		
+太太	tha tha	60	19	32	1. 曾祖父；2. 曾祖母		
 太湖片	tha wu phi						
-太陽	tha yan	60					
-太陽菩薩	tha yan bu saq	60	3				55
-太陽發猛	tha yan faq man		258				55
+太陽	tha yan	60			太陽		
+太陽菩薩	tha yan bu saq	60	3		太陽		55
+太陽發猛	tha yan faq man		258		陽光燦爛，光線強烈		55
 太陽角	tha yan koq						
-太陽帽	tha yan mau	60	57				
-太陽眼	tha yan ngae	60					55
-太陽堆裏	tha yan tei li	60					55
-太陽底下	tha yan ti gho	60					55
-太陽穴	tha yan yuq	60					
-拖	tha1	177	136, 204	191			
-舑	tha1	136		355			
-坦盆	thae ben	136					55
-炭蒲帽	thae bu mau		133				55
+太陽帽	tha yan mau	60	57		白色的帆布荷葉帽		
+太陽眼	tha yan ngae	60			墨鏡		55
+太陽堆裏	tha yan tei li	60			太陽光照的地方		55
+太陽底下	tha yan ti gho	60			太陽地		55
+太陽穴	tha yan yuq	60			太陽穴		
+拖	tha1		136, 204	191	1. 獸類用嘴叼東西；2. 拿（含貶義）；3. 拉開吵架或打架的人		
+舑	tha1	136	136, 204	191, 355	（舌頭）伸出	湯版及《阿拉宁波话》作「拖」，朱版作「舑」「拖」。	
+坦盆	thae ben	136			平坦的盆子，用來盛放沒有湯汁的熟菜		55
+炭蒲帽	thae bu mau		133		相當於「炭簍子」，高帽子		55
 炭蒲帽越戴	thae bu mau yuq ta						
-炭墼	thae ciq	136					55
-坍臺	thae de	136	199				
-攤頭	thae deu	136	88	421			
-攤販	thae fae	136					
-嘆苦經	thae khu cin	136	315				55
-攤穀耙	thae koq bo		101				55
-攤穀耙	thae koq bun		101				55
-攤餅	thae pin	136					55
-攤屍	thae sy	136					55
-攤屍牀	thae sy zaon	136					55
-毯子	thae tsy	136					
-灘簧	thae waon	136	124	440			
+炭墼	thae ciq	136			指用炭末搗製成的圓柱狀燃料		55
+坍臺	thae de	136	199		丟人		
+攤頭	thae deu	136	88	421	設在路旁、廣場等處的售貨攤		
+攤販	thae fae	136			擺攤做小買賣的人		
+嘆苦經	thae khu cin	136	315		訴苦		55
+攤穀耙	thae koq bo		101		用於翻曬或聚攏穀物的器具，裝有長柄，一端是長方形的木板		55
+攤穀耙	thae koq bun		101		用於翻曬或聚攏穀物的器具，裝有長柄，一端是長方形的木板		55
+攤餅	thae pin	136			把麪糊放在鍋中做成薄形的餅		55
+攤屍	thae sy	136			1. 屍體停放在板上等待入殮；2. 罵睡着或躺着的人		55
+攤屍牀	thae sy zaon	136			靈牀		55
+毯子	thae tsy	136			鋪在牀上或蓋在身上的較厚的棉、毛織品或棉毛混織品		
+灘簧	thae waon	136	124	440	寧波的一種地方戲，以說唱爲主		
 舑舌頭	thae zhiq deu						
 坍	thae1	136	171	472	因爲疲勞過度而體力不支	湯版、朱版作「勯」。《集韻》勯，多寒切，力竭也。湯版、朱版引《吳下方言考》：「今吳諺謂用力已倦爲勯，字從力，亶聲，俗用『癱』，乃疾也。」「勯」字音不合。	
-攤	thae1	136	121	421			
-灘	thae1		9				
-舑	thae1	136	136	355			
-坦	thae3	136	231				
-炭	thae5	136					
+攤	thae1	136	121	421	量詞。用於大張的紙		
+灘	thae1		9		地名用詞，本指江河湖海的灘塗		
+舑	thae1	136	136	355	舌頭伸出		
+坦	thae3	136	231	419	（鍋、盆、籃等）淺；內壁弧度較小	朱版作「塌」。	
+炭	thae5	136			把木材和空氣隔絕，加高熱燒成的一種黑色燃料		
 鐋鑼	than lou	206	107	230	手提的小銅鑼	朱版作「宕鑼」。	
-淌白	thaon baq	231					55
+淌白	thaon baq	231			暗娼		55
 湯婆子	thaon bou tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
 湯婆子	thaon bun tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
-耥田	thaon di	231					55
-湯糰	thaon doe	231	79	124			
-燙衣裳	thaon i zaon	231					55
-燙開	thaon khe	231	213				55
-湯果	thaon kou	231	78	124			55
-湯鍋	thaon kou	231	96	124			
-湯果粉	thaon kou fen	231	79	124			55
+耥田	thaon di	231			在水稻行間推拉，鬆土除草		55
+湯糰	thaon doe	231	79	124	湯圓，糯米粉做的球形食品，有餡兒，帶湯喫		
+燙衣裳	thaon i zaon	231			熨衣服		55
+燙開	thaon khe	231	213		燙着；燙傷		55
+湯果	thaon kou	231	78	124	一種用糯米粉做的短圓柱形圓子，無餡		55
+湯鍋	thaon kou	231	96	124	安裝在竈邊利用餘熱熱水的小水鍋		
+湯果粉	thaon kou fen	231	79	124	做湯果、湯糰等的水磨糯米粉		55
 湯果還嘸沒熟	thaon kou gha mhiq zoq						
 湯果還嘸沒熟	thaon kou wa mhiq zoq						
-湯麪	thaon mi	231					
-燙煞	thaon saq	231	246	325			55
-燙煞鬼	thaon saq ciu	231	32				55
-摥螄螺	thaon sy lou						
-湯水	thaon syu	231	78	124			
-湯水壺	thaon syu wu	231	94	326		多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
-套套	thaon thau		129	301			
-湯盅	thaon tson	231					55
-湯碗	thaon un	231					
-湯飯	thaon vae	231	61	124			
+湯麪	thaon mi	231			帶湯的麪條		
+燙煞	thaon saq	231	246	325	形容非常急躁，迫不及待		55
+燙煞鬼	thaon saq ciu	231	32		做事非常急躁的人		55
+摥螄螺	thaon sy lou				在長竿上系網兜或竹器，用它在河底推拉以撮取螺螄		
+湯水	thaon syu	231	78	124	給小孩喫的零食		
+湯水壺	thaon syu wu	231	94	326	湯婆子	多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
+套套	thaon thau		129	301	方法		
+湯盅	thaon tson	231			一種小碗		55
+湯碗	thaon un	231			一種小碗		
+湯飯	thaon vae	231	61	124	冷飯加較多的水煮成或用開水沖泡的飯，一般當早飯喫		
 湯壺子	thaon wu tsy	231				多數地區首字均爲「湯」，亦有少數首字爲「燙」。推薦寫「湯」。	55
-湯藥	thaon yaq	231					
-湯	thaon1	231					
+湯藥	thaon yaq	231			指用水煎服的藥		
+湯	thaon1	231			湯水		
 摥	thaon5	231	192	443	在長竿上系網兜或竹器，用它在河底推拉以撮取螺螄	湯版、朱版作「耥」。《玉篇》摥，他浪切，推。	
 忒晏	thaq ae						
-塌鼻頭管	thaq baq deu kun	307	43				55
+塌鼻頭管	thaq baq deu kun	307	43		鼻樑平坦的鼻子		55
 忒笨	thaq ben						
-脫皮	thaq bi	306					
-塌蒲帽	thaq bu mau			419			
+脫皮	thaq bi	306			互相抵消		
+塌蒲帽	thaq bu mau			419	恭维的話		
 忒淺	thaq chi						
-脫氣	thaq chi			368			
+脫氣	thaq chi			368	形容詞後綴		
 忒尖	thaq ci						
 忒緊	thaq cin						
 搨金糰	thaq cin doe						
 忒急	thaq ciq						
 忒貴	thaq ciu						
-搨大餅	thaq da pin	307					55
+搨大餅	thaq da pin	307			把做好的溼麪餅放在爐內膛壁上烘烤		55
 搨蛋	thaq dae						
-脫頭	thaq deu	306					55
-塌地壤	thaq di gnian						55
-塌地垟	thaq di yan		210				55
+脫頭	thaq deu	306			支出超過收入		55
+塌地壤	thaq di gnian				緊貼地面；席地（而坐）		55
+塌地垟	thaq di yan		210		緊貼地面；席地（而坐）		55
 忒大	thaq dou						
-搨大餅	thaq dou pin	307					55
+搨大餅	thaq dou pin	307			把做好的溼麪餅放在爐內膛壁上烘烤		55
 忒重	thaq dzon						
 忒遲	thaq dzy						
 搨粉	thaq fen						
-脫絞	thaq gau	306	202	368			55
+脫絞	thaq gau	306	202	368	中斷；接不上		55
 忒閒	thaq ghae						
 忒鹹	thaq ghae						
 忒厚	thaq gheu						
@@ -15836,32 +15836,32 @@
 忒遲	thaq ji						
 忒長	thaq jian						
 忒近	thaq jin						
-脫情勿來	thaq jin vaq le		337				
-脫情弗來	thaq jin vaq le						55
-脫隔	thaq kaq	306	209	368			55
+脫情勿來	thaq jin vaq le		337		無法拒絕別人的情面		
+脫情弗來	thaq jin vaq le		337		無法拒絕別人的情面		55
+脫隔	thaq kaq	306	209	368	相連的東西脫開		55
 忒高	thaq kau						
 忒客氣	thaq khaq chi						
-脫空	thaq khon	306	202	368			
+脫空	thaq khon	306	202	368	空閒；間斷		
 脫殼棉襖	thaq khoq mi au						
 忒苦	thaq khu						
-脫褲菜	thaq khu tshe		72	369			55
+脫褲菜	thaq khu tshe		72	369	塌棵菜，一種普通蔬菜。二年生草本植物，植株短，葉大，近圓形，墨綠色，葉面皺摺，貼地生長，花淡黃色，又稱「塔古菜」「盆子菜」		55
 忒快	thaq khua						
-塔古菜	thaq ku tshe	307					55
+塔古菜	thaq ku tshe	307			塌棵菜，一種普通蔬菜。二年生草本植物，植株短，葉大，近圓形，墨綠色，葉面皺摺，貼地生長，花淡黃色，又稱「脫褲菜」「盆子菜」		55
 忒懶	thaq lae						
-脫懶	thaq lae	306	37	369			55
+脫懶	thaq lae	306	37	369	即「癱」字的緩讀。癱子		55
 忒冷	thaq lan						
 忒老	thaq lau						
 搨老豆腐	thaq lau deu vu						
-脫力	thaq liq	306	171	368			55
+脫力	thaq liq	306	171	368	1. 因生病或勞累過度而體力不支；2. 植物肥力不足		55
 沓落	thaq loq		201	379	拖延；拉下；落在後面	《阿拉宁波话》作「脫落」，朱版作「㥆落」。	
 忒慢	thaq mae						
 忒忙	thaq maon						
-搨襪底	thaq maq ti	307	161				55
-脫卯	thaq mau	306					55
-鰨鰻	thaq mun		67				55
+搨襪底	thaq maq ti	307	161		在襪子底部加一層結實的布，使更耐磨損		55
+脫卯	thaq mau	306			卯釘脫出		55
+鰨鰻	thaq mun		67		比目魚，兩眼長在頭部的一側，因形似箬殼而得名		55
 忒難	thaq nae						
 忒呆	thaq nge						
-脫班	thaq pae	306					
+脫班	thaq pae	306			晚點，遲到		
 忒飽	thaq pau						
 拓碑	thaq pei						
 忒胖	thaq phaon						
@@ -15871,28 +15871,28 @@
 忒少	thaq shiau						
 忒深	thaq shin						
 忒溼	thaq shiq						
-塔松	thaq son	307					55
+塔松	thaq son	307			松樹的一種，樹冠呈塔形，是珍貴的觀賞樹		55
 忒鬆	thaq son						
 搨帶魚	thaq ta ng						
 忒陡	thaq teu						
-塌塌𤿏	thaq thaq nei	307	262	488			55
-塔塔響	thaq thaq shian		286				55
+塌塌𤿏	thaq thaq nei	307	262	488	形容非常軟		55
+塔塔響	thaq thaq shian		286		用在動詞後面，表示程度深		55
 沓沓腐	thaq thaq vu				做事拖沓的人		
 脫套換套	thaq thau wun thau						
 忒推扳	thaq thei pae						
 忒低	thaq ti						
-脫底	thaq ti		209	368			55
-脫底茶籮	thaq ti dzo lou	306	32	242, 369			55
-禿頂	thaq tin	306					
+脫底	thaq ti		209	368	1. 器物底部脫落；2. 鋁茶壺、鋁鍋等換底		55
+脫底茶籮	thaq ti dzo lou	306	32	242, 369	喻指喫光用光，沒有財產的人		55
+禿頂	thaq tin	306			1. 禿頂；2. 禿頂的人		
 禿頂依稀	thaq tin i shi						
 忒短	thaq toe						
 忒多	thaq tou						
 忒早	thaq tsau						
 脫罩郎	thaq tsau laon						
 忒忖	thaq tshen						
-脫出	thaq tshyuq		209				
+脫出	thaq tshyuq		209		1. 柄、把兒等與主件分離，脫位；2. 落（là）下，不在其列；3. 解脫		
 忒壞	thaq ua						
-脫房	thaq vaon		180				55
+脫房	thaq vaon		180		舊俗，結婚十天內，趁新人熟睡之際，將房門或窗戶悄悄卸下，然後衆人進入新房。脫房成功，新郎父母還要用好酒好菜獎賞脫房的人		55
 忒勿	thaq vaq						
 忒弗	thaq vaq						
 忒弗像話	thaq vaq zhian wo						1
@@ -15900,326 +15900,326 @@
 忒弗像樣	thaq vaq zhian yan						1
 忒油	thaq yeu						
 忒遠	thaq yu						
-塌	thaq7	307	231	419			
-忒	thaq7	306	283	148			
-搨	thaq7	307	157, 188	256, 336, 419	攤平	湯版及蘇滬的方言詞典皆作「搨」，《阿拉宁波话》作「貼」，音不合。	
-搭	thaq7		298	181			
+塌	thaq7	307	231	419	低凹；不挺		
+忒	thaq7	306	283	148	太		
+搨	thaq7	307	157, 188	256, 336, 419	1. 攤平；2. 把食物平貼鍋中用油煎；3. 把食物平貼鍋中或爐中使熟	湯版及蘇滬的方言詞典皆作「搨」，《阿拉宁波话》作「貼」，音不合。	
+搭	thaq7		298	181	副詞。都	又音。	
 沓	thaq7	306	202	378	1. 拖延；2. 拖沓	朱版作「㥆」。	
-脫	thaq7	306	121	368			
-討便宜	thau bi gni	78					
-套盤圈	thau bun chiu	78					55
-討賬	thau cian	78					
-套結	thau ciq	78					
-套鞋	thau gha	78					
-討䞁房	thau i vaon	78	179				55
-套間	thau kae	78					
-討價	thau ko	78					
-討老婆	thau lau bou	78					
 突	thaq7		135	178	眼珠凸出	又音，朱版作「宊」。	
+脫	thaq7	306	121	368	量詞。塊，段，截		
 𡍲	thaq7	307	121	385	量詞。處	《阿拉宁波话》也作「塔」。	
+討便宜	thau bi gni	78			在言辭上占人便宜		
+套盤圈	thau bun chiu	78			繞大圈子		55
+討賬	thau cian	78			要賬		
+套結	thau ciq	78			中式衣服開衩處爲防止開裂，用線重疊回繞成的結		
+套鞋	thau gha	78			雨鞋		
+討䞁房	thau i vaon	78	179		續絃，男子喪妻後再娶		55
+套間	thau kae	78			套房		
+討價	thau ko	78			要價		
+討老婆	thau lau bou	78			娶妻		
 討米難落鑊	thau mi nae loq ghoq						
-套衫	thau sae	78					
+套衫	thau sae	78			套頭的不開襟上衣		
 討虛頭	thau shiu deu						
-套套	thau thau		129	301			
-討債	thau tsa	78					
-討債鬼	thau tsa ciu	78	32	73			
-討飯	thau vae		27	73			
-討飯頭	thau vae deu		27				55
-討飯坯	thau vae phei		27				55
-討飯相	thau vae shian		247				55
-套裁	thau ze	78					55
-套	thau5	78	162	300			
-胎記	the ci	122					
+套套	thau thau		129	301	方法		
+討債	thau tsa	78			要債		
+討債鬼	thau tsa ciu	78	32	73	詈語，多用於責罵糾纏不休的小孩		
+討飯	thau vae		27	73	乞丐；要飯的		
+討飯頭	thau vae deu		27		乞丐；要飯的		55
+討飯坯	thau vae phei		27		乞丐；要飯的		55
+討飯相	thau vae shian		247		像要飯的		55
+套裁	thau ze	78			一種剪裁方法，爲節省衣料，裁剪兩件以上的服裝時，在一塊料子上作合理安排，儘量減少廢料		55
+套	thau5	78	162	300	繞；走迂迴而較遠的路		
+胎記	the ci	122			胎記		
 台州片	the cieu phi						
-胎髮	the faq	122					
-胎鞋	the gha		60				55
-胎裏記認	the li ci gnin	122					55
-胎裏殘疾	the li dzae jiq		52				55
-胎裏毛病	the li mau bin		52				55
-態鬆	the son	122					
-態話	the wo		52				55
-態	the3	122	246	202	性子緩，不會着急發愁	替字。《阿拉宁波话》作「⿰忄態」。	
-推牌九	thei ba cieu	166	184				
-退皮	thei bi	167	188	283			55
-推緝	thei chiq		194				55
+胎髮	the faq	122			胎髮		
+胎鞋	the gha		60		用舊的手拉車外胎做成的鞋，過去農民幹活時穿		55
+胎裏記認	the li ci gnin	122			胎記		55
+胎裏殘疾	the li dzae jiq		52		從孃胎裏帶來的毛病		55
+胎裏毛病	the li mau bin		52		從孃胎裏帶來的毛病		55
+態鬆	the son	122			很輕鬆，不難		
+態話	the wo		52		安逸話		55
+態	the3	122	246	202	性子緩，不會着急發愁	替字，本字不明。《阿拉宁波话》作「⿰忄態」。	
+推牌九	thei ba cieu	166	184		玩牌九時，對莊家而言是「推牌九」，對其餘三方而言是「打牌九」		
+退皮	thei bi	167	188	283	互相抵消		55
+推緝	thei chiq		194		夜間在淺海雙手持方形網捕捉⿱寨魚（一種小海魚）。		55
 煺雞	thei ci				用滾水燙後除去雞毛		
-腿腈	thei cin	167					55
-退堂	thei daon	167					
-退庭	thei din	167					
-貪肚下門	thei du gho men		333				55
-腿肉	thei gnioq	167	64				
-退潮	thei jiau	167					
-探監	thei kae	167					
-探口氣	thei kheu chi	167					
-退過	thei kou	167	256	283			
+腿腈	thei cin	167			豬後腿附近的肉		55
+退堂	thei daon	167			法官宣佈退出審判庭	舊說法。	
+退庭	thei din	167			法官宣佈退出審判庭		
+貪肚下門	thei du gho men		333		貪喫		55
+腿肉	thei gnioq	167	64		家畜大腿上的肉		
+退潮	thei jiau	167			退潮		
+探監	thei kae	167			到監獄探望服刑人員		
+探口氣	thei kheu chi	167			探聽對方發態度		
+退過	thei kou	167	256	283	1. 糟透，完蛋；2. 算了		
 退過嘸賬	thei kou mh cian						
 推來攮去	thei le naon chi						
-貪領徑	thei lin cin						
-推扳	thei pae	167	215, 252	337	差勁，不好；相差		578
+貪領徑	thei lin cin				貪圖方便		
+推扳	thei pae	167	215, 252	337	1. 差勁，不好；2. 相差		578
 推板	thei pae	167	86	337	舊式窗戶安裝在玻璃窗裏邊能移動的木板推窗，起掩蔽和保護作用		55
-推扳眼	thei pae ngae	167					418
+推扳眼	thei pae ngae	167			差點		418
 推扳三年	thei pae sae gni						
-推扳勿起	thei pae vaq chi	167					55
-推扳弗起	thei pae vaq chi			337			55
-貪小	thei shiau			214			
+推扳勿起	thei pae vaq chi	167		337	不得了；後果嚴重		55
+推扳弗起	thei pae vaq chi	167		337	不得了；後果嚴重		55
+貪小	thei shiau			214	愛貪小便宜		
 貪小失大	thei shiau syuq dou						
-貪嘴落夜	thei tsyu loq ya		333				55
+貪嘴落夜	thei tsyu loq ya		333		因爲貪喫而搞得很晚		55
 推爲	thei wei	167	252	337	差勁，不好	《阿拉宁波话》及朱版作「推位」。	
-煺	thei1	167	158	439	已宰殺的豬、雞等用滾水燙後去掉毛	湯版、朱版作「㷟」，《阿拉宁波话》也作「㷟」。《康熙字典》「煺」同「㷟」。「煺」位於 Unicode 基本區，「㷟」位於擴展 A 區，推薦作「煺」。	
-貪	thei1		176				
-㶒	thei5	167	159	279			
-褪缺	then chiuq	253	208	457			55
+煺	thei1	167	158	439	已宰殺的豬、雞等用滾水燙後去掉毛	湯版、朱版作「㷟」，《阿拉宁波话》也作「㷟」。《集韻》㷟，通回切，以湯除毛。《康熙字典》「煺」同「㷟」。「煺」位於 Unicode 基本區，「㷟」位於擴展 A 區，推薦作「煺」。	
+貪	thei1		176		貪圖；看中		
+㶒	thei5	167	159	279	1. 把竹器、臉盆等底部在水面拍擊以除去污物；2. 水面與物面相平		
+褪缺	then chiuq	253	208	457	刀等刃口缺掉一塊		55
 褪腳毛蟹	then ciaq mau ha						
-吞金子	then cin tsy	253					55
-褪頭髮	then deu faq	253					
+吞金子	then cin tsy	253			吞金自殺		55
+褪頭髮	then deu faq	253			掉頭髮		
 氽長江	then jian kaon						
-氽江浮屍	then kaon vei sy						55
-氽江浮屍	then kaon veu sy	253					55
-褪殼	then khoq		205				55
-褪褲阿大	then khu aq dou		36				55
-褪褲阿舅	then khu aq jieu	253					
+氽江浮屍	then kaon vei sy				罵人如浮在水面的屍體，也指無業的遊蕩者		55
+氽江浮屍	then kaon veu sy	253			罵人如浮在水面的屍體，也指無業的遊蕩者		55
+褪殼	then khoq		205		1. 蛻皮；2. 比喻附着物脫落		55
+褪褲阿大	then khu aq dou		36		戲稱褲子老是往下掉的人		55
+褪褲阿舅	then khu aq jieu	253			戲稱褲子老是往下掉的人		
 褪落	then loq						
-氽	then3	253	188	117, 323, 411			
+氽	then3	253	188	117, 323, 411	1. 放在油裏炸；2. 把豆腐跟菜或肉類一起煮；3. 漂浮		
 褪	then5	253	208	457	脫落；掉；使脫落		
 偷爬	theu bo						
 偷伴	theu bun	193	295	362	偷偷地；暗地裏	《阿拉宁波话》也作「偷盤」。《明清吳語詞典》作「偷伴」。後字本字或爲「𨒃」或「瞞」。	55
-偷針	theu cin	194	52	471			55
+偷針	theu cin	194	52	471	麥粒腫，眼瞼上長的紅腫小疙瘩		55
 透骨鮮	theu kuaq shi	194	277		很鮮		55
 透骨新鮮	theu kuaq shin shi	194	265	309	很鮮	湯版作「透刮新鮮」。	55
 透刮斯鮮	theu kuaq sy shi	194	277		很鮮		55
 偷力勿旺	theu liq vaq waon						
 偷力弗旺	theu liq vaq waon						1
-偷生	theu san		22	361			
-偷生爿	theu san bae	193	22	361			418
-透鮮	theu shi	194	277	309			55
-透新鮮	theu shin shi	194	265	309			55
-偷窗白眼	theu tshaon baq ngae	193					55
-偷飯烏龜	theu vae u ciu	193	114	362			55
-斢	theu1	194	121	463			
-㪗	theu3	194	154	408			
-透	theu5	194	224	309			
-天靉攏來	thi a lon le	19					55
-天牌	thi ba	19					55
-天平	thi bin	20					
-天平秤	thi bin chin	20					55
-天井	thi cin	20	84	27			
-䪆潔	thi ciq	21	261	501			55
-天莙薘根	thi ciun daq ken		115	28			55
-剃頭	thi deu	21	24	275			
-剃頭剪刀	thi deu ci tau	21					55
+偷生	theu san		22	361	私生子		
+偷生爿	theu san bae	193	22	361	私生子		418
+透鮮	theu shi	194	277	309	味道很鮮美		55
+透新鮮	theu shin shi	194	265	309	形容食物很新鮮		55
+偷窗白眼	theu tshaon baq ngae	193			黑眼珠偏斜，露出較多的眼白，露出傲慢表情的人		55
+偷飯烏龜	theu vae u ciu	193	114	362	一種棲伏在埠頭石縫中的小魚，體扁，口大尾小，釣魚蝦時常來偷食釣餌，故名		55
+斢	theu1	194	121	463	量詞。幢,座	《阿拉宁波话》也作「透」。	
+㪗	theu3	194	154	408	1. 把包着或摺疊着的東西打開；2. 抖動使去掉塵土		
+透	theu5	194	224	309	多（與花頭、花樣經等搭配，含貶義）		
+天靉攏來	thi a lon le	19			烏雲聚集		55
+天牌	thi ba	19			牌九中點子最大的牌，有十二點		55
+天平	thi bin	20			一種精密的衡器		
+天平秤	thi bin chin	20			一種精密的衡器		55
+天井	thi cin	20	84	27	1. 天窗；2. 明堂，宅院中的露天空地。		
+䪆潔	thi ciq	21	261	501	（皮膚）細膩；光滑		55
+天莙薘根	thi ciun daq ken		115	28	車前草		55
+剃頭	thi deu	21	24	275	1. 理髮；2. 理髮師		
+剃頭剪刀	thi deu ci tau	21			理髮剪子		55
 剃頭酒	thi deu cieu	247			嬰兒出生滿一個月時家中所辦的喜慶宴席。這天，小孩由福壽雙全的老人抱着剃頭，故稱		55
-剃頭椅子	thi deu i tsy	21					55
-剃頭椅子	thi deu iu tsy	21					55
-剃頭郎	thi deu laon	21	24	275			55
-剃頭師父	thi deu sy vu	21	24	275			55
-剃頭擔	thi deu tae	21					55
-剃頭刀	thi deu tau	21	95				55
-剃頭店	thi deu ti	21	88	275			55
-剃頭椅子	thi deu u tsy	21					55
+剃頭椅子	thi deu i tsy	21			理髮椅		55
+剃頭椅子	thi deu iu tsy	21			理髮椅		55
+剃頭郎	thi deu laon	21	24	275	理髮師		55
+剃頭師父	thi deu sy vu	21	24	275	理髮師		55
+剃頭擔	thi deu tae	21			理髮挑		55
+剃頭刀	thi deu tau	21	95		1. 理髮工具，有兩排重疊的帶刃的齒，使用時上排齒左右移動把頭髮剪下來；2. 剃刀，刮淨毛髮用的刀子		55
+剃頭店	thi deu ti	21	88	275	理髮店		55
+剃頭椅子	thi deu u tsy	21			理髮椅		55
 天地良心	thi di lian shin						
-天庭	thi din	20					
-天童寺	thi don zy	20					55
-天妃娘娘	thi fi gnian gnian	19					55
-天旱	thi ghei-ghe	19					
-天河	thi ghou	20					
-天亮	thi gnian		13	28			3000
-天亮頭	thi gnian deu		13	28			55
-天亮飯	thi gnian vae		62	28			578
-天日	thi gniq	20	13	27			
+天庭	thi din	20			前額的中央		
+天童寺	thi don zy	20			寺院，全國重點文物保護單位，位於鄞州區東吳鎮天童村		55
+天妃娘娘	thi fi gnian gnian	19			即媽祖，行舟者供奉的神		55
+天旱	thi ghei-ghe	19			天氣乾旱		
+天河	thi ghou	20			銀河		
+天亮	thi gnian		13	28	1. 早晨；2. 上午	後字聲母同化爲 gn。	3000
+天亮頭	thi gnian deu		13	28	早晨		55
+天亮飯	thi gnian vae		62	28	早飯		578
+天日	thi gniq	20	13	27	指白天的時間長度		
 天日日日長	thi gniq gniq gniq jian						
-天花	thi huo	19					
-天花板	thi huo pae	19	44	28			
-天一閣	thi iq koq	20					
-天根舌	thi ken zhiq		115				55
-天狗喫日頭	thi keu chioq gniq deu	20					55
-天狗喫月亮	thi keu chioq yuq lian	20					55
-天狗拖日頭	thi keu tha gniq deu	20					55
-天狗拖月亮	thi keu tha yuq lian	20					55
-天狗拖日頭	thi keu thou gniq deu	20					55
-天狗拖月亮	thi keu thou yuq lian	20					55
-天開眼	thi khe ngae	19					55
+天花	thi huo	19			天花，由天花病毒引起的一種烈性傳染病		
+天花板	thi huo pae	19	44	28	1. 建築物室內頂部表面的地方；2. 上齶		
+天一閣	thi iq koq	20			全國重點文物保護單位，位於海曙區，是中國現存最古老的藏書樓之一		
+天根舌	thi ken zhiq		115		車前草		55
+天狗喫日頭	thi keu chioq gniq deu	20			日食		55
+天狗喫月亮	thi keu chioq yuq lian	20			月食		55
+天狗拖日頭	thi keu tha gniq deu	20			日食		55
+天狗拖月亮	thi keu tha yuq lian	20			月食		55
+天狗拖日頭	thi keu thou gniq deu	20			日食		55
+天狗拖月亮	thi keu thou yuq lian	20			月食		55
+天開眼	thi khe ngae	19			雷雨前後，雲間忽然像裂開似的，轟然有聲，同時發出光亮的現象		55
 天家	thi ko	19	4	28	1. 天氣; 2. 時節	根據變調，後字陰平的可能性更大。《鄞縣通志》亦作「天家」。湯版作「天價」，調不合。	578
-天家熱	thi ko gniq	19					578
-天家冷	thi ko lan	19					578
+天家熱	thi ko gniq	19			天氣熱		578
+天家冷	thi ko lan	19			天氣冷		578
 天家忒熱	thi ko thaq gniq						
 天家忒熱	thi ko thou gniq						
-天藍	thi lae	19					
-天裏	thi li	19					55
-添裏	thi li		164	376			55
-天裏菩薩	thi li bu saq	19	31				
-添裏褲	thi li khu	20	59	376			55
-添裏布衫	thi li pu sae	20	57	376			55
-體裏汰剌	thi li tha la	21	266	161			55
+天藍	thi lae	19			如天空般的藍色		
+天裏	thi li	19			天上		55
+添裏	thi li		164	376	穿在最裏面；貼身穿		55
+天裏菩薩	thi li bu saq	19	31		老天爺		
+添裏褲	thi li khu	20	59	376	貼身穿的單褲		55
+添裏布衫	thi li pu sae	20	57	376	內衣		55
+體裏汰剌	thi li tha la	21	266	161	1. 形容髒亂，不整潔；2. 零零碎碎，雜七雜八		55
 天亮紅霞靉愁愁	thi lian ghon ya a zeu zeu						
-天落水	thi loq syu	19					55
+天落水	thi loq syu	19			直接用水缸等接的雨水（與河水、井水等相對）		55
 天落雨毛絲	thi loq yu mau sy						
-天蘿花箲	thi lou huo shi	19					55
-天蘿箲	thi lou shi	19	98	28			55
 天蘿	thi lou	19	73	27	即絲瓜，嫩時可食用	朱版也作「天羅」。	55
+天蘿花箲	thi lou huo shi	19			刷鍋洗碗用的絲瓜絡		55
+天蘿箲	thi lou shi	19	98	28	刷鍋洗碗用的絲瓜絡		55
 天外人	thi nga gnin						
-天外落材	thi nga loq ze						
-剃牙鬚	thi ngo su	21					55
-天皰瘡	thi phau tshaon	19					55
-天怕烏風猛暴	thi pho u fon man bau						
-掭筆	thi piq	20					55
-替手	thi shieu	21	24				
-天心	thi shin	20		27			
-天數	thi su		215	28			
-天水	thi syu	19	131				
-天膽地大	thi tae di dou	19	239	28			55
-天打暴	thi tan bau						
+天外落材	thi nga loq ze				思維怪異的人		
+剃牙鬚	thi ngo su	21			刮鬍子		55
+天皰瘡	thi phau tshaon	19			儂皰瘡		55
+天怕烏風猛暴	thi pho u fon man pau						
+掭筆	thi piq	20			用毛筆蘸墨汁在硯臺上理順筆毛		55
+替手	thi shieu	21	24		代替的人		
+天心	thi shin	20		27	車軸		
+天數	thi su		215	28	符合命數；命該如此（含有感嘆的意味）		
+天水	thi syu	19	131		直接用水缸等接的雨水（與河水、井水等相對）		
+天膽地大	thi tae di dou	19	239	28	形容膽子很大		55
+天打暴	thi tan pau						
 天打龍光閃	thi tan lon kuaon shi						
 天打煞	thi tan saq	20					55
-體汰	thi tha	21	266	161			418
-體汰阿姆	thi tha a m			161			
-體汰阿姆	thi tha an m	21					
-體汰婆	thi tha bou	21	29	161			55
-體體汰汰	thi thi tha tha	21	266				55
+體汰	thi tha	21	266	161	髒；不整潔		418
+體汰阿姆	thi tha a m			161	指又髒又不整潔的婦女，也指不會收拾屋子不會理家的婦女		
+體汰阿姆	thi tha an m	21			指又髒又不整潔的婦女，也指不會收拾屋子不會理家的婦女		
+體汰婆	thi tha bou	21	29	161	指又髒又不整潔的婦女，也指不會收拾屋子不會理家的婦女		55
+體體汰汰	thi thi tha tha	21	266		1. 形容髒亂，不整潔；2. 零零碎碎；雜七雜八		55
 體托	thi thoq	21	250	161	通情達理；妥帖、圓滿	湯版作「體拓」。	55
-天窗	thi tshaon	20					
-天菜	thi tshe	19	72	28			55
-天菜蕻	thi tshe hon	19					55
-天菜心	thi tshe shin	19					55
+天窗	thi tshaon	20			天窗		
+天菜	thi tshe	19	72	28	一種蔬菜，莖長葉大，可長至數尺高，嫩時剝葉子喫，老了則以喫莖（天菜蕻）爲主		55
+天菜蕻	thi tshe hon	19			天菜的長莖		55
+天菜心	thi tshe shin	19			天菜的長莖		55
 天菜心烤肉	thi tshe shin khau gnioq						
 天知地知	thi tsyu di tsyu						
-天夜	thi ya	19	13	27			55
+天夜	thi ya	19	13	27	指夜晚的時間長度		55
 天象巖	thi zhian ngae						
 天晴落雨	thi zhin loq yu						
-舔	thi3	20					
-䪆	thi5	21	261	501			55
+舔	thi3	20			舔		
+䪆	thi5	21	261	501	細膩，無顆粒		55
 添	thi5	20	146	376	1. 襯；夾；2. 往磨眼裏續（米、黃豆等）	湯版記爲陰平。	
 貼紕	thiaq bi	324	58	257	衣服邊緣往裏摺的部分	《阿拉宁波话》也作「貼皮」。	55
-貼堂房	thiaq daon vaon	324					55
-貼袋	thiaq de	324	58	257			55
-貼隔壁	thiaq kaq piq	324	87	257			55
-貼色一樣	thiaq saq iq yan		270	257			55
-貼色做號	thiaq saq tsou ghau		270	257			55
-貼色做樣	thiaq saq tsou yan		270	257			55
-貼色無離	thiaq saq vu li		270	257			55
-貼色無落	thiaq saq vu loq						
-貼色葫蘆	thiaq saq wu lu		270	257			55
-貼色無離	thiaq saq wu- li		270	257			55
-貼色無落	thiaq saq wu- loq						
-貼色十六	thiaq saq zyuq loq			257			
-貼心	thiaq shin	324					
-貼水	thiaq syu	324	126	257			
-貼當中	thiaq taon tson	324	10				578
-帖子	thiaq tsy	324					
-帖	thiaq7	324					
-貼	thiaq7	324		256			
-挑肩胛	thiau ci kaq		321	239			55
-挑肩胛	thiau ci khaq		321				55
-挑頭路	thiau deu lu	109					55
-䠷頭王	thiau deu waon	109	26	433			55
-跳河	thiau ghou	109					
-跳長繩	thiau jian zhin		185				55
-跳高	thiau kau	109					
-跳角	thiau koq	109					55
+貼堂房	thiaq daon vaon	324			舊式房子中堂兩旁的正房。東、西緊鄰的兩間稱爲「正堂房」，正堂房後面一間稱爲「後堂房」，再相鄰者爲「貼堂房」		55
+貼袋	thiaq de	324	58	257	從外面貼上去的口袋		55
+貼隔壁	thiaq kaq piq	324	87	257	1. 隔壁，緊挨着的屋子或人家；2. 緊挨着的座位；3. 緊挨着，距離很近		55
+貼色一樣	thiaq saq iq yan		270	257	完全一樣		55
+貼色做號	thiaq saq tsou ghau		270	257	完全一樣		55
+貼色做樣	thiaq saq tsou yan		270	257	完全一樣		55
+貼色無離	thiaq saq vu li		270	257	完全一樣		55
+貼色無落	thiaq saq vu loq				完全一樣		
+貼色葫蘆	thiaq saq wu lu		270	257	完全一樣		55
+貼色無離	thiaq saq wu- li		270	257	完全一樣		55
+貼色無落	thiaq saq wu- loq				完全一樣		
+貼色十六	thiaq saq zyuq loq			257	完全一樣		
+貼心	thiaq shin	324			親近		
+貼水	thiaq syu	324	126	257	現金跟過賬洋鈿之間的差價		
+貼當中	thiaq taon tson	324	10		正當中		578
+帖子	thiaq tsy	324			請帖		
+帖	thiaq7	324			1. 字帖；2. 量詞，一劑中藥叫一帖藥		
+貼	thiaq7	324		256	補貼		
+挑肩胛	thiau ci kaq		321	239	承擔責任		55
+挑肩胛	thiau ci khaq		321		承擔責任		55
+挑頭路	thiau deu lu	109			用骨針等爲頭髮梳出一道縫，使頭髮梳向不同方向		55
+䠷頭王	thiau deu waon	109	26	433	突出的人或物		55
+跳河	thiau ghou	109			投水自殺		
+跳長繩	thiau jian zhin		185		兩人拉着長繩子並把它甩成半圓形，讓一個或幾個人來跳		55
+跳高	thiau kau	109			跳高，田徑運動之一		
+跳角	thiau koq	109			臺榭四角飛檐聳起上翹的地方		55
 挑谷籮	thiau koq lou						
 跳穀麻雀	thiau koq mo cian	109	31		喻指說話嘰嘰喳喳，喋喋不休的人（多指女性）	《阿拉宁波话》作「跳穀麻將」。	55
 跳穀黃虻	thiau koq waon man						
-跳落	thiau loq		165				55
+跳落	thiau loq		165		下（車）		55
 挑籮夾擔	thiau lou kaq tae						
 挑馬蘭	thiau mo lae						
-跳魚	thiau ng	109					55
+跳魚	thiau ng	109			彈塗魚，生活在海塗中的一種小魚		55
 挑牛泥	thiau ngeu gni						
-跳板	thiau pae	109					
+跳板	thiau pae	109			搭在船邊鏈接船與岸的長板，便於上下船		
 跳三記	thiau sae ci						
-挑手旁	thiau shieu baon	109					55
-挑痧氣	thiau so chi	109					55
-挑痧郎中	thiau so laon tson	109					55
-挑擔	thiau tae	109					
-挑擔子	thiau tae tsy		321				
+挑手旁	thiau shieu baon	109			偏旁「扌」		55
+挑痧氣	thiau so chi	109			用針挑刺一定穴位上的皮膚使出血，可治中暑		55
+挑痧郎中	thiau so laon tson	109			運用針灸治病的郎中，醫治發痧等疾病		55
+挑擔	thiau tae	109			1. 挑擔子；2. 挑伕		
+挑擔子	thiau tae tsy		321		承擔責任		
 挑貼紕	thiau thiaq bi	109			繰邊	湯版作「挑貼皮」。	55
-跳蚤	thiau tsau	109					
-跳勿落	thiau vaq loq	109	324				
-跳弗落	thiau vaq loq						55
-跳舞	thiau wu-vu	109					
-跳遠	thiau yu	109					
-跳上	thiau zaon		165				
-跳橡皮筋	thiau zhian bi cin	109					55
-跳繩	thiau zhin	109					
-挑	thiau1	109	146				
+跳蚤	thiau tsau	109			跳蚤		
+跳勿落	thiau vaq loq	109	324		比喻因不滿而不肯罷休		
+跳弗落	thiau vaq loq				比喻因不滿而不肯罷休		55
+跳舞	thiau wu-vu	109			跳舞		
+跳遠	thiau yu	109			跳遠，田徑運動之一		
+跳上	thiau zaon		165		上（車）		
+跳橡皮筋	thiau zhian bi cin	109			跳皮筋		55
+跳繩	thiau zhin	109			跳繩		
+挑	thiau1	109	146		1. 用肩膀支扁擔承物；2. 藉助細棍、針等工具將物挑出；3. 挑剔；4. 挖，用刀等從菜、草的根部挖取		
 挑	thiau3	109	196	395	給人機會或好處	湯版、朱版作「𣂀」。《明清吳語詞典》作「挑」。《集韻》𣂀，他彫切，說文斛旁有𣂀，一曰利也。視作本字很牽強。	
-跳	thiau5		7				
-聽張	thin cian	261	136	158			418
-聽頭	thin deu	261	76	158			
-聽頭貨	thin deu hou	261	76	158			55
-聽頭罐頭	thin deu kun deu	261					55
-聽醫藥費	thin i yaq fi						
+跳	thiau5		7		1. 跳躍；2. 地名用詞，指地勢突然高出的地方		
+聽張	thin cian	261	136	158	聽見；聽到		418
+聽頭	thin deu	261	76	158	罐頭		
+聽頭貨	thin deu hou	261	76	158	罐頭食品		55
+聽頭罐頭	thin deu kun deu	261			罐頭		55
+聽醫藥費	thin i yaq fi				支付醫藥費		
 聽空艙鈿	thin khon tshaon di						
 聽過忘記	thin kou maon ci						
-挺括	thin kuaq	261					
+挺括	thin kuaq	261			平整，挺直		
 聽勒可憐	thin laq khou li						
 聽利鈿	thin li di						
 聽落下巴饞	thin loq gho po zae						
-聽明	thin min	261	136	158			578
-聽名聲	thin min shin		253				55
-挺兵	thin pin	261					55
-聽壁腳	thin piq ciaq		320				
+聽明	thin min	261	136	158	聽見；聽到		578
+聽名聲	thin min shin		253		名聲好聽，實際不怎麼樣		55
+挺兵	thin pin	261			象棋術語，兵向前走一步		55
+聽壁腳	thin piq ciaq		320		躲着偷聽別人說話		
 聽煞可憐	thin saq khou li						
 挺胸凸肚	thin shion daq du						
 聽聽看	thin thin khe						
-挺卒	thin tsaq	261					55
-聽回話	thin wei wo	261	139				55
-汀	thin1		9				
-聽	thin1	261	187	158			
-鐵防	thiq baon	355	300				55
-鐵爬	thiq bo		300	307			55
-鐵耙	thiq bo	355		307			55
-鐵鍬	thiq chiau	355					
-踢腳𢲔手	thiq ciaq pae shieu		339				55
-踢腳線	thiq ciaq shi	355	87	467			
-鐵蛋	thiq dae	355					
-鐵蛋一樣	thiq dae iq yan		218				55
-鐵蛋介	thiq dae ka		218				55
+挺卒	thin tsaq	261			象棋術語，卒向前走一步		55
+聽回話	thin wei wo	261	139		答覆		55
+汀	thin1		9		地名用詞，本指洲渚		
+聽	thin1	261	187	158	支付（補償性的錢款）		
+鐵防	thiq baon	355	300		如果；萬一	可能是「倘」的緩讀	55
+鐵爬	thiq bo		300	307	如果；萬一	可能是「倘」的緩讀	55
+鐵耙	thiq bo	355		307	裝有長柄，有三到五個鐵齒的耙，是碎土、平土的農具		55
+鐵鍬	thiq chiau	355			鐵鍬		
+踢腳𢲔手	thiq ciaq pae shieu		339		絆手絆腳		55
+踢腳線	thiq ciaq shi	355	87	467	室內牆腳四周高約十公分的木板或水泥裝飾保護帶		
+鐵蛋	thiq dae	355			形容安定無憂		
+鐵蛋一樣	thiq dae iq yan		218		形容安定無憂		55
+鐵蛋介	thiq dae ka		218		形容安定無憂		55
 鐵軋鉗	thiq gaq ji						
-鐵行	thiq ghaon	355					55
-天亮	thiq gnian	355	13	28			10000
-天亮頭	thiq gnian deu	355	13	28			55
-天亮飯	thiq gnian vae	355	62	28			578
-鐵灰	thiq huei	355					
-踢燕子	thiq i tsy	355	185				55
-鐵軌	thiq kuei	355					
+鐵行	thiq ghaon	355			舊時經營鋼材、廢鋼鐵的商行		55
+天亮	thiq gnian	355	13	28	1. 早晨；2. 上午	後字聲母同化爲 gn，前字促化。	10000
+天亮頭	thiq gnian deu	355	13	28	早晨		55
+天亮飯	thiq gnian vae	355	62	28	早飯		578
+鐵灰	thiq huei	355			如鐵屑一般的灰色		
+踢燕子	thiq i tsy	355	185		踢毽子		55
+鐵軌	thiq kuei	355			鐵軌		
 鐵卵脬	thiq loe phau				詈語，謂女之濫交者		
-鐵路	thiq lu	355					
-聽明	thiq min		136	158			55
+鐵路	thiq lu	355			鐵路		
+聽明	thiq min		136	158	聽見；聽到	前字促化。	55
 鐵板新村	thiq pae shin tshen						
-鐵撲落	thiq phoq loq	355					55
-鐵鏽紅	thiq shieu ghon	355	272			《阿拉宁波话》作「鐵繡紅」，疑爲錯字。	55
-鐵絲揢籮	thiq sy khaq lou	355	36	307		湯版作「鐵絲揢蘿」，疑爲錯字	55
-鐵凳	thiq ten	355					55
-踢土旁	thiq thu baon	355					55
-鐵倉介	thiq tshaon ka		234				55
-鐵抄	thiq tshau	355					55
-鐵車	thiq tsho	355	92	307			55
-鐵匠	thiq zhian	355					
-鐵樹	thiq zyu	355					
-鐵	thiq7	355					
-跺底	tho ti	98	60	427			55
-跺	tho3	98	161	427			
-段頭	thoe deu	161	60	264			
-統整	thon cin	285	283	287			55
-通條	thon diau	285					
-統貨	thon hou	285					
-通關手	thon kuae shieu	285					55
-痛稀稀	thon shi shi	285	219	407			55
-通通樣樣	thon thon gnian gnian						
-統扯	thon tsha	285					55
-統扯	thon tsho	285	215	287			55
-通知	thon tsyu	285					
+鐵撲落	thiq phoq loq	355			形容詞後綴：用來構成四字格形容詞		55
+鐵鏽紅	thiq shieu ghon	355	272		像鐵鏽一般的紅色	《阿拉宁波话》作「鐵繡紅」，疑爲錯字。	55
+鐵絲揢籮	thiq sy khaq lou	355	36	307	喻指吝嗇不肯花錢的人	湯版作「鐵絲揢蘿」，疑爲錯字	55
+鐵凳	thiq ten	355			砧子，砸鋼鐵材料時墊在底下的鐵質器具		55
+踢土旁	thiq thu baon	355			偏旁「土」		55
+鐵倉介	thiq tshaon ka		234		形容身體結實強壯		55
+鐵抄	thiq tshau	355			鐵鍬		55
+鐵車	thiq tsho	355	92	307	縫紉機		55
+鐵匠	thiq zhian	355			鐵匠		
+鐵樹	thiq zyu	355			鐵樹		
+鐵	thiq7	355			一種金屬		
+跺底	tho ti	98	60	427	鞋墊		55
+跺	tho3	98	161	427	1. 用腳底摩擦；2. 用手指摩擦使分離		
+段頭	thoe deu	161	60	264	零頭布		
 段	thoe1	161	121		量詞。截	《阿拉宁波话》也作「彖」。	
+統整	thon cin	285	283	287	全部；都		55
+通條	thon diau	285			通煤爐用的鐵條		
+統貨	thon hou	285			大、小、好、壞混在一起的貨物		
+通關手	thon kuae shieu	285			掌中橫紋一線貫通的手掌		55
+痛稀稀	thon shi shi	285	219	407	形容有點兒痛		55
+通通樣樣	thon thon gnian gnian				通通		
+統扯	thon tsha	285			平均；平均計算		55
+統扯	thon tsho	285	215	287	平均；平均計算		55
+通知	thon tsyu	285			1. 把事項告訴人知道；2. 告知某事件的文書		
 通用吳語拼音	thon yon wu gniu phin in						
 拓拓看	thoq thoq khi-khe						
-拓	thoq7	337	121, 158	189			
+拓	thoq7	337	121, 158	189	1. 量詞，拇指與中指張開的長度；2. 張開拇指和中指來度量長短		
 忒晏	thou ae						
 拖棒使杖	thou baon sy jian						
-拖鼻頭	thou baq deu	178	36	191			55
+拖鼻頭	thou baq deu	178	36	191	長流鼻涕的人（多指小孩）		55
 忒笨	thou ben						
 忒淺	thou chi						
 拖去	thou chi						
 忒尖	thou ci						
-拖雞豹	thou ci pau	177	111	191			55
+拖雞豹	thou ci pau	177	111	191	一種小獸，似貓而大，專門偷雞喫		55
 忒緊	thou cin						
 忒急	thou ciq						
 忒貴	thou ciu						
@@ -16227,18 +16227,18 @@
 忒大	thou dou						
 忒重	thou dzon						
 忒遲	thou dzy						
-拖帉	thou fen	178	94	191			
-拖帉柄	thou fen pin	178					
-拖帉布	thou fen pu	178					
-拖帉	thou fon	178	94	191		《阿拉宁波话》作「拖紛」，湯版作「拖畚」。或當爲「拖帉」。𢁥，《廣韻》撫文切，巾也，亦作帉。蘇州、上海均音 fen1。寧波音 fon1，較特殊。取 Unicode 基本區的「帉」爲正。	799
-拖帉柄	thou fon pin	178					55
-拖帉布	thou fon pu	178					55
-拖鞋	thou gha	177					
-拖鞋爿	thou gha bae		89				55
+拖帉	thou fen	178	94	191	拖把	《阿拉宁波话》作「拖紛」，湯版作「拖畚」。朱版作「拖紛」「拖𡊄」，註也音 thou fen。當爲「拖帉」。𢁥，《廣韻》撫文切，巾也，亦作帉。蘇州、上海均音 fen1。寧波音 fon1，較特殊。取 Unicode 基本區的「帉」爲正。	
+拖帉柄	thou fen pin	178			拖把的柄		
+拖帉布	thou fen pu	178			拖把的布條或線繩		
+拖帉	thou fon	178	94	191	拖把	《阿拉宁波话》作「拖紛」，湯版作「拖畚」。朱版作「拖紛」「拖𡊄」，註也音 thou fen。當爲「拖帉」。𢁥，《廣韻》撫文切，巾也，亦作帉。蘇州、上海均音 fen1。寧波音 fon1，較特殊。取 Unicode 基本區的「帉」爲正。	799
+拖帉柄	thou fon pin	178			拖把的柄		55
+拖帉布	thou fon pu	178			拖把的布條或線繩		55
+拖鞋	thou gha	177			拖鞋		
+拖鞋爿	thou gha bae		89		1. 拖鞋；2. 皮卡車的俗稱		55
 忒閒	thou ghae						
 忒鹹	thou ghae						
 忒厚	thou gheu						
-拖下飯	thou gho vae	178					55
+拖下飯	thou gho vae	178			指隨心所欲喫很多菜		55
 拖人落水	thou gnin loq syu						
 忒熱	thou gniq						
 忒好	thou hau						
@@ -16269,7 +16269,7 @@
 忒深	thou shin						
 忒溼	thou shiq						
 忒鬆	thou son						
-拖得斯黃	thou taq sy uaon	178	263	149			55
+拖得斯黃	thou taq sy uaon	178	263	149	很柔軟		55
 忒陡	thou teu						
 忒推扳	thou thei pae						
 忒低	thou ti						
@@ -16278,10 +16278,10 @@
 忒早	thou tsau						
 忒忖	thou tshen						
 忒壞	thou ua						
-拖黃	thou uaon	178	263	149			55
+拖黃	thou uaon	178	263	149	很柔軟		55
 拖黃老泥螺	thou uaon lau gni lou						
 忒勿	thou vaq						
-忒弗	thou vaq						
+忒弗	thou vaq						1
 忒弗像話	thou vaq zhian wo						1
 忒勿像樣	thou vaq zhian yan						
 忒弗像樣	thou vaq zhian yan						1
@@ -16289,136 +16289,136 @@
 忒油	thou yeu						
 拖油瓶	thou yeu bin	178	22	191	俗稱改嫁婦女所攜帶的子女（含貶義）	朱版也作「拖有病」。	
 忒遠	thou yu						
-忒	thou5	306	283	148		《阿拉宁波话》作「太」，音不合。	
-土鯆魚	thu bu ng	45	70	11			55
-吐清水	thu chin syu	45					55
-土箕	thu ci	45	104	11			55
-都整	thu cin		283				55
-堍頭	thu dei			338			
-堍頭	thu deu	46	7	338			55
-土地堂	thu di daon	45					55
 拖	thou1	177	188, 204	383	1. 拉着物體使其愛着地面或另一物體表面移動；2. 在身後耷拉着；3. 攜帶，領；4. 掛，垂下；5. 拖延；6. 喫飯時，使勁夾菜喫；7. 魚蝦等在外面糊上溼麪粉後在油裏炸；8. 獸類用嘴叼東西；9. 拿（含貶義）；10. 拉開吵架或打架的人	義 7 朱版作「䴱」。義 8 - 10 又音 tha1。	
+忒	thou5	306	283	148	太	《阿拉宁波话》作「太」，音不合。	
+土鯆魚	thu bu ng	45	70	11	學名塘鱧魚，一種淡水魚，體略呈圓筒形，青黑色，頭大而闊，稍扁平，後部側扁		55
+吐清水	thu chin syu	45			噯酸，胃酸從胃裏湧到嘴裏		55
+土箕	thu ci	45	104	11	用竹條編成的容器，平底，略呈長方形，三面有邊沿，一面敞口，上有兩條交叉的短提樑，用途很廣		55
+都整	thu cin		283		全部；都		55
+堍頭	thu dei			338	橋兩頭靠近平地的地方		
+堍頭	thu deu	46	7	338	橋兩頭靠近平地的地方		55
+土地堂	thu di daon	45			土地廟		55
 吐綻	thu dzae						
-土匪	thu fi	45					
-土郎中	thu laon tson	45					55
-土布	thu pu	45					
-吐絲	thu sy	45					
-土司	thu sy	45					
-土笥	thu sy	45	104	11			55
-土燭	thu tsoq	45					55
-兔子	thu tsy	45					
-土黃	thu waon	45					
-兔	thu5	45					
-低微	ti bi	18	246	163			55
-點飢	ti ci			251			
-店張	ti cian		25	217			55
-踮腳	ti ciaq	19	38	467			
-癲腳舞手	ti ciaq wu-vu shieu						
-抵針	ti cin	18	93	193			
-店堂	ti daon	19	88	217			
-店堂間	ti daon kae	19	88	217			55
-低頭	ti deu	18	10	163			
-蒂頭	ti deu	18	117	390			55
+土匪	thu fi	45			土匪		
+土郎中	thu laon tson	45			本地治病賣草藥的郎中		55
+土布	thu pu	45			家用老式織布機織的布		
+吐絲	thu sy	45			蠶長到一定時候，從嘴裏凸出絲來		
+吐司	thu sy	45			吐司	英語 toast 的音譯。湯版作「土司」。	
+土笥	thu sy	45	104	11	1. 裝有長提樑，可以肩挑的竹箕，用來挑秧、挑稻草等；2. 同「糞箕」		55
+土燭	thu tsoq	45			以白柚爲主要原料製成的祭祀、照明用具。顏色有紅、白、黃、綠四種，喪奠祭祀用白色，冬至保安用綠色，水陸道場及朱天、藥皇都用黃色		55
+兔子	thu tsy	45			兔子		
+土黃	thu waon	45			如黃土的顏色		
+兔	thu5	45			兔子		
+低微	ti bi	18	246	163	身份或地位低		55
+點飢	ti ci			251	喫點東西墊肚子		
+店張	ti cian		25	217	老主顧，老買主		55
+踮腳	ti ciaq	19	38	467	一隻腳有病，走路一踮一踮的人		
+癲腳舞手	ti ciaq wu-vu shieu				得意忘形，手舞足蹈		
+抵針	ti cin	18	93	193	頂針		
+店堂	ti daon	19	88	217	開店的房屋		
+店堂間	ti daon kae	19	88	217	開店的房屋		55
+低頭	ti deu	18	10	163	低的一頭；低處		
+蒂頭	ti deu	18	117	390	1. 瓜、果等跟莖、枝相連的部分；2. 物體的末尾部分		55
 低頭勿去	ti deu vaq chi						
 低頭弗去	ti deu vaq chi						1
-底下	ti gho	18					
-底紅	ti ghon	18	75	219			55
+底下	ti gho	18			1. 下面；2. 底部		
+底紅	ti ghon	18	75	219	似柿子而小，橢圓形，皮薄而鮮紅		55
 顛撼勿起	ti he vaq chi						
 顛撼弗起	ti he vaq chi						1
 顛撼勿起	ti hei- vaq chi						
 顛撼弗起	ti hei- vaq chi						1
-店家	ti ko	19	88	217			
-店倌	ti kun	19	23	217			55
+店家	ti ko	19	88	217	店鋪		
+店倌	ti kun	19	23	217	商店職員，售貨員		55
 癲老𡢿	ti lau gnion						
-點亮	ti lian	19					
-店面	ti mi	19					
-點名	ti min	19					
-點名簿	ti min bu	19					
-抵配	ti phei	18	202	193			
-顛三倒四	ti sae tau sy	18					
-點心	ti shin	18					
+點亮	ti lian	19			點燈		
+店面	ti mi	19			商店的門面		
+點名	ti min	19			1. 查點人數時一個個叫名字；2. 指名		
+點名簿	ti min bu	19			點名冊		
+抵配	ti phei	18	202	193	拼着；豁出去		
+顛三倒四	ti sae tau sy	18			形容紊亂，沒有條理		
+點心	ti shin	18			點心		
 點心嘸沒黃𤿏糕	ti shin mh maq waon nei kau						
-點心飯	ti shin vae	18	62	251			55
-點心時	ti shin zy	18	13	251			55
+點心飯	ti shin vae	18	62	251	下午三點鐘左右喫的點心或飯		55
+點心時	ti shin zy	18	13	251	下午三點鐘左右的一段時間		55
 點天燈	ti thi ten						
 點哚八哚	ti to paq to						
 抵隻豬娘	ti tsaq tsyu gnian						
 癲子癲	ti tsy ti						
-典主	ti tsyu	18					55
-低	ti1	18					
-顛	ti1	18	167	477, 495			
-墊	ti3		7				
-底	ti3		7, 50, 298				
-搭其	ti3	305					
-點	ti3	18	149				
-店	ti5	19					
-渧	ti5	19		411		《阿拉宁波话》作「滴」，音不合。	
-踮	ti5	19					
+典主	ti tsyu	18			典賣物品的主人		55
+低	ti1	18			1. 從下到上距離小，裏地面近（與「高」相對）；2. 等級在下的；3. 頭向下垂		
+顛	ti1	18	167	477, 495	1. 身體劇烈掙扎；2. 因精神痛苦而竭力哭鬧		
+墊	ti3		7		地名用詞，義同「底」		
+底	ti3		7, 50, 298		1. 止境；盡頭；2. 地名用詞，到底之處		
+搭其	ti3	305			和他；給他；對他；把他；和她；給她；對她；把她；和它；給它；對它；把它	「搭其」的合音。	
+點	ti3	18	149		用手指		
+店	ti5	19			商店的總稱		
+渧	ti5	19		411	水等液體滴下	《阿拉宁波话》作「滴」，音不合。《集韻》丁計切，泣皃，一曰滴水	
+踮	ti5	19			踮腳		
 爹頭孃腳	tia deu gnian ciaq	69	254	316	形容牛頭不對馬嘴		55
-爹孃	tia gnian	69					
+爹孃	tia gnian	69			父母		
 嗲聲嗲氣	tia shin tia chi						
 爹做郎中醫勿好	tia tsou laon tson i vaq hau						
 爹做郎中醫弗好	tia tsou laon tson i vaq hau						1
-爹	tia1	69					
-嗲	tia3	69	248	428			
-吊腳筋	tiau ciaq cin	109	172	105			55
+爹	tia1	69			父親，敘稱		
+嗲	tia3	69	248	428	形容撒嬌的聲音或姿態		
+吊腳筋	tiau ciaq cin	109	172	105	腳抽筋		55
 吊腳柱鼓	tiau ciaq dzyu ku						
 釣金龜	tiau cin kuei						
-鳥頭	tiau deu	108	51	67			
-吊紅	tiau ghon	109	75	209			55
+鳥頭	tiau deu	108	51	67	指人的老練程度（多指小孩）		
+吊紅	tiau ghon	109	75	209	似柿子而小，橢圓形，皮薄而鮮紅		55
 吊紅大舌頭	tiau ghon dou zhiq deu						
 雕花臉	tiau huo li						
-雕花師父	tiau huo sy vu	108					55
-鳥窠	tiau khou	108					55
-窵角	tiau koq	108	267	328			55
-窵角腸癰	tiau koq jian ion		55	328			55
+雕花師父	tiau huo sy vu	108			從事雕刻的手藝人		55
+鳥窠	tiau khou	108			鳥窩		55
+窵角	tiau koq	108	267	328	偏僻		55
+窵角腸癰	tiau koq jian ion		55	328	中醫稱闌尾炎		55
 釣來田雞放勒揢簍裏	tiau le di ci faon laq khaq loe li						
 吊臉鬼	tiau li ciu						
-吊樑桶	tiau lian don	108	100	105			55
-刁蠻	tiau mae	108					
-吊襪帶	tiau maq ta	109					
-釣鰻	tiau mun			209			
-釣魚	tiau ng	108					
-釣魚鉤	tiau ng keu	108					55
-釣魚竿	tiau ng ki-ke	108					
-吊眼	tiau ngae		37				55
-吊眼皮	tiau ngae bi	108					55
-吊膀子	tiau paon tsy	108					
+吊樑桶	tiau lian don	108	100	105	井中打水用的小木桶		55
+刁蠻	tiau mae	108			狡猾；奸詐		
+吊襪帶	tiau maq ta	109			吊帶襪		
+釣鰻	tiau mun			209	長而韌的食物爲完全吞下，鯁在喉頭並引起嘔吐感		
+釣魚	tiau ng	108			釣魚		
+釣魚鉤	tiau ng keu	108			釣魚鉤		55
+釣魚竿	tiau ng ki-ke	108			釣魚竿		
+吊眼	tiau ngae		37		眼皮向上吊起的人		55
+吊眼皮	tiau ngae bi	108			因眼疾而形成的向上翻起的眼皮		55
+吊膀子	tiau paon tsy	108			男女挑逗調情		
 吊煞	tiau saq						
-吊煞鬼	tiau saq ciu	109	131	105			55
+吊煞鬼	tiau saq ciu	109	131	105	1. 上吊而死變成的鬼；2. 詈語		55
 吊煞野貓	tiau saq ya mae						
-吊燥水	tiau sau syu		316				55
-凋心	tiau shin			320			
-吊心火	tiau shin hou		316				55
-吊水	tiau syu	108					
-吊水繩	tiau syu zhin	108					55
+吊燥水	tiau sau syu		316		引發慾望		55
+凋心	tiau shin			320	西瓜過熟而瓜心中空		
+吊心火	tiau shin hou		316		惹人生氣		55
+吊水	tiau syu	108			用吊桶從井中汲水		
+吊水繩	tiau syu zhin	108			井繩		55
 刁蹬	tiau ten	108	198	8	1. 賭氣不理人；2. 刁難，故意使人爲難（多指撂挑子）	朱版作「刁𩍐」。	
 吊吊唱	tiau tiau tshaon						
-鳥測字	tiau tshaq zy	108					55
+鳥測字	tiau tshaq zy	108			用麻雀選牌來算命的迷信活動		55
 刁嘴故生	tiau tsyu ku san				1. 撒嬌，使小性子；2. 委屈相	兩個意思《活色生香寧波話》p. 99 和 p. 123 分別記作「刁嘴故生」和「吊嘴鼓腮」。	
-吊胃口	tiau wei kheu	108					
-刁	tiau1	108	198	8			
+吊胃口	tiau wei kheu	108			引逗而不予或不說		
+刁	tiau1	108	198	8	賭氣不理人		
 雕	tiau1	108	57	369	1. 塗抹（化妝品）；2. 製作（皮衣）		
-鳥	tiau3	108					
-吊	tiau5	108	120	105			
-頂晏	tin ae						
+鳥	tiau3	108			鳥		
+吊	tiau5	108	120	105	量詞，串		
+頂晏	tin ae				最晚		
 頂晏來	tin ae le						
 頂晏到	tin ae tau						
-頂壓末	tin aq maq		18				418
+頂壓末	tin aq maq		18		最後		418
 頂壓末一場	tin aq maq iq jian						
 頂壓末一回	tin aq maq iq wei						
 頂壓末一日	tin aq maq iq zyuq						
 頂壓末還是	tin aq maq wa zy						
-頂壓煞	tin aq saq		18				418
+頂壓煞	tin aq saq		18		最後		418
 頂壓煞一場	tin aq saq iq jian						
 頂壓煞一回	tin aq saq iq wei						
 頂壓煞一日	tin aq saq iq zyuq						
 頂壓煞還是	tin aq saq wa zy						
-頂便宜	tin bi gni						
+頂便宜	tin bi gni				最便宜		
 頂便宜個	tin bi gni ghoq						
 頂便宜個	tin bi gni goq						
-釘耙	tin bo	260					
-頂起頭	tin chi deu		18				55
+釘耙	tin bo	260			裝有長柄，有三到五個鐵齒的耙，是碎土、平土的農具		
+頂起頭	tin chi deu		18		最初；早先		55
 頂輕	tin chin						
 頂缺	tin chiuq						
 頂缺個	tin chiuq ghoq						
@@ -16426,28 +16426,28 @@
 頂基本	tin ci pen						
 頂簡單	tin ci tae						
 丁僵骨粒	tin cian kuaq liq	260			飯燒得半生不熟，還有點硬	湯版作「頂僵骨粒」。根據變調，首字當爲陰平。	55
-頂進	tin cin	261					55
-頂貴	tin ciu						
-頂頭摸腳	tin deu moq ciaq	260	294	192			578
-頂甜	tin di						
-頂大	tin dou						
+頂進	tin cin	261			取得房屋租賃權或企業經營權		55
+頂貴	tin ciu				最貴		
+頂頭摸腳	tin deu moq ciaq	260	294	192	徑直；直接		578
+頂甜	tin di				最甜		
+頂大	tin dou				最大		
 頂大個	tin dou ghoq						
 頂大個	tin dou goq						
 頂常	tin dzaon						
 頂常見	tin dzaon ci						
-頂重	tin dzon						
-頂重要	tin dzon iau						
-頂富	tin fu						
-釘鞋	tin gha	260					
+頂重	tin dzon				最重		
+頂重要	tin dzon iau				最重要		
+頂富	tin fu				最富		
+釘鞋	tin gha	260			1. 賽跑運動員所穿着的鞋，鞋底鑲滿小釘；2. 鞋底釘有大帽子釘的舊式雨鞋		
 頂恨	tin ghen						
-頂後背	tin gheu pei		18				55
-頂下面	tin gho mi						
-頂下底	tin gho ti						
+頂後背	tin gheu pei		18		最後		55
+頂下面	tin gho mi				最下面		
+頂下底	tin gho ti				最下面		
 頂紅	tin ghon						
 頂年長	tin gni cian						
-頂讓	tin gnian	260					
-頂熱	tin gniq						
-頂好	tin hau	260	291	192			
+頂讓	tin gnian	260			轉讓房屋租賃權或企業經營權		
+頂熱	tin gniq				最熱		
+頂好	tin hau	260	291	192	1. 最好；2. 副詞，別是		
 頂好個	tin hau ghoq						
 頂好個	tin hau goq						
 頂好看	tin hau khi-khe						
@@ -16465,40 +16465,40 @@
 頂長	tin jian						
 頂舊	tin jieu						
 頂高級	tin kau ciq						
-頂開頭	tin khe deu		18				55
-頂快	tin khua						
+頂開頭	tin khe deu		18		最初；早先		55
+頂快	tin khua				最快		
 頂快個	tin khua ghoq						
 頂快個	tin khua goq						
 釘貢卯	tin kon mau						
 頂廣	tin kuaon						
 頂厲害	tin li ghe						
-頂裏向	tin li shian						
-頂慢	tin mae						
-頂末腳	tin maq ciaq		18				55
-頂難	tin nae						
+頂裏向	tin li shian				最裏面		
+頂慢	tin mae				最慢		
+頂末腳	tin maq ciaq		18		最後		55
+頂難	tin nae				最難		
 頂難得	tin nae taq						
-頂硬	tin ngan						
+頂硬	tin ngan				最硬		
 丁硬骨粒	tin ngan kuaq liq	260	264	5	飯燒得半生不熟，還有點硬	湯版作「頂硬骨粒」。根據變調，首字當爲陰平。	55
 頂噁心	tin oq shin						
 頂漂亮	tin phiau lian						
-頂怕	tin pho						
-叮崩擔	tin pon tae	260					
+頂怕	tin pho				最怕		
+叮崩擔	tin pon tae	260			貨郎挑		
 頂省	tin san						
-丁相公	tin shian kon		29				55
-頂小	tin shiau						
+丁相公	tin shian kon		29		喻指死板、墨守成規的人		55
+頂小	tin shiau				最小		
 頂小個	tin shiau ghoq						
 頂小個	tin shiau goq						
 叮心咬肺	tin shin ngau fi						
-丁獅子	tin sy tsy	260	112	5			55
+丁獅子	tin sy tsy	260	112	5	蟋蟀		55
 丁倒	tin tau		51	192	跟頭	《阿拉宁波话》及朱版作「頂倒」。《明清吳語詞典》作「丁倒」，又作「頂倒」。依變調前字當爲陰平。	55
-頂推扳	tin thei pae						
+頂推扳	tin thei pae				最差勁		
 頂推扳個	tin thei pae ghoq						
 頂推扳個	tin thei pae goq						
-頂低	tin ti						
+頂低	tin ti				最低		
 頂底部	tin ti bu						
 頂低價	tin ti ko						
 頂底層	tin ti zen						
-頂頂	tin tin	260					
+頂頂	tin tin	260			最（更加強調）		
 頂頂晏	tin tin ae						
 頂頂壓末	tin tin aq maq						
 頂頂壓煞	tin tin aq saq						
@@ -16547,7 +16547,7 @@
 頂頂主要	tin tin tsyu iau						
 頂頂主要個	tin tin tsyu iau ghoq						
 頂頂主要個	tin tin tsyu iau goq						
-釘釘準準	tin tin tsyun tsyun						
+頂頂真真	tin tin tsyun tsyun				認真,一絲不苟		
 頂頂壞	tin tin ua						
 頂頂煩	tin tin vae						
 頂頂犯關	tin tin vae kuae						
@@ -16555,8 +16555,8 @@
 頂頂上頂	tin tin zaon ten						
 頂頂前面	tin tin zhi mi						
 頂頂前沿	tin tin zhi yi						
-頂短	tin toe						
-頂多	tin tou						
+頂短	tin toe				最短		
+頂多	tin tou				最多		
 頂多個	tin tou ghoq						
 頂多個	tin tou goq						
 頂多好	tin tou hau						
@@ -16564,7 +16564,7 @@
 頂多來的	tin tou le tiq						
 頂多勿超過	tin tou vaq chiau kou						
 頂多弗超過	tin tou vaq chiau kou						1
-頂早	tin tsau						
+頂早	tin tsau				最早		
 頂早個	tin tsau ghoq						
 頂早個	tin tsau goq						
 頂早來個	tin tsau le ghoq						
@@ -16573,28 +16573,28 @@
 頂慘	tin tshae						
 頂忖	tin tshen						
 頂專業	tin tsoe gniq						
-釘子	tin tsy						
-釘子	tin tsyu	260					
-頂主要	tin tsyu iau						
+釘子	tin tsy				釘子		
+釘子	tin tsyu	260			釘子		
+頂主要	tin tsyu iau				最主要		
 頂主要個	tin tsyu iau ghoq						
 頂主要個	tin tsyu iau goq						
 頂真	tin tsyun	161	240	192	1. 認真,一絲不苟；2. 副詞。一定,準定		
-頂壞	tin ua						
+頂壞	tin ua				最壞		
 頂壞個是	tin ua ghoq zy						
 頂壞個是	tin ua goq zy						
-釘碗	tin un	260	193				55
-頂煩	tin vae						
+釘碗	tin un	260	193		補碗		55
+頂煩	tin vae				最煩		
 頂犯關	tin vae kuae						
-頂遠	tin yu						
+頂遠	tin yu				最遠		
 頂遠到	tin yu tau						
-頂上面	tin zaon mi						
-頂上頂	tin zaon ten						
-頂前面	tin zhi mi						
-頂前沿	tin zhi yi						
+頂上面	tin zaon mi				最上面		
+頂上頂	tin zaon ten				最上面		
+頂前面	tin zhi mi				最前面		
+頂前沿	tin zhi yi				最前面		
 頂像	tin zhian						
-丁	tin1	260					
-釘	tin1	260					
-頂	tin3	260	283				
+丁	tin1	260			天干之一		
+釘	tin1	260			1. 用釘子等固定；2. 把帶子、鈕釦等縫住；3. 以言辭攻擊人的短處		
+頂	tin3	260	284		1. 以頭頂物；2. 從下拱起；3. 對着幹；4. 頂替；5. 傘、轎子、帽子等的量詞；6. 副詞，最		
 濎	tin5	261	160	474	使水中雜質沉澱下去	《阿拉宁波话》及朱版作「澄」。《集韻》澄，唐亘切，清濁分也。義合音不合。《廣韻》濎，都挺切，濎濘，水皃。音合，義不合。	
 的薄	tiq boq	354	227	212			55
 的薄憐	tiq boq li	354	227				55

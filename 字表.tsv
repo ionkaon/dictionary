@@ -1707,6 +1707,7 @@
 縺	𦈐	lin	li2	7									
 褳	裢	lin	li2										
 嗹	𪡏		li2										
+謰	謰		li2										
 翴	翴		li2										
 廉	廉	lin	li2	1	lii2	9	li2	10	lien2	11			
 鐮	镰	lin	li2	1	lii2	9	li2	10	lien2	11			
@@ -1889,7 +1890,7 @@
 獫	猃		li6										
 #			li6									煙韻	
 哩	哩		lhi5										
-謰	謰		lhi5	1								謰謰謱謱	
+謰	謰		lhi5	1								謰謰謱謱	#
 #			lhi5									衣韻	
 齏	齑	tsi	ci1	3									
 𧆌	𧆌	tsi	ci1	1								鹹𧆌	
@@ -4069,7 +4070,8 @@
 虂	虂		lu6										
 絡	络	loh	lu6	3							0.00	又音 僅限於「腳卜絡頭」	
 #			lu6										
-謱	𫍴		lhu5	3								謰謰謱謱	
+嚕	噜		lhu5									哩哩嚕嚕	
+謱	𫍴		lhu5	3								謰謰謱謱	#
 #			lhu5										
 租	租	tsu	tsu1	2	tsu1	9	tsu1	10	tsu1	11			
 狙	狙	tsu	tsu1	7									
@@ -6601,7 +6603,8 @@
 挐	拿		nho1	1							0.05	又音	
 拏	拿		nho1	1							0.05	又音	
 #			nho1										
-謱	𫍴		lho5	1								謰謰謱謱	
+嚕	噜		lho5									哩哩嚕嚕	
+謱	𫍴		lho5	1								謰謰謱謱	#
 #			lho5										
 查	查		tso1								0.05	姓氏	
 査	查		tso1								0.05	姓氏	
@@ -10183,7 +10186,6 @@
 楠	楠	nen	nei-nae2	1									
 枏	楠		nei-nae2	1									
 柟	楠		nei-nae2	1									
-腩	腩		nei-nae2						nei6	11			
 喃	喃	nen	nei-nae2	7									
 諵	諵	nen	nei-nae2	7									
 男	男	nen	nei-nae2	1	nei2	9	nei2	10	nei2	11			
@@ -10200,12 +10202,13 @@
 揇	揇		nei-nae4										
 萳	萳		nei-nae4										
 蝻	蝻		nei-nae4										
+腩	腩		nei-nae4	6					nei6	11		鬆軟	
 #			nei-nae4										
 耐	耐		nei6	4							0.00	僅限於「耐心耐相」	
 內	内	nen	nei6	2	nei6	9	nei6	10					
 内	内	nen	nei6	2	nei6	9	nei6	10					
 汭	汭		nei6	3									
-𤿏	𤿏		nei6	1							578		
+𤿏	𤿏		nei6	1									
 軟	软				nei6	9					0.00	白讀	#
 #			nei6										
 婻	婻	nen	nei-nae6	7									
@@ -11825,6 +11828,7 @@
 慺	㥪		leu2										
 膢	𦝼		leu2										
 鷜	鷜		leu2										
+謱	𫍴		leu2										
 #			leu2										
 塿	𪣻	leo	leu4	7									
 摟	搂	leo	leu4	2	lou6	9			lei2	11			

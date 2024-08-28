@@ -1975,6 +1975,7 @@
 覘	觇	tsin	ci1	7									
 鸇	鹯	tsin	ci1	7									
 饘	𫗴	tsin	ci1	7									
+邅	邅	tsin	ci1	7									
 鱣	鳣		ci1										
 旜	旜		ci1										
 鬋	鬋	tsin	ci1	7									
@@ -5565,7 +5566,7 @@
 笳	笳	gyia	jia2	7									
 茄	茄	gyiæn	jia2	1	jia2	9	jia2	10	jia2	11			
 ⿰口茄	⿰口茄		jia2	3									#
-喳	喳		jia2								0.05		
+喳	喳		jia2								0.05	又音 形容很響的叫聲、哭聲	
 弶	弶	gyiang	jia2	3							0.01	又音 欺侮	
 #			jia2									團音	
 岈	岈		shia1										
@@ -6106,7 +6107,7 @@
 薻	薻		tsau3										
 爪	爪	tsao	tsau3	1	tsau3	9	tsau3	10	tsau3	11			
 #			tsau3										
-爪	爪	tsao	tsau5	3							0.00	禽類用爪子撥拉；也指用手抓撓	
+爪	爪	tsao	tsau5	3							0.00	禽類用爪子撥拉；也指用手抓撓	#
 笊	笊	tsao	tsau5	7			tsau5	10	tsau5	11			
 竈	灶	tsao	tsau5	1	tsau5	9	tsau5	10	tsau5	11			
 灶	灶		tsau5	1					tsau5	11			
@@ -6311,7 +6312,7 @@
 #			khau3										
 靠	靠	kʽao	khau5	1	khau5	9	khau5	10	khau5	11			
 㸆	㸆		khau5									煮；燒，俗作「烤」。	
-烤	烤				khau5	9			khau5	11	0.00	煮；燒，本字當作「㸆」。	
+烤	烤		khau5	4	khau5	9			khau5	11	0.00	煮；燒，當作「㸆」。	
 銬	铐		khau5	1	khau5	9							
 鮳	鲓		khau5	1					khau5	11		「鮳」，本字當爲「薧」	
 薧	薧		khau5	1								「鮳」，本字當爲「薧」	
@@ -6651,6 +6652,7 @@
 灹	灹		tso5										
 笮	笮		tso5										
 奓	奓		tso5										
+喳	喳		tso5	4							0.05	又音 形容液體不斷流出	
 #			tso5										
 車	车	tsʽô	tsho1	1	tsho1	9	tsho1	10	tsho1	11			
 叉	叉	tsʽô	tsho1	1	tsho1	9	tsho1	10	tsho1	11			
@@ -6661,6 +6663,7 @@
 釵	钗		tsho1	1	tsho1	9						軋釵	
 䟕	䟕		tsho1	3								踩；腳踏人	
 芆	芆		tsho1										
+扠	扠		tsho1										
 差	差	tsʽô	tsho1	1	tsho1	9	tsho1	10					
 搓	搓		tsho1	1							0.05	僅限於「搓麻將」	#
 鎈	𫟿		tsho1										
@@ -6687,7 +6690,7 @@
 査	查	dzô	dzo2	1									
 碴	碴		dzo2										
 楂	楂		dzo2	1			tso1	10				山楂	
-喳	喳		dzo2	3									
+喳	喳		dzo2	3							0.05	又音 形容液體不斷流出或形容叫喊聲	
 𤵾	𤵾		dzo2	1								𤵾亂	
 垞	垞	dzô	dzo2	7									
 茬	茬		dzo2				dzo2	10					
@@ -8597,7 +8600,7 @@
 爁	爁		lae6										
 顲	顲		lae6										
 #			lae6										
-邅	邅	tsin	tsae1	1								更換時間或地點	
+邅	邅	tsin	tsae1	1								更換時間或地點	#
 斬	斩	tsæn	tsae1	1	tsae5	9	tsae1	10	tsae3	11			
 臢	臜		tsae1										
 糌	糌		tsae1										
@@ -11239,6 +11242,7 @@
 鼧	鼧		thou1										
 涶	涶		thou1										
 詑	𫍡		thou1										
+它	它		thou1								0.00	它山堰	
 #			thou1										
 妥	妥	tʽo	thou3	1	thou3	9	thou3	10	thou3	11			
 鵎	鵎		thou3										
@@ -12235,20 +12239,20 @@
 #			lhan5										
 爭	争		tsan1	1	tsan1	9	tsan1	10	tsan1	11		白讀	
 睜	睁		tsan1	2	dzan2	9	tsan1	10	tsan1	11		白讀	
-撑	撑		tsan1	3							0.05	又音	
-撐	撑		tsan1	3							0.05	又音	
+撑	撑		tsan1	3							0.05	又音	#
+撐	撑		tsan1	3							0.05	又音	#
 埩	埩		tsan1										
 綪	綪		tsan1										
 朾	朾		tsan1										
 #			tsan1										
-掙	挣	tsang	tsan5				tsan1	10	tsan1	11	0.05	白讀 掙家計	
+掙	挣	tsang	tsan5	1			tsan1	10	tsan1	11	0.05	白讀 掙家計	
 㬹	㬹		tsan5	1					tsan1	11		手肘或腳踝。《集韻》甾莖切，足筋。各詞典均註爲去聲。但該字不單說，詞中也難以確定單字調。	
 踭	踭		tsan5									同「㬹」。	
 棦	棦		tsan5	3					tsan1	11			
 柼	柼		tsan5										
 #			tsan5										
 撑	撑	tsʽang	tshan1	1	tshan1	9							
-撐	撑		tshan1	1	tshan1	9	tshan5	10	tshan1	11			
+撐	撑		tshan1	1	tshan1	9			tshan1	11		勉強維持	
 牚	牚		tshan1										
 𣛟	𣛟	tsʽang	tshan1	7									
 橕	橕		tshan1										
@@ -12256,9 +12260,10 @@
 樘	樘		tshan1										
 竀	竀		tshan1										
 #			tshan1										
-撑	撑	tsʽang	tshan5	3	tshan1	9					0.05	形容詞。厲害，棒	
 掌	掌								tshan5	11	0.01		
-撐	撑		tshan5	3	tshan1	9	tshan5	10	tshan1	11	0.05	形容詞。厲害，棒	
+掙	挣	tsang	tshan5								0.01	又音 掙家計	
+撑	撑	tsʽang	tshan5	3							0.05	形容詞。厲害，棒	
+撐	撑		tshan5	3			tshan5	10			0.05	形容詞。厲害，棒	
 #			tshan5										
 棖	枨		dzan2	6									
 挰	挰		dzan2										

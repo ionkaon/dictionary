@@ -427,7 +427,7 @@
 拔苗頭	baq miau deu	300	320	189	從表面揣測實情		55
 白螞蟻	baq mo gni				白蟻	《鄞縣通志》p. 2896。	
 白木耳	baq moq er	300					
-白腩糕	baq nei kau	298					55
+白腩糕	baq nei-nae kau	298					55
 白眼	baq ngae	298	38	64	眼珠上有白點或眼珠偏斜不正的人		
 白眼攦煞死	baq ngae li saq shi						
 白板	baq pae	298					
@@ -5119,7 +5119,7 @@
 鈕子洞眼	gnieu tsy don ngae	155			西式服裝上扣釦子的眼		55
 鈕子鈕枚	gnieu tsy gnieu mei	155			中式服裝上的鈕釦和鈕襻		
 扭	gnieu4	155		471	頭或身體轉動		
-銀	gnin	271			白銀		
+銀	gnin2	271			白銀		
 韌皮皮	gnin bi bi	271	264	136	形容比較韌，不易弄斷弄碎		55
 韌皮刁氣	gnin bi tiau chi	271	264	136	形容有韌性	湯版、朱版作「韌皮刁起」。	55
 人交關長	gnin ciau kuae jian				人很高		
@@ -5234,8 +5234,8 @@
 肉彩	gnioq tshe	350	48	110	膚色		55
 肉豬	gnioq tsyu		109		經過閹割專供食用的豬		
 掿豬油餡	gnioq tsyu yeu ghae						
-肉勿腩	gnioq vaq nei	350			肉不軟爛		
-肉弗腩	gnioq vaq nei				肉不軟爛		55
+肉勿腩	gnioq vaq nei-nae	350			肉不軟爛		
+肉弗腩	gnioq vaq nei-nae				肉不軟爛		55
 肉油	gnioq yeu	350			肥肉熬製成的油		55
 肉圓	gnioq yu	350	63	110	肉丸子		
 肉圓子	gnioq yu tsy				肉丸子		
@@ -7315,6 +7315,7 @@
 交秋無雨廿日晴	kau chieu vu yu ne-gnie gniq zhin						
 交秋無雨廿日晴	kau chieu wu- yu ne-gnie gniq zhin						
 高腳腳桶	kau ciaq ciaq don	89			有三隻腳的木盆		55
+校秤	kau chin						
 高塘墩	kau daon ten						
 交代	kau de		144	121	給與；交付		
 交代勿過	kau de vaq kou	88	176		1. 對不起；2. 過意不去		
@@ -7327,6 +7328,7 @@
 教方板	kau faon pae	89	107	338	舊時用來打學生手心的長方形木塊		55
 高鑊蓋	kau ghoq ke	89	96	318	上面高起的鍋蓋，可增加鍋的容量，便於蒸東西		55
 膏蟹	kau ha	89	66	452	1. 一種海塗產小蟹，大小如黃豆粒，蟹黃多，夜能吐光，味極鮮，現已絕跡；2. 帶膏的小毛蟹		55
+校火錶	kau hou piau						
 絞花被	kau huo bi	89			用機器絞出棉花種子		55
 叫花子	kau huo tsy	89	27		乞丐，要飯的	本字爲「教化子」。	
 絞花子	kau huo tsy	89			用機器絞出棉花種子		55
@@ -10690,7 +10692,7 @@
 媒人	mei gnin	164			婚姻介紹人		
 美人肩	mei gnin ci	165			下垂的肩膀		55
 美人蕉	mei gnin ciau	165			美人蕉		
-謎殼	mei gnioq				謎底		
+謎肉	mei gnioq				謎底		
 每日	mei gniq	165			每天		25000
 煤灰	mei huei	164			煤炭燃燒後剩下的灰		
 梅花	mei huo	164			梅花		
@@ -11876,17 +11878,17 @@
 唸符咒	ne-gnie vu cieu						
 廿	ne-gnie6	123			二十		
 驗	ne-gnie6		173		檢查（身體）		
-腩脯脯	nei bu bu	168	262	257	軟軟的	湯版作「𤿏蒲蒲」，朱版作「𤿏𢼹𢼹」。	55
-腩氣氣	nei chi chi		262		形容軟軟的（多含貶義）		55
+腩脯脯	nei-nae bu bu	168	262	257	軟軟的	湯版作「𤿏蒲蒲」，朱版作「𤿏𢼹𢼹」。	55
+腩氣氣	nei-nae chi chi		262		形容軟軟的（多含貶義）		55
 內臓	nei dzaon	168			內臟		55
 內行人	nei ghaon gnin	168			對某事經驗豐富的人		
 內侄	nei jiq	168			妻子的弟兄的兒子		
 內侄囡	nei jiq noe	168			妻子的弟兄的女兒		55
-腩殼蛋	nei khoq dae						
+腩殼蛋	nei-nae khoq dae						
 耐耐心心	nei nei shin shin						
 內八字	nei paq zy	168			一種走路姿勢，走路時腳尖向內		55
 耐心耐相	nei shin nei shian		246	248	形容性情溫和，有耐心		55
-腩飯	nei vae	168			煮得又溼又爛的飯		55
+腩飯	nei-nae vae	168			煮得又溼又爛的飯		55
 南部吳語	nei-nae bu wu gniu						
 南溪溫泉	nei-nae chi uen dzoe	168					55
 男同胞	nei-nae don pau		22		稱男性（含親熱意味）		
@@ -12339,7 +12341,7 @@
 鵝毛扇	ngou mau shi	187			鵝毛做成的扇子		55
 鵝毛月	ngou mau yuq	187	3	402	新月，上弦月，因形似鵝毛而得名		55
 餓煞鬼投人身	ngou saq ciu deu gnin shin						
-餓煞鬼投胎	ngou saq ciu deu te						
+餓煞鬼投胎	ngou saq ciu deu the						
 餓齋	ngou tsa	188			農曆六月二十五日相傳爲火種菩薩生日，這一天，信佛的人不喫用火煮過的食物，僅以瓜果充飢，俗稱「餓齋」		55
 鵝掌風	ngou tsaon fon	188			中醫指手癬		
 鵝菜	ngou tshe		115	402	一種野草，多生長在農田裏，穗小而直上，鵝喜食		55
@@ -12597,8 +12599,8 @@
 涴衲	ou naq				尿布		
 屙衲一樣	ou naq iq yan		253		形容差勁，沒用，一塌糊塗		
 涴衲一樣	ou naq iq yan		253		形容差勁，沒用，一塌糊塗		55
-屙腩屁鬆	ou nei phi son	192	336		形容輕鬆，不費勁（含貶義）		
-涴腩屁鬆	ou nei phi son	192	336		形容輕鬆，不費勁（含貶義）		55
+屙腩屁鬆	ou nei-nae phi son	192	336		形容輕鬆，不費勁（含貶義）		
+涴腩屁鬆	ou nei-nae phi son	192	336		形容輕鬆，不費勁（含貶義）		55
 𤉦暖	ou noe	191	258	409	曖和		55
 𤉦𤉦暖暖	ou ou noe noe				曖和		
 捼浜	ou pan	191			特別漏水的田，再在接近田邊處做一條小田塍		55
@@ -13778,6 +13780,7 @@
 煞清斯爽	saq chin sy saon				很乾淨；很清楚		
 殺雞辦飯	saq ci bae vae						
 𥈊記𥈊記	saq ci saq ci						
+眨記眨記	saq ci saq ci						
 蝨鬼	saq ciu				形容非常小		
 蝨鬼介大	saq ciu ka dou				形容非常小		
 塞頭	saq deu	313	99	440	塞子		55
@@ -13882,7 +13885,7 @@
 燥點心	sau te shin	87			指乾的，用作點心的食品		55
 燥點心	sau ti shin	87			指乾的，用作點心的食品		55
 燥的剝落	sau tiq poq loq				形容乾乾的		
-燥粥腩飯	sau tsoq nei vae		61	488	煮得過溼的米飯		55
+燥粥腩飯	sau tsoq nei-nae vae		61	488	煮得過溼的米飯		55
 捎	sau1	87		291	附帶		
 筲	sau1	87	47	431	呈波浪形而不閉合的指紋		
 潲	sau5	87			雨斜着落進來		
@@ -15888,7 +15891,7 @@
 忒鬆	thaq son						
 搨帶魚	thaq ta ng						
 忒陡	thaq teu						
-塌塌腩	thaq thaq nei	307	262	488	形容非常軟		55
+塌塌腩	thaq thaq nei-nae	307	262	488	形容非常軟		55
 塔塔響	thaq thaq shian		286		用在動詞後面，表示程度深		55
 沓沓腐	thaq thaq vu				做事拖沓的人		
 脫套換套	thaq thau wun thau						
@@ -16350,7 +16353,7 @@
 抵配	ti phei	18	202	193	拼着；豁出去		
 顛三倒四	ti sae tau sy	18			形容紊亂，沒有條理		
 點心	ti shin	18			點心		
-點心嘸沒黃腩糕	ti shin mh maq waon nei kau						
+點心嘸沒黃腩糕	ti shin mh maq waon nei-nae kau						
 點心飯	ti shin vae	18	62	251	下午三點鐘左右喫的點心或飯		55
 點心時	ti shin zy	18	13	251	下午三點鐘左右的一段時間		55
 點天燈	ti thi ten						
@@ -16894,7 +16897,6 @@
 莊	tsaon1	233					
 裝	tsaon1	233	200	406			
 壯	tsaon5	234	234	119			
-眨記眨記	tsaq ci tsaq ci						
 扎抬閣	tsaq de koq						
 扎臺型	tsaq de yin						
 扎秧子	tsaq ian tsy	310					
@@ -16910,7 +16912,6 @@
 側楞	tsaq len		228	32		《阿拉宁波话》作「側棱」。	55
 側楞睏	tsaq len khuen	310					55
 責理太婆	tsaq li tha bou						
-摘帽子	tsaq mau tsy			445			
 扎面子	tsaq mi tsy	310	313	29			55
 扎奶	tsaq na	310		444		朱版作「摘奶」。	55
 扎硬	tsaq ngan	310	263	305	堅強，強硬；商品信譽好	也作「𡇠硬」。	55
@@ -16988,7 +16989,6 @@
 早夜飯	tsau ya vae		62				55
 搔癢	tsau yan	84				前字本字爲「抓」。	
 搔癢棒	tsau yan baon	84					55
-竈沿地槓	tsau yi di kaon						
 竈前矮凳	tsau zhi a ten	85					55
 竈前地康	tsau zhi di khaon	85	83	175			55
 竈前無賴	tsau zhi vu la		31				
@@ -18029,7 +18029,7 @@
 捉漏	tsoq leu	341	193	292, 403, 414	修理屋面漏雨的地方	朱版也作「筑漏」「𡎺漏」。湯版註首字本字當爲「𡎺」。《上海方言詞典》作「捉漏」，音 tsaoq leu。𡎺，《廣韻》側六切，塞也。義合。此反切老派上海話應爲 tsoq7，與 tsaoq7 不合，故本字非「𡎺」。	55
 竹瀝	tsoq liq	340					55
 斫毛竹	tsoq mau tsoq						
-摘帽子	tsoq mau tsy		325				
+摘帽子	tsoq mau tsy		325	445	不給面子		
 竹眠牀	tsoq mi zaon	340					55
 竹篾	tsoq miq	340					
 啄木鳥	tsoq moq gniau	341					
@@ -19135,7 +19135,7 @@
 黃猛蛇	waon man dzo		114	342			55
 黃梅天	waon mei thi	243					
 黃黴天	waon mei thi	243					55
-黃腩糕	waon nei kau	243	80	342			55
+黃腩糕	waon nei-nae kau	243	80	342			55
 黃魚	waon ng	244					
 黃魚鯗	waon ng shian		69	341			55
 黃魚鯗烤肉	waon ng shian khau gnioq						
@@ -19326,8 +19326,8 @@
 渾濁濁	wen dzoq dzoq	278		280			55
 混滾	wen kuen	278	254	280	含混	朱版作「渾滾」。	55
 混滾掏漿	wen kuen dau cian				含混		
-混滾加側棱	wen kuen ko tsaq len		254		含混		55
-混滾帶側棱	wen kuen ta tsaq len	278	254		含混	湯版作「混滾帶側楞」。	55
+混滾加側楞	wen kuen ko tsaq len		254		含混		55
+混滾帶側楞	wen kuen ta tsaq len	278	254		含混	湯版作「混滾帶側楞」。	55
 混滾倒賬	wen kuen tau cian		254	280	含混		55
 混裏混沌	wen li wen den						
 渾身	wen shin	278					
@@ -19647,8 +19647,6 @@
 鑰匙	yaq zy	327					
 鑰匙彎	yaq zy uae		132	259			55
 搖皮	yau bi	117	100				55
-校秤	yau chin						
-校火錶	yau hou piau						
 姚隘	yau ka						
 遙凌凌	yau lin lin	117	226	433			55
 搖籮	yau lou		92				55

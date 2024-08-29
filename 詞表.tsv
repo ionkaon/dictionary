@@ -5119,7 +5119,6 @@
 鈕子洞眼	gnieu tsy don ngae	155			西式服裝上扣釦子的眼		55
 鈕子鈕枚	gnieu tsy gnieu mei	155			中式服裝上的鈕釦和鈕襻		
 扭	gnieu4	155		471	頭或身體轉動		
-銀	gnin2	271			白銀		
 韌皮皮	gnin bi bi	271	264	136	形容比較韌，不易弄斷弄碎		55
 韌皮刁氣	gnin bi tiau chi	271	264	136	形容有韌性	湯版、朱版作「韌皮刁起」。	55
 人交關長	gnin ciau kuae jian				人很高		
@@ -5185,6 +5184,7 @@
 銀匠	gnin zhian	271			打金銀首飾的工匠		
 寧蓆	gnin zhiq	271	91		寧波產的草蓆		55
 人	gnin2	270	42	7	1. 身體；2. 軀幹		
+銀	gnin2	271			白銀		
 垽	gnin6	271	133	324	積垢		
 壬	gnin6	271			天干之一		
 認	gnin6	271	48		記號；標記		
@@ -7314,8 +7314,8 @@
 交秋	kau chieu	88	17	121	立秋		55
 交秋無雨廿日晴	kau chieu vu yu ne-gnie gniq zhin						
 交秋無雨廿日晴	kau chieu wu- yu ne-gnie gniq zhin						
-高腳腳桶	kau ciaq ciaq don	89			有三隻腳的木盆		55
 校秤	kau chin						
+高腳腳桶	kau ciaq ciaq don	89			有三隻腳的木盆		55
 高塘墩	kau daon ten						
 交代	kau de		144	121	給與；交付		
 交代勿過	kau de vaq kou	88	176		1. 對不起；2. 過意不去		
@@ -11878,18 +11878,16 @@
 唸符咒	ne-gnie vu cieu						
 廿	ne-gnie6	123			二十		
 驗	ne-gnie6		173		檢查（身體）		
-腩脯脯	nei-nae bu bu	168	262	257	軟軟的	湯版作「𤿏蒲蒲」，朱版作「𤿏𢼹𢼹」。	55
-腩氣氣	nei-nae chi chi		262		形容軟軟的（多含貶義）		55
 內臓	nei dzaon	168			內臟		55
 內行人	nei ghaon gnin	168			對某事經驗豐富的人		
 內侄	nei jiq	168			妻子的弟兄的兒子		
 內侄囡	nei jiq noe	168			妻子的弟兄的女兒		55
-腩殼蛋	nei-nae khoq dae						
 耐耐心心	nei nei shin shin						
 內八字	nei paq zy	168			一種走路姿勢，走路時腳尖向內		55
 耐心耐相	nei shin nei shian		246	248	形容性情溫和，有耐心		55
-腩飯	nei-nae vae	168			煮得又溼又爛的飯		55
+腩脯脯	nei-nae bu bu	168	262	257	軟軟的	湯版作「𤿏蒲蒲」，朱版作「𤿏𢼹𢼹」。	55
 南部吳語	nei-nae bu wu gniu						
+腩氣氣	nei-nae chi chi		262		形容軟軟的（多含貶義）		55
 南溪溫泉	nei-nae chi uen dzoe	168					55
 男同胞	nei-nae don pau		22		稱男性（含親熱意味）		
 南方方言	nei-nae faon faon yi						
@@ -11900,6 +11898,7 @@
 男人家	nei-nae gnin ko	167	22	157	成年男子		55
 男𡢿	nei-nae gnion	167		86	1. 丈夫，敘稱，舊說法；2. 成年男子，舊說法		55
 南貨店	nei-nae hou ti	168	88	243	專門經營南北果品的食品店		55
+腩殼蛋	nei-nae khoq dae						
 男家	nei-nae ko	167			從外人的角度說，婚姻關係中的男方		
 南瓜	nei-nae kuo	168			南瓜		
 南瓜𢪂藤	nei-nae kuo da den						
@@ -11912,6 +11911,7 @@
 南半邊	nei-nae pun pi	168			南邊		55
 南鄉十八埭	nei-nae shian zyuq paq da						
 男小娃	nei-nae shiau uae	167	20		男孩		418
+腩飯	nei-nae vae	168			煮得又溼又爛的飯		55
 南吳	nei-nae wu						
 腩	nei-nae4	168	262	257	1. 鬆軟，不硬；2. 飯等煮得過溼過爛	湯版、朱版及《阿拉宁波话》均作「𤿏」。《字語彙解》p. 439，soft 一詞下註 nen。《鄞縣通志》p. 2964 作「腩」，註音「南」上聲。《余姚方言词语汇释》亦作「腩」，音 neen6。《越諺》也記錄了「腩⿰火脯⿰火脯」一詞，並註「腩」音「煖」去聲。《集韻》𤿏，奴紺切，柔革。義相關，音不合。《廣韻》腩，奴感切，煑肉。音合，義不合。一些方言如粵語及閩南語用「腩」稱呼肚子附近鬆軟的肉，與鬆軟義相關。	
 汭	nei6		200	177	1. 墊進（鈔票）；2. 沾溼，把水吸乾		
@@ -13780,8 +13780,8 @@
 煞清爽	saq chin saon	313	266	436	很乾淨；很清楚		578
 煞清斯爽	saq chin sy saon				很乾淨；很清楚		
 殺雞辦飯	saq ci bae vae						
-𥈊記𥈊記	saq ci saq ci						
 眨記眨記	saq ci saq ci						
+𥈊記𥈊記	saq ci saq ci						
 蝨鬼	saq ciu				形容非常小		
 蝨鬼介大	saq ciu ka dou				形容非常小		
 塞頭	saq deu	313	99	440	塞子		55
@@ -17281,9 +17281,11 @@
 菜蒲絡頭	tshe bu loq deu	124			較粗的菜根		55
 菜椒	tshe ciau	124			燈籠辣椒		55
 彩蛋	tshe dae	124			皮蛋		
+𢶀頭毛子	tshe deu mau tsy						
 菜地	tshe di	124			種植蔬菜的田地		
 猜筒寶	tshe don pau						
 菜蟲	tshe dzon	124			菜青蟲		
+𢶀耳朵皮	tshe gni to bi						
 菜蕻	tshe hon	125	72	343	某些蔬菜植物的花莖，多指油菜蕻（北方通稱爲菜薹）		55
 菜蕻乾	tshe hon ki-ke	125			由油菜薹晾製成的菜乾。把油菜薹放入沸水中稍微一煮，然後在蔭涼取風乾，剪成寸巴長，燒肉、沖湯都美味可口		55
 菜花蛇	tshe huo dzo	124	114	343	一種有彩色花紋的無毒蛇，多見於油菜花開時		55
@@ -17314,6 +17316,7 @@
 睬爾老白	tshe ng lau baq				表示厭惡或反感，相當於「纔不理你呢」		1
 睬俉老白眼	tshe ng lau baq ngae	124			表示厭惡或反感，相當於「纔不理你呢」		
 睬爾老白眼	tshe ng lau baq ngae	124			表示厭惡或反感，相當於「纔不理你呢」		1
+𢶀耳朵皮	tshe ng to bi						
 睬我阿白哥	tshe ngo aq baq kou	124			表示厭惡或反感，相當於「纔不理我呢」		
 睬我瞎子	tshe ngo haq tsy	124			表示厭惡或反感，相當於「纔不理我呢」		
 睬我瞎子老白眼	tshe ngo haq tsy lau baq ngae	124			表示厭惡或反感，相當於「纔不理我呢」		
@@ -17339,9 +17342,6 @@
 菜葉爿	tshe yiq bae	125			菜的葉子		55
 啐	tshe3	125	138	353	受到驚嚇時，輕拍胸口以示安慰，口中唸「啐啐」		
 采	tshe3		5		地方		
-𢶀頭毛子	tshe deu mau tsy						
-𢶀耳朵皮	tshe gni to bi						
-𢶀耳朵皮	tshe ng to bi						
 𢶀	tshe3		148		用力拉		
 湊隊	tshei dei		195	370	結交；在一起	後字當與「聚隊」一樣，並非「頭」的兒化變音	55
 湊隊夥	tshei dei hou						

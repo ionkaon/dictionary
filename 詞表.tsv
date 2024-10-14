@@ -2799,6 +2799,7 @@
 藤盤	den bun		93		用藤編制的盤子		55
 庉昶	den chian		289	94, 171		過一會兒	55
 臀趼	den ci	254	55	490	臀得部閒久坐而生的瘡		55
+庉進	den cin				住進		
 屯隊	den dei		283	33	1. 一起，一塊兒；2. 名詞。同一個處所；3. 動詞。一起或同時做某事		55
 𨄇𨄇	den den		280	491	形容走路很快聲音很響的樣子		55
 𨄇𨄇奔	den den pen	254			形容跑得很急	湯版作「騰騰奔」。	55
@@ -5104,6 +5105,13 @@
 繞繞煞煞	gniau gniau saq saq						
 嘵嘵豬	gniau gniau tsyu				兒童用語。豬		
 繞籠頭	gniau lon deu						
+繞牢	gniau lau				縫住		
+繞攏	gniau lon				縫起來		
+繞好	gniau hau				縫好		
+繞衣裳	gniau i zaon				縫衣服		
+繞褲子	gniau khu tsy				縫褲子		
+繞被頭	gniau bi deu				縫被子		
+繞鈕子	gniau gnieu tsy				縫釦子		
 嘵豬	gniau tsyu	113	109	253	豬	首字一說爲「肉」之變音，抑可能是擬聲豬叫。	578
 饒	gniau2	113			1. 饒恕，寬容；2. 下棋讓子		
 繞	gniau4		160	286	用針縫		
@@ -6161,6 +6169,7 @@
 擁	ion1	295	176	193	同情	《阿拉宁波话》與朱版記爲陰上。	
 勇	ion3		249		神氣；風光		
 一排生	iq ba san		229	2	形容並列排在一起		55
+一爿	iq bae						
 一爿廠	iq bae chian						
 一爿店	iq bae ti						
 一爿葉爿	iq bae yiq bae						
@@ -8173,6 +8182,7 @@
 該好	kiq hau						
 該要	kiq iau						
 該一	kiq iq						
+該一爿	kiq iq bae						
 該一爿廠	kiq iq bae chian						
 該一爿店	kiq iq bae ti						
 該一爿葉爿	kiq iq bae yiq bae						
@@ -8385,6 +8395,7 @@
 該摙柴	kiq li za						
 該兩	kiq lian						
 該輛	kiq lian						
+該兩爿	kiq lian bae						
 該兩爿廠	kiq lian bae chian						
 該兩爿店	kiq lian bae ti						
 該兩坒人	kiq lian bi gnin						
@@ -8710,7 +8721,9 @@
 弓	kon1	291			弓；探棉花的繃		
 拱	kon3	291		457	1. 軟體動物彎曲伸張而行；2. 物體彎成拱形		
 擱排凳	koq ba ten	345	92	271	舊式衣櫥前放置的一種凳子，每櫥兩條，略呈長方形，做工考究	朱版作「閣排凳」	55
+各爿	koq bae						
 各爿廠	koq bae chian						
+各爿店	koq bae ti						
 各部汽車	koq bu chi tsho						
 各部腳踏車	koq bu ciaq daq tsho						
 各起管	koq chi kun		270	118	各管各的，各不相同		55
@@ -9786,6 +9799,7 @@
 𣿊	li6		262	481	粥等煮得爛熟		55
 𤃀	li6		212	498	液體往下流、滴		55
 𪚁	li6	26	136	499	1. 牙齒露出；2. 舌頭伸出外面攪動		
+兩爿	lian bae						
 兩爿廠	lian bae chian						
 兩爿店	lian bae ti						
 兩坒人	lian bi gnin						
@@ -13456,7 +13470,9 @@
 灑藥水	sa yaq syu	65			噴灑藥水		55
 三㢊六坐九爬爬	sae a loq zou cieu bo bo						
 山嶴	sae au	143			山間的平地		55
+三爿	sae bae						
 三爿廠	sae bae chian						
+三爿店	sae bae ti						
 三瓶頭	sae bin deu						
 三部汽車	sae bu chi tsho						
 三部腳踏車	sae bu ciaq daq tsho						
@@ -18088,7 +18104,9 @@
 簇	tsoq7	342	168	486			
 粥	tsoq7	341					
 足	tsoq7	340	286	157			
+做爿	tsou bae						
 做爿廠	tsou bae chian						
+做爿店	tsou bae ti						
 做病	tsou bin	184	171	358			55
 做部汽車	tsou bu chi tsho						
 做部腳踏車	tsou bu ciaq daq tsho						

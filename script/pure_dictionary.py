@@ -19,7 +19,7 @@ sheet.rename(columns={"兼容格式":"吳拼"}, inplace=True)
 
 sheet.drop(
     (
-        (sheet["出處"] > 5) | (sheet["出處"] == 0) | np.isnan(sheet["出處"]) |
+        (sheet["出處"] > 5) & (sheet["出處"] != 14) | (sheet["出處"] == 0) | np.isnan(sheet["出處"]) |
         [type(i) != str for i in iter(sheet["吳拼"])]
     ).to_numpy().nonzero()[0]
     , inplace=True

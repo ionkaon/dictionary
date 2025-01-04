@@ -3815,7 +3815,7 @@
 亡	亡	vu	vu2	7							0.00	古同「無」	
 侮	侮	vu	vu2	2	vu6	9	vu6	10	wu4	11			
 巫	巫	vu	vu2	7	vu2	9			vu2	11			
-誣	诬	vu			vu6	9			vu2	11	0.10	又音	
+誣	诬	vu	vu2	14	vu6	9			vu2	11	0.10	又音	
 莁	莁		vu2										
 鵐	鹀		vu2										
 浮	浮		vu2	1	vu2	9	vu2	10			0.06	文讀	
@@ -4308,7 +4308,7 @@
 黃	黄		wu2	1							0.00	又音 僅限於「黃狗」及「嘸郎黃狗」	
 黄	黄		wu2	1							0.00	又音 僅限於「黃狗」及「嘸郎黃狗」	
 腐	腐								wu2	11			
-巫	巫						u1	10	wu2	11			
+巫	巫		wu2	14			u1	10	wu2	11			
 鋘	鋘		wu2										
 #			wu2										
 誣	诬		wu-vu2	1					wu2	11	0.10	又音	
@@ -7012,7 +7012,6 @@
 眺	眺	tʽiao	thiau5	7									
 覜	眺		thiau5	7									
 絩	絩		thiau5										
-粜	粜		thiau5										
 窱	窱		thiau5										
 #			thiau5										
 條	条	diao	diau2	1	diau2	9	diau2	10	diau2	11			
@@ -7272,7 +7271,7 @@
 嘲	嘲		jiau2	2	jiau2	9			jiau2	11			
 鼂	晁	dziao	jiau2	7									
 晁	晁		jiau2	7									
-樵	樵	ziao	jiau2	2	zhiau2	9	jiau2	10					
+樵	樵		jiau2	2			jiau2	10					
 藮	藮		jiau2										
 劁	劁		jiau2										
 撨	撨		jiau2										
@@ -7440,6 +7439,7 @@
 顦	憔		zhiau2	7									
 癄	憔		zhiau2	7									
 鐎	𨱓	ziao	zhiau2	7									
+樵	樵	ziao	zhiau2	14	zhiau2	9							
 兆	兆	ziao	zhiau2	2	zhiau6	9	yau6	10	zhiau6	11		白讀	
 擾	扰	ziao	zhiau2	2	zhiau6	9			zhiau2	11			
 肇	肇	ziao	zhiau2	2	zhiau6	9							
@@ -7682,6 +7682,7 @@
 麚	麚	kyüô	cio1	7							0.00	舊文讀	
 瘕	瘕	kyüô	cio1	7							0.00	舊文讀	
 豭	豭	kyüô	cio1	7							0.00	舊文讀	
+佳	佳	kyüô	cio1	14							0.00	舊文讀	
 犌	犌		cio1								0.00	舊文讀	
 猳	猳		cio1								0.00	舊文讀	
 貑	貑		cio1								0.00	舊文讀	
@@ -10001,6 +10002,7 @@
 邶	邶	be	bei6	7									
 薜	薜	be	bei6	7									
 軷	𫐈		bei6										
+陛	陛	be	bei6	14	bi2	9	bi6	10	bi2	11	0.01	舊讀	
 #			bei6										
 眉	眉	me	mei2	1	mei2	9	mei2	10	mei2	11		文讀	
 楣	楣	me	mei2	2	mei2	9	mei2	10					
@@ -10915,7 +10917,7 @@
 嘒	嘒	hwe	huei5	7									
 晦	晦	hwe	huei5	1	huei5	9	huei5	10	huei5	11			
 喙	喙	hwe	huei5	7									
-穢	秽	w̆e	huei5	2	uei5	9	wei6	10	uei5	11			
+穢	秽	w̆e	huei5	2	uei5	9	wei6	10	uei5	11	0.10	又音	
 翽	翙	hwe	huei5	7									
 濊	濊		huei5										
 鐬	鐬		huei5										
@@ -10964,7 +10966,7 @@
 烠	烠	we	wei2	7									
 慧	慧	we	wei2	2	wei2	9	wei6	10					
 蕙	蕙	we	wei2	2									
-慰	慰	w̆e	wei2	2	uei5	9	uei5	10	uei5	11			
+慰	慰	w̆e	wei2	2							0.10	又音	
 彙	汇	we	wei2	2	wei6	9	wei6	10	wei2	11			
 巍	巍	ngwe	wei2	7									
 嵬	嵬	ngwe	wei2	7									
@@ -11119,6 +11121,8 @@
 餵	喂		uei5	2							0.01	文讀	x
 喂	喂	w̆e	uei5	2	uei5	9	uei5	10			0.10	文讀	x
 餧	喂	w̆e	uei5	2					uei1	11	0.01	文讀	x
+慰	慰	w̆e	uei5	14	uei5	9	uei5	10	uei5	11			
+穢	秽	w̆e	uei5	14	uei5	9	wei6	10	uei5	11			
 恚	恚		uei5	6					uei1	11		俗音	
 螱	螱	w̆e	uei5	7									
 薈	荟	w̆e	uei5	7									
@@ -14223,7 +14227,7 @@
 熷	熷		tsen1										
 矰	矰		tsen1										
 譄	譄		tsen1										
-朕	朕	dzeng	tsen1	2	jin2	9							
+朕	朕		tsen1	2									
 尊	尊	tseng	tsen1	1	tsen1	9	tsen1	10	tsen1	11			
 遵	遵	tseng	tsen1	2	tsen1	9	tsen1	10	tsen1	11			
 樽	樽	tseng	tsen1	7									
@@ -14311,7 +14315,7 @@
 䫈	䫈	dzeng	dzen2	7									
 棖	枨		dzen2	7									
 蹲	蹲		dzen2		dzen2	9					0.00	虎蹲山	
-澄	澄						dzen2	10	dzen2	11			
+澄	澄		dzen2	14			dzen2	10	dzen2	11	0.00	文讀	
 橧	橧		dzen2										
 竲	竲		dzen2										
 梣	梣		dzen2										
@@ -14325,6 +14329,7 @@
 鴆	鸩	dzeng	dzen6	7									
 栫	栫		dzen6										
 臶	臶		dzen6										
+朕	朕	dzeng	dzen6	14	jin2	9							
 #			dzen6										
 生	生	seng	sen1	1	sen1	9	sen1	10	sen1	11		文讀	
 牲	牲	seng	sen1	1	sen1	9			sen1	11		文讀	
@@ -15299,6 +15304,7 @@
 嗪	嗪		jin2									化學用字	
 鴆	鸩				jin2	9							
 嶜	嶜		jin2										
+覃	覃		jin2									姓氏又音	
 晴	晴						jin2	10	jin2	11			
 辰	辰	jing	jin2	3							0.00	又音 僅限於「辰光」	
 敐	敐		jin2	4								敲擊聲。《廣韻》植鄰切，擊聲	
@@ -17131,6 +17137,8 @@
 煚	煚		cion3										
 頃	顷	kyʽing							chion1	11			
 臩	臩		cion3										
+塚	冢	kyüong	cion3	14							0.01		
+冢	冢	kyüong	cion3	14							0.01		
 #			cion3										
 穹	穹	kyʽüong	chion1	14									
 芎	芎		chion1										
@@ -18361,6 +18369,8 @@
 酌	酌	tsiah	ciaq7	2	ciq7	9	tsoq7	10	ciaq7	11			
 圴	圴	tsiah	ciaq7	7									
 彴	彴	tsiah	ciaq7	7									
+勺	勺		ciaq7	14							0.00	文讀	
+杓	杓	tsiah	ciaq7	7							0.00	同「勺」，文讀	
 著	着	tsiah	ciaq7	1							0.00	同「着」	
 着	着		ciaq7	1	ciq7	9					0.01		
 擆	擆		ciaq7										
@@ -19319,7 +19329,7 @@
 若	若		zoq8	6			zoq8	10					
 鄀	鄀		zoq8										
 勺	勺		zoq8	1	zoq8	9	zoq8	10	zoq8	11			
-杓	杓	tsiah	zoq8									同「勺」	
+杓	杓		zoq8									同「勺」	
 芍	芍		zoq8	1	zoq8	9							
 仢	仢		zoq8										
 著	着		zoq8								0.00	同「着」	
@@ -19950,6 +19960,7 @@
 執	执	tsih	ciq7	2	ciq7	9	ciq7	10	ciq7	11			
 縶	絷	tsih	ciq7	7									
 蓻	蓻	tsih	ciq7	7									
+蟄	蛰	tsih	ciq7	14					ciq7	11		驚蟄，又音	
 汁	汁	tsih	ciq7	1	ciq7	9	ciq7	10	ciq7	11			
 迹	迹		ciq7	1									
 跡	迹		ciq7	1	ciq7	9	ciq7	10	ciq7	11			
@@ -20129,7 +20140,7 @@
 骱	骱		ciq7										
 #			ciq7									團音	
 砌	砌		chiq7	2					chiq7	11			
-輯	辑	jih	chiq7	2	chiq7	9	jiq8	10	chiq7	11			
+輯	辑		chiq7	2	chiq7	9			chiq7	11			
 緝	缉	tsʽih	chiq7	1	chiq7	9			chiq7	11			
 七	七	tsʽih	chiq7	1	chiq7	9	chiq7	10					
 柒	柒		chiq7										
@@ -20258,12 +20269,13 @@
 嫉	嫉	dzih	jiq8	7	ji2	9							
 蒺	蒺	dzih	jiq8	7									
 截	截		jiq8	2	zhiq8	9	jiq8	10	jiq8	11			
-蟄	蛰	tsih	jiq8	2	jiq8	9	jiq8	10	ciq7	11		驚蟄	
+蟄	蛰		jiq8	2	jiq8	9	jiq8	10				驚蟄	
 螫	螫	dzih	jiq8	7									
 侄	侄		jiq8	1	jiq8	9	jiq8	10	jiq8	11			
 姪	侄	dzih	jiq8	1			jiq8	10					
 妷	侄		jiq8	1									
 集	集		jiq8	2			jiq8	10	jiq8	11			
+輯	辑		jiq8	14			jiq8	10			0.05	又音	
 犆	犆		jiq8										
 俋	俋		jiq8										
 紩	紩		jiq8										
@@ -21135,6 +21147,7 @@
 霫	霫	jih	zyuq8	7									
 戢	戢	jih	zyuq8	7					ciq7	11			
 集	集	jih	zyuq8	2	zyuq8	9					0.10		
+輯	辑	jih	zyuq8	14							0.05	又音	
 隰	隰	jih	zyuq8	7									
 踅	踅		zyuq8										
 臸	臸		zyuq8										
@@ -21232,7 +21245,7 @@
 𠄡	五		ng4	1								白讀	
 耳	耳		ng4	1			ng6	10					
 午	午		ng4	1					ng4	11	0.00	限於「端午」	
-伍	伍						ng6	10	ng4	11	0.00	白讀	
+伍	伍		ng4	14			ng6	10	ng4	11	0.00	白讀	
 尾	尾		ng4	1	gni2	9	gni6	10			0.01	白讀 船尾巴	
 #			ng4										
 爾	尔		ng6	1			n6	10			243244	「俉」的本字爲「爾」	

@@ -2342,7 +2342,7 @@
 覷	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
 覰	觑		chi5	1					chi5	11	0.00	又音 眯覷眼	
 䀙	䀙	tsʽi	chi5	7									
-砌	砌		chi5		chi3	9	chi5	10	chi5	11			
+砌	砌		chi5	14	chi3	9	chi5	10	chi5	11			
 摖	摖		chi5										
 坥	坥		chi5										
 #			chi5									尖音、衣韻	
@@ -3477,7 +3477,7 @@
 腌	腌	in	i1	1									
 醃	腌	in	i1	1			i1	10	ien1	11			
 懨	恹		i1										
-燕	燕		i1						ien1	11	0.05		
+燕	燕		i1	14					ien1	11	0.05	姓	
 崦	崦		i1										
 懕	懕		i1										
 橪	橪		i1										
@@ -6214,7 +6214,7 @@
 燥	燥	sao	sau5	1	sau1	9					5000		
 髞	髞		sau5										
 𢜶	𢜶		sau5	1					sau5	11			
-掃	扫	sao	sau5		sau5	9	sau5	10	sau5	11			
+掃	扫	sao	sau5	14	sau5	9	sau5	10	sau5	11		掃帚	
 少	少	sao					sau5	10	sau5	11	0.01	文讀	
 埽	埽		sau5										
 娋	娋		sau5										
@@ -7336,7 +7336,7 @@
 嬲	嬲	biao	gniau4	6								文讀	
 擾	扰						gniau6	10				白讀	
 #			gniau4										
-尿	尿		gniau6				gniau6	10			0.06	文讀	
+尿	尿		gniau6	14			gniau6	10			0.06	文讀	
 脲	脲		gniau6									化學用字	
 獟	獟		gniau6										
 顤	顤		gniau6										
@@ -7458,6 +7458,7 @@
 搖	摇	yiao	yau2	1	yau2	9	yau2	10	yau2	11			
 揺	摇		yau2	1									
 謠	谣	yiao	yau2	2	yau2	9	yau2	10	yau2	11			
+謡	谣		yau2	2									
 遙	遥	yiao	yau2	7	yau2	9							
 鷂	鹞	yiao	yau2	1	yau6	9	yau6	10	yau6	11		鷂子	
 徭	徭	yiao	yau2	7									
@@ -7478,7 +7479,6 @@
 愮	愮		yau2										
 榣	榣		yau2										
 瑶	瑶		yau2										
-謡	谣		yau2										
 遥	遥		yau2										
 爻	爻	yiao	yau2	7									
 肴	肴		yau2	2									
@@ -7525,7 +7525,7 @@
 趭	趭		yau6										
 鷣	𫜃		yau6										
 #			yau6										
-要	要	iao	iau1				iau1	10	iau1	11		要求	
+要	要	iao	iau1	14			iau1	10	iau1	11		要求	
 腰	腰	iao	iau1	1	iau1	9	iau1	10	iau1	11			
 闄	闄		iau1	3								闄腳	
 葽	葽	iao	iau1	7									
@@ -8777,7 +8777,7 @@
 霰	霰	sæn	sae3	7									
 滻	浐		sae3										
 糤	糤		sae3										
-散	散	sæn	sae3		sae3	9			sae3	11			
+散	散	sæn	sae3	14	sae3	9			sae3	11			
 醦	醦		sae3										
 #			sae3										
 散	散	sæn	sae5	1	sae5	9			sae5	11			
@@ -10893,7 +10893,7 @@
 昬	昏		huei1	3							0.00	又音 僅限於「黃昏頭」	
 睢	睢		huei1										
 倠	倠		huei1										
-詼	诙		huei1		huei1	9							
+詼	诙		huei1	14	huei1	9							
 眭	眭		huei1										
 蘳	蘳		huei1										
 觿	觿		huei1										
@@ -12118,7 +12118,7 @@
 蓲	蓲		eu1										
 醧	醧		eu1										
 #			eu1										
-嘔	呕	eo	eu3				eu3	10	ei3	11			
+嘔	呕	eo	eu3	14			eu3	10	ei3	11			
 塸	塸		eu3										
 㸸	㸸		eu3										
 敺	敺		eu3										
@@ -12948,7 +12948,7 @@
 黨	党	tông	taon3	2	taon3	9	taon3	10	taon3	11			
 党	党		taon3	2									
 讜	谠	tông	taon3	7									
-擋	挡	tông	taon3		taon3	9	taon3	10	taon3	11			
+擋	挡	tông	taon3	14	taon3	9	taon3	10	taon3	11			
 欓	𣗋		taon3										
 灙	𣺼		taon3										
 瓽	瓽		taon3										
@@ -13277,7 +13277,7 @@
 樉	樉		saon3										
 #			saon3									翹舌	
 搡	搡	sông	saon5	1			saon3	10	saon5	11			
-喪	丧	sông	saon5		saon5	9	saon5	10					
+喪	丧	sông	saon5	14	saon5	9	saon5	10				喪失	
 #			saon5									平舌	
 㦼	㦼	shông	saon5	7									
 慯	慯		saon5										
@@ -13748,7 +13748,7 @@
 毌	毌		kun5										
 貫	贯	kwun	kun5	2	kuoe5	9	kueu5	10	kun5	11			
 冠	冠	kwun	kun5	2	kuoe5	9	kueu5	10	kun5	11		冠軍	
-觀	观	kwun	kun5		kuoe5	9			kun5	11	0.05	寺觀	
+觀	观	kwun	kun5	14	kuoe5	9			kun5	11	0.05	寺觀	
 巏	巏		kun5										
 悺	悺		kun5										
 樌	樌		kun5										
@@ -14196,7 +14196,7 @@
 塄	塄		len2										
 㔂	㔂		len2	3								刮去（樹皮、竹節）	
 㨆	㨆		len2	3								刮去（樹皮、竹節）	
-論	论	leng	len2				len2	10	len2	11	0.00	論語	
+論	论	leng	len2	14			len2	10	len2	11	0.00	論語	
 祾	祾		len2										
 #			len2										
 耣	耣		len4										
@@ -14917,7 +14917,7 @@
 凛	凛	ling	lin4	2									
 懍	懔		lin4	1									
 懔	懔	ling	lin4	1									
-廩	廪		lin4										
+廩	廪		lin4	14									
 澟	澟		lin4										
 膦	膦		lin4									化學用字	
 僯	僯		lin4										
@@ -15135,7 +15135,7 @@
 境	境	kying	cin5	2	cin1	9	cin3	10	cin3	11			
 獍	獍	kying	cin5	7									
 靳	靳		cin5		jin2	9							
-禁	禁	kying	cin5		cin5	9	cin5	10	cin5	11			
+禁	禁	kying	cin5	14	cin5	9	cin5	10	cin5	11			
 經	经	kying	cin5		cin5	9	cin5	10	cin5	11	0.05	經線	
 桱	𣐕		cin5										
 俓	𠇹		cin5										
@@ -15563,7 +15563,7 @@
 昕	昕		shin1										
 忻	忻		shin1										
 歆	歆	hying	shin1	7									
-興	兴	hying	shin1		shin1	9			shin1	11			
+興	兴	hying	shin1	14	shin1	9			shin1	11		興旺	
 蛵	蛵		shin1										
 欦	欦		shin1										
 祅	祅		shin1										
@@ -15623,7 +15623,7 @@
 膡	膡		shin5										
 眒	眒		shin5										
 #			shin5									尖音	
-興	兴	hying	shin5	1	shin5	9	shin5	10					
+興	兴	hying	shin5	1	shin5	9	shin5	10			高興		
 嬹	嬹		shin5										
 舋	舋		shin5										
 焮	焮		shin5										
@@ -16782,7 +16782,7 @@
 堹	堹	cong	tson5	7									
 偅	偅		tson5										
 諥	𫍳		tson5										
-中	中	cong	tson5		tson5	9	tson5	10			0.10	中獎	
+中	中	cong	tson5	14	tson5	9	tson5	10			0.10	中獎	
 瘲	疭		tson5										
 #			tson5									翹舌	
 匆	匆		tshon1	2	tshon1	9	tshon1	10	tshon1	11			
@@ -17301,7 +17301,7 @@
 捌	捌	pah	paq7	7									
 䤢	䤢	pah	paq7	7									
 百	百	pah	paq7	1	paq7	9	paq7	10	paq7	11			
-佰	佰		paq7									數字「百」的大寫	
+佰	佰		paq7	14								數字「百」的大寫	
 柏	柏	pah	paq7	1	paq7	9	paq7	10	paq7	11			
 栢	柏		paq7	1									
 伯	伯	pah	paq7	1	paq7	9	paq7	10	paq7	11			
@@ -18476,7 +18476,7 @@
 弱	弱	ziah	zhiaq8	2	zhiq8	9	zhiq8	10	yaq8	11			
 蒻	蒻	ziah	zhiaq8	7									
 叒	叒		zhiaq8										
-芍	芍	ziah	zhiaq8				zhiq8	10	yiq8	11			
+芍	芍	ziah	zhiaq8	14			zhiq8	10	yiq8	11			
 仢	仢		zhiaq8										
 #			zhiaq8										
 葯	药		yaq8	2					yaq8	11			
@@ -18957,6 +18957,7 @@
 #			noq8										
 錄	录	loh	loq8	2	loq8	9	loq8	10	loq8	11			
 録	录	loh	loq8	2									
+彔	录		loq8										
 綠	绿	loh	loq8	1	loq8	9	loq8	10	loq8	11			
 緑	绿		loq8	1	loq8	9	loq8	10	loq8	11			
 菉	绿	loh	loq8	1									
@@ -18966,16 +18967,15 @@
 睩	睩		loq8	1							0.00	彈眼睩睛	
 氯	氯		loq8	2								化學元素	
 祿	禄	loh	loq8	2	loq8	9	loq8	10	loq8	11			
+禄	禄		loq8	2									
 醁	醁	loh	loq8	7									
 騄	𫘧	loh	loq8	7									
 䟿	䟿	loh	loq8	7									
 逯	逯	loh	loq8	7									
 籙	箓	loh	loq8	7									
 𬆚	𬆚	loh	loq8	7									
-彔	录		loq8										
 淥	渌		loq8										
 琭	琭		loq8										
-禄	禄		loq8										
 箓	箓		loq8										
 簶	簶		loq8										
 六	六	loh	loq8	1	loq8	9	loq8	10	loq8	11			
@@ -20168,7 +20168,7 @@
 勅	敕		chiq7	7									
 勑	敕		chiq7	7									
 飭	饬	tsʽih	chiq7	7			chiq7	10					
-沏	沏		chiq7										
+沏	沏		chiq7	14									
 葺	葺	tsʽih	chiq7	7									
 瘵	瘵		chiq7	3								癆瘵	
 皵	皵	tsʽiah	chiq7	1								指甲或竹木等表皮裂開成絲或翹起	
@@ -20503,7 +20503,7 @@
 鉽	𫟸		shiq7										
 啥	啥		shiq7	3							0.00	又音 僅限於「啥西」	
 西	西	si	shiq7	3	shi1	9	shi1	10	chi1	11	0.00	又音 僅限於「啥西」	
-雪	雪	shih	shiq7								0.00	僅限於「雪茄菸」一詞	
+雪	雪	shih	shiq7	14							0.00	僅限於「雪茄菸」一詞	
 韘	韘		shiq7										
 僁	僁		shiq7										
 暬	暬		shiq7										
@@ -20759,7 +20759,7 @@
 橘	橘	kyüih	ciuq7	1			cioq7	10	ciuq7	11			
 譎	谲	kyüih	ciuq7	7									
 閰	閰		ciuq7										
-孓	孓		ciuq7										
+孓	孓		ciuq7	14									
 孒	孒		ciuq7										
 憰	憰		ciuq7										
 芵	芵		ciuq7										

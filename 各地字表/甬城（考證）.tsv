@@ -3245,7 +3245,7 @@
 腌	腌	i1	
 醃	腌	i1	
 懨	恹	i1	
-燕	燕	i1	
+燕	燕	i1	姓
 崦	崦	i1	
 懕	懕	i1	
 橪	橪	i1	
@@ -3556,6 +3556,7 @@
 亡	亡	vu2	古同「無」
 侮	侮	vu2	
 巫	巫	vu2	
+誣	诬	vu2	又音
 莁	莁	vu2	
 鵐	鹀	vu2	
 浮	浮	vu2	文讀
@@ -3997,6 +3998,7 @@
 鯃	鯃	wu2	
 黃	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
 黄	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
+巫	巫	wu2	
 鋘	鋘	wu2	
 誣	诬	wu2	又音
 毋	毋	wu2	
@@ -5608,7 +5610,7 @@
 燥	燥	sau5	
 髞	髞	sau5	
 𢜶	𢜶	sau5	
-掃	扫	sau5	
+掃	扫	sau5	掃帚
 埽	埽	sau5	
 娋	娋	sau5	
 揱	揱	sau5	
@@ -6292,7 +6294,6 @@
 眺	眺	thiau5	
 覜	眺	thiau5	
 絩	絩	thiau5	
-粜	粜	thiau5	
 窱	窱	thiau5	
 條	条	diau2	
 鰷	鲦	diau2	
@@ -6678,6 +6679,7 @@
 顦	憔	zhiau2	
 癄	憔	zhiau2	
 鐎	𨱓	zhiau2	
+樵	樵	zhiau2	
 兆	兆	zhiau2	白讀
 擾	扰	zhiau2	
 肇	肇	zhiau2	
@@ -6693,6 +6695,7 @@
 搖	摇	yau2	
 揺	摇	yau2	
 謠	谣	yau2	
+謡	谣	yau2	
 遙	遥	yau2	
 鷂	鹞	yau2	鷂子
 徭	徭	yau2	
@@ -6713,7 +6716,6 @@
 愮	愮	yau2	
 榣	榣	yau2	
 瑶	瑶	yau2	
-謡	谣	yau2	
 遥	遥	yau2	
 爻	爻	yau2	
 肴	肴	yau2	
@@ -6893,6 +6895,7 @@
 麚	麚	cio1	舊文讀
 瘕	瘕	cio1	舊文讀
 豭	豭	cio1	舊文讀
+佳	佳	cio1	舊文讀
 犌	犌	cio1	舊文讀
 猳	猳	cio1	舊文讀
 貑	貑	cio1	舊文讀
@@ -8893,6 +8896,7 @@
 邶	邶	bei6	
 薜	薜	bei6	
 軷	𫐈	bei6	
+陛	陛	bei6	舊讀
 眉	眉	mei2	文讀
 楣	楣	mei2	
 嵋	嵋	mei2	
@@ -9716,7 +9720,7 @@
 嘒	嘒	huei5	
 晦	晦	huei5	
 喙	喙	huei5	
-穢	秽	huei5	
+穢	秽	huei5	又音
 翽	翙	huei5	
 濊	濊	huei5	
 鐬	鐬	huei5	
@@ -9764,7 +9768,7 @@
 烠	烠	wei2	
 慧	慧	wei2	
 蕙	蕙	wei2	
-慰	慰	wei2	
+慰	慰	wei2	又音
 彙	汇	wei2	
 巍	巍	wei2	
 嵬	嵬	wei2	
@@ -9914,6 +9918,8 @@
 餵	喂	uei5	文讀
 喂	喂	uei5	文讀
 餧	喂	uei5	文讀
+慰	慰	uei5	
+穢	秽	uei5	
 恚	恚	uei5	俗音
 螱	螱	uei5	
 薈	荟	uei5	
@@ -11754,7 +11760,7 @@
 𧴅	𧴅	saon3	
 樉	樉	saon3	
 搡	搡	saon5	
-喪	丧	saon5	
+喪	丧	saon5	喪失
 㦼	㦼	saon5	
 慯	慯	saon5	
 珦	珦	saon5	
@@ -12655,6 +12661,7 @@
 䫈	䫈	dzen2	
 棖	枨	dzen2	
 蹲	蹲	dzen2	虎蹲山
+澄	澄	dzen2	文讀
 橧	橧	dzen2	
 竲	竲	dzen2	
 梣	梣	dzen2	
@@ -12667,6 +12674,7 @@
 鴆	鸩	dzen6	
 栫	栫	dzen6	
 臶	臶	dzen6	
+朕	朕	dzen6	
 生	生	sen1	文讀
 牲	牲	sen1	文讀
 甥	甥	sen1	文讀
@@ -13559,6 +13567,7 @@
 螓	螓	jin2	
 嗪	嗪	jin2	化學用字
 嶜	嶜	jin2	
+覃	覃	jin2	姓氏又音
 辰	辰	jin2	又音 僅限於「辰光」
 敐	敐	jin2	敲擊聲。《廣韻》植鄰切，擊聲
 凌	凌	jin2	凌凙
@@ -13799,7 +13808,7 @@
 昕	昕	shin1	
 忻	忻	shin1	
 歆	歆	shin1	
-興	兴	shin1	
+興	兴	shin1	興旺
 蛵	蛵	shin1	
 欦	欦	shin1	
 祅	祅	shin1	
@@ -15207,6 +15216,8 @@
 暻	暻	cion3	
 煚	煚	cion3	
 臩	臩	cion3	
+塚	冢	cion3	
+冢	冢	cion3	
 穹	穹	chion1	
 芎	芎	chion1	
 匑	匑	chion1	
@@ -16347,6 +16358,8 @@
 酌	酌	ciaq7	
 圴	圴	ciaq7	
 彴	彴	ciaq7	
+勺	勺	ciaq7	文讀
+杓	杓	ciaq7	同「勺」，文讀
 著	着	ciaq7	同「着」
 着	着	ciaq7	
 擆	擆	ciaq7	
@@ -16887,6 +16900,7 @@
 搙	搙	noq8	
 錄	录	loq8	
 録	录	loq8	
+彔	录	loq8	
 綠	绿	loq8	
 緑	绿	loq8	
 菉	绿	loq8	
@@ -16896,16 +16910,15 @@
 睩	睩	loq8	彈眼睩睛
 氯	氯	loq8	化學元素
 祿	禄	loq8	
+禄	禄	loq8	
 醁	醁	loq8	
 騄	𫘧	loq8	
 䟿	䟿	loq8	
 逯	逯	loq8	
 籙	箓	loq8	
 𬆚	𬆚	loq8	
-彔	录	loq8	
 淥	渌	loq8	
 琭	琭	loq8	
-禄	禄	loq8	
 箓	箓	loq8	
 簶	簶	loq8	
 六	六	loq8	
@@ -17845,6 +17858,7 @@
 執	执	ciq7	
 縶	絷	ciq7	
 蓻	蓻	ciq7	
+蟄	蛰	ciq7	驚蟄，又音
 汁	汁	ciq7	
 迹	迹	ciq7	
 跡	迹	ciq7	
@@ -18151,6 +18165,7 @@
 姪	侄	jiq8	
 妷	侄	jiq8	
 集	集	jiq8	
+輯	辑	jiq8	又音
 犆	犆	jiq8	
 俋	俋	jiq8	
 紩	紩	jiq8	
@@ -18986,6 +19001,7 @@
 霫	霫	zyuq8	
 戢	戢	zyuq8	
 集	集	zyuq8	
+輯	辑	zyuq8	又音
 隰	隰	zyuq8	
 踅	踅	zyuq8	
 臸	臸	zyuq8	
@@ -19064,6 +19080,7 @@
 𠄡	五	ng6	白讀
 耳	耳	ng6	
 午	午	ng6	限於「端午」
+伍	伍	ng6	白讀
 尾	尾	ng6	白讀 船尾巴
 爾	尔	ng6	「俉」的本字爲「爾」
 尒	尔	ng6	「俉」的本字爲「爾」

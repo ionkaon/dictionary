@@ -460,11 +460,11 @@
 揢	揢	kho5	
 抲	抲	kho5	〜鱼
 呵	呵	ho5	〜痒
-鴉	鸦	oo1	
-丫	丫	oo1	
-椏	桠	oo1	
-啞	哑	oo3	
-掗	挜	oo5	〜把侬
+鴉	鸦	o1	
+丫	丫	o1	
+椏	桠	o1	
+啞	哑	o3	
+掗	挜	o5	〜把侬
 査	査	dzo2	
 茶	茶	dzo2	
 搽	搽	dzo2	
@@ -668,6 +668,7 @@
 溉	溉	ke5	
 蓋	盖	ke5	
 丐	丐	ke5	
+開	开	khe1	
 凱	凯	khe3	
 慨	慨	khe5	
 海	海	he3	
@@ -937,6 +938,17 @@
 啥	啥	sou1	
 梭	梭	sou3	文
 鎖	锁	sou3	
+歌	歌	kou1	
+哥	哥	kou1	
+過	过	kou1	[走〜]
+鍋	锅	kou1	
+戈	戈	kou1	
+果	果	kou1	
+裹	裹	kou3	
+錁	锞	kou3	
+果	果	kou3	
+個	个	kou5	
+過	过	kou5	
 可	可	khou1	
 科	科	khou1	
 棵	棵	khou1	
@@ -2310,9 +2322,9 @@
 柩	柩	jieu6	
 宙	宙	jieu6	
 就	就	jieu6	
-牛	牛	gnieu4	文
-紐	纽	gnieu4	
-扭	扭	gnieu4	
+牛	牛	gnieu6	文
+紐	纽	gnieu6	
+扭	扭	gnieu6	
 尤	尤	yeu2	
 郵	邮	yeu2	
 由	由	yeu2	
@@ -2387,13 +2399,23 @@
 諒	谅	lian6	
 輛	辆	lian6	
 量	量	lian6	较〜
-仰	仰	jian2	
-瓤	瓤	jian2	
-壤	壤	jian2	
-攘	攘	jian2	
-嚷	嚷	jian2	
-娘	娘	jian2	
-釀	酿	jian6	
+强	強	jian2	
+祥	祥	jian2	
+详	詳	jian2	
+长	長	jian2	〜短
+肠	腸	jian2	
+场	場	jian2	
+丈	丈	jian2	
+仗	仗	jian2	文
+杖	杖	jian2	
+⿰氵丈	⿰氵丈	jian2	
+仰	仰	gnian2	
+瓤	瓤	gnian2	
+壤	壤	gnian2	
+攘	攘	gnian2	
+嚷	嚷	gnian2	
+娘	娘	gnian2	
+釀	酿	gnian6	
 養	养	yan2	
 洋	洋	yan2	
 烊	烊	yan2	
@@ -2723,10 +2745,11 @@
 吐	吐	thu5	
 兔	兔	thu5	
 唾	唾	thu5	
-粗	粗	tsu1	文
+租	租	tsu1	文
 祖	祖	tsu3	
 組	组	tsu3	
-楚	楚	tsu5	文
+粗	粗	tshu1	文
+楚	楚	tshu5	文
 蘇	苏	su1	文
 酥	酥	su1	文
 素	素	su5	文
@@ -2864,6 +2887,7 @@
 碼	码	muo2	
 螞	蚂	muo2	
 罵	骂	muo6	
+嬤	嬷	mhuo5	
 朵	朵	tuo1	
 躲	躲	tuo1	
 剁	剁	tuo1	
@@ -3189,52 +3213,52 @@
 芋	芋	yu6	
 喻	喻	yu6	
 裕	裕	yu6	
-家	家	cio1	归～
-佳	佳	cio1	
-嘉	嘉	cio1	韩〜夫
-賈	贾	cio3	姓
-☐	☐	cio5	知了
-雅	雅	io1	
-霞	霞	io1	
-瑕	瑕	io1	
-遐	遐	io1	
-暇	暇	io5	
-亞	亚	io5	
-捐	捐	ciue1	
-捲	捲	ciue3	
-眷	眷	ciue5	
-卷	卷	ciue5	
-絹	绢	ciue5	
-圈	圈	chiue1	猪〜
-圈	圈	chiue3	圓～
-犬	犬	chiue3	
-勸	劝	chiue5	
-券	券	chiue5	
-閂	闩	shiue1	
-楦	楦	shiue1	鞋〜
-拳	拳	jiue2	
-權	权	jiue2	
-顴	颧	jiue2	
-倦	倦	jiue6	
-軟	软	gniue2	
-原	原	gniue2	
-源	源	gniue2	
-元	元	gniue2	
-願	願	gniue6	
-圓	圆	yue2	
-員	员	yue2	
-緣	缘	yue2	
-袁	袁	yue2	
-轅	辕	yue2	
-園	园	yue2	
-援	援	yue2	
-遠	远	yue2	
-元	元	yue2	
-玄	玄	yue2	
-懸	悬	yue2	
-院	院	yue6	
-縣	县	yue6	
-眩	眩	yue6	
+家	家	cio1	老派，归～
+佳	佳	cio1	老派
+嘉	嘉	cio1	老派，韩〜夫
+賈	贾	cio3	老派，姓
+☐	☐	cio5	老派，知了
+雅	雅	io1	老派
+霞	霞	io1	老派
+瑕	瑕	io1	老派
+遐	遐	io1	老派
+暇	暇	io5	老派
+亞	亚	io5	老派
+捐	捐	ciue1	老派
+捲	捲	ciue3	老派
+眷	眷	ciue5	老派
+卷	卷	ciue5	老派
+絹	绢	ciue5	老派
+圈	圈	chiue1	老派，猪〜
+圈	圈	chiue3	老派，圓～
+犬	犬	chiue3	老派
+勸	劝	chiue5	老派
+券	券	chiue5	老派
+閂	闩	shiue1	老派
+楦	楦	shiue1	老派，鞋〜
+拳	拳	jiue2	老派
+權	权	jiue2	老派
+顴	颧	jiue2	老派
+倦	倦	jiue6	老派
+軟	软	gniue2	老派
+原	原	gniue2	老派
+源	源	gniue2	老派
+元	元	gniue2	老派
+願	願	gniue6	老派
+圓	圆	yue2	老派
+員	员	yue2	老派
+緣	缘	yue2	老派
+袁	袁	yue2	老派
+轅	辕	yue2	老派
+園	园	yue2	老派
+援	援	yue2	老派
+遠	远	yue2	老派
+元	元	yue2	老派
+玄	玄	yue2	老派
+懸	悬	yue2	老派
+院	院	yue6	老派
+縣	县	yue6	老派
+眩	眩	yue6	老派
 均	均	cion1	
 鈞	钧	cion1	
 軍	军	cion1	文

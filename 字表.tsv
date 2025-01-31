@@ -7084,7 +7084,7 @@
 #			liau2										
 䩍	䩍	liao	liau4	1					liau4	11		䩍白	
 瞭	了	liao	liau4	2	liau6	9	liau6	10	liau2	11			
-了	了	liao	liau4	1	liau2	9	liau6	10					
+了	了	liao	liau4	1	liau2	9	liau6	10			16000		
 釕	钌	liao	liau4	7								化學元素	
 憭	憭	liao	liau4	7									
 𨣀	𨣀	liao	liau4	7									
@@ -10237,7 +10237,7 @@
 欙	欙		lei2										
 纝	纝		lei2										
 羸	羸	le	lei2	7									
-了	了		lei2	3	lei2	9							
+了	了		lei2	3	lei2	9					600000		
 櫑	櫑		lei2										
 瓃	瓃		lei2										
 轠	𫐙		lei2										
@@ -17569,7 +17569,7 @@
 𢔶	𢔶		taq7									古同「得」	
 鍀	锝		taq7									化學元素	
 嘚	嘚		taq7										
-掇	掇	teh	taq7	1	taq7	9	taq7	10	taq7	11		兩手端東西（一般不過胸）	
+掇	掇	teh	taq7	1	taq7	9	taq7	10	taq7	11	1500	兩手端東西（一般不過胸）	
 鵽	鵽	teh	taq7	7									
 剟	剟	teh	taq7	7									
 裰	裰		taq7										
@@ -17745,7 +17745,7 @@
 搚	搚		laq8										
 #			laq8									格韻	
 勒	勒	leh	laq8	1	laq8	9	laq8	10	laq8	11	45114		
-了	了		laq8	3									
+了	了		laq8	3							1000000		
 嘞	嘞		laq8		lhaq7	9			laq8	11			
 鰳	鳓	leh	laq8	7									
 肋	肋	leh	laq8	1	laq8	9	laq8	10	laq8	11			

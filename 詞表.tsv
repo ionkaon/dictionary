@@ -17411,26 +17411,26 @@
 忖啊	tshen gha						
 忖也好甮忖	tshen gha hau ven tshen						
 襯鞋底	tshen gha ti	255			鋪墊鞋底		55
-忖也勿忖	tshen gha vaq tshen						
-忖也弗忖	tshen gha vaq tshen						1
+忖也勿忖	tshen gha vaq tshen				想也不想		
+忖也弗忖	tshen gha vaq tshen				想也不想		1
 忖下去	tshen gho chi						
 忖下來	tshen gho le						
 忖個	tshen ghoq						
-忖學	tshen ghoq						
+忖學	tshen ghoq				想學		
 忖讓	tshen gnian						
 忖個	tshen goq						
 忖喝	tshen haq						
-忖好	tshen hau						
+忖好	tshen hau				想好		
 忖好仔	tshen hau tsy						
 忖約	tshen iaq						
-忖要	tshen iau						
+忖要	tshen iau				想要		
 忖要個	tshen iau ghoq						
 忖要個	tshen iau goq						
 忖一忖	tshen iq tshen						
 忖滰	tshen jian						
 忖成	tshen jin						
 忖成爲	tshen jin wei						
-襯裙	tshen jiun	255					
+襯裙	tshen jiun	255			襯在裙子裏面比裙子短一點的薄裙		
 忖講	tshen kaon						
 忖吃	tshen kaq						
 忖跟	tshen ken						
@@ -17448,7 +17448,7 @@
 忖勒	tshen laq						
 忖勒起來	tshen laq chi le						
 忖勒開	tshen laq khe						
-忖勒來	tshen laq le		224				55
+忖勒來	tshen laq le		224		可以估算或想象；不會太多或太好		55
 忖勒得是好	tshen laq taq zy hau						
 忖勒到	tshen laq tau						
 忖了忖	tshen laq tshen						
@@ -17456,11 +17456,11 @@
 忖來	tshen le						
 忖來忖去	tshen le tshen chi						
 忖了	tshen lei						
-襯裏褲	tshen li khu	255	59	231			55
-襯裏布衫	tshen li pu sae	255	57	231			55
+襯裏褲	tshen li khu	255	59	231	貼身穿的單褲		55
+襯裏布衫	tshen li pu sae	255	57	231	內衣		55
 忖瞭解	tshen liau cia						
 忖瞭解	tshen liau ka						
-襯領	tshen lin	255					
+襯領	tshen lin	255			襯在領子中的布或化纖織物		
 忖錄	tshen loq						
 忖落去	tshen loq chi						
 忖落來	tshen loq le						
@@ -17482,15 +17482,15 @@
 忖包	tshen pau						
 忖報	tshen pau						
 忖變	tshen pi						
-襯布	tshen pu	255					
-襯衫	tshen sae	255					
+襯布	tshen pu	255			襯在衣服的面子和裏子中間的薄布，絲棉襖或駱毛棉襖一般都用襯布，以防止絲棉或駱駝毛往外鑽		
+襯衫	tshen sae	255			襯衫		
 襯衫添裏	tshen sae thi li						
-忖煞介	tshen saq ka		246				55
+忖煞介	tshen saq ka		246		形容非常想		55
 忖寫	tshen shia						
-忖相	tshen shian		50	125			55
+忖相	tshen shian		50	125	想法，想頭		55
 忖笑	tshen shiau						
 忖曉得	tshen shiau taq						
-忖心事	tshen shin zy	255	317	125			55
+忖心事	tshen shin zy	255	317	125	1. 想心事；2. 責備人注意力不集中或考慮不周全		55
 忖吸	tshen shiq						
 忖啥	tshen so						
 忖送	tshen son						
@@ -17537,18 +17537,18 @@
 忖弗出	tshen vaq tshyuq						1
 忖勿出來	tshen vaq tshyuq le						
 忖弗出來	tshen vaq tshyuq le						1
-忖紋理	tshen ven li	255					55
+忖紋理	tshen ven li	255			想心事，打主意		55
 忖回	tshen wei						
 忖爲	tshen wei						
 忖回去	tshen wei chi						
 忖回來	tshen wei le						
-忖野心	tshen ya shin		318				55
+忖野心	tshen ya shin		318		想異性，萌發春心		55
 忖也弗忖	tshen ya vaq tshen						1
 忖有	tshen yeu						
 忖用	tshen yon						
 忖上	tshen zaon						
 忖上去	tshen zaon chi						
-忖上加忖	tshen zaon ko tshen		333				55
+忖上加忖	tshen zaon ko tshen		333		想了一遍又一遍		55
 忖上來	tshen zaon le						
 忖受	tshen zhieu						
 忖尋	tshen zhin						
@@ -17557,443 +17557,443 @@
 忖着	tshen zoq						
 忖坐	tshen zou						
 忖坐勒	tshen zou laq						
-忖	tshen3	255	174	125			
-湊巧	tsheu chiau	198					
+忖	tshen3	255	174	125	想		
+湊巧	tsheu chiau	198			碰巧		
 湊隊	tsheu dei	198	195		結交；在一起	後字當與「聚隊」一樣，並非「頭」的兒化變音	55
 湊隊夥	tsheu dei hou						
 湊隊家	tsheu dei ko	198	23		朋友；夥伴		55
 湊頭	tsheu deu	198			結交；在一起		55
-湊	tsheu5	198	146	383			
+湊	tsheu5	198	146	383	1. 放入；2. 連詞，和，跟，表示將相關的事物對舉		
 扯牌頭	tsho ba deu	98			搬出靠山來		55
-扯平	tsho bin	99					
+扯平	tsho bin	99			均勻兩者之差		
 扯篷	tsho bon	99		138	張開船帆借風力航行		55
-叉肩胛	tsho ci kaq	98					55
+叉肩胛	tsho ci kaq	98			稍稍高起的肩膀		55
 扯蛋	tsho dae	99	141	233	吹牛	朱版作「詫譚」。	
-車頭	tsho deu	99	6	32			
-差咋勿多	tsho dza vaq tou	99	271				
-差咋弗多	tsho dza vaq tou						55
+車頭	tsho deu	99	6	32	1. 河畔裝設水車之處；2. 喻指岔子		
+差咋勿多	tsho dza vaq tou	99	271		1. 相差不多，相近；2. 指接近某個界限（有時含有不用再繼續的意思）		
+差咋弗多	tsho dza vaq tou				1. 相差不多，相近；2. 指接近某個界限（有時含有不用再繼續的意思）		55
 扯風蓬	tsho fon bon	99			張開船帆借風力航行		55
 扯閒白直	tsho ghae baq jiq						
-車行	tsho ghaon	99					
-䟕洪洞	tsho ghon don		322				55
-岔蕻	tsho hon			166			
-扯一直	tsho iq jiq		188				55
-差一眼	tsho iq ngae	99	285	272			55
-差一眼眼	tsho iq ngae ngae	99					55
-扯直	tsho jiq		188				
-岔夾餅	tsho kaq pin		320				55
+車行	tsho ghaon	99			1.經營自行車、摩托車等的商店；2. 手裏自行車等的鋪子		
+䟕洪洞	tsho ghon don		322		比喻遭受大挫折		55
+岔蕻	tsho hon			166	蔬菜、棉花、向日葵等植物的旁出花莖，與「正蕻」相對		
+扯一直	tsho iq jiq		188		扯平；相抵		55
+差一眼	tsho iq ngae	99	285	272	差一點		55
+差一眼眼	tsho iq ngae ngae	99			差一點點		55
+扯直	tsho jiq		188		扯平；相抵		
+岔夾餅	tsho kaq pin		320		誤會		55
 扯塊料作	tsho khuei liau tsoq						
 車乾河	tsho ki-ke ghou						
-扯老蛋	tsho lau dae	99					55
-差來無去	tsho le vu chi	99	271			湯版作「差來浮去」。	55
-差來無幾	tsho le vu ci		271	272			55
-差來無去	tsho le wu- chi		271				55
-差來無幾	tsho le wu- ci		271	272			55
+扯老蛋	tsho lau dae	99			吹牛		55
+差來無去	tsho le vu chi	99	271		差不多；相差很少	湯版作「差來浮去」。	55
+差來無幾	tsho le vu ci		271	272	差不多；相差很少		55
+差來無去	tsho le wu- chi		271		差不多；相差很少		55
+差來無幾	tsho le wu- ci		271	272	差不多；相差很少		55
 扯料作	tsho liau tsoq						
-扯鈴	tsho lin			138			
-岔路	tsho lu	99					
-叉麻將	tsho mo cian	99	183			湯版等首字作「搓」，音不合。	418
+扯鈴	tsho lin			138	空竹		
+岔路	tsho lu	99			岔開起個道路		
+叉麻將	tsho mo cian	99	183		玩麻將牌	湯版等首字作「搓」，音不合。	418
 扯木人	tsho moq gnin		319	24	把人當作傻瓜耍	朱版作「叉木人」。	55
-叉魚	tsho ng	98	67	24, 272		朱版又作「鯧魚」。	55
-差眼	tsho ngae	99	285	272			55
-差眼眼	tsho ngae ngae	99		272			55
+叉魚	tsho ng	98	67	24, 272	鯧魚，頭小，體扁平，略呈菱形，銀白色，尾鰭叉狀	朱版又作「鯧魚」。	55
+差眼	tsho ngae	99	285	272	1. 相差一點點；2. 差點兒		55
+差眼眼	tsho ngae ngae	99		272	1. 相差一點點；2. 差點兒		55
 差眼本鈿	tsho ngae pen di						
-岔翁	tsho on	99	201	166			55
+岔翁	tsho on	99	201	166	岔開；對不上		55
 差扳	tsho pae	99	215, 252	272	相差	《阿拉宁波话》也作「差板」。	55
-車板	tsho pae	99					55
-差扳眼	tsho pae ngae	99					55
-差扳勿起	tsho pae vaq chi	99					
-差扳弗起	tsho pae vaq chi						55
-車票	tsho phiau	99					
-叉扁魚	tsho pi ng	98	67				55
-差把	tsho po		236				55
-車壩	tsho po			32			
-扯布	tsho pu	99					55
-叉手袋	tsho shieu de	98	58	25			55
-車水	tsho syu	99					55
-車兜	tsho teu	99					55
-扯統	tsho thon		215	137			55
-叉叉	tsho tsho	98	64				
-差差	tsho tsho	99	252	272			55
-車子	tsho tsy			32			
-車子後頭	tsho tsy gheu deu	99					55
-車子裏	tsho tsy li	99					55
-車子外頭	tsho tsy nga deu	99					55
-車子前頭	tsho tsy zhi deu	99					55
-差勿多	tsho vaq tou	99	271				
-差弗多	tsho vaq tou						55
-扯野書	tsho ya syu		319				55
-扯仕	tsho zy	99					55
-扯士	tsho zy	99					55
-䟕	tsho1		161	304			
-叉	tsho1	98	165	24			
-差	tsho1	99	187	271			
-車	tsho1	99					
-扯	tsho3	99	186				
+車板	tsho pae	99			水車上車水的木板		55
+差扳眼	tsho pae ngae	99			差點兒		55
+差扳勿起	tsho pae vaq chi	99			不得了；後果嚴重		
+差扳弗起	tsho pae vaq chi	99			不得了；後果嚴重		55
+車票	tsho phiau	99			車票		
+叉扁魚	tsho pi ng	98	67		鯧魚，頭小，體扁平，略呈菱形，銀白色，尾鰭叉狀		55
+差把	tsho po		236		（視力、腦子等）不好，有問題		55
+車壩	tsho po			32	用人力推動絞盤帶動船隻過壩		
+扯布	tsho pu	99			買布		55
+叉手袋	tsho shieu de	98	58	25	斜口的衣袋，多開在腰側，兩手可以很自然地插在袋中。褲袋褲兜兒		55
+車水	tsho syu	99			用水車從河裏取水灌到田裏		55
+車兜	tsho teu	99			自行車的車筐		55
+扯統	tsho thon		215	137	平均，平均計算		55
+叉叉	tsho tsho	98	64		豬乳旁邊的肥肉		
+差差	tsho tsho	99	252	272	不好，不足		55
+車子	tsho tsy			32	車子		
+車子後頭	tsho tsy gheu deu	99			車後		55
+車子裏	tsho tsy li	99			車裏		55
+車子外頭	tsho tsy nga deu	99			車外		55
+車子前頭	tsho tsy zhi deu	99			車前		55
+差勿多	tsho vaq tou	99	271		1. 相差不多，相近；2. 指接近某個界限（有時含有不用再繼續的意思）		
+差弗多	tsho vaq tou				1. 相差不多，相近；2. 指接近某個界限（有時含有不用再繼續的意思）		55
+扯野書	tsho ya syu		319		不着邊際地瞎扯		55
+扯仕	tsho zy	99			象棋術語，士或仕向前方移動		55
+扯士	tsho zy	99			象棋術語，士或仕向前方移動		55
+䟕	tsho1		161	304	踩；腳踏人		
+叉	tsho1	98	165	24	1. 以叉子取東西；2. （肩）聳起；3. （手）斜插；4. 用筷子大量夾取；5. 分開；6. 玩（麻將）		
+差	tsho1	99	187	271	1. 欠（錢）；2. 需要；3. 欠缺在於		
+車	tsho1	99			水車		
+扯	tsho3	99	186		買（布）		
 瘥	tsho5	99	173	454	病情有所好轉	《阿拉宁波话》也作「差」。	
-穿着	tshoe ciaq	151					
+穿着	tshoe ciaq	151			穿戴；裝束		
 穿針眼	tshoe cin ngae						
 穿針屁眼	tshoe cin phi ngae	151			穿針		55
-穿堂	tshoe daon	151					
+穿堂	tshoe daon	151			兩個院子之間可往來通行的過堂		
 竄頭	tshoe deu	151	127	413	意外到來的好運	《阿拉宁波话》作「躥頭」。根據變調，前字應爲陰平。	55
-攛風調	tshoe fon diau	151	27	179			55
-穿鞋	tshoe gha						
-穿鞋爿	tshoe gha bae						
+攛風調	tshoe fon diau	151	27	179	好搬弄是非的人		55
+穿鞋	tshoe gha				穿鞋		
+穿鞋爿	tshoe gha bae				穿鞋		
 穿紅着綠	tshoe ghon ciaq loq						
-穿衣裳	tshoe i zaon						
-串陣	tshoe jin		163				55
-穿裙	tshoe jiun						
-穿空殼棉襖	tshoe khon khoq mi au	151					55
-穿褲	tshoe khu						
-穿褲子	tshoe khu tsy						
+穿衣裳	tshoe i zaon				穿衣服		
+串陣	tshoe jin		163		串來串去		55
+穿裙	tshoe jiun				穿裙子		
+穿空殼棉襖	tshoe khon khoq mi au	151			棉襖直接穿於布衫之外		55
+穿褲	tshoe khu				穿褲子		
+穿褲子	tshoe khu tsy				穿褲子		
 穿勒及	tshoe laq ji						
 穿連衫裙	tshoe li sae jiun						
-穿連襠褲	tshoe li taon khu	151	335	281			
+穿連襠褲	tshoe li taon khu	151	335	281	比喻串通一氣		
 穿兩用衫	tshoe lian yon sae						
-穿襪	tshoe maq						
-穿嘸沒穿着	tshoe mhiq tshoe dzoq		340				
-穿嘸沒穿着	tshoe mhiq tshoe zoq						
-穿棉襖	tshoe mi au						
-穿棉毛褲	tshoe mi mau khu						
-穿棉毛衫	tshoe mi mau sae						
-串馬燈	tshoe mo ten		183				55
-穿繃	tshoe pan	151	199	280, 281			55
+穿襪	tshoe maq				穿襪子		
+穿嘸沒穿着	tshoe mhiq tshoe dzoq		340		沒穿幾天		
+穿嘸沒穿着	tshoe mhiq tshoe zoq				沒穿幾天		
+穿棉襖	tshoe mi au				穿棉毛衫		
+穿棉毛褲	tshoe mi mau khu				穿秋衣		
+穿棉毛衫	tshoe mi mau sae				穿秋褲		
+串馬燈	tshoe mo ten		183		一種民間舞蹈，由多名女孩表演，用竹蔑做成馬狀，內燃蠟燭，分兩節系在腰間，表演者作騎馬狀跑動，並有樂器伴奏		55
+穿繃	tshoe pan	151	199	280, 281	穿幫；露餡兒		55
 穿背心	tshoe pei shin						
 穿背單	tshoe pei tae						
-穿線繃	tshoe shi pan	151	185	281			55
-穿心旁	tshoe shin baon	151					55
-穿頂	tshoe tin		230	280			55
+穿線繃	tshoe shi pan	151	185	281	翻花繩。一種兒童遊戲，兩人對玩，先由一人繃線，繃出一個圖案，再由另一人繃出另一圈案，輪番進行，變出多種花樣		55
+穿心旁	tshoe shin baon	151			偏旁「忄」		55
+穿頂	tshoe tin		230	280	東西裝得高出容器		55
 穿罩衫	tshoe tsau sae						
-穿襯衫	tshoe tshen sae						
+穿襯衫	tshoe tshen sae				穿襯衫		
 啐啐	tshoe tshoe				受到驚嚇時，輕拍胸口以示安慰，口中唸「啐啐」		
 穿穿看	tshoe tshoe khe						
-穿棕繃個	tshoe tson pan ghoq						55
-穿棕繃個	tshoe tson pan goq	151					55
-川烏	tshoe u		67				55
+穿棕繃個	tshoe tson pan ghoq				製作棕繃個人		55
+穿棕繃個	tshoe tson pan goq	151			製作棕繃個人		55
+川烏	tshoe u		67		特指清明前後洄游到近海排卵的馬鮫魚。這個階段馬鮫魚肉質特別鮮美，寧波人稱爲「川烏」		55
 穿勿及	tshoe vaq ji						
 穿弗及	tshoe vaq ji						1
 穿勿來	tshoe vaq le						
 穿弗來	tshoe vaq le						1
 啐活靈	tshoe waq lin						
-穿羊絨衫	tshoe yan gnion sae						
-穿羊毛衫	tshoe yan mau sae						
-穿羽絨衫	tshoe yu gnion sae						
-攛	tshoe1	151	141, 154	179, 462			
-汆	tshoe1			117			
-車	tshoe1		105				
+穿羊絨衫	tshoe yan gnion sae				穿毛衣		
+穿羊毛衫	tshoe yan mau sae				穿毛衣		
+穿羽絨衫	tshoe yu gnion sae				穿羽絨服		
+攛	tshoe1	151	141, 154	179, 462	1. 搬弄是非，暗中挑撥離間；2. 拋擲（條狀物）		
+汆	tshoe1			117	一種烹調方法，把食物放在開水裏稍微一煮		
+車	tshoe1		105		水車		
 啐	tshoe3				受到驚嚇時，輕拍胸口以示安慰，口中唸「啐啐」		
-串	tshoe5	151					
-躥	tshoe5	151					
-蔥白	tshon baq	290					
-蹱去	tshon chi	290	287	495			55
-沖賬	tshon cian	289					55
-沖熱水瓶	tshon gniq syu bin	289					55
-蔥花	tshon huo	289					
-沖場	tshon jian	289	49	120			55
+串	tshoe5	151			量詞		
+躥	tshoe5	151			躍上		
+蔥白	tshon baq	290			蔥的莖		
+蹱去	tshon chi	290	287	495	1. 行路不穩；2. 用在動詞加「勒」的後面，表示完成動作很費力氣		55
+沖賬	tshon cian	289			收支賬目相互抵消，或兩戶應支付的賬目互相抵消		55
+沖熱水瓶	tshon gniq syu bin	289			將熱水灌進熱水瓶		55
+蔥花	tshon huo	289			切細的蔥，作調味品		
+沖場	tshon jian	289	49	120	外表；外貌		55
 充強好漢	tshon jian hau he						
 充強好漢	tshon jian hau hei-						
-楤杠	tshon kaon	290					55
-沖口出	tshon kheu tshyuq	289	317	120			55
-充闊	tshon khuaq		203				
-充公	tshon kon	289					
+楤杠	tshon kaon	290			兩頭削尖的木扁擔，用來挑柴草		55
+沖口出	tshon kheu tshyuq	289	317	120	未加思考，脫口說出		55
+充闊	tshon khuaq		203		炫耀自己富裕或本事大		
+充公	tshon kon	289			將不應該擁有的東西沒收給公家		
 充乖的得	tshon kua tiq taq						
-充手	tshon shieu	289	28	122			418
-楤擔	tshon tae	290		423			55
-沖天炮	tshon thi phau	289					
-蹱蹱動	tshon tshon don			495			
+充手	tshon shieu	289	28	122	扒手		418
+楤擔	tshon tae	290		423	兩頭削尖的木扁擔，用來挑柴草		55
+沖天炮	tshon thi phau	289			指愛發表激烈意見的人		
+蹱蹱動	tshon tshon don			495	走路不穩的樣子		
 從從容容	tshon tshon yon yon						
-蔥油餅	tshon yeu pin	290					
-蔥葉	tshon yiq	290					55
+蔥油餅	tshon yeu pin	290			蔥油餅		
+蔥葉	tshon yiq	290			蔥的葉子		55
 從容	tshon yon						
-充	tshon1	289	144	122			
-楤	tshon1		104				
-沖	tshon1		159				
-蔥	tshon1	289					
-蹱	tshon5	290	163	495			
-戳人勒色	tshoq gnin laq saq	342	220			《阿拉宁波话》作「戳人剌色」。	55
-戳人色勒	tshoq gnin saq laq		220			《阿拉宁波话》作「戳人色剌」。	55
-促掐	tshoq khaq		247				
-觸霉頭	tshoq mei deu	342	324	434			
-戳壁腳	tshoq piq ciaq	342	325	193			
-珿斬齊	tshoq tsae zhi			334			
-促促	tshoq tshoq		280				
-戳戳動	tshoq tshoq don	342	220	494			55
+充	tshon1	289	144	122	從別人身上扒竊錢物		
+楤	tshon1		104		兩頭削尖的木扁擔，用來挑柴草		
+沖	tshon1		159		灌（開水）		
+蔥	tshon1	289			蔥		
+蹱	tshon5	290	163	495	行走不穩，身體往前傾斜		
+戳人勒色	tshoq gnin laq saq	342	220		形容皮膚輕微受刺而不舒服的感覺	《阿拉宁波话》作「戳人剌色」。	55
+戳人色勒	tshoq gnin saq laq		220		形容皮膚輕微受刺而不舒服的感覺	《阿拉宁波话》作「戳人色剌」。	55
+促掐	tshoq khaq		247		刁鑽；狠毒		
+觸霉頭	tshoq mei deu	342	324	434	碰到難堪的事情；惹得不愉快		
+戳壁腳	tshoq piq ciaq	342	325	193	1. 暗中傷人；2. 拆臺，揭短		
+珿斬齊	tshoq tsae zhi			334	很齊		
+促促	tshoq tshoq		280		形容用力、快速的樣子		
+戳戳動	tshoq tshoq don	342	220	494	形容皮膚輕微受刺而不舒服的感覺		55
 戳戳看	tshoq tshoq khe						
 促促快	tshoq tshoq khua						
-蛐蟮	tshoq yi	342	113			《阿拉宁波话》又作「曲蟮」。	
-珿齊	tshoq zhi			334			
-促	tshoq7	342	268	265			
-錯氣	tshou chi		170	292			55
-錯落	tshou loq	184	201	430			
+蛐蟮	tshoq yi	342	113		蚯蚓	《阿拉宁波话》又作「曲蟮」。	
+珿齊	tshoq zhi			334	很齊		
+促	tshoq7	342	268	265	形容快速；利索		
+錯氣	tshou chi		170	292	指閃腰或落枕		55
+錯落	tshou loq	184	201	430	1. 掉隊，落下；2. 錯過；3. 遺忘在某處		
 錯落仙人	tshou loq shi gnin						
-錯拼	tshou phin	184	229	430			55
-錯心	tshou shin		170	430			55
-搓	tshou1	184					
+錯拼	tshou phin	184	229	430	錯開；對不上		55
+錯心	tshou shin		170	430	神經錯亂		55
+搓	tshou1	184			兩手反覆相揉、摩擦；把別的東西放在手掌上來回揉或摩擦		
 初七八爬山挖	tshu chiq paq bo sae uaq						
-初頭	tshu deu	47	15	179			55
+初頭	tshu deu	47	15	179	農曆月初的幾天		55
 初二十六大水頭	tshu gni zyuq loq dou syu deu						
-粗糠	tshu khaon	48					
+粗糠	tshu khaon	48			較粗糙的糠		
 粗剌柴	tshu la za	48	233	373	粗糙；不精細		55
-初外	tshu nga	47	15	179			55
+初外	tshu nga	47	15	179	農曆初一以後的幾天		55
 初八廿三當小水	tshu paq ne-gnie sae taon shiau syu						
-粗坯	tshu phei	48					55
+粗坯	tshu phei	48			指大老粗，含貶義		55
 初三初四鵝毛月	tshu sae tshu sy ngou mau yuq						
-粗生活	tshu san wo	48					55
-虧煞	tshu saq			11			
-虧煞是	tshu saq zy						
-瘄子	tshu tsy	48	53	437			55
-厝墳	tshu ven			300			
-粗鹽	tshu yi	48					
-初十邊	tshu zyuq pi	48	15				55
-初	tshu1	47					
-刺棚	tshy ban		118				55
-刺棚弄裏	tshy ban lon li		118				55
-雌雞胡嚨	tshy ci u lon						
-雌雞胡嚨	tshy ci wu lon	2					55
+粗生活	tshu san wo	48			指技術性較低，勞動強度較大的活兒		55
+虧煞	tshu saq			11	幸虧；虧得		
+虧煞是	tshu saq zy				虧得是		
+瘄子	tshu tsy	48	53	437	麻疹		55
+厝墳	tshu ven			300	上下用石板、四周用磚砌成的棺柩		
+粗鹽	tshu yi	48			未加工的海鹽		
+初十邊	tshu zyuq pi	48	15		農曆初十前後的幾天		55
+初	tshu1	47			農曆每月第一天到第十天前面都用「初」表示		
+刺棚	tshy ban		118		荊棘叢		55
+刺棚弄裏	tshy ban lon li		118		荊棘叢裏		55
+雌雞胡嚨	tshy ci u lon				指男子尖而細的嗓子		
+雌雞胡嚨	tshy ci wu lon	2			指男子尖而細的嗓子		55
 刺頭怕癩頭	tshy deu pho la deu						
-刺人	tshy gnin	2					
-刺窠	tshy khou		54	200			55
-雌老虎	tshy lau fu	2	30	447			
-刺菱	tshy len			200			
-刺菱	tshy lin		76	200			55
-雌驢	tshy lu	2					
-次毛	tshy mau	2	252	121			418
-刺毛伶仃	tshy mau lin tin		236	200			55
-廁所間	tshy so kae	2					55
-刺戳	tshy tshoq	2					
-刺戳伶仃	tshy tshoq lin tin		220	200			55
-粢飯	tshy vae		79	407			55
-粢飯糕	tshy vae kau		79	408			55
-刺柴	tshy za	2	97	200			55
-刺柴條	tshy za diau	2					55
+刺人	tshy gnin	2			（黃蜂）蜇人		
+刺窠	tshy khou		54	200	一種皮膚病，鼓起的小包上有許多小黑點，狀似長滿刺，故名。多長在手足上		55
+雌老虎	tshy lau fu	2	30	447	喻指兇悍潑辣的婦女		
+刺菱	tshy len			200	四角菱，角有刺		
+刺菱	tshy lin		76	200	四角菱，角有刺		55
+雌驢	tshy lu	2			母驢		
+次毛	tshy mau	2	252	121	差；不好		418
+刺毛伶仃	tshy mau lin tin		236	200	形容毛髮零亂或豎起，樵悴病態的樣子		55
+廁所間	tshy so kae	2			1. 衛生間；2. 也指公共廁所		55
+刺戳	tshy tshoq	2			1. 令人渾身難受；2. 形容關係緊張		
+刺戳伶仃	tshy tshoq lin tin		220	200	形容皮膚輕微受刺而不舒服的感覺		55
+粢飯	tshy vae		79	407	糯米摻和粳米蒸熟後捏成的飯糰，喫時一般內嵌油條，多當早點		55
+粢飯糕	tshy vae kau		79	408	一種糕點，將粢飯壓結實，切成長方形，油炸而成		55
+刺柴	tshy za	2	97	200	荊棘，帶刺的小灌木		55
+刺柴條	tshy za diau	2			荊條		55
 吹叫子	tshyu ciau tsy						
-吹行	tshyu ghaon	8	124	158			55
+吹行	tshyu ghaon	8	124	158	專爲紅白喜事吹奏的樂隊		55
 吹行肚皮	tshyu ghaon dou bi						
 取陰溝	tshyu in keu						
-吹牛屄	tshyu ngeu pi	8	141				55
-取保	tshyu pau	8					
+吹牛屄	tshyu ngeu pi	8	141		吹牛		55
+取保	tshyu pau	8			找保人		
 趣向	tshyu shian		127	460	趣味	《阿拉宁波话》也作「趣相」。《字語彙解》p. 251，interest 一詞下註 yiu cʽü'-hyiang 有趣向，可知後字爲團音。	418
 趣向交關足	tshyu shian ciau kuae tsoq				很有趣味		
-吹簫	tshyu shiau		107				
-處暑	tshyu syu	8					
+吹簫	tshyu shiau		107		簫		
+處暑	tshyu syu	8			二十四節氣之一		
 吹打開門	tshyu tan khe men						
-嗤嗤	tshyu tshyu		280	245			
+嗤嗤	tshyu tshyu		280	245	形容睡着時的呼吸聲或鼾聲		
 嗤嗤睏	tshyu tshyu khuen						
-吹吹泡	tshyu tshyu phau	8	108	158			55
+吹吹泡	tshyu tshyu phau	8	108	158	氣球		55
 處處用着	tshyu tshyu yon dzoq						
 處處用着	tshyu tshyu yon zoq						
-粢飯	tshyu vae	8		407			55
-粢飯糕	tshyu vae kau	8		408			55
+粢飯	tshyu vae	8		407	糯米摻和粳米蒸熟後捏成的飯糰，喫時一般內嵌油條，多當早點		55
+粢飯糕	tshyu vae kau	8		408	一種糕點，將粢飯壓結實，切成長方形，油炸而成		55
 處分輕可	tshyu ven chin khou						
 吹洋泡泡	tshyu yan phau phau						
-嗤	tshyu1			468			
-覷	tshyu5			465			
-椿澳	tshyun au	280					
-春捲	tshyun ciu	280	77	236			
-春分	tshyun fen	280					
+嗤	tshyu1			468	驅趕野獸的聲音		
+覷	tshyu5			465	視		
+椿澳	tshyun au	280			香椿樹的嫰枝葉，有香味，一般醃製食用		
+春捲	tshyun ciu	280	77	236	油炸的長條形麪皮卷，內包餡兒		
+春分	tshyun fen	280			二十四節氣之一		
 春二三月	tshyun gni sae yuq						
 春二三月釣田雞	tshyun gni sae yuq tiau di ci						
-春花	tshyun huo	280	115	236			
-春耕	tshyun kan	280					
-春假	tshyun ko	280					
-春冷	tshyun lan	280					55
+春花	tshyun huo	280	115	236	春天開花的作物，如麥子、油菜等		
+春耕	tshyun kan	280			春天播種之前翻耕鬆土		
+春假	tshyun ko	280			學校在清明前後放個假期		
+春冷	tshyun lan	280			初春的寒冷		55
 春雷響	tshyun lei shian						
-春牛圖	tshyun ngeu du	280					55
-春暴頭	tshyun pau deu	280		236			55
-春餅	tshyun pin	280	77	236			
-春筍	tshyun syun	280					
-春凳	tshyun ten	280					
-春天	tshyun thi	280					
+春牛圖	tshyun ngeu du	280			曆書		55
+春暴頭	tshyun pau deu	280		236	初春時驟然而至的大風		55
+春餅	tshyun pin	280	77	236	油炸的長條形麪皮卷，內包餡兒		
+春筍	tshyun syun	280			春季的嫰竹筍		
+春凳	tshyun ten	280			放置在舊式上前的較寬闊的長凳		
+春天	tshyun thi	280			春季		
 春天大亂夢	tshyun thi dou loe maon				白日夢；春秋大夢		
-春天家	tshyun thi ko	280					418
-皴㿭	tshyun tshaq	280	54	416			55
-出白	tshyuq baq		190	79			55
+春天家	tshyun thi ko	280			春季		418
+皴㿭	tshyun tshaq	280	54	416	冬天皮膚上出現的成片細小裂縫		55
+出白	tshyuq baq		190	79	家禽、家畜煺毛		55
 出白鴨	tshyuq baq ae						
 出蹩腳	tshyuq biq ciaq						
-出氣	tshyuq chi	371	207	79			
-出槍花	tshyuq chian huo	372	315	80			55
-出雞屙	tshyuq ci ou	371					
-出雞涴	tshyuq ci ou	371					55
-出賬	tshyuq cian	372					
-出腳	tshyuq ciaq	372	164				418
-出腳大仙	tshyuq ciaq da shi	372					55
-出腳泥螺	tshyuq ciaq gni lou	372					55
-出腳醫生	tshyuq ciaq i san						
-出道	tshyuq dau	371	173	79			
+出氣	tshyuq chi	371	207	79	因未密封導致氣味散失		
+出槍花	tshyuq chian huo	372	315	80	耍花招		55
+出雞屙	tshyuq ci ou	371			清理出雞籠裏的雞糞用作肥料		
+出雞涴	tshyuq ci ou	371			清理出雞籠裏的雞糞用作肥料		55
+出賬	tshyuq cian	372			1. 記付出的賬；2. 把應付未付的賬款付掉		
+出腳	tshyuq ciaq	372	164		赤腳；光着腳		418
+出腳大仙	tshyuq ciaq da shi	372			光腳的神		55
+出腳泥螺	tshyuq ciaq gni lou	372			戲稱光腳的人		55
+出腳醫生	tshyuq ciaq i san				赤腳醫生		
+出道	tshyuq dau	371	173	79	1. 孩子進入成人階段，有了一定職業，能自立；2. 事業有所成就，取得一定社會地位		
 出道是我早	tshyuq dau zy ngo tsau						
-出頭	tshyuq deu	371	196				
-出頭椽子	tshyuq deu dzoe tsy	372	34	80			55
+出頭	tshyuq deu	371	196		出面相助		
+出頭椽子	tshyuq deu dzoe tsy	372	34	80	比喻出頭露面的人		55
 出頭椽子先爛	tshyuq deu dzoe tsy shi lae						
-出頭髮	tshyuq deu faq	372					55
-出田	tshyuq di	371					55
-出大汗	tshyuq dou ghei-ghe		315				55
-出言話	tshyuq ghae wo	371	141, 315	80			55
-出閒話	tshyuq ghae wo	371	141, 315	80			
+出頭髮	tshyuq deu faq	372			長出頭髮		55
+出田	tshyuq di	371			將抽芽的稻種從孵種的桶或缸中移出，播到秧田裏		55
+出大汗	tshyuq dou ghei-ghe		315		1. 出大力；2. 比喻大破費		55
+出言話	tshyuq ghae wo	371	141, 315	80	1. 說閒話；2. 指責，批評		55
+出閒話	tshyuq ghae wo	371	141, 315	80	1. 說閒話；2. 指責，批評		
 出河頭	tshyuq ghou deu						
 出灰	tshyuq huei						
-出場	tshyuq jian			79			
-出格	tshyuq kaq	372	285	79			
-出格皮	tshyuq kaq bi						
-出格便宜	tshyuq kaq bi gni						
+出場	tshyuq jian			79	出面干預		
+出格	tshyuq kaq	372	285	79	格外；特別		
+出格皮	tshyuq kaq bi				特別調皮		
+出格便宜	tshyuq kaq bi gni				特別便宜		
 出格難做	tshyuq kaq nae tsou						
-出開年	tshyuq khe gni		16				55
-出空	tshyuq khon	372					55
-出窠孃	tshyuq khou gnian	371	25	80			55
-出嫁	tshyuq ko	371					
-出家	tshyuq ko	371					
-出家人	tshyuq ko gnin	371					
+出開年	tshyuq khe gni		16		過年後的一段日子		55
+出空	tshyuq khon	372			搬空		55
+出窠孃	tshyuq khou gnian	371	25	80	坐月子時請的保姆		55
+出嫁	tshyuq ko	371			出嫁		
+出家	tshyuq ko	371			當和尚和尼姑，出家修行		
+出家人	tshyuq ko gnin	371			指出家修行的和尚或尼姑		
 出谷籮頭	tshyuq koq lou deu						
 出力勿討好	tshyuq liq vaq thau hau						
 出力弗討好	tshyuq liq vaq thau hau						1
-出卵	tshyuq loe		164				55
-出卵出膊	tshyuq loe tshyuq poq		164				55
+出卵	tshyuq loe		164		裸露下身		55
+出卵出膊	tshyuq loe tshyuq poq		164		赤身露體		55
 出梅	tshyuq mei	371			梅雨天氣終結的日子	也作「出黴」。	
 出門	tshyuq men	372					
 出門阿裏	tshyuq men aq li						
 出門人	tshyuq men gnin						
-出面相	tshyuq mi shian		10				55
-出眼淚	tshyuq ngae li	371	136	80			418
+出面相	tshyuq mi shian		10		暴露在外引人注意的外表		55
+出眼淚	tshyuq ngae li	371	136	80	流淚		418
 出榜	tshyuq paon	372					
-出披頭	tshyuq phi deu		315				55
+出披頭	tshyuq phi deu		315		找藉口		55
 出騙頭	tshyuq phi deu			80			
-出屁股	tshyuq phi ku		164				55
-出屁股朋友	tshyuq phi ku ban yeu		23				
-出膊	tshyuq poq		164				55
-出膊雞	tshyuq poq ci		110				55
-出膊丫卵	tshyuq poq o loe		164				55
-出膊丁	tshyuq poq tin		37				55
-出膊出卵	tshyuq poq tshyuq loe		164				55
-出產	tshyuq sae		129	79			55
-出喪	tshyuq saon	372					
-出手	tshyuq shieu	371	50				
+出屁股	tshyuq phi ku		164		裸露屁股		55
+出屁股朋友	tshyuq phi ku ban yeu		23		幼年知交（出屁股：穿開襠褲，指兒童時代）		
+出膊	tshyuq poq		164		赤膊；光着上身		55
+出膊雞	tshyuq poq ci		110		羽毛稀少的雞		55
+出膊丫卵	tshyuq poq o loe		164		赤身露體		55
+出膊丁	tshyuq poq tin		37		光着上身的男子（丁：男子）。		55
+出膊出卵	tshyuq poq tshyuq loe		164		赤身露體		55
+出產	tshyuq sae		129	79	1. 出息；2. 動詞。事業有成		55
+出喪	tshyuq saon	372			出殯		
+出手	tshyuq shieu	371	50		1. 動作，手腳；2. 手面，花錢的氣派		
 出手大	tshyuq shieu dou						
 出手小	tshyuq shieu shiau						
-出血	tshyuq shiuq	372					
-出送	tshyuq son	372					55
-出數	tshyuq su		188	79			55
-出勢	tshyuq syu		232				55
-出水痘	tshyuq syu deu						
-出天	tshyuq thi	371	232	78			55
-出天花	tshyuq thi huo	19					55
-出天露勢	tshyuq thi lu syu	371	232				55
+出血	tshyuq shiuq	372			血液流出		
+出送	tshyuq son	372			1. 離開；2. 暗中拿走		55
+出數	tshyuq su		188	79	指費用在某個地方開支		55
+出勢	tshyuq syu		232		好看；有氣派		55
+出水痘	tshyuq syu deu				得水痘		
+出天	tshyuq thi	371	232	78	1. 沒有遮蓋的；2. 露天		55
+出天花	tshyuq thi huo	19			得天花		55
+出天露勢	tshyuq thi lu syu	371	232		1. 沒有遮蓋的；2. 露天		55
 出天露水	tshyuq thi lu syu						
-出天相	tshyuq thi shian	371	232				55
+出天相	tshyuq thi shian	371	232		1. 沒有遮蓋的；2. 露天		55
 出䠷	tshyuq thiau	371	238	79	出衆	《阿拉宁波话》及朱版也作「出跳」。《集韻》䠷，他弔切，身長皃。	418
 出𪙞牙	tshyuq tshae ngo						
 出瘄子	tshyuq tshu tsy						
 出豬泥	tshyuq tsyu gni						
-出洋相	tshyuq yan shian	372					
-出淨根牙	tshyuq zhin ken ngo						
-出事體	tshyuq zy thi	371	315	80			418
-出蜃	tshyuq zyun		213	79			55
-出	tshyuq7	371	146	78			
-齣	tshyuq7	372					
+出洋相	tshyuq yan shian	372			鬧笑話；出醜		
+出淨根牙	tshyuq zhin ken ngo				長智齒		
+出事體	tshyuq zy thi	371	315	80	出事		418
+出蜃	tshyuq zyun		213	79	舊指山洪暴發		55
+出	tshyuq7	371	146	78	1. 用手或工具扒取；2. （水痘等傳染病）出現、發作；3. 光着，裸露		
+齣	tshyuq7	372			量詞		
 揸頭髮	tso deu faq						
 揸頭毛子	tso deu mau tsy						
 揸衣裳	tso i zaon						
-遮蔭遮日	tso in tso gniq		339				55
-鷓鴣	tso ku	98					
-遮攔	tso laq		86				55
-遮牢	tso lau		210				55
-蚱𧐖	tso li	98	111				55
+遮蔭遮日	tso in tso gniq		339		陽光被遮住了		55
+鷓鴣	tso ku	98			鷓鴣		
+遮攔	tso laq		86		遮擋物		55
+遮牢	tso lau		210		遮住		55
+蚱𧐖	tso li	98	111		蟬，知了		55
 蚱𧐖褪殼	tso li then khoq						
 榨麪	tso mi	98	62	445	用米粉做的細條狀食品		55
 揸撲克牌	tso phoq khaq ba						
 揸撲克牌	tso phoq khaq bae						
-遮煞	tso saq	98	210				55
+遮煞	tso saq	98	210		遮住		55
 榨菜甏	tso tshe ban						
 喌喌	tso tso		302	400, 414	呼雞的聲音；呼狗的聲音		
 喳喳	tso tso			397	形容液體不斷流出		
-炸豬排	tso tsyu ba	98					55
-柞蠶	tso zei-ze	98					
-柞樹	tso zyu	98					
-揸	tso1		147	385, 425			
-揸	tso3	98	147	425			
-搾	tso5	98					55
-磚牑	tsoe bi	150	86	246			55
-轉漿	tsoe cian	150	189	202	勾芡；亂作一團	湯版作「鑽漿」。	55
-磚頭	tsoe deu	150					
-磚方	tsoe faon	150					55
-磚方的角	tsoe faon tiq koq	150					55
-轉椅	tsoe i	150					
-轉椅	tsoe iu	150					
+炸豬排	tso tsyu ba	98			炸豬排		55
+柞蠶	tso zei-ze	98			一種昆蟲，比家蠶大，幼蟲長有褐色長毛，喫櫟樹的葉子，吐的絲是絲織品的重要原料		
+柞樹	tso zyu	98			櫟樹的通稱		
+揸	tso1		147	385, 425	用手指抓取；揪		
+揸	tso3	98	147	425	用手指抓取；揪	《阿拉宁波话》記也讀陰平。	
+搾	tso5	98			擠壓		55
+磚牑	tsoe bi	150	86	246	鋪在椽上瓦下的薄磚		55
+轉漿	tsoe cian	150	189	202	1. 勾芡；2. 亂作一團	湯版作「鑽漿」。	55
+磚頭	tsoe deu	150			磚		
+磚方	tsoe faon	150			形容很方正		55
+磚方的角	tsoe faon tiq koq	150			形容很方正		55
+轉椅	tsoe i	150			有扶手能轉的椅子		
+轉椅	tsoe iu	150			有扶手能轉的椅子		
 磚橛頭	tsoe jiuq deu						
-鑽戒	tsoe ka	150					
-鑽拱	tsoe kon		168	306			55
-磚角方	tsoe koq faon	150					55
-轉來	tsoe le	150					
-磚坯	tsoe phei	150					
-轉色	tsoe saq	150	134	202			55
-轉側	tsoe tsaq		166	202			
-鑽倉老鼠	tsoe tshaon lau tsy	150	36	307			55
+鑽戒	tsoe ka	150			鑲鑽石的戒指		
+鑽拱	tsoe kon		168	306	游泳時頭鑽到水裏		55
+磚角方	tsoe koq faon	150			形容很方正		55
+轉來	tsoe le	150			用在動詞後面，表示動作朝着說話人的方向，或表示動作的結果		
+磚坯	tsoe phei	150			磚的毛坯		
+轉色	tsoe saq	150	134	202	臉變色		55
+轉側	tsoe tsaq		166	202	向側面轉身		
+鑽倉老鼠	tsoe tshaon lau tsy	150	36	307	喻指個子小、動作機警的人		55
 轉轉看	tsoe tsoe khe						
-鑽子	tsoe tsy	150	103	306			
-轉	tsoe3	150	123	202			
-腫起	tson chi	288					55
-總巧	tson chiau			274			
-總只	tson ciq	289	282	274			55
-總只介	tson ciq ka	289	253	274			55
-總只是介	tson ciq zy ka		253	274			55
-中堂	tson daon	288					
-鐘頭	tson deu	288		259			
-種田	tson di		194	262			
+鑽子	tsoe tsy	150	103	306	用於鑽孔的錐子		
+轉	tsoe3	150	123	202	量詞。來回一趟或一圈		
+腫起	tson chi	288			肌肉或皮膚由於發現或充血而凸起		55
+總巧	tson chiau			274	總要		
+總只	tson ciq	289	282	274	1. 只是，只不過；2. 只能，只好		55
+總只介	tson ciq ka	289	253	274	不過如此		55
+總只是介	tson ciq zy ka		253	274	不過如此		55
+中堂	tson daon	288			中堂		
+鐘頭	tson deu	288		259	1. 鐘；2. 小時		
+種田	tson di		194	262	1. 插秧；2. 泛指從事農業勞動		
 種田腳跟	tson di ciaq ken						
 種田紅	tson di ghon						
-種田人	tson di gnin	289	24				55
+種田人	tson di gnin	289	24		農民		55
 種田看苗繩	tson di khi-khe miau zhin						
-種田麥摐	tson di maq tshaon		25				55
-種田繩	tson di zhin	289	105	262			55
+種田麥摐	tson di maq tshaon		25		指農民（含貶義。麥摐：種麥子等時用來打孔的農具）		55
+種田繩	tson di zhin	289	105	262	插秧時所拉的準繩		55
 種大稻	tson dou dau						
-供大人	tson dou gnin						
-中風	tson fon	288					
-中央	tson gnian	288	10	34			
-宗仰	tson gnian	288					
-中央人	tson gnian gnin		23	34			
-中央亨	tson gnian han	288	10	34			55
-粽箬	tson gniaq	289					55
+供大人	tson dou gnin				供養老人		
+中風	tson fon	288			中風		
+中央	tson gnian	288	10	34	當中		
+宗仰	tson gnian	288			擺食物祭祖		
+中央人	tson gnian gnin		23	34	中人；中間人		
+中央亨	tson gnian han	288	10	34	當中		55
+粽箬	tson gniaq	289			用於包粽子的箬竹的葉子		55
 衆人互助	tson gnin wu dzu						
 中原官話	tson gniu kun wo						
-中灰	tson huei	288					55
-中央人	tson ian gnin	288					55
-衆家	tson ko	289	129	117			55
+中灰	tson huei	288			深淺適中的灰色		55
+中央人	tson ian gnin	288			中人；中間人		55
+衆家	tson ko	289	129	117	公共；衆人		55
 衆家祠堂	tson ko dzy daon						
 衆家太婆	tson ko tha bou						
 衆家祠堂	tson ko zy daon						
-總歸	tson kuei	289					3000
-總歸仔	tson kuei tsy	289	292	274			55
+總歸	tson kuei	289			1. 副詞，表示較有把握的推測；2. 副詞，表示持續不變，總是；3. 副詞，畢竟，終究		3000
+總歸仔	tson kuei tsy	289	292	274	1. 副詞，表示較有把握的推測；2. 副詞，表示持續不變，總是；3. 副詞，畢竟，終究		55
 總歸是	tson kuei zy						
-總管	tson kun		25				
+總管	tson kun		25		婚喪大事中全面管理各項事務的人		
 腫眼泡皮	tson ngae phau bi						
-種牛痘	tson ngeu deu	289					
-中巴	tson pa						
-中巴車	tson pa tsho						
-棕繃	tson pan	288					
-棕繃架子	tson pan ko tsy	288					55
-棕繃眠牀	tson pan mi zaon	288					55
-棕繃桯	tson pan thin	288	91	392			55
-中幫	tson paon		223	34			55
-中幫管	tson paon kun		223				55
-鐘錶店	tson piau ti	288					
-衆生	tson san	288	32	117			
-中式褲	tson shiq khu	288					55
-總督羹	tson toq kan	289					55
-中裝	tson tsaon	288					
-種草	tson tshau		129	262			55
+種牛痘	tson ngeu deu	289			接種痘苗		
+中巴	tson pa				中型巴士		
+中巴車	tson pa tsho				中型巴士		
+棕繃	tson pan	288			用棕繩穿在長方形木框上製成的牀屜子		
+棕繃架子	tson pan ko tsy	288			棕繃四周的木框架，多用木倭樹、楓樹等硬木製成		55
+棕繃眠牀	tson pan mi zaon	288			用棕繃做牀鋪的牀		55
+棕繃桯	tson pan thin	288	91	392	棕繃四周的木框架，多用木倭樹、楓樹等硬木製成		55
+中幫	tson paon		223	34	中等		55
+中幫管	tson paon kun		223		中等		55
+鐘錶店	tson piau ti	288			進行鐘錶的店鋪		
+衆生	tson san	288	32	117	1. 動物的總稱；2. 詈語，畜生		
+中式褲	tson shiq khu	288			褲腰肥大、不打褶、不開動的老式褲子		55
+總督羹	tson toq kan	289			把喫剩的魚肉蔬菜倒在一起的混合菜餚		55
+中裝	tson tsaon	288			中式服裝		
+種草	tson tshau		129	262	物種；人種		55
 種草多	tson tshau tou						
-種菜籽	tson tshe tsy						
-中指	tson tsy	288					
-粽子	tson tsy	289					
-種豬	tson tsyu	289					
-中藥	tson yaq	288					
+種菜子	tson tshe tsy				種植油菜		
+中指	tson tsy	288			中指		
+粽子	tson tsy	289			粽子		
+種豬	tson tsyu	289			用來配種的公豬		
+中藥	tson yaq	288			中藥		
 總是	tson zy				「總歸是」的省略		
-總是介	tson zy ka		253				55
-棕樹	tson zyu	288					
-盅	tson1	288					
-種	tson3	288	114	262			
-總	tson3	289					
-種	tson5	289					
-縱	tson5		136	185			
+總是介	tson zy ka		253		按常理得這麼做		55
+棕樹	tson zyu	288			棕樹		
 供	tson1	288	196	228	贍養	湯版、朱版作「宗」。《字語彙解》p. 465 記音爲 cong，定海、白峯音 cion1。周志鋒, 2008 認爲本字是「供」。	
+盅	tson1	288			量詞		
+種	tson3	288	114	262	1. 種子；2. 品質；秉性		
+總	tson3	289			1. 副詞，表示較有把握的推測；2. 副詞，表示持續不變，總是；3. 副詞，畢竟，終究		
+種	tson5	289			種植，栽種		
+縱	tson5		136	185	1. 鼻或眉的肌膚蹙攏；2. 蹲身上跳；3. 縱容嬌慣小孩		
 捉去	tsoq chi						
 捉起	tsoq chi						
 捉起來	tsoq chi le						

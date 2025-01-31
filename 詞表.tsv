@@ -1959,6 +1959,7 @@
 交關冷	ciau kuae lan				很冷		
 交關老	ciau kuae lau				很老		
 交關厲害	ciau kuae li ghe				很厲害		
+交關厲害	ciau kuae li yiq				很厲害		
 交關亮	ciau kuae lian				很亮		
 交關慢	ciau kuae mae				很慢		
 交關忙	ciau kuae maon				很忙		
@@ -2188,6 +2189,7 @@
 整好挔好	cin hau i hau				整理停當		
 正好有數	cin hau yeu su		225	54	正好；剛剛好		55
 正好亦數	cin hau yiq su	265			正好；剛剛好		
+正蕻	cin hon				蔬菜、棉花、向日葵等植物的主莖，與「岔蕻」相對		
 金錢蜜橘	cin ji miq ciuq	263					55
 金錢餅	cin ji pin	263	80	214	一種麪粉做的小糕餅，外粘芝麻，烘製而成，大小如銅錢，故名		55
 整張	cin jian						
@@ -9717,6 +9719,8 @@
 連暗摸夜	li ei-e moq ya						
 裏紐	li gnieu	25	102		離秤鉤較近的那根秤紐，用來稱較重的東西		55
 連日連夜	li gniq li ya						
+厲害	li ghe				厲害		
+厲害	li yiq				厲害	後字促化	
 離婚	li huen	24			離婚		
 蓮花文書	li huo ven syu	24	124		由四明南詞發展而來，爲寧波民間曲藝的一種主要形式。在坐唱的基礎上發展爲邊走、邊演、邊唱。		
 痢疾射	li jiq dza				患痢疾		
@@ -10914,7 +10918,7 @@
 嘸雕督	mh tiau toq	374		154	形容人頑鈍無識		55
 嘸采去	mh tshe chi	374	286		用在形容詞加「勒」的後面，表示程度深（多用於消極方面。嘸采：沒地方），類似普通話「…得很」		55
 嘸采好去	mh tshe hau chi				沒有地方可以去		
-嘸趣相	mh tshyu shian	374	320	154	沒有趣味		55
+嘸趣向	mh tshyu shian	374	320	154	沒有趣味		55
 嘸出產	mh tshyuq sae	375	319	152	沒有出息	湯版作「嘸出山」。末字應爲「產」字白讀。	55
 嘸做	mh tsou	374	252	152	1. 差，不好；2. 能力、身體等弱；3. 沒用；4. 壞掉		55
 嘸話嘸說	mh wo mh syuq	375	319		沒有再被提起		55
@@ -16509,6 +16513,7 @@
 釘貢卯	tin kon mau						
 頂廣	tin kuaon						
 頂厲害	tin li ghe						
+頂厲害	tin li yiq						
 頂裏向	tin li shian				最裏面		
 頂慢	tin mae				最慢		
 頂末腳	tin maq ciaq		18		最後		55
@@ -16569,6 +16574,7 @@
 頂頂舊	tin tin jieu						
 頂頂高級	tin tin kau ciq						
 頂頂厲害	tin tin li ghe						
+頂頂厲害	tin tin li yiq						
 頂頂裏向	tin tin li shian						
 頂頂難	tin tin nae						
 頂頂難得	tin tin nae taq						
@@ -17562,13 +17568,11 @@
 扯平	tsho bin	99					
 扯篷	tsho bon	99		138	張開船帆借風力航行		55
 叉肩胛	tsho ci kaq	98					55
-扯淡	tsho dae			233			
-扯蛋	tsho dae	99	141				
+扯蛋	tsho dae	99	141	233	吹牛	朱版作「詫譚」。	
 車頭	tsho deu	99	6	32			
 差咋勿多	tsho dza vaq tou	99	271				
 差咋弗多	tsho dza vaq tou						55
-扯風篷	tsho fon bon						
-扯風蓬	tsho fon bon	99					55
+扯風蓬	tsho fon bon	99			張開船帆借風力航行		55
 扯閒白直	tsho ghae baq jiq						
 車行	tsho ghaon	99					
 䟕洪洞	tsho ghon don		322				55
@@ -17589,15 +17593,13 @@
 扯鈴	tsho lin			138			
 岔路	tsho lu	99					
 叉麻將	tsho mo cian	99	183			湯版等首字作「搓」，音不合。	418
-叉木人	tsho moq gnin			24			
-扯木人	tsho moq gnin		319				55
+扯木人	tsho moq gnin		319	24	把人當作傻瓜耍	朱版作「叉木人」。	55
 叉魚	tsho ng	98	67	24, 272		朱版又作「鯧魚」。	55
 差眼	tsho ngae	99	285	272			55
 差眼眼	tsho ngae ngae	99		272			55
 差眼本鈿	tsho ngae pen di						
 岔翁	tsho on	99	201	166			55
-差扳	tsho pae	99	215	272			55
-差板	tsho pae		252				55
+差扳	tsho pae	99	215, 252	272	相差	《阿拉宁波话》也作「差板」。	55
 車板	tsho pae	99					55
 差扳眼	tsho pae ngae	99					55
 差扳勿起	tsho pae vaq chi	99					
@@ -17628,12 +17630,10 @@
 差	tsho1	99	187	271			
 車	tsho1	99					
 扯	tsho3	99	186				
-差	tsho5		173				
-瘥	tsho5	99	173	454			
+瘥	tsho5	99	173	454	病情有所好轉	《阿拉宁波话》也作「差」。	
 穿着	tshoe ciaq	151					
-穿針	tshoe cin	151					
 穿針眼	tshoe cin ngae						
-穿針屁眼	tshoe cin phi ngae	151					55
+穿針屁眼	tshoe cin phi ngae	151			穿針		55
 穿堂	tshoe daon	151					
 竄頭	tshoe deu	151	127	413	意外到來的好運	《阿拉宁波话》作「躥頭」。根據變調，前字應爲陰平。	55
 攛風調	tshoe fon diau	151	27	179			55
@@ -17748,7 +17748,6 @@
 初	tshu1	47					
 刺棚	tshy ban		118				55
 刺棚弄裏	tshy ban lon li		118				55
-刺蓬	tshy bon						
 雌雞胡嚨	tshy ci u lon						
 雌雞胡嚨	tshy ci wu lon	2					55
 刺頭怕癩頭	tshy deu pho la deu						
@@ -17773,9 +17772,8 @@
 取陰溝	tshyu in keu						
 吹牛屄	tshyu ngeu pi	8	141				55
 取保	tshyu pau	8					
-趣向	tshyu shian		127	460			418
-趣相	tshyu shian		127				418
-趣相交關足	tshyu shian ciau kuae tsoq						
+趣向	tshyu shian		127	460	趣味	《阿拉宁波话》也作「趣相」。《字語彙解》p. 251，interest 一詞下註 yiu cʽü'-hyiang 有趣向，可知後字爲團音。	418
+趣向交關足	tshyu shian ciau kuae tsoq				很有趣味		
 吹簫	tshyu shiau		107				
 處暑	tshyu syu	8					
 吹打開門	tshyu tan khe men						
@@ -17849,8 +17847,7 @@
 出力弗討好	tshyuq liq vaq thau hau						1
 出卵	tshyuq loe		164				55
 出卵出膊	tshyuq loe tshyuq poq		164				55
-出梅	tshyuq mei	371					
-出黴	tshyuq mei	371					418
+出梅	tshyuq mei	371			梅雨天氣終結的日子	也作「出黴」。	
 出門	tshyuq men	372					
 出門阿裏	tshyuq men aq li						
 出門人	tshyuq men gnin						
@@ -20150,8 +20147,7 @@
 牀底下	zaon ti gho	236					55
 上點心	zaon ti shin	236	62	18			55
 上濎下輕	zaon tin gho chin	237					55
-上督落	zaon toq loq		313				55
-上篤落	zaon toq loq		313				55
+上篤落	zaon toq loq		313		上級指令下級做某事	《阿拉宁波话》也作「上督落」。	55
 上裝	zaon tsaon	237					
 牀罩	zaon tsau	236					
 上竈師父	zaon tsau sy vu	236					55
@@ -20861,8 +20857,7 @@
 十塊頭	zyuq khuei deu						
 十個	zyuq kou	373					
 十梗	zyuq kuan						
-入梅	zyuq mei	372					
-入黴	zyuq mei	372					418
+入梅	zyuq mei	372			梅雨天氣開始的日子	也作「入黴」。	
 入木	zyuq moq		173				55
 十磨九難	zyuq mou cieu nae						
 十外	zyuq nga	372	15	4			55

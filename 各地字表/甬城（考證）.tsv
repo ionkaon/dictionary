@@ -3982,6 +3982,9 @@
 瓳	瓳	wu2	
 箶	箶	wu2	
 魱	魱	wu2	
+黃	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
+黄	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
+巫	巫	wu2	
 誤	误	wu2	又音
 悟	悟	wu2	又音
 吳	吴	wu2	
@@ -3996,9 +3999,6 @@
 祦	祦	wu2	
 郚	郚	wu2	
 鯃	鯃	wu2	
-黃	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
-黄	黄	wu2	又音 僅限於「黃狗」及「嘸郎黃狗」
-巫	巫	wu2	
 鋘	鋘	wu2	
 誣	诬	wu2	又音
 毋	毋	wu2	
@@ -7992,6 +7992,7 @@
 鐶	镮	wae2	
 患	患	wae2	
 洹	洹	wae2	
+轘	轘	wae2	
 頑	顽	wae2	
 宦	宦	wae2	
 幻	幻	wae2	
@@ -8000,6 +8001,7 @@
 刓	刓	wae2	
 抏	抏	wae2	
 岏	岏	wae2	
+忨	忨	wae2	
 懷	怀	wae2	文讀
 懐	怀	wae2	文讀
 蘹	蘹	wae2	文讀
@@ -8011,8 +8013,6 @@
 外	外	wae2	文讀
 糫	糫	wae2	
 闤	阛	wae2	
-轘	轘	wae2	
-忨	忨	wae2	
 鯇	鲩	wae6	
 睅	睅	wae6	
 睆	睆	wae6	
@@ -8021,9 +8021,9 @@
 擐	擐	wae6	
 蘾	蘾	wae6	
 槵	槵	wae6	
-薍	薍	wae6	
-豢	豢	wae6	
 轘	轘	wae6	
+豢	豢	wae6	
+薍	薍	wae6	
 忨	忨	wae6	
 彎	弯	uae1	
 灣	湾	uae1	
@@ -9330,9 +9330,9 @@
 擩	擩	zei2	
 甤	甤	zei2	
 圌	圌	zei2	
+𨅔	𨅔	zei2	
 蠶	蚕	zei2	
 鏨	錾	zei2	
-𨅔	𨅔	zei2	
 惢	惢	zei6	
 蕊	蕊	zei6	
 蕋	蕊	zei6	
@@ -9769,11 +9769,6 @@
 蕙	蕙	wei2	
 慰	慰	wei2	又音
 彙	汇	wei2	
-巍	巍	wei2	
-嵬	嵬	wei2	
-危	危	wei2	
-𨴓	𨴓	wei2	
-磑	硙	wei2	
 槐	槐	wei2	
 喂	喂	wei2	應答電話
 佪	佪	wei2	
@@ -9785,12 +9780,17 @@
 潿	涠	wei2	
 鮰	𫚔	wei2	
 壝	壝	wei2	
-峞	峞	wei2	
-洈	洈	wei2	
-犩	犩	wei2	
 溈	沩	wei2	
 潙	沩	wei2	
 鍏	鍏	wei2	
+巍	巍	wei2	
+嵬	嵬	wei2	
+危	危	wei2	
+𨴓	𨴓	wei2	
+磑	硙	wei2	
+峞	峞	wei2	
+洈	洈	wei2	
+犩	犩	wei2	
 洧	洧	wei6	
 鮪	鲔	wei6	
 韋	韦	wei6	
@@ -9810,8 +9810,6 @@
 滙	汇	wei6	
 蔿	𫇭	wei6	
 痏	痏	wei6	
-頠	頠	wei6	
-硊	硊	wei6	
 隗	隗	wei6	
 廆	廆	wei6	
 瘣	瘣	wei6	
@@ -9826,11 +9824,13 @@
 壝	壝	wei6	
 孈	孈	wei6	
 瀢	瀢	wei6	
+媁	媁	wei6	
+鍏	鍏	wei6	
+頠	頠	wei6	
+硊	硊	wei6	
 峞	峞	wei6	
 顡	顡	wei6	
 姽	姽	wei6	
-媁	媁	wei6	
-鍏	鍏	wei6	
 彗	彗	wei6	
 胃	胃	wei6	
 猬	猬	wei6	
@@ -9846,9 +9846,6 @@
 位	位	wei6	
 爲	为	wei6	爲什麼
 為	为	wei6	為什麼
-僞	伪	wei6	
-偽	伪	wei6	
-魏	魏	wei6	
 惠	惠	wei6	
 恵	惠	wei6	
 蟪	蟪	wei6	
@@ -9879,6 +9876,9 @@
 讏	讏	wei6	
 軎	軎	wei6	
 轊	𫐕	wei6	
+僞	伪	wei6	
+偽	伪	wei6	
+魏	魏	wei6	
 威	威	uei1	
 葳	葳	uei1	
 畏	畏	uei1	
@@ -15925,7 +15925,6 @@
 翟	翟	dzaq8	姓
 濯	濯	dzaq8	在清水裏搓洗
 𦑱	𦑱	dzaq8	
-捽	捽	dzaq8	用力拉；用力使折斷
 㳐	㳐	dzaq8	
 檡	檡	dzaq8	
 襗	𫋷	dzaq8	
@@ -15945,6 +15944,7 @@
 枠	枠	dzaq8	日語漢字，音同「雜」
 崱	崱	dzaq8	
 溭	溭	dzaq8	
+捽	捽	dzaq8	用力拉；用力使折斷
 崪	崪	dzaq8	
 椊	椊	dzaq8	
 崒	崒	dzaq8	

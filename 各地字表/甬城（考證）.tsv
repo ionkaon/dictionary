@@ -1396,8 +1396,8 @@
 䪆	䪆	thi5	細軟；細膩；滑爽
 戻	戻	thi5	
 达	达	thi5	
-添	添	thi5	①襯；夾 ②往磨眼裏續（米、黃豆等）
 洟	洟	thi5	
+添	添	thi5	①襯；夾 ②往磨眼裏續（米、黃豆等）
 睼	睼	thi5	
 煔	煔	thi5	
 舚	舚	thi5	
@@ -3267,6 +3267,7 @@
 輢	𫐎	i3	
 譩	譩	i3	
 醷	醷	i3	
+衣	衣	i3	蛋、果實等殼與肉之間的薄膜
 奄	奄	i3	
 掩	掩	i3	
 俺	俺	i3	
@@ -3287,7 +3288,6 @@
 揜	揜	i3	
 媕	媕	i3	
 渰	渰	i3	
-衣	衣	i3	蛋、果實等殼與肉之間的薄膜
 嬿	嬿	i3	
 躽	躽	i3	
 褗	褗	i3	
@@ -6829,20 +6829,20 @@
 呵	呵	huo1	呵酣
 訶	呵	huo1	呵酣
 𩑸	𩑸	huo1	
+颬	颬	huo1	撮攏嘴巴吐出熱氣
 花	花	huo1	
 蘤	花	huo1	
 芲	花	huo1	
 糀	糀	huo1	日語漢字，音同「花」
 嘩	哗	huo1	
 譁	哗	huo1	
-颬	颬	huo1	撮攏嘴巴吐出熱氣
 蝦	虾	huo3	
 煆	煆	huo5	將熟的食物再蒸熟或加熱，一般是在燒其他食物時順便爲之
+謑	謑	huo5	
 化	化	huo5	
 杹	杹	huo5	
 華	华	huo5	用刀劃割瓜果、魚肉等而不使斷裂
 花	花	huo5	用刀劃割瓜果、魚肉等而不使斷裂
-謑	謑	huo5	
 咶	咶	huo5	
 諣	𫍩	huo5	
 華	华	wo2	
@@ -7211,20 +7211,20 @@
 唅	唅	he1	
 醢	醢	he3	
 海	海	he3	
-蔊	蔊	he3	
 橀	橀	he3	
+蔊	蔊	he3	
 嚂	嚂	he3	
 咍	咍	he5	
 㺔	㺔	he5	
 餀	餀	he5	
 許	许	he5	白讀
+咳	咳	he5	表示惋惜或後悔
 漢	汉	he5	
 熯	熯	he5	將食物放在鍋屜上蒸
 暵	暵	he5	
 𩈣	𩈣	he5	紅出𩈣𩈣
 旰	旰	he5	
 厂	厂	he5	
-咳	咳	he5	表示惋惜或後悔
 孩	孩	ghe2	
 頦	頦	ghe2	
 駭	骇	ghe2	
@@ -7976,6 +7976,7 @@
 筷	筷	khuae5	
 環	环	guae2	提樑，器物上用手提挈的環或把
 𫩙	𫩙	guae2	俗寫，提樑，器物上用手提挈的環或把
+甩	甩	guae2	俗寫，提樑，器物上用手提挈的環或把
 摜	掼	guae6	
 儇	儇	huae1	
 嬛	嬛	huae1	
@@ -8975,38 +8976,38 @@
 嵟	嵟	tei1	
 磓	磓	tei1	
 鴭	鴭	tei1	
+頧	頧	tei1	
 妉	妉	tei1	
 媅	媅	tei1	
 甔	甔	tei1	
-頧	頧	tei1	
 𠡒	𠡒	tei3	
 㨃	㨃	tei3	
-瓭	瓭	tei3	
-衴	衴	tei3	
 謉	𫍷	tei3	
 頧	頧	tei3	
+瓭	瓭	tei3	
+衴	衴	tei3	
 對	对	tei5	
 対	对	tei5	
 碓	碓	tei5	
 濧	㳔	tei5	
 𣝉	𣝉	tei5	
-馾	馾	tei5	
 祋	祋	tei5	
 轛	轛	tei5	
+馾	馾	tei5	
 推	推	thei1	
 㷟	㷟	thei1	將已宰殺的豬、鷄等用開水燙後去掉毛
 煺	煺	thei1	
 藬	藬	thei1	
-貪	贪	thei1	
 胎	胎	thei1	僅限「輪胎」等詞
+貪	贪	thei1	
 腿	腿	thei3	
 骽	腿	thei3	
-嗿	嗿	thei3	
-醓	醓	thei3	
-襑	襑	thei3	
 僓	僓	thei3	
 聉	聉	thei3	
 脮	脮	thei3	
+嗿	嗿	thei3	
+醓	醓	thei3	
+襑	襑	thei3	
 退	退	thei5	
 褪	褪	thei5	
 蛻	蜕	thei5	
@@ -9029,6 +9030,8 @@
 𧝋	𧝋	dei2	
 魋	魋	dei2	
 蹪	蹪	dei2	
+墤	墤	dei2	
+尵	尵	dei2	
 覃	覃	dei2	
 潭	潭	dei2	白讀 酒潭
 窞	窞	dei2	窞窞
@@ -9036,16 +9039,14 @@
 橝	橝	dei2	
 蟫	蟫	dei2	
 鐔	镡	dei2	
-墤	墤	dei2	
-尵	尵	dei2	
 陮	陮	dei6	
+瀢	瀢	dei6	
 紿	绐	dei6	綳緊的物體由於受壓而鬆弛凹下
 禫	禫	dei6	
 黮	黮	dei6	
 倓	倓	dei6	
 贉	𫎫	dei6	
 醰	醰	dei6	
-瀢	瀢	dei6	
 隊	队	dei6	
 兌	兑	dei6	
 兑	兑	dei6	
@@ -9242,12 +9243,12 @@
 焠	焠	tshei5	
 啐	啐	tshei5	
 韢	韢	tshei5	
-𪙞	𪙞	tshei5	又音 𪙞牙
 竁	竁	tshei5	
 襊	襊	tshei5	
 膬	膬	tshei5	
 濢	濢	tshei5	
 臎	臎	tshei5	
+𪙞	𪙞	tshei5	又音 𪙞牙
 ⿱咋會	⿱咋会	dzei2	「咋會」的合音詞，怎麼會
 墜	坠	dzei6	又音
 雖	虽	sei1	
@@ -9869,7 +9870,6 @@
 螝	螝	wei6	
 詯	詯	wei6	
 纗	𫄹	wei6	
-犩	犩	wei6	
 槥	槥	wei6	
 熭	熭	wei6	
 璏	璏	wei6	
@@ -9879,6 +9879,7 @@
 僞	伪	wei6	
 偽	伪	wei6	
 魏	魏	wei6	
+犩	犩	wei6	
 威	威	uei1	
 葳	葳	uei1	
 畏	畏	uei1	
@@ -11660,6 +11661,7 @@
 艙	舱	tshaon1	
 䱽	䲝	tshaon1	
 鶬	鸧	tshaon1	
+創	创	tshaon1	創傷
 傖	伧	tshaon1	
 凔	凔	tshaon1	
 昌	昌	tshaon1	
@@ -11678,7 +11680,6 @@
 牕	窗	tshaon1	
 窓	窗	tshaon1	
 窻	窗	tshaon1	
-創	创	tshaon1	創傷
 堫	堫	tshaon1	
 惝	惝	tshaon3	
 漺	漺	tshaon3	
@@ -15252,9 +15253,9 @@
 醲	醲	gnion2	
 𧲤	𧲤	gnion2	
 顒	颙	gnion2	
-𡢿	𭑸	gnion2	
 檂	檂	gnion2	
 鰅	鰅	gnion2	
+𡢿	𭑸	gnion2	
 搑	搑	gnion6	人多互相推擠
 喗	喗	gnion6	
 夽	夽	gnion6	
@@ -16541,8 +16542,8 @@
 胐	胐	khuaq7	
 顝	顝	khuaq7	
 環	环	guaq8	僅限於「環頭」一詞
-搰	搰	guaq8	禽類扇動翅膀
 刮	刮	guaq8	禽類扇動翅膀
+搰	搰	guaq8	禽類扇動翅膀
 忽	忽	huaq7	
 惚	惚	huaq7	
 笏	笏	huaq7	
@@ -16993,7 +16994,6 @@
 傶	傶	tsoq7	
 喌	喌	tsoq7	
 摘	摘	tsoq7	取下；鬆開
-折	折	tsoq7	
 簇	簇	tsoq7	聚集
 䭁	䭁	tsoq7	腌製品及酒變質而散發出異味
 遭	遭	tsoq7	僅限於「沃遭」
@@ -17190,8 +17190,14 @@
 驌	骕	soq7	
 鱐	鱐	soq7	
 鷫	鹔	soq7	
+蟰	蟰	soq7	
+橚	橚	soq7	
+潚	㴋	soq7	
 夙	夙	soq7	
 洬	洬	soq7	
+裻	裻	soq7	
+棴	棴	soq7	
+玊	玊	soq7	
 索	索	soq7	
 矟	矟	soq7	
 𢱢	𢱢	soq7	用手輕輕來回撫摩
@@ -17220,15 +17226,9 @@
 虪	虪	soq7	
 跾	跾	soq7	
 溹	溹	soq7	
-橚	橚	soq7	
-潚	㴋	soq7	
-玊	玊	soq7	
-蟰	蟰	soq7	
 摵	摵	soq7	
 謏	𫍲	soq7	
 梀	梀	soq7	
-棴	棴	soq7	
-裻	裻	soq7	
 束	束	soq7	
 𠲿	𠲿	soq7	
 縮	缩	soq7	
@@ -18918,6 +18918,7 @@
 黦	黦	iuq7	
 擭	擭	iuq7	
 這	这	tsyuq7	
+折	折	tsyuq7	彎；轉
 拙	拙	tsyuq7	白讀
 𠷅	𠷅	tsyuq7	
 窋	窋	tsyuq7	

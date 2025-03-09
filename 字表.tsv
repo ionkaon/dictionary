@@ -8966,7 +8966,7 @@
 #		kwʽæn5	khuae5										
 環	环		guae2	1			guae6	10	guae2	11	0.05	提樑，器物上用手提挈的環或把	
 𫩙	𫩙		guae2	3								俗寫，提樑，器物上用手提挈的環或把	
-甩	甩		guae2	3	guae6	9			guae6	11	0.00	俗寫，提樑，器物上用手提挈的環或把	#
+甩	甩		guae2	3	guae6	9			guae6	11	0.00	俗寫，提樑，器物上用手提挈的環或把	
 #		gwæn2	guae2										
 摜	掼	gwæn	guae6	1	guae6	9	guae6	10	guae6	11			
 #		gwæn6	guae6										
@@ -10390,10 +10390,11 @@
 漼	漼	tsʽe	tshei3	7									
 皠	皠		tshei3										
 噿	噿		tshei3										
-噆	噆		tshei3										
-朁	朁		tshei3										
-黲	黪		tshei3										
 #		tsʽe3	tshei3										
+噆	噆		tshei-tshe3										
+朁	朁		tshei-tshe3										
+黲	黪		tshei-tshe3										
+#		tsʽen3	tshei-tshe3										
 脆	脆	tsʽe	tshei5	1	tshei5	9	tshei5	10	tshei5	11			
 脃	脆		tshei5	1									
 翠	翠	tsʽe	tshei5	2	tshei5	9	tshei5	10	tshei5	11			
@@ -10408,14 +10409,15 @@
 焠	焠		tshei5										
 啐	啐	tsʽe	tshei5	7					tshei1	11			
 韢	韢		tshei5										
-參	参						tshei1	10			0.00	白讀；參隊(北侖)	#
-𪙞	𪙞		tshei5	3							0.05	又音 𪙞牙	
 竁	竁		tshei5										
 襊	襊		tshei5										
 膬	膬		tshei5										
 濢	濢		tshei5										
 臎	臎		tshei5										
 #		tsʽe5	tshei5										
+參	参						tshei1	10			0.00	白讀；參隊(北侖)	#
+𪙞	𪙞		tshei-tshe5	3							0.05	又音 𪙞牙	
+#		tsʽen5	tshei-tshe5										
 ⿱咋會	⿱咋会		dzei2	1								「咋會」的合音詞，怎麼會	
 #		dze2	dzei2										
 墜	坠		dzei6	2								又音	
@@ -19073,7 +19075,6 @@
 傶	傶		tsoq7										
 喌	喌	tsôh	tsoq7	3									
 摘	摘	tsah	tsoq7	3							0.05	取下；鬆開	
-折	折	tsih	tsoq7	1					tsoq7	11	0.05		
 簇	簇	tsʽoh	tsoq7	3	tshoq7	9			tshoq7	11	0.05	聚集	
 癤	疖	tsih	tsoq7	3							0.00	又音 僅限於「熱癤」	#
 䭁	䭁		tsoq7	1								腌製品及酒變質而散發出異味	
@@ -21080,6 +21081,7 @@
 擭	擭		iuq7										
 #		üoh7	iuq7									曲韻	
 這	这		tsyuq7	2	tsyuq7	9							
+折	折	cih	tsyuq7	3					tsoq7	11	0.05	彎；轉	
 拙	拙	cih	tsyuq7	2	ciuq7	9	tsoq7	10	tsoq7	11		白讀	
 𠷅	𠷅	cih	tsyuq7	7									
 窋	窋	cih	tsyuq7	7									

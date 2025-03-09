@@ -555,7 +555,7 @@
 皮膚粗剌柴	bi fu tshu la za						
 皮鞋	bi gha	13					
 皮鞋鋥亮	bi gha dzan lian						
-皮鞋簇刮新	bi gha tshaq kuaq shin						
+皮鞋赤刮新	bi gha tshaq kuaq shin						
 皮鞋油	bi gha yeu	13					
 便宜	bi gni	14					
 被甩	bi huaq	15	94	329	用來撣被子的竹製撣子		55
@@ -1642,7 +1642,7 @@
 姐夫	cia fu	69					
 借因頭	cia in deu	69					55
 傢俱	cia jiu						
-傢俱簇刮新	cia jiu tshaq kuaq shin						
+傢俱赤刮新	cia jiu tshaq kuaq shin						
 䶓箜	cia khon	216			針線筐		55
 䶓箜籃	cia khon lae	216	92		針線筐	字據《鄞縣通志》p. 2880，尖音。《阿拉宁波话》记「家空籃」，音不合。「䶓」音亦不合，較「家」而言更優，不應讓常用字負擔太多不相關的意思。亦作「縩孔籃」。	55
 借力使	cia liq sy		51	310	指可以藉助的外力		55
@@ -2383,8 +2383,7 @@
 積食	ciq zhiq	358	204		食物滯留在胃裏不能及時消化		
 夾	ciq7		145	101	用筷子夾取食物		
 急	ciq7	357	221	268	1. （大小便）憋不住；2. 憋（大小便）；3. 繃得緊，扎得緊		
-折	ciq7			139	彎折	表示彎折的「折」與表示疊的「摺」，二字城區皆音 ciq7，《鎮海縣誌》「折」記 tsyuq7 > tsoq7，與「摺」ciq7 不同音，需注意區分。	
-摺	ciq7		149		疊	表示彎折的「折」與表示疊的「摺」，二字城區皆音 ciq7，《鎮海縣誌》「折」記 tsyuq7 > tsoq7，與「摺」ciq7 不同音，需注意區分。	
+摺	ciq7		149		疊		
 汁	ciq7	356	122	70	量詞。湯藥煎的次數		
 漬	ciq7	358					
 灼	ciq7	357	213		燒；炙		
@@ -6420,7 +6419,7 @@
 一百十一	iq paq zyuq iq	366			一百一十一		
 一包頭	iq pau deu						
 一包一𢷒	iq pau iq jiq		326	3	形容拿的東西很多		55
-一包一折	iq pau iq tsoq	365	326	3	形容拿的東西很多		55
+一包一折	iq pau iq tsyuq	365	326	3	形容拿的東西很多		55
 一報還一報	iq pau wae iq pau			4	1. 報應不爽；2. 以其人之道還治其人之身		
 𨉖背賊	iq pei zaq		28		天黑前溜人人家屋裏躲藏，夜裏俟機行竊的小偷		55
 一乓葡萄	iq phan bu dau						
@@ -8817,6 +8816,7 @@
 過頭話	kou deu wo		52		滿話；不留餘地的話		
 果桶	kou don	185	100	205	漆成硃紅色的圓球形木桶，比提桶大，有蓋無提樑，用來貯存乾果糕餅等		55
 過念	kou gni	186			滿足某種癖好或嗜好		
+過念頭	kou gni deu				滿足某種癖好或嗜好		
 過年過節	kou gni kou ciq		16		過年、過節的時候；也泛指節日裏		55
 過年過界	kou gni kou ka		16	95	年關；年底		55
 過年過界	kou gni kou kau		16	95	年關；年底		55
@@ -9467,7 +9467,7 @@
 老門檻	lau men khae	83			指精於某事、不易上當、很有辦法的人		55
 老麻將	lau mo cian		30		處事老練、不會輕易上當的人		55
 老木儱倲	lau moq lon ton	84	241	89	形容因年老而反應遲鈍	湯版作「老木朧懂」，《阿拉宁波话》作「老木龍東」。《集韻》倲，都籠切，儱倲劣也	55
-老木躘踵	lau moq lon tshon	84	241	89	形容因年老而走路不穩的樣子		55
+老木躘蹱	lau moq lon tshon	84	241	89	形容因年老而走路不穩的樣子		55
 老呆大	lau nge dou						
 老鴉	lau o	82	111	87	烏鴉		
 老鴉臭	lau o chieu	82	55	89	狐臭		55
@@ -10187,7 +10187,7 @@
 龍頭薧	lon deu khau			56	龍頭魚的乾製品		
 龍頭鮳	lon deu khau	287	69		龍頭魚的乾製品		55
 龍頭魚	lon deu ng	287			龍頭魚，曬乾後稱「龍頭鮳」		55
-龍頭折轉	lon deu tsoq tsoe						
+龍頭折轉	lon deu tsyuq tsoe						
 弄掉	lon diau			135	搞壞		
 弄賺	lon dzae				弄錯		
 弄仿	lon faon	288	291		也許；可能；恐怕（仿即「弗好」之合音）		55
@@ -17376,7 +17376,7 @@
 𢶀耳朵皮	tshei gni to bi						
 脆瓜	tshei kuo	169	74	316	菜瓜，瓜實長圓形，肉厚而脆，水分豐富		55
 𢶀耳朵皮	tshei ng to bi						
-𪙞牙	tshei ngo		53		兒童換牙時，乳牙未拔掉而已從旁長出來的新牙		55
+𪙞牙	tshei-tshe ngo		53		兒童換牙時，乳牙未拔掉而已從旁長出來的新牙		55
 崔衙前	tshei ngo zhi						
 啐啐	tshei tshei				受到驚嚇時，輕拍胸口以示安慰，口中唸「啐啐」		
 啐活靈	tshei waq lin						
@@ -17879,6 +17879,7 @@
 出天相	tshyuq thi shian	371	232		1. 沒有遮蓋的；2. 露天		55
 出䠷	tshyuq thiau	371	238	79	出衆	《阿拉宁波话》及朱版也作「出跳」。《集韻》䠷，他弔切，身長皃。	418
 出𪙞牙	tshyuq tshae ngo						
+出𪙞牙	tshyuq tshei-tshe ngo						
 出瘄子	tshyuq tshu tsy						
 出豬泥	tshyuq tsyu gni						
 出洋相	tshyuq yan shian	372			鬧笑話；出醜		
@@ -18091,7 +18092,6 @@
 斫樹	tsoq zyu	341					55
 䭁	tsoq7	341	207	477			
 作	tsoq7	340	198	162			
-折	tsoq7		149	139			
 捉	tsoq7	341	144				
 摘	tsoq7		147				
 撮	tsoq7			461			
@@ -18439,6 +18439,7 @@
 㰵㰵	tsyuq tsyuq						
 㰵勿出	tsyuq vaq tshyuq						
 㰵弗出	tsyuq vaq tshyuq						1
+折	tsyuq7		149	139	彎；轉		
 㔃	tsyuq7	371					55
 㰵	tsyuq7	371	136	407	吮吸	《鄞縣通志》p.2998。《阿拉宁波话》作「咂」，音不合。	
 都整	tu cin	45	283				55

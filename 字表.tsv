@@ -1054,7 +1054,7 @@
 䏒	䏒	pʽin	phi5	1									
 騙	骗	pʽin	phi5	1	phii5	9	phi5	10	phien5	11			
 騗	騗		phi5										
-#		pʽi5	phi5									煙韻	
+#		pʽin5	phi5									煙韻	
 皮	皮	bi	bi2	1	bi2	9	bi2	10	bi2	11			
 鈹	铍		bi2									化學元素	
 琵	琵	bi	bi2	1	bi2	9	bi2	10					
@@ -4741,7 +4741,7 @@
 邍	邍		gniu2										
 撋	撋		gniu2										
 緣	缘						gniu2	10			0.00	又音	#
-扭	扭	nyiu	gniu2	3	gnieu6	9	gnieu6	10	gnieu4	11	0.05	僅限於头或身体转动一義	
+扭	扭	nyin	gniu2	3							0.05	僅限於头或身体转动一義	
 蚏	蚏		gniu2	3								蟛蚏蟹	#
 厵	厵		gniu2										
 謜	謜		gniu2										
@@ -10117,6 +10117,7 @@
 #		fe3	fei3										
 𣍐	𠊉		vei2	1	vei6	9	vei2	10	vei6	11	60000		
 𣍐	𫧃		vei2	1	vei6	9	vei2	10	vei6	11	60000		
+𣍐	𱐹		vei2	1	vei6	9	vei2	10	vei6	11	60000		
 #		ve2	vei2										
 浮	浮		vei6	4							0.00	僅限於「浮屍」	
 #		veo-ve6	vei6										
@@ -16260,7 +16261,7 @@
 焌	焌	cing	tsyun5	7									
 振	振	cing	tsyun5	1	tsyun5	9	tson5	10	tson5	11			
 賑	赈	cing	tsyun5	7									
-䟴	䟴		tsyun5	4								下蹲屈身縱跳	
+䟴	䟴		tsyun5	4									
 鎮	镇		tsyun5	1	tsyun5	9	tson5	10	tson5	11			
 鎭	镇	cing	tsyun5	1									
 震	震	cing	tsyun5	2	tsyun5	9	tson5	10	tson5	11			
@@ -21122,7 +21123,7 @@
 㤕	㤕	cih	tsyuq7	7									
 唶	唶		tsyuq7	1								吮吸	
 㰵	㰵		tsyuq7	6							578	吮吸	
-㔃	㔃		tsyuq7	1								用力使物轉向	
+㔃	㔃		tsyuq7	1									
 梲	棁	cih	tsyuq7	7									
 惙	惙	cih	tsyuq7	7									
 輟	辍	cih	tsyuq7	7									

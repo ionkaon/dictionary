@@ -1225,13 +1225,13 @@
 喫氣勿過	chioq chi vaq kou		330		嚥不下氣		
 喫氣弗過	chioq chi vaq kou		330		嚥不下氣		55
 喫喫阿拉	chioq chioq aq laq	349					55
-喫喫其	chioq chioq ji						
-喫喫渠	chioq chioq ji	349					55
-喫喫其拉	chioq chioq jiq laq						
-喫喫渠拉	chioq chioq jiq laq	349					55
-喫喫倷	chioq chioq naq	349					55
-喫喫我	chioq chioq ngo	349					55
-喫喫儂	chioq chioq nou	349					55
+喫喫其	chioq chioq ji	349			1. 欺侮他，欺侮她，欺侮它；2. 卡他，卡她，卡它		55
+喫喫渠	chioq chioq ji	349			1. 欺侮他，欺侮她，欺侮它；2. 卡他，卡她，卡它		
+喫喫其拉	chioq chioq jiq laq	349			1. 欺侮他們，欺侮她們，欺侮它們；2. 卡他們，卡她們，卡它們		55
+喫喫渠拉	chioq chioq jiq laq	349			1. 欺侮他們，欺侮她們，欺侮它們；2. 卡他們，卡她們，卡它們		
+喫喫倷	chioq chioq naq	349			1. 欺侮你們；2. 卡你們		55
+喫喫我	chioq chioq ngo	349			1. 欺侮我；2. 卡我		55
+喫喫儂	chioq chioq nou	349			1. 欺侮你；2. 卡你		55
 喫酒	chioq cieu	348	180	106	喝喜酒（過去多指喝男方的喜酒）		
 喫酒糊塗	chioq cieu wu du						
 喫進	chioq cin	349		105			
@@ -7468,7 +7468,7 @@
 客家語	khaq cia gniu						
 客家話	khaq cia wo						
 克節克理	khaq ciq khaq li						
-客堂間	khaq daon kae	318	82	281	客廳		55
+客堂間	khaq daon kae	318	82	165, 281	客廳		55
 磕頭蟲	khaq deu dzon	318			叩頭蟲，一種昆蟲，當蟲體被壓住時，頭和前胸能作叩頭狀活動，故名		
 磕斷	khaq doe						
 磕斷了	khaq doe lei						
@@ -18297,7 +18297,7 @@
 紙糊頭	tsy wu deu	2	120	185	紙糊的東西		578
 之前	tsy zhi	1			表示某個時間的前面		
 窒	tsy1	8	156	379	堵塞		
-仔	tsy3	1	304	66	1. 表示動作或狀態的實現，相當於「了」；2. 用在兩個名詞之間，相當於「以後」（實爲省略了動詞）；3. 表示動作的方式或動作狀態的持續，相當於「着」；4. 用在句末，表示祈使語氣；5. 用在上半句末尾，表示假設語氣		
+仔	tsy3	1	304	66	1. 表示動作或狀態的實現，相當於「了」；2. 用在兩個名詞之間，相當於「以後」（實爲省略了動詞）；3. 表示動作的方式或動作狀態的持續，相當於「着」；4. 用在句末，表示祈使語氣；5. 用在上半句末尾，表示假設語氣	本字可能爲「著」。	
 子	tsy3	1	306	24	1. 名詞後綴。用在雙音節時間名詞後面；2. 名詞後綴。用在其他成分後面		
 煮	tsy3	2			煮		
 紫	tsy3	2			一種顏色		
@@ -20302,194 +20302,194 @@
 前一昶	zhi iq chian	37	15	273	前一段時間		418
 自翹自封	zhi jiau zhi fon						
 自講自話	zhi kaon zhi wo						
-前夾	zhi kaq		64				55
-前夾身	zhi kaq shin	37	64	273			55
+前夾	zhi kaq		64		家禽前半身的肉		55
+前夾身	zhi kaq shin	37	64	273	豬前半身的肉		55
 自敲自封	zhi khau zhi fon						
-自家	zhi ko	38	39	113		自己	230000
+自家	zhi ko	38	39	113	自己		230000
 自家動手	zhi ko don shieu						
 自家方便	zhi ko faon bi						
-自家人	zhi ko gnin	38	23				578
+自家人	zhi ko gnin	38	23		自己人		578
 自家歡喜	zhi ko hun shi						
 自家來	zhi ko le						
 自家寫	zhi ko shia						
 自家做	zhi ko tsou						
 徐家窪	zhi ko ua						
-齊過	zhi kou		229				55
-前個月	zhi kou yuq	37					55
-自關自過	zhi kuae zhi kou			113			
-賤骨頭	zhi kuaq deu	38					578
-自管自	zhi kun zhi		317				55
-前樑頭	zhi lian deu	37					55
-前兩年	zhi lian gni	37					55
-前兩日	zhi lian gniq	37					55
+齊過	zhi kou		229		與……一樣高		55
+前個月	zhi kou yuq	37			上個月的前一個月		55
+自關自過	zhi kuae zhi kou			113	房子門戶獨進獨出，與其他人家不發生關係		
+賤骨頭	zhi kuaq deu	38			罵不自重或不識抬舉的人		578
+自管自	zhi kun zhi		317		自己照顧自己；自己管自己		55
+前樑頭	zhi lian deu	37			木船船前的橫木		55
+前兩年	zhi lian gni	37			以前幾年		55
+前兩日	zhi lian gniq	37			前幾天		55
 自唸叨婆	zhi ne-gnie tau bou						
-前生前世	zhi san zhi shi	37	292	274			55
-前世	zhi shi			273, 274			
-自曉得	zhi shiau taq		317				55
-自做㕶頭	zhi tsou ng deu			114			
+前生前世	zhi san zhi shi	37	292	274	1. 絕對，無論如何（多用於否定式）；2. 形容詞。形容蹊蹺，意想不到		55
+前世	zhi shi			273, 274	1. 絕對，無論如何（多用於否定式）；2. 形容詞。形容蹊蹺，意想不到		
+自曉得	zhi shiau taq		317		自己心裏明白		55
+自做㕶頭	zhi tsou ng deu			114	自言自語的樣子		
 徐洋	zhi yan						
 自造腔	zhi zau chian	38	133	113	自己編造出來的東西	《阿拉宁波话》作「自造廠」，朱版作「自造槍」。	55
-前	zhi2		9				
-齊	zhi2	38					
-斜白眼	zhia baq ngae	70	38	364			55
+前	zhi2		9		地名用詞		
+齊	zhi2	38			1. 整齊；2. 與……一樣高		
+斜白眼	zhia baq ngae	70	38	364	眼珠不正的人		55
 斜風斜雨	zhia fon zhia yu						
-謝年	zhia gni		182	414			55
-謝任	zhia gnin	70					55
-邪火氣	zhia hou chi		253	102			55
-邪火爛氣	zhia hou lae chi		253				55
-邪火倒氣	zhia hou tau chi		253				55
-斜衣旁	zhia i baon	70					55
-斜鉤	zhia keu	70					
+謝年	zhia gni		182	414	農曆年底祭神		55
+謝任	zhia gnin	70			官吏解除職務		55
+邪火氣	zhia hou chi		253	102	1. 形容見風是雨，隨大流；2. 形容言行不正經、不規矩		55
+邪火爛氣	zhia hou lae chi		253		1. 形容見風是雨，隨大流；2. 形容言行不正經、不規矩		55
+邪火倒氣	zhia hou tau chi		253		1. 形容見風是雨，隨大流；2. 形容言行不正經、不規矩		55
+斜衣旁	zhia i baon	70			偏旁「衤」		55
+斜鉤	zhia keu	70			漢字筆畫之一，「弋」等字中間長的一筆		
 謝家墓	zhia ko mou						
-斜王旁	zhia waon baon	70					55
-謝洋	zhia yan			414			
-邪術胡道	zhia zyuq wu dau		248				55
-斜	zhia2		9				
-謝	zhia6	70					
-橡皮	zhian bi	222					
-象皮病	zhian bi bin		56	16, 369			
+斜王旁	zhia waon baon	70			偏旁「𤣩」		55
+謝洋	zhia yan			414	漁汛結束		
+邪術胡道	zhia zyuq wu dau		248		形容不正經，不規矩		55
+斜	zhia2		9		地名用詞，指區域斜迤		
+謝	zhia6	70			感謝		
+橡皮	zhian bi	222			橡皮		
+象皮病	zhian bi bin		56	16, 369	因絲蟲病而腿腳變得粗大		
 橡皮卵脬	zhian bi loe phau				詈語，謂喋喋不休之人		
-牆基	zhian ci	222					
-牆腳	zhian ciaq	222					
-像人家	zhian gnin ko	222	291	432			55
-象棋	zhian ji	222					
 橡皮魚	zhian bi ng	222			馬面魚，可加工製成魚乾		55
 剝皮魚	poq bi ng	222			馬面魚，可加工製成魚乾		55
+牆基	zhian ci	222			承重牆個地基		
+牆腳	zhian ciaq	222			1. 牆根；2. 比喻基礎		
+像人家	zhian gnin ko	222	291	432	好像；彷彿		55
+象棋	zhian ji	222			象棋		
 像狗介在行	zhian keu ka dze ghaon						
 象坎	zhian khae						
-像家	zhian ko		291				55
-牆角落頭	zhian koq loq deu	222					55
+像家	zhian ko		291		「像人家」急讀。好像，彷彿		55
+牆角落頭	zhian koq loq deu	222			牆角		55
 牆裏	zhian li						
-牆門	zhian men	222	85	444			55
+牆門	zhian men	222	85	444	1. 舊式房子的大門；2. 指大門及圍牆內的地方		55
 像模白樣	zhian moq baq yan						
-像模像樣	zhian moq zhian yan			433			
-牆外頭	zhian nga deu	222					55
+像模像樣	zhian moq zhian yan			433	像樣		
+牆外頭	zhian nga deu	222			牆外		55
 象牙肥皂	zhian ngo bi zau						
-牆壁	zhian piq	222					
-牆壁裏	zhian piq li	222					55
-象山雞	zhian sae ci						
+牆壁	zhian piq	222			牆壁		
+牆壁裏	zhian piq li	222			牆裏		55
+象山雞	zhian sae ci				一種蛋雞，個小，產蛋率高		
 象山老𡢿	zhian sae lau gnion						
-像煞	zhian saq	222	291				55
-像煞有介事	zhian saq yeu ka zy	222	341				
+像煞	zhian saq	222	291		好像；似乎		55
+像煞有介事	zhian saq yeu ka zy	222	341		1. 好像真有這回事似的；2. 好像有什麼了不起似的		
 像煞是介	zhian saq zy ka						
-象	zhian4	222					
+象	zhian4	222			1. 大象；2. 象棋棋子名稱		
 若要牛出力	zhiaq iau ngeu tshyuq liq						
-嚼麥糕	zhiaq maq kau	326	141, 326	499			578
-嚼勿動	zhiaq vaq don	326					
-嚼弗動	zhiaq vaq don						55
-嚼勿落	zhiaq vaq loq	326					
-嚼弗落	zhiaq vaq loq						55
+嚼麥糕	zhiaq maq kau	326	141, 326	499	胡說；胡說八道		578
+嚼勿動	zhiaq vaq don	326			嚼不動		
+嚼弗動	zhiaq vaq don	326			嚼不動		55
+嚼勿落	zhiaq vaq loq	326			嚼不動		
+嚼弗落	zhiaq vaq loq	326			嚼不動		55
 紹興老酒	zhiau shin lau cieu						
-紹興戲	zhiau shin shi	117					55
-壽桃	zhieu dau	157	78				
-壽頭	zhieu deu	157	29	134			578
+紹興戲	zhiau shin shi	117			越劇		55
+壽桃	zhieu dau	157	78		用來祝壽的饅頭，有甜餡，粉紅色，狀似桃子，故名		
+壽頭	zhieu deu	157	29	134	舉止言談不合時宜，惹人討厭的人		578
 壽頭阿毛	zhieu deu aq mau						
 壽頭光棍	zhieu deu kuaon kuen						
-壽頭刮氣	zhieu deu kuaq chi	157	242	134			55
-壽頭刮腦	zhieu deu kuaq nau	157	242	134			55
-壽頭刮搭	zhieu deu kuaq taq	157	242	134			55
-壽頭碼子	zhieu deu mo tsy	157	29	134			578
-壽頭兒子	zhieu deu ng tsy		29				578
-壽頭相	zhieu deu shian						
+壽頭刮氣	zhieu deu kuaq chi	157	242	134	形容傻里傻氣，言行很不得體		55
+壽頭刮腦	zhieu deu kuaq nau	157	242	134	形容傻里傻氣，言行很不得體		55
+壽頭刮搭	zhieu deu kuaq taq	157	242	134	形容傻里傻氣，言行很不得體		55
+壽頭碼子	zhieu deu mo tsy	157	29	134	舉止言談不合時宜，惹人討厭的人		578
+壽頭兒子	zhieu deu ng tsy		29		舉止言談不合時宜，惹人討厭的人		578
+壽頭相	zhieu deu shian				形容傻里傻氣，言行很不得體		
 袖頭子	zhieu deu tsy	157	58	328	袖子		55
-壽頭壽腦	zhieu deu zhieu nau	157	242	134			
+壽頭壽腦	zhieu deu zhieu nau	157	242	134	形容傻里傻氣，言行很不得體		
 壽方材	zhieu faon ze						
-壽刮刮	zhieu kuaq kuaq	157	242	134			55
+壽刮刮	zhieu kuaq kuaq	157	242	134	形容傻乎乎，言行不得體		55
 壽勒阿姆阿伯勿認得	zhieu laq a m aq paq vaq gnin taq						
 壽勒阿姆阿伯弗認得	zhieu laq a m aq paq vaq gnin taq						1
 壽勒阿姆阿伯勿認得	zhieu laq an m aq paq vaq gnin taq						
 壽勒阿姆阿伯弗認得	zhieu laq an m aq paq vaq gnin taq						1
-壽勒溚溚渧	zhieu laq taq taq ti						
-壽麪	zhieu mi	217					
-壽斑	zhieu pae	157					
-壽星	zhieu shin	157					
-壽星竹	zhieu shin tsoq	158					55
+壽勒溚溚渧	zhieu laq taq taq ti				形容很傻		
+壽麪	zhieu mi	217			生日喫的麪		
+壽斑	zhieu pae	157			老人斑		
+壽星	zhieu shin	157			1. 稱被祝壽的人；2. 指老人星，民間常把它畫成老人的樣子，頭部長兒隆起，爲長壽子象徵		
+壽星竹	zhieu shin tsoq	158			一種竹子，富於韌性，常用來製作手杖		55
 壽歲	zhieu syu			134	1. 壽數，壽命的長度；2. 長壽的可能性	朱版作「壽勢」。《漢語大字典》收「壽歲」，例文引元無名氏《桃花女》第一折：「他道你都不要，你可要什麽。你便道我則要些壽歲。」及應修人《殞星》：「你可能允許我禱天，請以我男子的壽歲移贈給你？」	
-壽搭搭	zhieu taq taq	157	242	134			55
-袖套	zhieu thau	157	58	328			
+壽搭搭	zhieu taq taq	157	242	134	傻；言行不合常理		55
+袖套	zhieu thau	157	58	328	套袖		
 袖套龍	zhieu thau lon	157	58	328	套袖	朱版作「袖套籠」。	55
-壽燭	zhieu tsoq	158					55
-袖子管	zhieu tsy kun	157					55
+壽燭	zhieu tsoq	158			祝壽時用的大紅蠟燭		55
+袖子管	zhieu tsy kun	157			袖筒		55
 袖子捋落	zhieu tsy laq loq						
-受委氣	zhieu uei chi	157	321	214			55
-壽	zhieu6	157	242	133			
+受委氣	zhieu uei chi	157	321	214	受窩囊氣		55
+壽	zhieu6	157	242	133	傻；言行不合常理		
 繩縛牢	zhin bou lau						
 尋起	zhin chi						
 尋起來	zhin chi le						
 尋竅門	zhin chiau men						
-尋皵頭	zhin chiq deu	273	318	127			55
+尋皵頭	zhin chiq deu	273	318	127	故意找碴兒，以惹起事端		55
 尋機會	zhin ci wei						
 尋藉口	zhin cia kheu						
 尋進	zhin cin						
 尋進去	zhin cin chi						
 尋進來	zhin cin le						
-尋着	zhin dzoq		197	127			418
-乘風涼	zhin fon lian	274	322	309			55
-尋軋攔門	zhin gaq laq men	273	318	127			55
+尋着	zhin dzoq		197	127	糾纏；找岔子		418
+乘風涼	zhin fon lian	274	322	309	乘涼		55
+尋軋攔門	zhin gaq laq men	273	318	127	故意找碴兒，以惹起事端		55
 尋個	zhin ghoq						
-尋禍作孽	zhin ghou tsoq gniq		331				55
+尋禍作孽	zhin ghou tsoq gniq		331		自找禍害；自討苦喫		55
 尋個	zhin goq						
 尋好	zhin hau						
-尋吼勢	zhin heu syu	273	318	127			55
-尋幽貓	zhin ieu mae	273	184	127			418
-尋其	zhin ji						
-尋渠	zhin ji						
-淨根	zhin ken	274	282	220			55
+尋吼勢	zhin heu syu	273	318	127	故意找碴兒，以惹起事端		55
+尋幽貓	zhin ieu mae	273	184	127	捉迷藏		418
+尋其	zhin ji				找他；找她；找它		1
+尋渠	zhin ji				找他；找她；找它		
+淨根	zhin ken	274	282	220	1. 全部，一點不剩；2. 着實，真正		55
 淨根頭	zhin ken deu						
-淨根牙	zhin ken ngo	274	44	220			55
-淨更半夜	zhin ken pun ya	274					418
+淨根牙	zhin ken ngo	274	44	220	智齒，即第三磨牙，成年後才長出來的最後一顆大牙		55
+淨更半夜	zhin ken pun ya	274			深夜		418
 尋開	zhin khe						
-尋開心	zhin khe shin	273		127			
-尋肯頭	zhin khen deu	273	318	127			55
-尋工作	zhin kon tsoq						
+尋開心	zhin khe shin	273		127	拿人開玩笑		
+尋肯頭	zhin khen deu	273	318	127	故意找碴兒，以惹起事端		55
+尋工作	zhin kon tsoq				找工作		
 尋過	zhin kou						
 尋過去	zhin kou chi						
 尋過來	zhin kou le						
-循規蹈矩	zhin kuei dau ciu	282	251				
+循規蹈矩	zhin kuei dau ciu	282	251		形容正經規矩		
 尋了	zhin laq						
 尋勒	zhin laq						
-尋勒可憐	zhin laq khou li						
+尋勒可憐	zhin laq khou li				找了半天		
 尋來	zhin le						
 尋來尋去	zhin le zhin chi						
 尋門路	zhin men lu						
 尋面子	zhin mi tsy						
 尋麻煩	zhin mo vae						
-尋俉	zhin ng						
-尋爾	zhin ng						1
+尋俉	zhin ng				找你		
+尋爾	zhin ng				找你		1
 尋眼	zhin ngae						
-尋我	zhin ngo						
-尋儂	zhin nou						
+尋我	zhin ngo				找我		
+尋儂	zhin nou				找你		
 尋扳頭門	zhin pae deu men						
 尋遍	zhin pi						
-尋煞可憐	zhin saq khou li						
-尋死	zhin shi	273	256	126			
-尋啥人	zhin so gnin						
-尋啥人	zhin soq gnin						
-尋啥人	zhin sou gnin						
+尋煞可憐	zhin saq khou li				找了半天		
+尋死	zhin shi	273	256	126	1. 倒黴，糟糕；2. 幹什麼（含斥責意）		
+尋啥人	zhin so gnin				找誰		
+尋啥人	zhin soq gnin				找誰		
+尋啥人	zhin sou gnin				找誰		
 尋對頭	zhin tei deu						
 繩𠡒牢	zhin tei lau						
-晴天家	zhin thi ko	273					578
+晴天家	zhin thi ko	273			晴天		578
 尋的	zhin tiq						
-甚多沒少	zhin tou maq shiau		223	240			55
-甚多莫少	zhin tou moq shiau	274					55
+甚多沒少	zhin tou maq shiau		223	240	很多；過分地多		55
+甚多莫少	zhin tou moq shiau	274			很多；過分地多		55
 尋鈔票	zhin tshau phiau						
 尋出	zhin tshyuq						
 尋出去	zhin tshyuq chi						
 尋出來	zhin tshyuq le						
 尋出路	zhin tshyuq lu						
-靜止	zhin tsy			443			
-靜止止	zhin tsy tsy			443			
-靜注	zhin tsyu	274	268	443			55
-靜注注	zhin tsyu tsyu	274	268	443			55
+靜止	zhin tsy			443	安靜；清靜		
+靜止止	zhin tsy tsy			443	安靜，清靜		
+靜注	zhin tsyu	274	268	443	安靜；清靜		55
+靜注注	zhin tsyu tsyu	274	268	443	安靜，清靜		55
 尋飯碗	zhin vae un						
-尋勿着	zhin vaq dzoq						
-尋弗着	zhin vaq dzoq						1
+尋勿着	zhin vaq dzoq				找不着		
+尋弗着	zhin vaq dzoq				找不着		1
 尋勿着了	zhin vaq dzoq lei						
 尋弗着了	zhin vaq dzoq lei						1
 尋勿出	zhin vaq tshyuq						
 尋弗出	zhin vaq tshyuq						1
-尋勿着	zhin vaq zoq						
-尋弗着	zhin vaq zoq						1
+尋勿着	zhin vaq zoq				找不着		
+尋弗着	zhin vaq zoq				找不着		1
 尋勿着了	zhin vaq zoq lei						
 尋弗着了	zhin vaq zoq lei						1
 尋勿自在	zhin vaq zy dze						
@@ -20504,328 +20504,328 @@
 尋上來	zhin zaon le						
 尋上門	zhin zaon men						
 尋上門來	zhin zaon men le						
-尋造孽	zhin zau gniq		318				55
+尋造孽	zhin zau gniq		318		故意引起爭端		55
 尋尋	zhin zhin						
-靜靜叫	zhin zhin ciau	274					55
+靜靜叫	zhin zhin ciau	274			靜靜地		55
 尋尋着	zhin zhin dzoq						
 尋尋看	zhin zhin khe						
-靜靜個	zhin zhin kou	274					55
+靜靜個	zhin zhin kou	274			靜靜地		55
 尋尋出	zhin zhin tshyuq						
-靜靜注注	zhin zhin tsyu tsyu						
+靜靜注注	zhin zhin tsyu tsyu				安靜，清靜		
 尋尋着	zhin zhin zoq						
-尋着	zhin zoq	274					55
+尋着	zhin zoq	274			糾纏；找岔子		55
 尋事體	zhin zy thi						
-盛	zhin2		200				
-繩	zhin2	274					
+盛	zhin2		200		用容器接住往下墜或往下滴的東西		
+繩	zhin2	274			繩子		
 甚	zhin4		290		用在數量詞前，表示多，相當於「好」	《阿拉宁波话》又作「淨」。	
-舌頭	zhiq deu	364					
+舌頭	zhiq deu	364			舌頭		
 舌頭發出	zhiq deu faq tshyuq						
 舌頭𪚁𪚁	zhiq deu li li						
-石花	zhiq huo						
-石花凍	zhiq huo ton						
+石花	zhiq huo				涼粉。將木蓮籽裝袋後置於水中揉搓，或將石花菜加水熬煮，以提取其中的果膠。待含果膠的水自然凝固或加凝固劑促使其凝固後，再加入糖水、薄荷水等，即製成。是傳統的消暑食品。又叫「木蓮凍」、「木蓮豆腐」、「石花凍」		
+石花凍	zhiq huo ton				涼粉。將木蓮籽裝袋後置於水中揉搓，或將石花菜加水熬煮，以提取其中的果膠。待含果膠的水自然凝固或加凝固劑促使其凝固後，再加入糖水、薄荷水等，即製成。是傳統的消暑食品。又叫「木蓮凍」、「木蓮豆腐」、「石花」		
 蝕勒塔塔響	zhiq laq thaq thaq shian						
-食包	zhiq pau	364					55
-蝕本	zhiq pen	364					
-食品店	zhiq phin ti	364					
+食包	zhiq pau	364			胃		55
+蝕本	zhiq pen	364			虧本		
+食品店	zhiq phin ti	364			綜合經營食品的商店		
 射水片	zhiq syu phi				打水漂		55
-舌苔	zhiq the	363					
-食罩	zhiq tsau	364	98	266			55
-蓆子	zhiq tsy	364					691
-食指	zhiq tsy	364					
-席席嫩	zhiq zhiq nen	364					55
+舌苔	zhiq the	363			舌苔		
+食罩	zhiq tsau	364	98	266	用來罩飯菜的竹編或塑料制的圓形罩子		55
+蓆子	zhiq tsy	364			蓆子		691
+食指	zhiq tsy	364			食指		
+席席嫩	zhiq zhiq nen	364			形容很嫩		55
 席席𧼰𧼰	zhiq zhiq zaq zaq						
-蝕	zhiq8	364	207	269			
+蝕	zhiq8	364	207	269	食物經過煮、醃、曬後體積縮小		
 自家	zhiu ko	38	39	113	自己	又音，前字韻母受後字影響變爲撮口。	10000
-惹彈梅	zo dae mei		30	390			55
+惹彈梅	zo dae mei		30	390	言行做作、惹人厭惡的人（多指女性）		55
 惹厭	zo i	101	175	390	惹人厭煩；討厭	《阿拉宁波话》作「惹厭」，湯版作「惹嫌」。《松江方言志》p. 198 作「惹厭」，《鄞縣通志》p. 3030 作「射厭（惹厭）」，知後字爲煙韻。	55
-惹厭頭	zo i deu						
-惹厭貓	zo i mae	101					55
-惹搭搭	zo taq taq	101	242	390			55
-惹	zo4	101	242	389			
-射	zo6	101	135	364			
-船機	zoe ci	152	90	364			55
-船大身	zoe da shin	152					55
-船頭	zoe deu	152					
-船鞋	zoe gha	152					55
-船老大	zoe lau da	152					
+惹厭頭	zo i deu				言行做作、惹人厭惡的人（多指女性）		
+惹厭貓	zo i mae	101			言行做作、惹人厭惡的人（多指女性）		55
+惹搭搭	zo taq taq	101	242	390	自以爲是，言行不合常理		55
+惹	zo4	101	242	389	自以爲是，言行不合常理		
+射	zo6	101	135	364	斜視		
+船機	zoe ci	152	90	364	抽水機船		55
+船大身	zoe da shin	152			船身		55
+船頭	zoe deu	152			船的頭部		
+船鞋	zoe gha	152			淺口不繫鞋帶的船形便鞋		55
+船老大	zoe lau da	152			艄工		
 旋來旋去	zoe le zoe chi						
-船尾巴	zoe mi po	152					55
-船尾巴	zoe ng po	152					55
+船尾巴	zoe mi po	152			船尾		55
+鱔魚	zoe yu	152	70	500	黃鱔（多指已剖好或煮熟的）		
+鱔魚羹	zoe yu kan	152			用泡熟的鱔魚拆骨撕成粗絲，以重油烹炒，加黃酒、醬油、白糖、蔥、薑等調料，稍勾薄芡，起鍋後添上麻油、胡椒粉，味美嫩滑，爲寧波的傳統風味菜。外地的寧波幫菜館以「寧式鱔絲」上菜單，頗負盛名		55
+船尾巴	zoe ng po	152			船尾		55
 鱔絲	zoe sy						
 船樁樁牢	zoe tsaon tsaon lau						
-船洋	zoe yan	152					55
-鱔魚	zoe yu	152	70	500	黃鱔（多指已剖好或煮熟的）		
-鱔魚羹	zoe yu kan	152					55
+船洋	zoe yan	152			鑄有帆船圖案的外國銀元		55
 旋鑿	zoe zoq		102	373	螺絲刀		55
-旋	zoe2	152	162	373			
-船	zoe2	152					
-善	zoe4			408			
+旋	zoe2	152	162	373	來回地走		
+船	zoe2	152			船		
+善	zoe4			408	和善；不兇		
 熟起	zoq chi			472			
-熟地	zoq di	344					
-熟泥泥	zoq gni gni		264	472			55
-熟泥其	zoq gni ji	344	264				55
+熟地	zoq di	344			耕作多年的土地		
+熟泥泥	zoq gni gni		264	472	形容瓜果等過熟不爽口		55
+熟泥其	zoq gni ji	344	264		形容瓜果等過熟不爽口		55
 𧮙人當口泛	zoq gnin taon kheu fae						
-昨日	zoq gniq	344	14	253			
-昨日子	zoq gniq tsy	344	14	253			418
+昨日	zoq gniq	344	14	253	昨天		
+昨日子	zoq gniq tsy	344	14	253	昨天		418
 若要牛出力	zoq iau ngeu tshyuq liq						
-熟客熟主	zoq khaq zoq tsyu		249				55
-𧮙勒可憐	zoq laq khou li						
-昨末	zoq maq	344	14	253	昨天	本字爲「昨日」，後字讀音由「今末」類推而來。	30000
-昨末晝過	zoq maq cieu kou						578
-昨末下半日	zoq maq gho pun gniq						578
-昨末日裏	zoq maq gniq li						578
-昨末天亮	zoq maq thi gnian						55
-昨末天亮	zoq maq thiq gnian						578
-昨末子	zoq maq tsy	344	14	253			8000
-昨末夜裏	zoq maq ya li						55
-昨末夜到	zoq maq ya tau						578
-昨末上半日	zoq maq zaon pun gniq						578
-昨末	zoq miq	344			昨天	本字爲「昨日」，後字讀音由「今末」類推而來。	10000
-昨末晝過	zoq miq cieu kou						55
-昨末下半日	zoq miq gho pun gniq						55
-昨末日裏	zoq miq gniq li						55
-昨末天亮	zoq miq thi gnian						55
-昨末天亮	zoq miq thiq gnian						55
-昨末子	zoq miq tsy	344					2000
-昨末夜裏	zoq miq ya li						55
-昨末夜到	zoq miq ya tau						55
-昨末上半日	zoq miq zaon pun gniq						55
+熟客熟主	zoq khaq zoq tsyu		249		形容買賣雙方彼此很熟悉		55
+𧮙勒可憐	zoq laq khou li				罵了半天		
+昨末	zoq maq	344	14	253	昨天	本字爲「昨日」。後字讀音由「今末」類推而來。	30000
+昨末晝過	zoq maq cieu kou				昨天中午		578
+昨末下半日	zoq maq gho pun gniq				昨天下午		578
+昨末日裏	zoq maq gniq li				昨天白天		578
+昨末天亮	zoq maq thi gnian				昨天早上		55
+昨末天亮	zoq maq thiq gnian				昨天早上		578
+昨末子	zoq maq tsy	344	14	253	昨天		8000
+昨末夜裏	zoq maq ya li				昨天晚上		55
+昨末夜到	zoq maq ya tau				昨天晚上		578
+昨末上半日	zoq maq zaon pun gniq				昨天上午		578
+昨末	zoq miq	344			昨天	本字爲「昨日」。後字讀音由「今末」類推而來。	10000
+昨末晝過	zoq miq cieu kou				昨天中午		55
+昨末下半日	zoq miq gho pun gniq				昨天下午		55
+昨末日裏	zoq miq gniq li				昨天白天		55
+昨末天亮	zoq miq thi gnian				昨天早上		55
+昨末天亮	zoq miq thiq gnian				昨天早上		55
+昨末子	zoq miq tsy	344			昨天		2000
+昨末夜裏	zoq miq ya li				昨天晚上		55
+昨末夜到	zoq miq ya tau				昨天晚上		55
+昨末上半日	zoq miq zaon pun gniq				昨天上午		55
 𧮙眼勿得	zoq ngae vaq taq						
 𧮙眼弗得	zoq ngae vaq taq						1
-孰儂	zoq nou		39	370			418
-着把	zoq po						55
+孰儂	zoq nou		39	370	誰		418
+着把	zoq po				成功		55
 𧮙煞可憐	zoq saq khou li						
-熟鐵	zoq thiq	344					
-鑿子	zoq tsy	344					
-芍藥	zoq yaq	344					
-勺	zoq8	344					
-熟	zoq8	344	235	472			
+熟鐵	zoq thiq	344			熟鐵		
+鑿子	zoq tsy	344			挖槽或打孔用的工具，長條形，前端有刃，使用時用重物砸後端；2. 鑿石頭或金屬的工具		
+芍藥	zoq yaq	344			芍藥		
+勺	zoq8	344			量詞		
+熟	zoq8	344	235	472	1. 老態龍鍾，反映遲鈍		
 𧮙	zoq8		140	501	罵	𧮙《集韻》疾各切，詈也。《阿拉宁波话》也作「辱」。《溫州方言志》記「𧮙」音 zo8 (zo212)，並標註義爲責罵；記「辱」音 yeu8 (jɤu212)。可知當作「𧮙」。	55
 坐被窠	zou bi khou						
-坐起間	zou chi kae	185		165			55
-坐堂	zou daon	185					
-坐待筵	zou de yi	185		165			55
-座墊	zou di	185	88	319			
+坐起間	zou chi kae	185	82	165	客廳		55
+坐堂	zou daon	185			法庭審理案件（舊說法）		
+坐待筵	zou de yi	185		165	1. 婚筵上特備一桌酒席接待信仰，信仰坐在席間叫坐待筵；2. 比喻寧吃飯喫得慢，或吃完飯後久坐不散		55
+座墊	zou di	185	88	319	自行車、三輪車的鞍座		
 坐地分贓	zou di fen tsaon						
 坐地老虎	zou di lau fu						
-坐桶	zou don			165			
-坐着坐	zou dzoq zou		325				55
+坐桶	zou don			165	高腳的木盆，用於接生和洗腳等		
+坐着坐	zou dzoq zou		325		坐……沒有準		55
 坐火櫃頭	zou hou jiu deu						
-坐監牢	zou kae lau	185					55
-坐窠	zou khou	185					55
+坐監牢	zou kae lau	185			坐牢		55
+坐窠	zou khou	185			用稻草或木料製作的圓柱形器物，供兒童站立用		55
 坐勒過	zou laq kou						
-坐牢監	zou lau kae	185					55
+坐牢監	zou lau kae	185			坐牢		55
 坐落打手銃	zou loq tan shieu tshon						
-坐板瘡	zou pae tshaon	185	55	165			
-坐相	zou shian	185					55
-坐帶起來	zou ta chi le	185					55
-坐帶起來	zou tae chi le	185					55
-坐莊客人	zou tsaon khaq gnin	185					55
+坐板瘡	zou pae tshaon	185	55	165	臀得部閒久坐而生的瘡		
+坐相	zou shian	185			坐的姿勢		55
+坐帶起來	zou ta chi le	185			入座		55
+坐帶起來	zou tae chi le	185			入座		55
+坐莊客人	zou tsaon khaq gnin	185			駐外地的辦事員		55
 坐莊買主	zou tsaon ma tsyu						
-坐車	zou tsho	185	92	164			
-坐車	zou tshoe		92	164			
-坐勿過	zou vaq kou						
-坐弗過	zou vaq kou						1
-坐夜	zou ya		181	165			
-坐着坐	zou zoq zou						
-坐	zou4			164			
-座	zou4	185					
-時昶	zy chian		15				55
-是巧	zy chiau			252			
-是只	zy ciq	6	282	252			55
-祠堂	zy daon	6					
-時道	zy dau	4	232	150			55
-鋤頭	zy deu	5	103				
+坐車	zou tsho	185	92	164	小孩坐的四輪小推車		
+坐車	zou tshoe		92	164	小孩坐的四輪小推車		
+坐勿過	zou vaq kou				坐不下		
+坐弗過	zou vaq kou				坐不下		1
+坐夜	zou ya		181	165	除夕或守靈、做佛事時，通宵不睡，坐而待明		
+坐着坐	zou zoq zou				坐……沒有準		
+坐	zou4			164	肯定；一定		
+座	zou4	185			1. 量詞；2. 水滲入凹陷的地方		
+時昶	zy chian		15		有一段時間		55
+是巧	zy chiau			252	是要；該要		
+是只	zy ciq	6	282	252	只；只有；只是		55
+祠堂	zy daon	6			祠堂（爲祭祀先人或紀念某人而修成的建築）		
+時道	zy dau	4	232	150	1. 好看，漂亮；2. 自鳴得意		55
+鋤頭	zy deu	5	103		鋤；一種常用農具		
 鋤頭褪缺	zy deu then chiuq						
 字宅宅寫其快	zy dzaq dzaq shia ji khua						
 字宅宅寫渠快	zy dzaq dzaq shia ji khua						
 事在人爲	zy dze zyun wei						
-自從	zy dzon	5					
-字號	zy ghau	5					
+自從	zy dzon	5			介詞，表示過去的時間起點		
+字號	zy ghau	5			店鋪的名稱		
 事後諸葛亮	zy gheu tsyu kaq lian						
-市日	zy gniq	5					55
-市日頭間	zy gniq deu kae	5					55
-時件	zy ji	4		150			
-是介	zy ka	5	216	251			55
-是介講	zy ka kaon		322				55
-是介光景	zy ka kuaon cin	6	14	252			55
-是介話	zy ka wo		322				55
+市日	zy gniq	5			趕集的日子		55
+市日頭間	zy gniq deu kae	5			趕集的日子		55
+時件	zy ji	4		150	做成食品的家禽內臟		
+是介	zy ka	5	216	251	1. 算了，就這樣（含有求情、妥協或商定等意味）；2. 罷了（含有容忍、勉強接受等意味）；3. 副詞。相當於「是這樣」「又」		55
+是介講	zy ka kaon		322		是這麼說，確實這樣		55
+是介光景	zy ka kuaon cin	6	14	252	（到了）一定的時候		55
+是介話	zy ka wo		322		是這麼說，確實這樣		55
 自講自話	zy kaon zy wo						
-時格	zy kaq	5	288	150			50000
-事幹	zy khi-khe						5000
-事幹	zy ki-ke		125	200			3000
-自來火	zy le hou	5	97	113			418
-自來水筆	zy le syu piq	5					
-士林藍	zy lin lae	5					55
-逝落	zy loq		177				55
-市面	zy mi			69			
-自鳴鐘	zy min tson	5					
-鰣魚	zy ng	5					
-時眼	zy ngae	5	283	150			55
-柿餅	zy pin	5					
-時鮮	zy shi	4					
+時格	zy kaq	5	288	150	老是；一直		50000
+事幹	zy khi-khe				事情		5000
+事幹	zy ki-ke		125	200	事情		3000
+自來火	zy le hou	5	97	113	火柴		418
+自來水筆	zy le syu piq	5			鋼筆		
+士林藍	zy lin lae	5			一種藍色，較豔		55
+逝落	zy loq		177		（心氣、疼痛等）趨於平緩		55
+市面	zy mi			69	1. 工商業活動會聚的場面；2. 街上		
+自鳴鐘	zy min tson	5			能報時的鐘		
+鰣魚	zy ng	5			鰣魚		
+時眼	zy ngae	5	284	150	1. 挺，比較；2. 形容詞。許多		55
+柿餅	zy pin	5			柿餅		
+時鮮	zy shi	4			應時的，新上市的		
 字寫勒推扳	zy shia laq thei pae						
-自說自話	zy syuq zy wo	5		114			
-事體	zy thi	5	125	200			50000
-字帖	zy thiaq	5					
-柿子	zy tsy	5					
-是會	zy wei	6	293	252			55
-是話	zy wo	6	300	129, 252			50000
-時辰	zy yin	5					
-時雨	zy yu	4					55
-時疫病	zy yuq bin	5					55
-時晌	zy zaon	5	14	150			55
-示字旁	zy zy baon	5					55
+自說自話	zy syuq zy wo	5		114	自作主張		
+事體	zy thi	5	125	200	事情		50000
+字帖	zy thiaq	5			字帖		
+柿子	zy tsy	5			柿子		
+是會	zy wei	6	293	252	真的；果然		55
+是話	zy wo	6	300	129, 252	如果；假如		50000
+時辰	zy yin	5			1. 計時的單位；2. 時候		
+時雨	zy yu	4			連續幾天下個不停的雨		55
+時疫病	zy yuq bin	5			霍亂		55
+時晌	zy zaon	5	14	150	有一段時間		55
+示字旁	zy zy baon	5			偏旁「礻」		55
 時時道道	zy zy dau dau						
-時	zy2	4					
-仕	zy4	5					
-士	zy4	5					
-巳	zy4	5					
-是	zy4	5	271, 303	251			
-字	zy6	5	95	125			
+時	zy2	4			季節		
+仕	zy4	5			象棋中的一個棋子		
+士	zy4	5			象棋中的一個棋子		
+巳	zy4	5			地支之一		
+是	zy4	5	271, 303	251	1. 凡是，所有；2. 用在句中，表示提頓語氣；3. 用在上半句末尾，表示假設語氣		
+字	zy6	5	95	125	硬幣正面有文字的一面		
 豎蜻蜓	zyu chin din	11					
 聚隊	zyu dei	11	283	445	一起；結伴	湯版後字作「頭」，認爲是「頭」的兒化變音。《字語彙解》p. 484，together 下註 jü-de'，故後字並非「頭」的兒化變音。	578
 聚頭	zyu deu	11	283		一起；結伴		
-鋤頭	zyu deu		103				
+鋤頭	zyu deu		103		鋤；一種常用農具		
 鋤頭褪缺	zyu deu then chiuq						
 樹罅弄裏	zyu ha lon li						
-如意菜	zyu i tshe	11					55
-樹秧	zyu ian	11					55
-豎長闊短	zyu jian khuaq toe	11	333				55
+如意菜	zyu i tshe	11			黃豆芽		55
+樹秧	zyu ian	11			樹苗		55
+豎長闊短	zyu jian khuaq toe	11	333		1. 說長道短，評頭品足；2. 如此這般，詳詳細細		55
 樹橛頭	zyu jiuq deu						
-樹根	zyu ken	11					
+樹根	zyu ken	11			樹的根部		
 樹根頭	zyu ken deu						
-樹幹	zyu ki-ke	11					
-樹腦頭	zyu nau deu	11					55
-誰儂	zyu nou	11					55
-樹丫子	zyu o tsy	11					55
-豎屋酒	zyu oq cieu	11	77	251			55
-如心像意	zyu shin zhian i	11	217	130			55
+樹幹	zyu ki-ke	11			樹幹		
+樹腦頭	zyu nau deu	11			樹梢，樹的頂端		55
+誰儂	zyu nou	11			誰		55
 樹丫杈	zyu o tsho	11			樹枝		55
+樹丫子	zyu o tsy	11			樹枝		55
+豎屋酒	zyu oq cieu	11	77	251	上樑酒，蓋房子時爲慶祝上樑而辦的酒席		55
+如心像意	zyu shin zhian i	11	217	130	稱心如意		55
 樹棦	zyu tsan		117		樹節子		55
-樹樁	zyu tsaon	11					
+樹樁	zyu tsaon	11			樹樁		
 誰弗得知	zyu vaq toq tsyu			130	誰料；不料	朱版作「如弗得知」。	1
 誰勿得知	zyu vaq toq tsyu			130	誰料；不料	朱版作「如弗得知」。	
-如話	zyu wo	11	300	129			50000
-樹葉爿	zyu yiq bae	11					55
-樹	zyu6	11					
-順阿流	zyun aq lieu		250				55
-人牌	zyun ba	281					55
+如話	zyu wo	11	300	129	如果；假如		50000
+樹葉爿	zyu yiq bae	11			樹葉		55
+樹	zyu6	11			樹		
+順阿流	zyun aq lieu		250		順當；順利		55
+人牌	zyun ba	281			牌九中有八個點子的牌		55
 神氣活現	zyun chi waq yi						
-順腳	zyun ciaq		47				
-神交關綻	zyun ciau kuae dzae						
-人證	zyun cin	281					
-神經病	zyun cin bin	281					
+順腳	zyun ciaq		47		右腳		
+神交關綻	zyun ciau kuae dzae				精神很飽滿		
+人證	zyun cin	281			證人提供的證據		
+神經病	zyun cin bin	281			1. 精神病；2. 罵人言行如同精神病患者；3. 女子斥責男子的挑逗行爲，有時無惡意		
 純精肉	zyun cin gnioq				整塊瘦肉，不摻雜肥肉		
-純腈肉	zyun cin gnioq				整塊瘦肉，不摻雜肥肉		
-神經稀稀	zyun cin shi shi	281	244	282			55
-認真話	zyun cin wo		293				55
-純只	zyun ciq	281	282	185			55
-順埭	zyun da	281	294	265			55
-順埭過便	zyun da kou bi	281	294	265			55
+純腈肉	zyun cin gnioq				整塊瘦肉，不摻雜肥肉		1
+神經稀稀	zyun cin shi shi	281	244	282	形容神經有點不正常		55
+認真話	zyun cin wo		293		1. 的確，確實；2. 真的，果真如此		55
+純只	zyun ciq	281	282	185	一共只有；總共		55
+順埭	zyun da	281	294	265	順便		55
+順埭過便	zyun da kou bi	281	294	265	順便		55
 純道理	zyun dau li						
-順頭	zyun deu	281	11	265			55
+順頭	zyun deu	281	11	265	指從頭到腳的順方向		55
 順頭喫甘蔗	zyun deu chioq ki-ke tso						
 神綻	zyun dzae			282	意爲精神飽滿		
 神綻力足	zyun dzae liq tsoq						
-順風	zyun fon	281	64	265			
-順風耳朵	zyun fon gni to	281					55
-順風耳朵	zyun fon ng to	281					55
+順風	zyun fon	281	64	265	豬耳朵		
+順風耳朵	zyun fon gni to	281			能聽到很遠聲音的耳朵，形容聽力好		55
+順風耳朵	zyun fon ng to	281			能聽到很遠聲音的耳朵，形容聽力好		55
 順風順水	zyun fon zyun syu						
 仁義道德	zyun gni dau taq						
-純肉頭	zyun gnioq deu		126				55
-人情	zyun jin	281					
+純肉頭	zyun gnioq deu		126		除去皮、殼、骨頭等以後的部分，也喻指實際所得		55
+人情	zyun jin	281			1. 人際交往時饋贈的禮物；2. 恩惠；3. 情面		
 人情世故	zyun jin syu ku						
 純靠	zyun khau				全靠		418
 純靠孃	zyun khau gnian						
 任家橫	zyun ko wan						
-神怪綻	zyun kuan dzae						
-純光	zyun kuaon	281	282	185			55
-辰光	zyun kuaon	281	12	147			100000
-純光無之	zyun kuaon vu tsy						55
-純光無之	zyun kuaon wu- tsy	281					55
-神刮綻	zyun kuaq dzae						
-循規蹈矩	zyun kuei dau ciu	282	251	404			
-順流	zyun lieu	281	250				
-順毛擄	zyun mau lou		323				55
-純米飯	zyun mi vae		61	185			55
+神怪綻	zyun kuan dzae				精神很飽滿		
+純光	zyun kuaon	281	282	185	一共只有；總共		55
+辰光	zyun kuaon	281	12	147	時候		100000
+純光無之	zyun kuaon vu tsy				一共只有；總共		55
+純光無之	zyun kuaon wu- tsy	281			一共只有；總共		55
+神刮綻	zyun kuaq dzae				精神很飽滿		
+循規蹈矩	zyun kuei dau ciu	282	251	404	形容正經規矩		
+順流	zyun lieu	281	250		順當；順利		
+順毛擄	zyun mau lou		323		本指順着動物的毛撫摸，比喻順着別人的脾氣說話		55
+純米飯	zyun mi vae		61	185	不摻雜糧的米飯		55
 順屁和尚	zyun phi ghou zaon						
-純怕	zyun pho	281					55
-順邊	zyun pi		10				55
-順手	zyun shieu	281	46				
-順手鰙鰨	zyun shieu gnioq thaq		67				55
+純怕	zyun pho	281			只怕；單怕		55
+順邊	zyun pi		10		右邊		55
+順手	zyun shieu	281	46		右手		
+順手鰙鰨	zyun shieu gnioq thaq		67		眼睛長在右邊的比目魚		55
 順手骨接	zyun shieu kuaq ciq						
-順手半邊	zyun shieu pun pi	281	10				55
+順手半邊	zyun shieu pun pi	281	10		右邊		55
 人心難料	zyun shin nae liau						
 順帶過便	zyun ta kou bi						
-順湯	zyun thaon	281	250	265			55
-順隻腳	zyun tsaq ciaq		47				55
-順隻手	zyun tsaq shieu		46				55
+順湯	zyun thaon	281	250	265	順當；順利		55
+順隻腳	zyun tsaq ciaq		47		右腳		55
+順隻手	zyun tsaq shieu		46		右手		55
 人中	zyun tson	281					
-純做	zyun tsou		282	185			55
-神志無知	zyun tsy vu tsy						
-神志無知	zyun tsy vu tsyu	281	244	282			55
-神志無知	zyun tsy wu- tsy	281					
-神志無知	zyun tsy wu- tsyu	281	244	282			55
+純做	zyun tsou		282	185	一共只有；總共		55
+神志無知	zyun tsy vu tsy				形容神志不清，糊里糊塗		
+神志無知	zyun tsy vu tsyu	281	244	282	形容神志不清，糊里糊塗		55
+神志無知	zyun tsy wu- tsy	281			形容神志不清，糊里糊塗		
+神志無知	zyun tsy wu- tsyu	281	244	282	形容神志不清，糊里糊塗		55
 神主牌	zyun tsyu bae	281			靈牌		
-純是	zyun zy						20000
-順順流流	zyun zyun lieu lieu	281					578
-順順湯湯	zyun zyun thaon thaon	281					418
-純	zyun2	281	282	185			
-辰	zyun2	281					
-蕈	zyun4		73				
-仞	zyun6	281	122	66			
-任	zyun6	281					
-腎	zyun6	281					
-順	zyun6		10	265			
-實阿惠	zyuq aq wei		238				55
+純是	zyun zy				全是；都是		20000
+順順流流	zyun zyun lieu lieu	281			順利		578
+順順湯湯	zyun zyun thaon thaon	281			順利		418
+純	zyun2	281	282	185	全；都		
+辰	zyun2	281			地支之一		
+蕈	zyun4		73		香菇		
+仞	zyun6	281	122	66	量詞。成人兩臂平伸的長度		
+任	zyun6	281			量詞		
+腎	zyun6	281			腎		
+順	zyun6		10	265	右		
+實阿惠	zyuq aq wei		238		1. 有實際好處；2. 人衣着、言行等樸實		55
 十陪九勿足	zyuq bei cieu vaq tsoq						
 十陪九弗足	zyuq bei cieu vaq tsoq						1
-實別別	zyuq biq biq	373	230	231			55
-實際上	zyuq ci zaon						20000
+實別別	zyuq biq biq	373	230	231	1. 形容滿滿的，實實的；2. 形容踏實，實在；3. 副詞。十足，實打實		55
+實際上	zyuq ci zaon				實際上		20000
 十張	zyuq cian						
-實疊牆	zyuq diaq zhian	373					55
+實疊牆	zyuq diaq zhian	373			用磚平放、實砌，中間不空的牆		55
 實在忒	zyuq dze thaq						
 實在忒	zyuq dze thou						
-十號	zyuq ghau	372					
+十號	zyuq ghau	372			陽曆每個月篤第十天		
 十個	zyuq ghoq						
 十二六月好坐坐	zyuq gni loq yuq hau zou zou						
-十二月	zyuq gni yuq	372					
+十二月	zyuq gni yuq	372			陽曆十二月，有時也指臘月		
 十二月嘸佬人家打相打	zyuq gni yuq mh lau gnin ko tan shian tan						
 十人九罵	zyuq gnin cieu mo						
-十人九傲	zyuq gnin cieu ngau		326				55
-十人九𧮙	zyuq gnin cieu zoq		326				55
-十個	zyuq goq	373					
-實貨	zyuq hou	373	293	231			55
-十一	zyuq iq	373					
+十人九傲	zyuq gnin cieu ngau		326		受衆人稱讚		55
+十人九𧮙	zyuq gnin cieu zoq		326		受衆人責罵		55
+十個	zyuq goq	373			十個		
+實貨	zyuq hou	373	293	231	1. 其實；2. 形容詞。實在；實惠		55
+十一	zyuq iq	373			十一		
 十張	zyuq jian						
 十梗	zyuq kan						
 十塊頭	zyuq khuei deu						
-十個	zyuq kou	373					
+十個	zyuq kou	373			十個		
 十梗	zyuq kuan						
 入梅	zyuq mei	372			梅雨天氣開始的日子	也作「入黴」。	
-入木	zyuq moq		173				55
+入木	zyuq moq		173		入檢		55
 十磨九難	zyuq mou cieu nae						
-十外	zyuq nga	372	15	4			55
+十外	zyuq nga	372	15	4	農曆十一日以後的日子		55
 日本閒話	zyuq pen ghae wo						
 十三檔算盤	zyuq sae taon soe bun						
-十三點	zyuq sae ti	372	30	5			
+十三點	zyuq sae ti	372	30	5	言行輕浮、沒有分寸的人，相當於「二百五」		
 實打實	zyuq tan zyuq						
-十殿閻王	zyuq ti gni waon	372					
+十殿閻王	zyuq ti gni waon	372			迷信子十個陰殿中的閻王		
 實篤篤	zyuq toq toq						
 十多個	zyuq tou ghoq						
-十多日	zyuq tou gniq	373					55
-十多個	zyuq tou goq	372					
-十多個	zyuq tou kou	372					
-入贅女婿	zyuq tse gniu shi		21				55
-入贅女婿	zyuq tsei gniu shi	372					55
+十多日	zyuq tou gniq	373			十幾天		55
+十多個	zyuq tou goq	372			十幾個		
+十多個	zyuq tou kou	372			十幾個		
+入贅女婿	zyuq tse gniu shi		21		入贅的女婿		55
+入贅女婿	zyuq tsei gniu shi	372			入贅的女婿		55
 實足	zyuq tsoq				幾週歲說「實足幾歲」		
 實足年齡	zyuq tsoq gni lin				週歲		
-實惠	zyuq wei	373	238				
-實爲	zyuq wei		293				
-日暈	zyuq yun	373					
+實惠	zyuq wei	373	238		1. 有實際好處；2. 人衣着、言行等樸實		
+實爲	zyuq wei		293		其實		
+日暈	zyuq yun	373			日暈		
 十月芋艿焐雞娘	zyuq yuq n na u ci gnian						
 集仕港	zyuq zy kaon						
 實實足足	zyuq zyuq tsoq tsoq				週歲		
-實實惠惠	zyuq zyuq wei wei	373					55
-十	zyuq8	372					
+實實惠惠	zyuq zyuq wei wei	373			1. 有實際好處；2. 人衣着、言行等樸實		55
+十	zyuq8	372			數字		

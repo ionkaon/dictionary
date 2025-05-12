@@ -69,7 +69,7 @@
 餲𦤣氣	aq boq chi	321	278	495	發黴的氣味（名詞兼形容詞）		55
 餲𦤣嚌糟	aq boq ci tsau	321	260	495	形容潮溼發黴的氣味和感覺		55
 阿婆	aq bou	321	21	184	婆婆，丈夫的母親		
-阿伴	aq bun	322			乳母		55
+阿哺	aq bu	322			乳母	湯版作「阿伴」，音 aq bun。《鄞縣通志》p. 3118 作「阿哺」，音 aq bu。《字語彙解》p. 526 wet-nurse 一詞下註 ah-bu'。後字鼻化可能是湯版錯記。	55
 押去	aq chi	323			押送犯人或俘虜		55
 阿青阿黃	aq chin aq waon		28		指各方面都很相似或配合得很好的兩個人（含戲謔意）		418
 阿缺弄	aq chiuq lon		38		豁嘴；兔脣的人		55
@@ -4921,7 +4921,7 @@
 和消頭	ghou shiau deu	190	34	210	爲人勸架解紛、和事消氣的人		55
 河屍鬼	ghou sy ciu	191			河中的鬼		55
 河水鬼	ghou syu ciu		131	223	河中的鬼		55
-河水翻漿	ghou syu fae cian						
+河水氾漲	ghou syu fae cian						
 河水怪清	ghou syu kuan chin						
 和擔判	ghou tae phun						
 河對頭	ghou tei deu				河對面		
@@ -5176,6 +5176,7 @@
 寧波話	gnin pou wo						
 人曬勒漆黑	gnin sa laq tshaq haq				人曬得漆黑		
 認生頭	gnin san deu	271	238		（小孩）認生，怕見生人		55
+寧式鱔絲	gnin shiq zoe sy				用泡熟的鱔魚拆骨撕成粗絲，以重油烹炒，加黃酒、醬油、白糖、蔥、薑等調料，稍勾薄芡，起鍋後添上麻油、胡椒粉，味美嫩滑，爲寧波的傳統風味菜。外地的寧波幫菜館以「寧式鱔絲」上菜單，頗負盛名		55
 認得	gnin taq	271			認得		
 韌鬥勢	gnin teu syu						
 韌的的	gnin tiq tiq	271	264		形容食物韌韌的		55
@@ -15368,6 +15369,7 @@
 打襉	tan kae		160	52	1. 在裙子或上衣上打褶子；2. 比喻臉上起皺紋		55
 打教方板	tan kau faon pae						
 打瞌𥅻	tan khaq tshon	206	169	53	打盹		418
+打開	tan khe				打開		17720
 打角麂	tan koq ci		111		麂子，小型的鹿，雄的有長牙和短角		55
 打官司	tan kun sy	205			進行訴訟		
 打官司草	tan kun sy tshau						
@@ -16659,18 +16661,18 @@
 搭	tiq7	305	298	383	1. 跟，同；2. 替，給；3. 對；4. 把；5. 到；6. 從；7. 連詞。和，跟		
 滴	tiq7	355			量詞		
 的	tiq7	354	284, 304	211	1. 少數形容詞的前綴，表示很、非常；2. 助詞，表示動作狀態的存在、實現或持續，近指；3. 助詞，用在句末，表示祈使等語氣		
-朵辮子	to bi tsy	97			編辮子		55
+打辮子	to bi tsy	97			編辮子		55
 打發	to faq	97	196	118	施捨錢物給乞丐		
-朵開	to khe	97	209	118	張開；綻放		55
-挆籮繩	to lou zhin						
-挆索	to soq						
+打開	to khe	97	209	118	張開；綻放		55
+打籮繩	to lou zhin						
+打索	to soq						
 朵朵	to to			255			
 哚哚哭	to to khoq						
 哚哚尿	to to syu						
 朵拄	to tsyu	97	104	118	一頭分叉的木棍，歇肩時用來支撐擔子，挑擔時擱在扁擔下、另一肩上用來分擔重量		55
-挆	to3	98	150	239	1. 用工具把麻或稻草等搖成繩索；2. 調（漿糊等）	義 1 《阿拉宁波话》也作「打」。	
+打	to3	98	150	239	1. 用工具把麻或稻草等搖成繩索；2. 編（辮子）；3. 調（漿糊等）	湯版作「挆」「朵」，朱版作「挆」，《阿拉宁波话》也作「挆」。	
 搭我	to3	305			和我；給我；對我；把我	「搭我」合音	
-朵	to3	97			1. 量詞；2. 編（辮子）		
+朵	to3	97			量詞		
 短大衣	toe da i	161			長度不過膝蓋等冬令呢、毛外衣		
 鍛糖	toe daon				敲糖		
 短鱟	toe heu	161			短虹		55
@@ -20401,11 +20403,10 @@
 壽斑	zhieu pae	157					
 壽星	zhieu shin	157					
 壽星竹	zhieu shin tsoq	158					55
-壽勢	zhieu syu			134			
+壽歲	zhieu syu			134	1. 壽數，壽命的長度；2. 長壽的可能性	朱版作「壽勢」。《漢語大字典》收「壽歲」，例文引元無名氏《桃花女》第一折：「他道你都不要，你可要什麽。你便道我則要些壽歲。」及應修人《殞星》：「你可能允許我禱天，請以我男子的壽歲移贈給你？」	
 壽搭搭	zhieu taq taq	157	242	134			55
 袖套	zhieu thau	157	58	328			
-袖套籠	zhieu thau lon			328			
-袖套龍	zhieu thau lon	157	58				55
+袖套龍	zhieu thau lon	157	58	328	套袖	朱版作「袖套籠」。	55
 壽燭	zhieu tsoq	158					55
 袖子管	zhieu tsy kun	157					55
 袖子捋落	zhieu tsy laq loq						
@@ -20515,8 +20516,7 @@
 尋事體	zhin zy thi						
 盛	zhin2		200				
 繩	zhin2	274					
-淨	zhin4		290				
-甚	zhin4		290				
+甚	zhin4		290		用在數量詞前，表示多，相當於「好」	《阿拉宁波话》又作「淨」。	
 舌頭	zhiq deu	364					
 舌頭發出	zhiq deu faq tshyuq						
 舌頭𪚁𪚁	zhiq deu li li						
@@ -20599,12 +20599,10 @@
 芍藥	zoq yaq	344					
 勺	zoq8	344					
 熟	zoq8	344	235	472			
-辱	zoq8		140				
-𧮙	zoq8		140	501			55
+𧮙	zoq8		140	501	罵	𧮙《集韻》疾各切，詈也。《阿拉宁波话》也作「辱」。《溫州方言志》記「𧮙」音 zo8 (zo212)，並標註義爲責罵；記「辱」音 yeu8 (jɤu212)。可知當作「𧮙」。	55
 坐被窠	zou bi khou						
 坐起間	zou chi kae	185		165			55
 坐堂	zou daon	185					
-坐堂間	zou daon kae			165			
 坐待筵	zou de yi	185		165			55
 座墊	zou di	185	88	319			
 坐地分贓	zou di fen tsaon						
@@ -20706,7 +20704,8 @@
 如心像意	zyu shin zhian i	11	217	130			55
 樹棦	zyu tsan		117		樹節子		55
 樹樁	zyu tsaon	11					
-如弗得知	zyu vaq toq tsyu			130			
+誰弗得知	zyu vaq toq tsyu			130	誰料；不料	朱版作「如弗得知」。	1
+誰勿得知	zyu vaq toq tsyu			130	誰料；不料	朱版作「如弗得知」。	
 如話	zyu wo	11	300	129			50000
 樹葉爿	zyu yiq bae	11					55
 樹	zyu6	11					
@@ -20768,7 +20767,7 @@
 神志無知	zyun tsy vu tsyu	281	244	282			55
 神志無知	zyun tsy wu- tsy	281					
 神志無知	zyun tsy wu- tsyu	281	244	282			55
-神主牌	zyun tsyu ba	281					
+神主牌	zyun tsyu bae	281			靈牌		
 純是	zyun zy						20000
 順順流流	zyun zyun lieu lieu	281					578
 順順湯湯	zyun zyun thaon thaon	281					418

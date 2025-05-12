@@ -8070,11 +8070,12 @@
 罕	罕		he1	2	hei5	9	hei3	10	hei1	11			
 撼	撼	hen	he1	2	ghei2	9	ghei6	10					
 憾	憾	ʽæn	he1	2	ghei2	9	ghei6	10	ghae6	11			
-嗨	嗨		he1										
 嬜	嬜		he1										
 蘫	蘫		he1										
 唅	唅		he1										
 #		hen1	he1										
+嗨	嗨		he1										
+#		hæ1	he1										
 醢	醢	hæ	he3	7									
 海	海	hæ	he3	1	he3	9	he3	10	he3	11			
 橀	橀		he3										
@@ -8085,9 +8086,10 @@
 咍	咍		he5	3									
 㺔	㺔		he5										
 餀	餀		he5										
-許	许		he5	1			hei3	10			0.05	白讀	
 咳	咳		he5	3							0.05	表示惋惜或後悔	
 #		hæ5	he5										
+許	许		he5	1			hei3	10			0.05	白讀	
+#		he5	he5										
 漢	汉	hen	he5	1	hei5	9	hei5	10	hei5	11			
 熯	熯	hen	he5	3					hei5	11	55	將食物放在鍋屜上蒸	
 暵	暵	hen	he5	7									
@@ -10609,7 +10611,6 @@
 谽	谽		hei-1								0.06		
 馠	馠		hei-1								0.06		
 罕	罕		hei-1	2							0.06	又音	
-許	许		hei-1	2							0.05	白讀 許願心	
 撼	撼	hen	hei-1	2							0.06	又音	
 憾	憾	ʽæn	hei-1	2							0.06	又音	
 咳	咳		hei-1	4							0.05	表示惋惜或後悔	
@@ -10617,6 +10618,8 @@
 蘫	蘫		hei-1										
 唅	唅		hei-1										
 #		hen1	hei-1										
+許	许		hei-1	2							0.05	白讀 許願心	
+#		he1	hei-1										
 蔊	蔊		hei-3								0.06		
 嚂	嚂		hei-3										
 #		hen3	hei-3										
@@ -17362,6 +17365,7 @@
 柏	柏	pah	paq7	1	paq7	9	paq7	10	paq7	11			
 栢	柏		paq7	1									
 伯	伯	pah	paq7	1	paq7	9	paq7	10	paq7	11			
+爸	爸		paq7	3	paq7	9					0.05	阿爸	
 泊	泊		paq7	2							0.00	梁山泊	#
 袹	袹		paq7	3								硬袹紙	#
 𦯉	𦯉	pah	paq7	7									
@@ -17389,7 +17393,6 @@
 迫	迫		paq7	1	paq7	9	paq7	10	paq7	11			
 廹	迫	peh	paq7	1									
 檗	檗		paq7										
-爸	爸		paq7	3	paq7	9					0.05	阿爸	
 襞	襞	pih	paq7	1								用漿糊粘合後曬乾的多層硬布，舊時用來做鞋幫及鞋底的襯層	
 癟	瘪		paq7	3							0.00	又音 僅限於「乾薑癟棗」	
 㿜	瘪	pih	paq7	3							0.00	又音 僅限於「乾薑癟棗」	

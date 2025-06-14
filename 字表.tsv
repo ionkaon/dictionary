@@ -2347,7 +2347,7 @@
 坥	坥		chi5										
 #		tsʽi5	chi5									尖音、衣韻	
 契	契	kyʽi	chi5	1	chi5	9	chi5	10	chi5	11			
-碶	碶		chi5		chi5	9	chi5	10	chi5	11			
+碶	碶		chi5		chi5	9	chi5	10	chi5	11	55		
 𬑻	𬑻		chi5									⿰石千，俗字，地名用字，同「碶」	
 氣	气	kyʽi	chi5	1	chi5	9	chi5	10	chi5	11			
 気	气		chi5	1									
@@ -7135,6 +7135,7 @@
 釗	钊	tsiao	ciau1	7	ciau1	9							
 茮	茮		ciau1										
 沼	沼				ciau1	9			ciau1	11			
+#		tsiao1	ciau1									尖音	
 澆	浇	kyiao	ciau1	1	ciau1	9	ciau1	10	ciau1	11			
 矯	矫	kyiao	ciau1	2	ciau1	9	ciau3	10	ciau3	11			
 嬌	娇	kyiao	ciau1	1	ciau1	9	ciau1	10	ciau1	11			
@@ -7142,7 +7143,6 @@
 穚	穚		ciau1										
 簥	簥		ciau1										
 鵃	鸼		ciau1										
-#		tsiao1	ciau1									尖音	
 交	交	kyiao	ciau1	1	ciau1	9	ciau1	10	ciau1	11	0.06	文讀	
 郊	郊	kyiao	ciau1	2	ciau1	9	ciau1	10	ciau1	11			
 蛟	蛟	kyiao	ciau1	7	ciau1	9							
@@ -17377,6 +17377,7 @@
 釟	𫓥		paq7										
 敀	敀		paq7										
 糪	糪		paq7										
+白	白		paq7	3							0.00	又音 僅限於「空頭白腦」	
 #		pah7	paq7									格韻	
 不	不	peh	paq7	1	paq7	9	paq7	10	paq7	11	100000		
 鈈	钚		paq7									化學元素	
@@ -17397,7 +17398,6 @@
 襞	襞	pih	paq7	1								用漿糊粘合後曬乾的多層硬布，舊時用來做鞋幫及鞋底的襯層	
 癟	瘪		paq7	3							0.00	又音 僅限於「乾薑癟棗」	
 㿜	瘪	pih	paq7	3							0.00	又音 僅限於「乾薑癟棗」	
-白	白		paq7	3							0.00	又音 僅限於「空頭白腦」	
 #		peh7	paq7									割韻	
 拍	拍	pʽah	phaq7	1	phaq7	9	phaq7	10	phaq7	11			
 啪	啪		phaq7										
@@ -17414,13 +17414,13 @@
 皛	皛		phaq7										
 糪	糪		phaq7										
 汃	汃		phaq7										
+趴	趴		phaq7										
 #		pʽah7	phaq7									格韻	
 擘	擘	pʽah	phaq7	7					phaq7	11			
 潑	泼	pʽeh	phaq7	1	phaq7	9	phaq7	10	phaq7	11			
 鏺	䥽	pʽeh	phaq7	7									
 哱	哱		phaq7										
 昢	昢		phaq7										
-趴	趴		phaq7										
 #		pʽeh7	phaq7									割韻	
 白	白	bah	baq8	1	baq8	9	baq8	10	baq8	11			
 鮊	鲌	bah	baq8	7							0.00	文讀	
@@ -17443,6 +17443,9 @@
 欂	欂		baq8										
 繴	繴		baq8										
 菝	菝		baq8										
+百	百	pah	baq8	3							0.00	僅限於「害連百場」	
+軷	𫐈		baq8										
+颰	𩙥		baq8										
 #		bah8	baq8									格韻	
 鼻	鼻		baq8	1	baq8	9	baq8	10	baq8	11		白讀	
 帛	帛	beh	baq8	2	baq8	9	baq8	10	baq8	11			
@@ -17461,10 +17464,7 @@
 桲	桲		baq8										
 郣	郣		baq8										
 佛	佛	veh	baq8	3							0.00	僅限於「大佛」	
-百	百	pah	baq8	3							0.00	僅限於「害連百場」	
 𦤣	𦤣		baq8	4							0.05	又音 餲𦤣	
-軷	𫐈		baq8										
-颰	𩙥		baq8										
 #		beh8	baq8									割韻	
 麥	麦	mah	maq8	1	maq8	9	maq8	10	maq8	11			
 䥑	鿏		maq8									化學元素	
@@ -17489,6 +17489,7 @@
 帓	帓		maq8										
 睰	睰		maq8										
 礣	礣		maq8										
+瀎	瀎		maq8										
 妺	妺		maq8										
 昩	昩		maq8										
 覛	𫌪		maq8										
@@ -17515,7 +17516,6 @@
 枚	枚	me	maq8	3							0.05	又音 量詞	
 貌	貌	mao	maq8								0.00	介貌	#
 麼	么								maq8	11	0.00	格麼	#
-瀎	瀎		maq8										
 眜	眜		maq8										
 粖	粖		maq8										
 韎	韎		maq8										

@@ -2490,6 +2490,7 @@
 汥	汥		ji2										
 蚑	蚑		ji2										
 馶	馶		ji2										
+及	及		ji2	3							0.00	僅限於「……勿及」	
 #		gyi2	ji2									團音、衣韻	
 潜	潜		ji2	2									
 潛	潜	dzin	ji2	2	jii2	9	ji2	10	jien2	11			
@@ -2536,7 +2537,6 @@
 鍵	键	gyin	ji2	2	jii2	9	ji6	10	jien6	11			
 腱	腱	gyin	ji2	2			ji6	10	jien6	11			
 掮	掮	kyin	ji2	2	jii2	9							
-及	及	gyih	ji2	3							0.00	僅限於「……勿及」	
 羬	羬		ji2										
 鉆	钻		ji2										
 雂	雂		ji2										
@@ -2663,6 +2663,7 @@
 狋	狋		gni2										
 #		nyi2	gni2									衣韻	
 閻	阎	yin	gni2	1	gnii2	9	gni2	10	gnien2	11			
+閆	闫		gni2										
 臡	臡		gni2	6									
 嚴	严	nyin	gni2	2	gnii2	9	gni2	10	gnien2	11			
 厳	严		gni2	2									
@@ -5121,10 +5122,11 @@
 #		ün5	iu5									圓韻	
 八	八		pa1	1							0.00	僅限於「王八」一詞	
 叭	叭	pa	pa1	1	pa3	9	pa1	10	pa1	11			
-巴	巴		pa1						pa1	11	0.05	大巴車？	
+巴	巴		pa1						pa1	11	0.05	大巴車	
 芭	芭		pa1						pa1	11	0.05		
 疤	疤								pa1	11	0.00		
 吧	吧		pa1										
+峇	峇		pa1									峇里島，現譯爲巴厘島	
 #		pa1	pa1										
 擺	摆	pa	pa3	1	pa3	9	pa3	10	pa3	11			
 襬	摆		pa3	2					pa1	11			
@@ -5453,7 +5455,7 @@
 #		ha1	ha1										
 蟹	蟹	ha	ha3	1	ha3	9	ha3	10	ha3	11			
 蠏	蟹		ha3	1									
-澥	澥		ha3										
+澥	澥		ha3									澥浦	
 嶰	嶰		ha3										
 獬	獬	hyiæ	ha3										
 #		ha3	ha3										
@@ -8166,6 +8168,9 @@
 #		tsʽiæ5	chie5										
 茄	茄	gyiæn	jie2	1	jie6	9	dze6	10	jiae2	11			
 #		gyiæn2	jie2										
+嶰	嶰		shie3										
+獬	獬	hyiæ	shie3										
+#		hyiæ3	shie3										
 噧	噧		shie5										
 齂	齂		shie5										
 #		hyiæ5	shie5										
@@ -12468,6 +12473,7 @@
 㾗	㾗	liang	lian6	7									
 悢	悢		lian6										
 緉	緉		lian6										
+靚	靓		lian6									粵方言，好看，漂亮	
 #		liang6	lian6										
 張	张	tsiang	cian1	1	cian1	9	cian1	10	cian1	11			
 粻	粻		cian1										

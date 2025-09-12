@@ -1103,8 +1103,8 @@
 輕可	chin khou	268	264	249	1. 輕，程度淺；2. 容易，簡單；3. 便宜，耗費小		418
 輕可生活阿弟做	chin khou san waq aq di tsou						
 輕可生活阿弟做	chin khou san wo aq di tsou						
-青⿰米鬼	chin khuei			187			
 青塊	chin khuei						
+青𲷓	chin khuei			187			
 秤桿	chin ki-ke	269					
 親家	chin ko	268					
 親家公	chin ko kon	268	21	271	兒子的岳父或女兒的公公		
@@ -3518,6 +3518,7 @@
 肚皮射	du bi dza				拉肚子		
 肚皮撒	du bi dza			167	拉肚子		
 肚皮𠑞	du bi dza	46	172	167	拉肚子		55
+肚皮𱚼	du bi dza	46	172	167	拉肚子		
 肚皮一貤一貤痛	du bi iq yi iq yi thon				肚子一陣一陣的痛		
 肚皮官司	du bi kun sy						
 肚皮痛	du bi thon	46			肚子痛		55
@@ -3560,6 +3561,7 @@
 射肚皮	dza du bi				拉肚子；腹瀉		
 撒肚皮	dza du bi			458	拉肚子；腹瀉		
 𠑞肚皮	dza du bi	64	172	458	拉肚子；腹瀉		55
+𱚼肚皮	dza du bi	64	172	458	拉肚子；腹瀉		
 咋呢	dza gni		41		怎麼啦；怎的		55
 咋挔	dza i		40		怎麼辦		578
 咱伊	dza i		40		怎麼辦		55
@@ -3588,6 +3590,11 @@
 射痢疾	dza li jiq				患痢疾		55
 撒痢疾	dza li jiq				患痢疾		55
 𠑞痢疾	dza li jiq	64	172		患痢疾		55
+𱚼爛薄屙	dza lae boq ou		172		拉肚子；腹瀉		
+𱚼爛薄涴	dza lae boq ou		172		拉肚子；腹瀉		
+𱚼爛屙	dza lae ou	64	172		拉肚子；腹瀉		
+𱚼爛涴	dza lae ou	64	172		拉肚子；腹瀉		
+𱚼痢疾	dza li jiq	64	172		患痢疾		
 咋弄	dza lon	64	40		怎麼辦		578
 咋弄弄	dza lon lon	64	40		怎麼辦		578
 咋末介	dza maq ka				怎樣；怎麼樣		25000
@@ -3608,6 +3615,10 @@
 撒涴	dza ou				大便（動作）		
 𠑞屙	dza ou				大便（動作）		
 𠑞涴	dza ou	64	170		大便（動作）		55
+𱚼㕶㕶	dza nk nk				大便（動作），兒童用語		
+𱚼唔唔	dza nk nk				大便（動作），兒童用語		
+𱚼屙	dza ou	64	170		大便（動作）		
+𱚼涴	dza ou	64	170		大便（動作）		
 射屙撲	dza ou phoq	64	36	459	經常把大便拉在褲子、牀單上的人		
 射涴撲	dza ou phoq	64	36	459	經常把大便拉在褲子、牀單上的人		
 撒屙撲	dza ou phoq	64	36	459	經常把大便拉在褲子、牀單上的人		
@@ -3620,6 +3631,10 @@
 撒涴出	dza ou tshyuq				把大便拉在褲子、牀單上		
 𠑞屙出	dza ou tshyuq		170		把大便拉在褲子、牀單上		
 𠑞涴出	dza ou tshyuq	64	170		把大便拉在褲子、牀單上		55
+𱚼屙撲	dza ou phoq	64	36	459	經常把大便拉在褲子、牀單上的人		
+𱚼涴撲	dza ou phoq	64	36	459	經常把大便拉在褲子、牀單上的人		
+𱚼屙出	dza ou tshyuq	64	170		把大便拉在褲子、牀單上		
+𱚼涴出	dza ou tshyuq	64	170		把大便拉在褲子、牀單上		
 𠑞屙做記認	dza ou tsou ci gnin						
 𠑞涴做記認	dza ou tsou ci gnin						1
 射屁	dza phi				放屁		
@@ -3629,11 +3644,17 @@
 撒屁蟲	dza phi dzon				椿象		
 𠑞屁蟲	dza phi dzon	64			椿象		55
 射屁賴	dza phi la						
+𱚼屙做記認	dza ou tsou ci gnin						
+𱚼涴做記認	dza ou tsou ci gnin						
+𱚼屁	dza phi		170		放屁		
+𱚼屁蟲	dza phi dzon	64			椿象		
 撒屁賴	dza phi la						
 𠑞屁賴	dza phi la						
 射屁賴賴	dza phi la la						
+𱚼屁賴	dza phi la						
 撒屁賴賴	dza phi la la						
 𠑞屁賴賴	dza phi la la						
+𱚼屁賴賴	dza phi la la						
 咋西孃介	dza shi gnian ka				怎麼回事		55
 咋西孃格	dza shi gnian kaq		41		怎麼回事		55
 咋相貌	dza shian mau	64			怎樣；怎麼樣		55
@@ -3646,26 +3667,33 @@
 撒尿	dza syu	64	170		小便（動作）		
 𠑞尿	dza syu	64	170		小便（動作）		418
 射尿撲	dza syu phoq	64	36	459	1. 經常尿牀，尿褲子的人；2. 蝦蛄，也稱「蝦皮彈蟲」		
+𱚼尿	dza syu	64	170		小便（動作）		
 撒尿撲	dza syu phoq	64	36	459	1. 經常尿牀，尿褲子的人；2. 蝦蛄，也稱「蝦皮彈蟲」		
 𠑞尿撲	dza syu phoq	664	36	459	1. 經常尿牀，尿褲子的人；2. 蝦蛄，也稱「蝦皮彈蟲」		55
 射尿尿	dza syu syu				小便（動作），兒童用語		
+𱚼尿撲	dza syu phoq	64	36	459	1. 經常尿牀，尿褲子的人；2. 蝦蛄，也稱「蝦皮彈蟲」		
 撒尿尿	dza syu syu				小便（動作），兒童用語		
 𠑞尿尿	dza syu syu				小便（動作），兒童用語		1
 射尿出	dza syu tshyuq		170		尿牀		
+𱚼尿尿	dza syu syu				小便（動作），兒童用語		
 撒尿出	dza syu tshyuq		170		尿牀		
 𠑞尿出	dza syu tshyuq		170		尿牀		55
 射哚哚尿	dza to to syu				小便（動作），兒童用語		
+𱚼尿出	dza syu tshyuq		170		尿牀		
 撒哚哚尿	dza to to syu				小便（動作），兒童用語		
 𠑞哚哚尿	dza to to syu				小便（動作），兒童用語		1
+𱚼哚哚尿	dza to to syu				小便（動作），兒童用語		
 咋回事體	dza wei zy thi		41		怎麼回事		578
 咋話	dza wo	64	41	207	1. 怎麼說，說什麼；2. 怎麼樣；3. 表示驚訝，相當於「什麼」；4. 應答詞。相當於「什麼事」		578
 射藥	dza yaq				瀉藥		
 撒藥	dza yaq				瀉藥		
 𠑞藥	dza yaq				瀉藥		1
+𱚼藥	dza yaq				瀉藥		
 咋	dza4	64	40		1. 怎麼；2. 什麼；3. 副詞。多麼；多少（與句末語氣助詞相呼應）		
 射	dza4				1. 排泄; 2. 腹瀉; 3. 量詞，用於排便或排尿	湯版造字「⿸尸查」，《阿拉宁波话》造字「⿸尸咋」，俗亦寫「撒」，《越諺》作「𠑞」，另有考證本字爲「射」者。推薦「𠑞」。	
 撒	dza4		170	458	1. 排泄; 2. 腹瀉; 3. 量詞，用於排便或排尿	湯版造字「⿸尸查」，《阿拉宁波话》造字「⿸尸咋」，俗亦寫「撒」，《越諺》作「𠑞」，另有考證本字爲「射」者。推薦「𠑞」。	
 𠑞	dza4	64	170	458	1. 排泄; 2. 腹瀉; 3. 量詞，用於排便或排尿	湯版造字「⿸尸查」，《阿拉宁波话》造字「⿸尸咋」，俗亦寫「撒」，《越諺》作「𠑞」，另有考證本字爲「射」者。推薦「𠑞」。	55
+𱚼	dza4	64	170	458	1. 排泄; 2. 腹瀉; 3. 量詞，用於排便或排尿	湯版造字「𱚼」，《阿拉宁波话》造字「⿸尸咋」，俗亦寫「撒」。《越諺》作「𠑞」，《上海話大詞典》《崇明方言詞典》《金華方言詞典》作「射」。推薦作「射」。	
 ⿱寨	dza6		101	499	用竹篾編成的器具，圓形平底疏孔，邊框很淺，用來曬物、篩物或養蠶等		
 賺進	dzae cin	141			獲取利潤；得到好處		55
 蹔𧉆	dzae ciq	141			蟋蟀		55
@@ -5849,7 +5877,7 @@
 花地菜	huo di tshe		73		薺菜		55
 蝦段	huo doe	121			成段的蝦肉		55
 花筒	huo don	120			煙火		
-蝦𩻣	huo dzae	121	68	253	龍頭魚，曬乾後稱「龍頭鮳」	湯版作「蝦⿰虫孱」。	55
+蝦𩻣	huo dzae	121	68	253	龍頭魚，曬乾後稱「龍頭鮳」	湯版作「蝦𲿷」。	55
 蝦𩻣薧	huo dzae khau			254	龍頭魚的乾製品		
 蝦𩻣鮳	huo dzae khau				龍頭魚的乾製品		
 蝦𩻣氽豆腐	huo dzae then deu vu						
@@ -6272,8 +6300,11 @@
 一𠑞屙	iq dza ou						
 一𠑞涴	iq dza ou						1
 一射尿	iq dza syu						
+一𱚼屙	iq dza ou						
+一𱚼涴	iq dza ou						
 一撒尿	iq dza syu						
 一𠑞尿	iq dza syu						1
+一𱚼尿	iq dza syu						
 一䂻䂻到王家弄	iq dzan dzan tau waon ko lon						
 一幢箱子	iq dzaon shian tsy						
 一幢書	iq dzaon syu						
@@ -6771,7 +6802,7 @@
 長	jian2	217	187, 226	39	1. 距離大；2. 身材高；3. 整；全；4. 副詞。常，老是；5. 多出，剩餘		
 𠼢	jian2		269	468	價格便宜		55
 張	jian4		123		量詞。用於紙、皮、牀、桌等	做量詞時又讀濁音	
-滰	jian4	218	159	456		湯版等作「⿰氵丈」，爲方言新造字，《市志》及《鄞縣通志》作「滰」。周志鋒、鄭曉芳 (2021) 認爲本字是「淨」。據民國及清末材料，該詞爲團音，「丈」「淨」音皆不合。可以確定中古音爲羣母陽韻三等上聲，《集韻》中相應讀音的字僅「滰」字爲三點水旁。義雖不合，但仍優於「⿰氵丈」。	
+滰	jian4	218	159	456		湯版等作「𲨶」，爲方言新造字，《市志》及《鄞縣通志》作「滰」。周志鋒、鄭曉芳 (2021) 認爲本字是「淨」。據民國及清末材料，該詞爲團音，「丈」「淨」音皆不合。可以確定中古音爲羣母陽韻三等上聲，《集韻》中相應讀音的字僅「滰」字爲三點水旁。義雖不合，但仍優於「𲨶」。	
 弶	jian6	219	192	379	1. 用器具捕捉；2. 暗中監視、守候；3. 欺侮；4. 名詞。捕捉老鼠、鳥雀等的器具；5. 欺侮		
 着着摜	jiaq jiaq guae						
 着着力力	jiaq jiaq liq liq						
@@ -7460,8 +7491,8 @@
 墈	khae5			444	高峻的堤岸；高地的崖壁		
 坑頭	khan deu	210	83	141	廁所		55
 坑頭間	khan deu kae	210	83	141	廁所		55
-坑頭⿰米鬼	khan deu khuei			141	喻指取之無用，棄之可惜的人或事物		
 坑頭塊	khan deu khuei				喻指取之無用，棄之可惜的人或事物		
+坑頭𲷓	khan deu khuei			141	喻指取之無用，棄之可惜的人或事物		
 揞掉	khan diau	212			扔掉		55
 坑跟間	khan ken kae	210	83	141	廁所		55
 揞水爿	khan syu bae				打水漂		55
@@ -7921,7 +7952,7 @@
 虧煞	khuei saq			11	幸虧；虧得		
 塊石	khuei zaq		87		加工成方形或長方形的石頭		55
 塊	khuei3	173			量詞		
-⿰米鬼	khuei5	173	79	473	糯米蒸熟後搗碎做成的扁圓無餡食品		55
+𲷓	khuei5	173	79	473	糯米蒸熟後搗碎做成的扁圓無餡食品		55
 睏晏覺	khuen ae kau	277	169	396, 397	睡覺		578
 睏去	khuen chi						
 睏起	khuen chi						
@@ -9719,6 +9750,7 @@
 痢疾射	li jiq dza				患痢疾		
 痢疾撒	li jiq dza				患痢疾		
 痢疾𠑞	li jiq dza	25			患痢疾		55
+痢疾𱚼	li jiq dza	25			患痢疾		
 裏間	li kae	25			裏屋		
 連奸連滑	li kae li waq						
 李家匯	li ko wei						
@@ -12421,8 +12453,8 @@
 儂慢慢叫走	nou mae mae ciau tseu						
 糯米	nou mi	181			糯米		
 糯米絞	nou mi gau						
-糯米⿰米鬼	nou mi khuei				糯米蒸熟後搗碎做成的扁圓無餡食品		
 糯米塊	nou mi khuei				糯米蒸熟後搗碎做成的扁圓無餡食品		
+糯米𲷓	nou mi khuei				糯米蒸熟後搗碎做成的扁圓無餡食品		
 糯米𩞁餈	nou mi mo zy		79		外粘松花的𩞁餈		55
 糯米𩞁餈	nou mi mo zyu	96			外粘松花的𩞁餈		55
 糯米飯	nou mi vae				糯米飯		
@@ -12565,6 +12597,8 @@
 涴射出	ou dza tshyuq				1. 大便拉在牀上或褲子裏；2. 小孩大便拉髒了		
 涴撒出	ou dza tshyuq				1. 大便拉在牀上或褲子裏；2. 小孩大便拉髒了		
 涴𠑞出	ou dza tshyuq		170		1. 大便拉在牀上或褲子裏；2. 小孩大便拉髒了		55
+屙𱚼出	ou dza tshyuq		170		1. 大便拉在牀上或褲子裏；2. 小孩大便拉髒了		
+涴𱚼出	ou dza tshyuq		170		1. 大便拉在牀上或褲子裏；2. 小孩大便拉髒了		
 屙蟲	ou dzon	192	113	331	蛆，蒼蠅的幼蟲		
 涴蟲	ou dzon	192	113	331		蛆，蒼蠅的幼蟲	55
 屙兒曼	ou er mae				源自英語 old man，意指老人，又戲稱固執的老人	《活色生香寧波話》p. 93，《鄞縣通志》p. 3104	
@@ -12580,10 +12614,10 @@
 涴講	ou kaon		141		說固執而無理的話		55
 屙缸蓋	ou kaon ke				糞缸的蓋子		
 涴缸蓋	ou kaon ke				糞缸的蓋子		1
-屙缸⿰米鬼	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		
 屙缸塊	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		
-涴缸⿰米鬼	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		
+屙缸𲷓	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		
 涴缸塊	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		1
+涴缸𲷓	ou kaon khuei				喻指取之無用，棄之可惜的人或事物		
 屙缸邊頭罰願	ou kaon pi deu vaq gniu						
 涴缸邊頭罰願	ou kaon pi deu vaq gniu						
 屙缸沙	ou kaon so	192		331	糞坑底的沉澱物，是上等的農家肥		
@@ -14420,7 +14454,7 @@
 小字	shiau zy	114			小楷		
 簫	shiau1		107	450	笛子		
 肖	shiau1		216		（生肖）屬		
-𢳚	shiau1	113	154	291	掀開	《阿拉宁波话》作「⿰扌囂」，據《溫州方言志》改作「𢳚」。	
+𢳚	shiau1	113	154	291	掀開	《阿拉宁波话》作「𲣧」，據《溫州方言志》改作「𢳚」。	
 𢸳	shiau1	114	152	339	打（屁股）		
 小	shiau3	114	224		1. 不及一般或不及對比的對象（於「大」相對）；2. 排行最末		
 少	shiau3		224		數量小		
@@ -15136,6 +15170,8 @@
 尿射出	syu dza tshyuq				1. 尿牀；2. 小孩兒尿溼了		
 尿撒出	syu dza tshyuq				1. 尿牀；2. 小孩兒尿溼了		
 尿𠑞出	syu dza tshyuq		170		1. 尿牀；2. 小孩兒尿溼了		55
+尿𱚼	syu dza		46	181	指兩次小便間隔的時間		
+尿𱚼出	syu dza tshyuq		170		1. 尿牀；2. 小孩兒尿溼了		
 水宅宅滮出來	syu dzaq dzaq piau tshyuq le						
 書櫥	syu dzyu	9			書櫃		
 書費	syu fi	9			學生買教材的費用		55
@@ -18393,7 +18429,7 @@
 豬羊架	tsyu yan ko						
 豬油	tsyu yeu	7			豬油		
 豬油餡	tsyu yeu ghae	7		369	把黑芝麻搗碎，拌以生豬油和糖揉搓而成的餡子，是做豬油湯糰的原料		55
-豬油⿰米鬼	tsyu yeu khuei						
+豬油𲷓	tsyu yeu khuei						
 豬油芋艿	tsyu yeu n na						
 豬油湯糰	tsyu yeu thaon doe	7	79		用豬油、芝麻和糖等做餡兒的湯圓，是寧波的特產點心，以缸鴨狗點心店做的最有名		418
 豬油湯糰燙丫麻	tsyu yeu thaon doe thaon o mo						

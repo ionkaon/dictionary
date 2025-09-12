@@ -5576,8 +5576,8 @@
 伽	伽	dzia	jia2	7									
 笳	笳	gyia	jia2	7									
 茄	茄	gyiæn	jia2	1	jia2	9	jia2	10	jia2	11			
-𠸏	𠸏		jia2	3									#
-喳	喳		jia2								0.05	又音 形容很響的叫聲、哭聲	
+𠸏	𠸏		jia2	3								形容很響的叫聲、哭聲	
+喳	喳		jia2								0.05	又音 形容很響的叫聲、哭聲	#
 弶	弶	gyiang	jia2	3							0.01	又音 欺侮	
 #		gyia2	jia2									團音	
 岈	岈		shia1										
@@ -6807,7 +6807,7 @@
 㰤	㰤		kho5	1								「㰤㰤」睡覺，兒童用語	
 #		kʽô5	kho5										
 咖	咖		go2	3							0.00	①形容罵聲、鼾聲、水聲等②名詞。開水，兒童用語	
-茶	茶	dzô	go2								0.00	兒童用語「茶茶」	
+茶	茶	dzô	go2								0.00	兒童用語「茶茶」	#
 #		gô2	go2										
 牙	牙		ngo2	1	ngo2	9	ngo2	10	ngo2	11			
 鬍	胡				ngo2	9					0.00	鬍須	#
@@ -9012,6 +9012,8 @@
 患	患	wæn	wae2	2	wae2	9	wae6	10					
 洹	洹		wae2										
 轘	轘		wae2										
+糫	糫		wae2										
+闤	阛		wae2										
 #		wæn2	wae2										
 頑	顽	ngwæn	wae2	2	wae2	9	wae2	10					
 宦	宦	ngwæn	wae2	2	wae2	9	wae6	10					
@@ -9033,8 +9035,6 @@
 褱	褱		wae2										
 淮	淮	wæ	wae2	2	wae2	9	wae2	10	wae2	11			
 外	外	wæ	wae2	2	we6	9					0.00	文讀	
-糫	糫		wae2										
-闤	阛		wae2										
 槐	槐	wæ			wae2	9	wae2	10	wae2	11			
 #		wæ2	wae2										
 鯇	鲩		wae4										
@@ -17616,7 +17616,6 @@
 𢱕	𢱕		taq7	1								𢱕𢱕動	
 笚	笚		taq7	3									
 咄	咄		taq7										
-啄	啄		taq7	1							0.05	又音 禽類用嘴叩擊、夾食	
 矺	矺		taq7										
 #		tah7	taq7									格韻	
 答	答	teh	taq7	2	taq7	9	taq7	10	taq7	11			
@@ -17650,6 +17649,7 @@
 敠	敠		taq7										
 祋	祋		taq7										
 腏	腏		taq7										
+啄	啄		taq7	1							0.05	又音 禽類用嘴叩擊、夾食。《字語彙解》p. 338，peck 一詞下註 teh。	
 柮	柮		taq7										
 #		teh7	taq7									割韻	
 塔	塔	tʽah	thaq7	1	thaq7	9	thaq7	10	thaq7	11			

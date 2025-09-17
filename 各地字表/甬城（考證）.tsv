@@ -96,6 +96,7 @@
 阯	址	tsy3	
 芷	芷	tsy3	
 沚	沚	tsy3	
+凪	凪	tsy3	日語漢字
 子	子	tsy3	
 仔	仔	tsy3	
 籽	籽	tsy3	
@@ -307,6 +308,7 @@
 蓍	蓍	sy1	
 詩	诗	sy1	
 絲	丝	sy1	
+糹	纟	sy1	
 鷥	鸶	sy1	
 噝	咝	sy1	
 思	思	sy1	
@@ -525,6 +527,7 @@
 諸	诸	tsyu1	
 瀦	潴	tsyu1	
 褚	褚	tsyu1	
+禇	禇	tsyu1	「褚」的訛字
 渚	渚	tsyu1	
 櫫	橥	tsyu1	
 且	且	tsyu1	文言助詞
@@ -642,6 +645,7 @@
 祉	祉	tshyu3	
 杵	杵	tshyu3	
 褚	褚	tshyu3	姓
+禇	禇	tshyu3	「褚」的訛字
 楮	楮	tshyu3	
 柠	柠	tshyu3	
 處	处	tshyu5	到處
@@ -660,6 +664,7 @@
 悇	悇	tshyu5	
 廚	厨	dzyu2	
 厨	厨	dzyu2	
+㕑	㕑	dzyu2	同「廚」
 櫥	橱	dzyu2	
 橱	橱	dzyu2	
 躕	蹰	dzyu2	
@@ -863,6 +868,7 @@
 渒	渒	pi1	
 邊	边	pi1	
 辺	边	pi1	
+邉	邉	pi1	同「邊」
 籩	笾	pi1	
 𨇱	𨇱	pi1	
 編	编	pi1	
@@ -980,6 +986,7 @@
 濞	濞	phi5	
 嚊	嚊	phi5	
 嚭	嚭	phi5	
+噽	噽	phi5	同「嚭」
 媲	媲	phi5	
 渒	渒	phi5	
 秛	秛	phi5	
@@ -1040,6 +1047,7 @@
 汴	汴	bi2	
 辨	辨	bi2	
 辯	辩	bi2	
+辧	辧	bi2	同「辯」
 琕	琕	bi2	
 賆	賆	bi2	
 骿	骿	bi2	
@@ -1175,6 +1183,7 @@
 靣	面	mhi5	僅限於「面面叫」
 飛	飞	fi1	
 騛	騛	fi1	
+飝	飝	fi1	
 妃	妃	fi1	
 非	非	fi1	
 啡	啡	fi1	
@@ -1348,9 +1357,12 @@
 銻	锑	thi1	化學元素
 睇	睇	thi1	
 鷈	䴘	thi1	
+鷉	䴘	thi1	
 謕	謕	thi1	
 天	天	thi1	
 兲	天	thi1	
+靝	靔	thi1	同「天」
+𩇞	𩇞	thi1	同「天」
 添	添	thi1	
 掭	掭	thi1	
 㮇	㮇	thi1	
@@ -1360,6 +1372,7 @@
 詽	詽	thi1	
 體	体	thi3	
 軆	体	thi3	
+躰	躰	thi3	同「體」
 挮	挮	thi3	
 忝	忝	thi3	
 舔	舔	thi3	
@@ -1370,6 +1383,7 @@
 㥏	㥏	thi3	
 𧌎	𧌎	thi3	
 捵	捵	thi3	
+覥	觍	thi3	
 靦	腼	thi3	
 腼	腼	thi3	
 晪	晪	thi3	
@@ -1580,6 +1594,8 @@
 膢	𦝼	li2	
 鷜	鷜	li2	
 聯	联	li2	
+聨	聨	li2	同「聯」
+聫	聫	li2	同「聯」
 聮	聮	li2	
 憐	怜	li2	
 連	连	li2	
@@ -2040,6 +2056,7 @@
 劒	剑	ci5	
 剣	剑	ci5	
 劔	劔	ci5	
+劎	劎	ci5	
 趝	趝	ci5	
 間	间	ci5	間斷
 鑒	鉴	ci5	文讀
@@ -2578,6 +2595,7 @@
 義	义	gni6	
 二	二	gni6	白讀
 貳	贰	gni6	
+貮	貮	gni6	同「貳」
 弍	弍	gni6	
 弐	弐	gni6	
 膩	腻	gni6	
@@ -2590,6 +2608,7 @@
 議	议	gni6	
 乂	乂	gni6	
 刈	刈	gni6	
+苅	苅	gni6	同「刈」
 艾	艾	gni6	通「乂」
 竩	竩	gni6	
 藙	藙	gni6	
@@ -2760,6 +2779,7 @@
 箲	箲	shi3	
 跣	跣	shi3	
 銑	铣	shi3	
+鍌	鍌	shi3	同「銑」
 冼	冼	shi3	
 鮮	鲜	shi3	少
 尠	鲜	shi3	
@@ -2982,6 +3002,7 @@
 彝	彝	yi2	
 彜	彝	yi2	
 彞	彝	yi2	
+彛	彝	yi2	
 胰	胰	yi2	
 鮧	鮧	yi2	
 跠	跠	yi2	
@@ -3531,6 +3552,7 @@
 傅	傅	fu5	姓
 付	付	fu5	
 咐	咐	fu5	
+冨	冨	fu5	同「富」
 褔	褔	fu5	
 婏	婏	fu5	
 陚	陚	fu5	
@@ -3662,6 +3684,7 @@
 途	途	du2	
 涂	涂	du2	
 塗	涂	du2	
+凃	凃	du2	同「涂」
 荼	荼	du2	
 酴	酴	du2	
 嵞	嵞	du2	
@@ -3799,6 +3822,7 @@
 詛	诅	tsu3	
 蛆	蛆	tsu3	
 俎	俎	tsu3	
+爼	爼	tsu3	同「俎」
 駔	驵	tsu3	
 柤	柤	tsu3	
 蒩	蒩	tsu3	
@@ -4044,6 +4068,7 @@
 濩	濩	wu6	
 頀	頀	wu6	
 冱	冱	wu6	
+冴	冴	wu6	同「冱」
 嫭	嫭	wu6	
 枑	枑	wu6	
 韄	韄	wu6	
@@ -4228,6 +4253,7 @@
 竘	竘	chiu3	
 綣	绻	chiu3	
 犬	犬	chiu3	
+犭	犭	chiu3	
 畎	畎	chiu3	
 埍	埍	chiu3	
 圈	圈	chiu3	
@@ -4254,6 +4280,7 @@
 懼	惧	jiu2	
 具	具	jiu2	
 俱	俱	jiu2	
+倶	俱	jiu2	
 颶	飓	jiu2	
 瞿	瞿	jiu2	
 衢	衢	jiu2	
@@ -4517,6 +4544,7 @@
 諛	谀	yu2	
 瘐	瘐	yu2	
 俞	俞	yu2	
+兪	俞	yu2	
 愉	愉	yu2	
 榆	榆	yu2	
 楡	榆	yu2	
@@ -4542,6 +4570,7 @@
 馭	驭	yu2	文讀 駕馭
 譽	誉	yu2	
 籲	吁	yu2	
+龥	𬱳	yu2	同「籲」
 喻	喻	yu2	
 喩	喻	yu2	
 愈	愈	yu2	
@@ -4750,6 +4779,9 @@
 徘	徘	ba2	
 牌	牌	ba2	
 𥱼	𥱼	ba2	
+𥴖	𥴖	ba2	同「𥱼」
+𣝁	𣝁	ba2	同「𥱼」
+簰	簰	ba2	同「𥴖」
 罷	罢	ba2	文讀
 猈	猈	ba2	
 輫	輫	ba2	
@@ -4929,6 +4961,7 @@
 解	解	ka3	
 檞	檞	ka3	
 廨	廨	ka3	
+尕	尕	ka3	西北方言字，小
 介	介	ka5	白讀
 界	界	ka5	白讀
 堺	堺	ka5	
@@ -5027,6 +5060,7 @@
 幏	幏	cia1	
 蟼	蟼	cia1	
 姐	姐	cia3	
+毑	毑	cia3	
 飷	飷	cia3	
 抯	抯	cia3	
 解	解	cia3	文讀
@@ -5070,6 +5104,7 @@
 笳	笳	jia2	
 茄	茄	jia2	
 𠸏	𠸏	jia2	形容很響的叫聲、哭聲
+癿	癿	jia2	
 弶	弶	jia2	又音 欺侮
 岈	岈	shia1	
 疨	疨	shia1	
@@ -5110,6 +5145,7 @@
 齖	齖	ya2	文讀
 爺	爷	ya2	
 邪	邪	ya2	古同「耶」
+峫	峫	ya2	山名
 耶	耶	ya2	
 椰	椰	ya2	
 倻	倻	ya2	
@@ -5349,6 +5385,7 @@
 氘	氘	tau1	化學用字
 島	岛	tau3	
 嶌	嶌	tau3	古同「島」
+嶋	嶋	tau3	古同「島」
 搗	捣	tau3	
 擣	捣	tau3	
 禱	祷	tau3	
@@ -5520,6 +5557,9 @@
 笊	笊	tsau5	
 竈	灶	tsau5	
 灶	灶	tsau5	
+竃	竃	tsau5	同「竈」
+䆴	䆴	tsau5	同「竈」
+𥧄	𥧄	tsau5	同「竈」
 罩	罩	tsau5	
 躁	躁	tsau5	
 趮	趮	tsau5	
@@ -5777,6 +5817,8 @@
 濠	濠	ghau2	
 㠙	㠙	ghau2	
 皞	皞	ghau6	
+皡	皡	ghau6	同「皞」
+皥	皥	ghau6	同「皞」
 皓	皓	ghau6	
 暠	皓	ghau6	
 悎	悎	ghau6	
@@ -5862,6 +5904,7 @@
 怕	怕	pho5	
 帊	帊	pho5	
 葩	葩	bo2	
+皅	皅	bo2	同「葩」
 扒	扒	bo2	
 朳	朳	bo2	用手或耙子一類的工具撥物
 爬	爬	bo2	
@@ -6056,6 +6099,7 @@
 紗	纱	so1	
 沙	沙	so1	
 鯊	鲨	so1	
+鯋	𲍔	so1	同「鯊」
 砂	砂	so1	
 莎	莎	so1	
 痧	痧	so1	
@@ -6168,6 +6212,7 @@
 猋	猋	piau1	
 飆	飙	piau1	
 飊	飊	piau1	
+飇	飇	piau1	同「飆」
 飈	飚	piau1	
 颮	飑	piau1	
 驫	骉	piau1	
@@ -6575,6 +6620,7 @@
 顤	顤	gniau2	
 垚	垚	gniau6	古同「堯」
 堯	尧	gniau6	
+尭	尭	gniau6	同「堯」
 嬈	娆	gniau6	
 繞	绕	gniau6	
 遶	绕	gniau6	
@@ -6836,6 +6882,7 @@
 蘤	花	huo1	
 芲	花	huo1	
 糀	糀	huo1	日語漢字，音同「花」
+椛	椛	huo1	日語漢字
 嘩	哗	huo1	
 譁	哗	huo1	
 蝦	虾	huo3	
@@ -7213,6 +7260,7 @@
 嗨	嗨	he1	
 醢	醢	he3	
 海	海	he3	
+塰	塰	he3	日語漢字
 橀	橀	he3	
 蔊	蔊	he3	
 嚂	嚂	he3	
@@ -7245,6 +7293,7 @@
 唉	唉	e1	
 誒	诶	e1	
 欸	欸	e1	
+娭	娭	e1	
 欸	欸	e3	
 毐	毐	e3	
 曖	暧	e5	
@@ -7420,6 +7469,8 @@
 嬔	嬔	fae5	
 姂	姂	fae5	
 凡	凡	vae2	
+凣	凣	vae2	同「凡」
+凢	凢	vae2	同「凡」
 帆	帆	vae2	
 颿	帆	vae2	
 煩	烦	vae2	
@@ -7526,6 +7577,7 @@
 毯	毯	thae1	
 舑	舑	thae1	舑舌頭
 聃	聃	thae1	
+耼	耼	thae1	
 嘽	啴	thae1	
 擹	擹	thae1	
 緂	緂	thae1	
@@ -8067,6 +8119,7 @@
 瘤	瘤	lieu2	
 癅	瘤	lieu2	
 鎦	镏	lieu2	化學元素，又稱「鑥」
+鐂	鐂	lieu2	同「鐂」
 遛	遛	lieu2	
 騮	骝	lieu2	
 飀	飗	lieu2	
@@ -8407,6 +8460,7 @@
 僦	僦	cieu5	
 秋	秋	chieu1	
 秌	秋	chieu1	
+龝	秋	chieu1	
 穐	秋	chieu1	
 鞦	秋	chieu1	
 鰍	鳅	chieu1	
@@ -8668,6 +8722,8 @@
 斿	斿	yeu2	
 游	游	yeu2	
 遊	游	yeu2	
+逰	逰	yeu2	同「遊」
+䢟	䢟	yeu2	同「遊」
 蝣	蝣	yeu2	
 輶	輶	yeu2	
 楢	楢	yeu2	
@@ -8832,6 +8888,7 @@
 背	背	pei5	
 揹	背	pei5	
 輩	辈	pei5	
+軰	軰	pei5	同「輩」
 唄	呗	pei5	
 狽	狈	pei5	
 鋇	钡	pei5	化學元素
@@ -9010,6 +9067,7 @@
 貪	贪	thei1	
 腿	腿	thei3	
 骽	腿	thei3	
+蹆	蹆	thei3	同「腿」
 僓	僓	thei3	
 聉	聉	thei3	
 脮	脮	thei3	
@@ -9178,6 +9236,7 @@
 綴	缀	tsei1	
 檇	檇	tsei1	
 嶉	嶉	tsei1	
+萑	萑	tsei1	
 脧	脧	tsei1	
 睵	睵	tsei1	
 嗺	嗺	tsei1	
@@ -9304,6 +9363,7 @@
 賽	赛	sei5	又音 僅限於「賽過」
 裞	裞	sei5	
 隨	随	zei2	
+遀	遀	zei2	同「隨」
 隋	隋	zei2	
 垂	垂	zei2	
 陲	陲	zei2	
@@ -10484,6 +10544,7 @@
 襡	襡	teu5	
 偷	偷	theu1	
 媮	偷	theu1	
+偸	偷	theu1	
 婾	偷	theu1	
 鍮	𨱎	theu1	
 斢	斢	theu1	量詞，幢；座
@@ -10680,6 +10741,7 @@
 岣	岣	keu3	
 玽	玽	keu3	
 耇	耇	keu3	
+耈	耈	keu3	
 茩	茩	keu3	
 豿	豿	keu3	
 冓	冓	keu5	
@@ -11049,6 +11111,7 @@
 獎	奖	cian3	
 奨	奖	cian3	
 長	长	cian3	長輩
+镸	镸	cian3	同「長」
 漲	涨	cian3	
 槳	桨	cian3	
 䒂	䒂	cian3	
@@ -11124,6 +11187,7 @@
 詳	详	jian2	
 翔	翔	jian2	
 長	长	jian2	長短
+镸	镸	jian2	同「長」
 䗅	𫊪	jian2	
 萇	苌	jian2	
 場	场	jian2	
@@ -11203,6 +11267,7 @@
 香	香	shian1	
 鄉	乡	shian1	
 郷	乡	shian1	
+鄕	乡	shian1	
 薌	芗	shian1	
 膷	膷	shian1	
 皀	皀	shian1	
@@ -11358,6 +11423,7 @@
 鰟	鳑	baon2	
 䠙	䠙	baon2	
 龐	庞	baon2	
+龎	龎	baon2	同「龐」
 防	防	baon2	白讀
 彷	彷	baon2	
 雱	雱	baon2	
@@ -11383,6 +11449,7 @@
 邙	邙	maon2	
 鋩	铓	maon2	
 厖	厖	maon2	
+庬	庬	maon2	同「厖」
 哤	哤	maon2	
 娏	娏	maon2	
 尨	尨	maon2	
@@ -11405,6 +11472,7 @@
 漭	漭	maon6	
 網	网	maon6	白讀
 网	网	maon6	白讀
+罒	罒	maon6	
 壾	壾	maon6	
 茻	茻	maon6	
 蠎	蠎	maon6	
@@ -11607,6 +11675,8 @@
 俍	俍	laon6	
 崀	崀	laon6	
 朖	朖	laon6	
+㙟	㙟	laon6	地名用字，多見於廣東
+塱	塱	laon6	地名用字，多見於廣東
 浪	浪	laon6	
 狼	狼	laon6	
 㫰	㫰	laon6	㫰衣裳
@@ -12052,6 +12122,7 @@
 尢	尢	uaon1	
 尪	尪	uaon1	
 尩	尪	uaon1	
+尫	尫	uaon1	同「尪」
 尣	尣	uaon1	
 往	往	uaon3	
 徃	往	uaon3	
@@ -12140,6 +12211,7 @@
 涫	涫	kun1	
 觀	观	kun1	
 観	观	kun1	
+覌	观	kun1	
 𥷬	𥷬	kun1	
 冠	冠	kun1	
 蒄	蒄	kun1	化學用字
@@ -12222,6 +12294,7 @@
 捖	捖	wun2	
 𥹳	𥹳	wun2	
 桓	桓	wun2	
+雈	雈	wun2	
 萑	萑	wun2	
 寏	寏	wun2	
 狟	狟	wun2	
@@ -12310,6 +12383,7 @@
 蚊	蚊	men2	白讀
 螡	蚊	men2	白讀
 蟁	蚊	men2	白讀
+蚉	蚉	men2	文讀，同「蚊」
 汶	汶	men2	
 蜈	蜈	men2	白讀
 氓	氓	men2	古代稱民
@@ -12359,6 +12433,7 @@
 蚊	蚊	ven2	文讀
 螡	蚊	ven2	文讀
 蟁	蚊	ven2	文讀
+蚉	蚉	ven2	文讀，同「蚊」
 雯	雯	ven2	
 炆	炆	ven2	
 紊	紊	ven2	
@@ -12405,6 +12480,7 @@
 抆	抆	ven6	
 吻	吻	ven6	
 脗	吻	ven6	
+肳	肳	ven6	同「吻」
 刎	刎	ven6	
 鱝	鲼	ven6	
 坋	坋	ven6	地坋
@@ -12473,6 +12549,7 @@
 𩞬	𩞬	ten5	
 嶝	嶝	ten5	
 吞	吞	then1	
+呑	呑	then1	同「吞」
 暾	暾	then1	
 涒	涒	then1	
 鼟	鼟	then1	
@@ -12726,6 +12803,7 @@
 棽	棽	sen1	
 襳	襳	sen1	
 鰺	鲹	sen1	
+鯵	鲹	sen1	
 姺	姺	sen1	
 阠	阠	sen1	
 損	损	sen3	
@@ -12875,6 +12953,7 @@
 倂	倂	pin5	
 寎	寎	pin5	
 迸	迸	pin5	
+逬	逬	pin5	同「迸」
 摒	摒	pin5	
 鬢	鬓	pin5	
 臏	膑	pin5	
@@ -12909,6 +12988,7 @@
 鮃	鲆	bin2	
 呯	呯	bin2	
 屏	屏	bin2	
+屛	屛	bin2	同「屏」
 塀	塀	bin2	日語漢字，音同「屏」
 鵧	𫛨	bin2	
 萍	萍	bin2	
@@ -12930,6 +13010,7 @@
 薲	薲	bin2	
 瓶	瓶	bin2	
 缾	瓶	bin2	
+甁	甁	bin2	同「瓶」
 洴	洴	bin2	
 荓	荓	bin2	
 蓱	蓱	bin2	
@@ -13671,6 +13752,7 @@
 敶	敶	jin6	
 䝼	䞍	jin6	
 競	竞	jin6	
+竸	竸	jin6	同「競」
 瑾	瑾	jin6	
 覲	觐	jin6	
 饉	馑	jin6	
@@ -13900,6 +13982,7 @@
 鄩	鄩	zhin2	
 堘	塍	zhin2	
 塍	塍	zhin2	
+畻	畻	zhin2	同「塍」
 葚	葚	zhin2	
 夝	夝	zhin2	
 枔	枔	zhin2	
@@ -13963,6 +14046,7 @@
 陘	陉	yin2	
 堘	塍	yin2	
 塍	塍	yin2	
+畻	畻	yin2	同「塍」
 夤	夤	yin2	
 辰	辰	yin2	僅限於「時辰」一詞
 應	应	yin2	僅限於「該應」
@@ -14030,6 +14114,7 @@
 應	应	in1	
 応	应	in1	
 嬰	婴	in1	
+孾	𪧀	in1	同「嬰」
 纓	缨	in1	
 鸚	鹦	in1	
 攖	撄	in1	
@@ -14391,6 +14476,7 @@
 縝	缜	tsyun3	
 准	准	tsyun3	
 準	准	tsyun3	
+凖	凖	tsyun3	同「準」
 隼	隼	tsyun3	
 鎨	鎨	tsyun3	
 盹	盹	tsyun3	
@@ -14415,6 +14501,7 @@
 晙	晙	tsyun5	
 春	春	tshyun1	
 旾	春	tshyun1	
+萅	萅	tshyun1	同「春」
 椿	椿	tshyun1	
 瑃	瑃	tshyun1	
 蝽	蝽	tshyun1	
@@ -14556,6 +14643,7 @@
 牣	牣	zyun6	
 㞞	𪨊	zyun6	精液
 蜃	蜃	zyun6	出蜃
+蜄	蜄	zyun6	同「蜃」
 絍	𫟃	zyun6	
 杒	杒	zyun6	
 訒	讱	zyun6	
@@ -14626,6 +14714,7 @@
 丰	丰	fon1	
 豐	丰	fon1	
 酆	酆	fon1	
+鄷	鄷	fon1	
 灃	沣	fon1	
 寷	寷	fon1	
 封	封	fon1	
@@ -14692,6 +14781,7 @@
 埬	𪣆	ton1	
 崠	崠	ton1	
 鯟	鯟	ton1	
+崬	岽	ton1	地名用字，見於廣西
 端	端	ton1	限於「端午」
 懂	懂	ton3	
 董	董	ton3	
@@ -14708,6 +14798,7 @@
 恫	恫	thon1	
 痌	痌	thon1	
 嗵	嗵	thon1	
+樋	樋	thon1	
 曈	曈	thon1	
 炵	炵	thon1	
 捅	捅	thon3	
@@ -15141,6 +15232,7 @@
 嗊	唝	hon3	
 𢦅	𢦅	hon3	
 轟	轰	hon5	
+軣	軣	hon5	同「轟」
 㶹	㶹	hon5	
 佝	佝	hon5	佝背
 紅	红	ghon2	
@@ -15213,6 +15305,7 @@
 駫	𫘡	cion1	
 冋	冋	cion1	
 絅	䌹	cion1	
+匑	匑	cion1	
 炅	炅	cion3	
 囧	囧	cion3	
 冏	冏	cion3	
@@ -15232,6 +15325,13 @@
 穹	穹	chion1	
 芎	芎	chion1	
 匑	匑	chion1	
+焪	焪	chion1	
+𢞏	𢞏	chion1	
+𥳎	𥳎	chion1	
+𦵡	𦵡	chion1	
+䛪	䛪	chion5	
+䠻	䠻	chion5	
+焪	焪	chion5	
 窮	穷	jion2	
 藭	䓖	jion2	
 穹	穹	jion2	
@@ -15614,6 +15714,7 @@
 瘩	瘩	taq7	
 褡	褡	taq7	
 鎝	𨱏	taq7	化學元素，又稱「鍀」
+畗	畗	taq7	同「答」
 德	德	taq7	
 徳	德	taq7	
 悳	德	taq7	
@@ -16339,6 +16440,8 @@
 曡	叠	diaq8	
 疊	叠	diaq8	
 畳	叠	diaq8	
+疂	疂	diaq8	同「曡」
+疉	疉	diaq8	同「曡」
 揲	揲	diaq8	
 掠	掠	liaq8	
 略	略	liaq8	
@@ -16382,6 +16485,7 @@
 犳	犳	ciaq7	
 脚	脚	ciaq7	
 腳	脚	ciaq7	
+踋	踋	ciaq7	同「腳」
 甲	甲	ciaq7	
 鉀	钾	ciaq7	化學元素
 玾	玾	ciaq7	
@@ -16750,6 +16854,7 @@
 沐	沐	moq8	
 霂	霂	moq8	
 蚞	蚞	moq8	
+凩	凩	moq8	日語漢字
 莫	莫	moq8	
 摸	摸	moq8	
 寞	寞	moq8	
@@ -16790,6 +16895,7 @@
 蝠	蝠	foq7	
 輻	辐	foq7	
 葍	葍	foq7	
+畗	畗	foq7	同「福」
 蝮	蝮	foq7	
 腹	腹	foq7	
 馥	馥	foq7	
@@ -17482,6 +17588,7 @@
 𧉣	𧉣	gnioq8	
 砡	砡	gnioq8	
 肉	肉	gnioq8	
+宍	宍	gnioq8	同「肉」
 𢫭	𢫭	gnioq8	
 掿	掿	gnioq8	
 浴	浴	gnioq8	白讀
@@ -17529,6 +17636,7 @@
 憋	憋	piq7	
 鱉	鳖	piq7	
 鼈	鳖	piq7	
+龞	鳖	piq7	
 𤎨	𤎨	piq7	高溫灼烤
 辟	辟	piq7	復辟
 癟	瘪	piq7	
@@ -17715,6 +17823,7 @@
 餮	餮	thiq7	
 鐵	铁	thiq7	
 鉄	铁	thiq7	
+鐡	鐡	thiq7	同「鐵」
 僣	僣	thiq7	
 悐	悐	thiq7	
 蓨	蓨	thiq7	
@@ -17746,6 +17855,7 @@
 絰	绖	diq8	
 垤	垤	diq8	
 耋	耋	diq8	
+耊	耊	diq8	同「耋」
 踏	踏	diq8	又音 僅限於「踏牀」
 梑	梑	diq8	
 籴	籴	diq8	
@@ -17915,6 +18025,8 @@
 晢	晢	ciq7	
 讋	詟	ciq7	
 質	质	ciq7	
+貭	质	ciq7	
+筫	筫	ciq7	同「質」
 鑕	锧	ciq7	
 櫍	櫍	ciq7	
 𡂒	𡂒	ciq7	
@@ -18175,6 +18287,8 @@
 姪	侄	jiq8	
 妷	侄	jiq8	
 集	集	jiq8	
+雧	雧	jiq8	同「集」
+雦	雦	jiq8	同「集」
 輯	辑	jiq8	又音
 犆	犆	jiq8	
 俋	俋	jiq8	
@@ -18537,6 +18651,7 @@
 易	易	yiq8	交易
 蜴	蜴	yiq8	
 埸	埸	yiq8	
+痬	痬	yiq8	
 鎰	镒	yiq8	
 覡	觋	yiq8	
 椺	椺	yiq8	
@@ -18580,7 +18695,7 @@
 齸	齸	yiq8	
 一	一	iq7	
 弌	弌	iq7	
-辷	辷	iq7	日本漢字
+辷	辷	iq7	日語漢字
 乙	乙	iq7	
 釔	钇	iq7	化學元素
 益	益	iq7	
@@ -18824,6 +18939,8 @@
 玥	玥	yuq8	
 抈	抈	yuq8	
 跀	跀	yuq8	
+蚏	蚏	yuq8	
+蚎	蚎	yuq8	
 矞	矞	yuq8	
 鷸	鹬	yuq8	
 燏	燏	yuq8	
@@ -18960,6 +19077,7 @@
 泏	泏	tsyuq7	
 齣	出	tshyuq7	量詞
 出	出	tshyuq7	
+岀	岀	tshyuq7	同「出」
 黜	黜	tshyuq7	
 黢	黢	tshyuq7	黑黢黢
 怵	怵	tshyuq7	
@@ -18990,11 +19108,11 @@
 銊	𫓰	syuq7	
 十	十	syuq7	僅限於「三十年夜」，「年三十夜」兩詞
 十	十	zyuq8	
-辻	辻	zyuq8	日本漢字
+辻	辻	zyuq8	日語漢字
 什	什	zyuq8	什物
 拾	拾	zyuq8	
 入	入	zyuq8	
-込	込	zyuq8	日本漢字
+込	込	zyuq8	日語漢字
 實	实	zyuq8	
 寔	实	zyuq8	
 実	实	zyuq8	
@@ -19012,6 +19130,8 @@
 霫	霫	zyuq8	
 戢	戢	zyuq8	
 集	集	zyuq8	
+雧	雧	zyuq8	同「集」
+雦	雦	zyuq8	同「集」
 輯	辑	zyuq8	又音
 隰	隰	zyuq8	
 踅	踅	zyuq8	
@@ -19055,6 +19175,7 @@
 邇	迩	er6	
 二	二	er6	文讀
 貳	贰	er6	文讀
+貮	貮	er6	文讀，同「貳」
 弍	弍	er6	文讀
 弐	弐	er6	文讀
 𢄽	𢄽	er6	

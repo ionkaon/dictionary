@@ -8831,7 +8831,6 @@
 弎	弎		sae1										
 參	参		sae1								0.00	同「叄」	
 剼	剼	sæn	sae1	7									
-毿	毵		sae1										
 彡	彡	sæn	sae1	7									
 杉	杉	sæn	sae1	1	sae1	9	sae1	10	sae1	11			
 衫	衫	sæn	sae1	1	sae1	9	sae1	10	sae1	11			
@@ -10535,8 +10534,10 @@
 眭	眭		sei1										
 奞	奞		sei1										
 葰	葰		sei1										
-犙	犙		sei1										
 #		se1	sei1										
+犙	犙		sei1										
+毿	毵		sei1										
+#		sen1	sei1										
 水	水	se	sei3	2	sei3	9	sei3	10	sei3	11	0.01	文讀	
 尿	尿				sei3	9					0.00		
 氵	氵		sei3								0.01	文讀	
@@ -10548,6 +10549,9 @@
 臎	臎		sei3										
 靃	靃		sei3										
 #		se3	sei3										
+糂	糂		sei3										
+糣	糣		sei3										
+#		sen3	sei3										
 碎	碎	se	sei5	1	sei5	9	sei5	10	sei5	11			
 砕	碎		sei5	1									
 誶	谇	se	sei5	7									
@@ -10559,7 +10563,6 @@
 嵗	岁		sei5	1							0.06	文讀	
 歳	岁		sei5	1							0.06	文讀	
 祟	祟	se	sei5	7	sei5	9							
-糝	糁		sei5	1								飯糝	
 說	说	se	sei5	7							0.01	説客	
 説	说	se	sei5	7							0.01	説客	
 涗	涚		sei5										
@@ -10573,6 +10576,10 @@
 粹	粹						sei5	10			0.00		
 裞	裞		sei5										
 #		se5	sei5										
+糝	糁		sei5	1								飯糝	
+俕	俕		sei5										
+閐	𨸃		sei5										
+#		sen5	sei5										
 隨	随	ze	zei2	1	zei2	9	zei2	10	zei2	11			
 遀	遀		zei2									同「隨」	
 隋	隋	ze	zei2	2	zei6	9							
@@ -14528,16 +14535,12 @@
 𩩭	𩩭	seng	sen3	7									
 磣	碜	seng	sen3	7									
 瘮	瘆		sen3										
-糂	糂		sen3										
-糣	糣		sen3										
 省	省				sen3	9					0.00	文讀 節省(鎮海)	
 #		seng3	sen3										
 滲	渗	seng	sen5	1	sen5	9	sen5	10	sen5	11			
 巽	巽	seng	sen5	7									
 噀	噀		sen5										
 罧	罧	seng	sen5	7									
-俕	俕		sen5										
-閐	𨸃		sen5										
 愻	𢙏		sen5										
 潠	潠		sen5										
 #		seng5	sen5										

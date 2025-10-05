@@ -6665,7 +6665,6 @@
 查	查		tso1								0.05	姓氏	
 査	查		tso1								0.05	姓氏	
 渣	渣	tsô	tso1	2	tso1	9	tso1	10	tso1	11			
-揸	揸		tso1	3			tso3	10				又音	
 齇	齄		tso1										
 齄	齄		tso1										
 皻	皻	tsô	tso1	7									
@@ -6678,19 +6677,22 @@
 蚱	蚱		tso1	1					tso5	11			
 𨰵	𨰵	tsô	tso1	7									
 蔗	蔗	tsô	tso1	2	tso5	9	tso5	10	tso5	11			
-吒	吒	cô	tso1	2								哪吒	
 鷓	鹧	cæ	tso1	1									
 抯	抯		tso1										
 奓	奓		tso1										
 觰	觰		tso1										
 簻	簻		tso1										
 #		tsô1	tso1										
-揸	揸		tso3	1			tso3	10				用五指捉物	
+揸	揸		tso1	3			tso3	10				又音 用五指捉物	
+吒	吒	cô	tso1	2								哪吒	
+#		cô1	tso1										
 喌	喌		tso3	3							0.05		
 厏	厏		tso3										
 謯	𫍹		tso3										
 觰	觰		tso3										
 #		tsô3	tso3										
+揸	揸		tso3	1			tso3	10				用五指捉物	
+#		cô3	tso3										
 乍	乍		tso5	2	tso5	9							
 炸	炸	tsô	tso5	1	tso5	9	tso5	10	tso5	11			
 詐	诈	tsô	tso5	2	tso5	9	tso5	10	tso5	11			
@@ -6703,12 +6705,13 @@
 蟅	蟅		tso5										
 膪	膪		tso5										
 柘	柘	tsô	tso5	7									
-奼	奼	cô	tso5	7									
-灹	灹		tso5										
 笮	笮		tso5										
 奓	奓		tso5										
 喳	喳		tso5	4							0.05	又音 形容液體不斷流出	
 #		tsô5	tso5										
+奼	奼	cô	tso5	7									
+灹	灹		tso5										
+#		cô5	tso5										
 車	车	tsʽô	tsho1	1	tsho1	9	tsho1	10	tsho1	11			
 叉	叉	tsʽô	tsho1	1	tsho1	9	tsho1	10	tsho1	11			
 杈	杈	tsʽô	tsho1	2	tsho1	9	tsho1	10	tsho1	11			

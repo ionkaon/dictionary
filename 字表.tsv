@@ -4198,7 +4198,7 @@
 膆	膆		su5										
 訴	诉		su5	1	su5	9	su5	10	su5	11			
 愬	诉	su	su5	1									
-塑	塑	su	su5	1	su5	9	su5	10	su5	11	0.01	塑子	
+塑	塑	su	su5	1	su5	9	su5	10	su5	11		塑子	
 溯	溯	su	su5	7									
 泝	溯		su5	7									
 遡	溯		su5	7									
@@ -19420,7 +19420,7 @@
 遬	遬		soq7										
 餗	𫗧		soq7										
 朔	朔	soh	soq7	2	soq7	9	soq7	10	soq7	11			
-塑	塑		soq7	2									
+塑	塑		soq7	2							0.02	塑料	
 槊	槊	soh	soq7	7									
 嗍	嗍	soh	soq7	3									
 搠	搠	soh	soq7	7									

@@ -17542,7 +17542,6 @@
 鮊	鲌	bah	baq8	7							0.00	文讀	
 拔	拔	bah	baq8	1	baq8	9	baq8	10	baq8	11			
 抜	拔		baq8	1									
-鈸	钹	bah	baq8	1	baq8	9	baq8	10					
 坺	坺		baq8	3									
 跋	跋	bah	baq8	2	baq8	9							
 祓	祓	bah	baq8	1								祓秋。音特殊，或爲寧波俗音，The Ningpo Syllabary 亦記作 bah	
@@ -17565,6 +17564,7 @@
 #		bah8	baq8									格韻	
 鼻	鼻		baq8	1	baq8	9	baq8	10	baq8	11		白讀	
 帛	帛	beh	baq8	2	baq8	9	baq8	10	baq8	11			
+鈸	钹	bah	baq8	1	baq8	9	baq8	10				《The Ningpo Sylabary》記 bah，《字語彙解》p. 106 cymbals 一詞下註 do beh' 大鈸。	
 孛	孛	beh	baq8	7	baq8	9							
 勃	勃	beh	baq8	2	baq8	9			baq8	11			
 餑	饽	beh	baq8	2									
@@ -17579,8 +17579,8 @@
 挬	挬		baq8										
 桲	桲		baq8										
 郣	郣		baq8										
-佛	佛	veh	baq8	3							0.00	僅限於「大佛」	
 𦤣	𦤣		baq8	4							0.05	又音 餲𦤣	
+佛	佛	veh	baq8	3							0.00	僅限於「大佛」	
 #		beh8	baq8									割韻	
 麥	麦	mah	maq8	1	maq8	9	maq8	10	maq8	11			
 䥑	鿏		maq8									化學元素	
@@ -18025,7 +18025,6 @@
 笧	笧	tsʽah	tshaq7	7									
 赤	赤		tshaq7	1	tshaq7	9	tshaq7	10			0.05	赤豆	
 哧	哧		tshaq7										
-漆	漆		tshaq7	2	tshaq7	9	chiq7	10			0.05	漆黑	
 黢	黢						tshaq7	10			0.00	黢黑	#
 斥	斥		tshaq7	2	tshaq7	9	tshaq7	10	tshaq7	11			
 㿭	㿭	tsʽah	tshaq7	1	tshaq7	9	tshaq7	10	tshaq7	11		皴㿭	
@@ -18056,6 +18055,7 @@
 珿	珿		tshaq7	1								珿齊	
 促	促		tshaq7	1							0.05	又音	
 簇	簇		tshaq7	1							0.00	僅限「簇刮新」等詞	#
+漆	漆		tshaq7	2	tshaq7	9	chiq7	10			0.05	漆黑	
 囃	𠱞		tshaq7										
 憡	憡		tshaq7										
 皟	𤾀		tshaq7										
@@ -18439,6 +18439,7 @@
 閼	阏		aq7										
 阿	阿	ah	aq7	1	aq7	9	aq7	10	aq7	11			
 啊	啊		aq7								0.05	促化	
+軛	轭	eh	aq7	1			aq7	10	aq7	11		《The Ningpo Sylabary》記 eh，《字語彙解》p. 537 yoke 一詞下註 ah 軛。	
 庘	庘		aq7										
 劜	劜		aq7										
 呝	呝		aq7										
@@ -18460,7 +18461,6 @@
 呃	呃	eh	aq7	1									
 扼	扼	eh	aq7	2	aq7	9	aq7	10	aq7	11			
 搤	扼		aq7	2									
-軛	轭	eh	aq7	1			aq7	10	aq7	11			
 枙	枙		aq7	7									
 砈	砈		aq7									化學元素，又稱「砹」	
 藹	蔼		aq7	2					aq7	11			

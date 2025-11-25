@@ -18,9 +18,9 @@ sheet.rename(columns={"兼容格式":"吳拼"}, inplace=True)
 
 sheet.drop(
     (
-        (sheet["繁體"] == "#") | (sheet["篩選"] == "#") |
+        (sheet["繁體"] == "#").to_numpy() | (sheet["篩選"] == "#").to_numpy() |
         [type(i) != str for i in iter(sheet["吳拼"])]
-    ).to_numpy().nonzero()[0]
+    ).nonzero()[0]
     , inplace=True
 )
 

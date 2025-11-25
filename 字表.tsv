@@ -99,7 +99,7 @@
 沚	沚	ts	tsy3	7									
 凪	凪		tsy3									日語漢字	
 子	子	ts	tsy3	1	tsy3	9	tsy3	10	tsy3	11			
-仔	仔	ts	tsy3	1					tsy3	11			
+仔	仔	ts	tsy3	1					tsy3	11	10000		
 籽	籽		tsy3	1					tsy3	11			
 耔	耔	ts	tsy3	7									
 虸	虸	ts	tsy3	7									
@@ -3114,12 +3114,13 @@
 #		ken1	ki-ke1										
 該	该	kæ	ki-1	1							0.00	僅限於「該應」一詞	
 賅	赅	kæ	ki-1	3									
-居	居		ki-1								55	擁有，又音	
-𡨢	𡨢		ki-1	1								又音	
 丐	丐	kæ	ki-1	2			ke5	10	ke5	11	0.10	又音	
 匃	丐		ki-1	2							0.10	又音	
 匄	丐	kæ	ki-1	2							0.10	又音	
 #		kæ1	ki-1										
+居	居		ki-1								55	擁有，又音	
+𡨢	𡨢		ki-1	1								又音	
+#		ke1	ki-1										
 敢	敢	ken	ki-ke3	1	kii3	9	ki3	10	kien3	11			
 澉	澉		ki-ke3										
 感	感	ken	ki-ke3	1	kii3	9	ki3	10	kien3	11			
@@ -8023,8 +8024,6 @@
 賅	赅	kæ	ke1	3									
 胲	胲	kæ	ke1	7									
 荄	荄	kæ	ke1	7									
-居	居		ke1								55	擁有	
-𡨢	𡨢		ke1	1									
 姟	姟		ke1										
 峐	峐		ke1										
 祴	祴		ke1										
@@ -8033,6 +8032,9 @@
 絯	絯		ke1										
 豥	豥		ke1										
 #		kæ1	ke1										
+居	居		ke1								55	擁有	
+𡨢	𡨢		ke1	1									
+#		ke1	ke1										
 改	改	kæ	ke3	1	ke3	9	ke3	10	ke3	11			
 絠	絠		ke3										
 揀	拣		ke3	1							0.00	僅限於「香揀芋」	

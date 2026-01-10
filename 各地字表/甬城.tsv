@@ -3,7 +3,6 @@
 枝	枝	tsy1	2	
 肢	肢	tsy1	1	
 資	资	tsy1	1	
-貲	资	tsy1	1	
 咨	咨	tsy1	2	
 諮	咨	tsy1	2	
 粢	粢	tsy1	1	
@@ -1464,7 +1463,6 @@
 圏	圈	chiu3	1	
 去	去	chiu5	1	文讀
 巨	巨	jiu2	2	
-鉅	巨	jiu2	2	
 拒	拒	jiu2	2	
 距	距	jiu2	2	
 炬	炬	jiu2	2	
@@ -2270,8 +2268,9 @@
 堊	垩	o1	1	
 家	家	o1	3	又音 僅限於「頭家」
 啞	哑	o3	1	
-瘂	哑	o3	1	
 唖	哑	o3	1	
+瘂	哑	o3	1	
+瘂	痖	o3	1	
 𦫪	𦫪	o3	1	
 惑	惑	o3	3	又音 僅限於「疑心疑惑」
 掗	挜	o5	1	掗賣
@@ -2947,6 +2946,7 @@
 鹸	碱	kae3	2	
 鹻	碱	kae3	2	
 碱	碱	kae3	2	
+硷	碱	kae3	2	
 揀	拣	kae3	1	
 間	间	kae3	1	量詞
 襇	裥	kae3	1	打襇
@@ -3577,7 +3577,6 @@
 揮	挥	huei1	2	
 輝	辉	huei1	2	
 煇	辉	huei1	2	
-暉	辉	huei1	2	
 卉	卉	huei1	2	
 麾	麾	huei1	2	
 徽	徽	huei1	2	
@@ -3804,7 +3803,6 @@
 伙	伙	hou3	1	
 夥	伙	hou3	1	
 呵	呵	hou5	1	
-訶	呵	hou5	1	
 貨	货	hou5	1	
 火	火	hou5	3	僅限於「動火」
 伙	伙	hou5	3	僅限於「有夥」
@@ -4214,7 +4212,7 @@
 樣	样	yan6	1	
 様	样	yan6	1	
 恙	恙	yan6	2	
-煬	烊	yan6	1	
+煬	炀	yan6	1	
 烊	烊	yan6	3	
 央	央	ian1	1	
 秧	秧	ian1	1	
@@ -4373,7 +4371,7 @@
 贜	赃	tsaon1	2	
 贓	赃	tsaon1	2	
 𢈜	𢈜	tsaon1	2	
-顙	顙	tsaon1	4	又音 䱀顙魚
+顙	颡	tsaon1	4	又音 䱀顙魚
 章	章	tsaon1	1	
 樟	樟	tsaon1	1	
 蟑	蟑	tsaon1	1	
@@ -5042,7 +5040,6 @@
 晉	晋	cin5	2	
 敬	敬	cin5	1	
 徑	径	cin5	1	
-逕	径	cin5	1	
 剄	刭	cin5	2	
 勁	劲	cin5	2	文读
 竟	竟	cin5	1	
@@ -5184,6 +5181,7 @@
 審	审	shin3	2	
 嬸	婶	shin3	1	
 瀋	沈	shin3	2	
+瀋	渖	shin3	2	
 沈	沈	shin3	2	
 省	省	shin3	2	反省
 醒	醒	shin3	2	

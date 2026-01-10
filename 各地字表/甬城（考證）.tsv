@@ -6,10 +6,11 @@
 衼	衼	tsy1	
 鳷	𫛛	tsy1	
 資	资	tsy1	
-貲	资	tsy1	
+貲	赀	tsy1	
 姿	姿	tsy1	
 咨	咨	tsy1	
 諮	咨	tsy1	
+諮	谘	tsy1	
 趦	趦	tsy1	
 粢	粢	tsy1	
 脂	脂	tsy1	
@@ -1227,7 +1228,6 @@
 痱	痱	fi5	
 疿	痱	fi5	
 吠	吠	fi5	又音
-𣏕	𣏕	fi5	
 橃	橃	fi5	
 唯	唯	vi2	
 維	维	vi2	
@@ -3068,7 +3068,7 @@
 蚿	蚿	yi2	
 閆	闫	yi2	
 言	言	yi2	
-訁	訁	yi2	
+訁	讠	yi2	
 炎	炎	yi2	
 沿	沿	yi2	
 鉛	铅	yi2	鉛山
@@ -4270,7 +4270,7 @@
 蕖	蕖	jiu2	
 磲	磲	jiu2	
 巨	巨	jiu2	
-鉅	巨	jiu2	
+鉅	钜	jiu2	
 拒	拒	jiu2	
 距	距	jiu2	
 炬	炬	jiu2	
@@ -6132,7 +6132,7 @@
 赦	赦	so3	
 騇	騇	so3	
 沙	沙	so5	滑行
-厙	厙	so5	
+厙	厍	so5	
 廈	厦	so5	前廊後廈
 騇	騇	so5	
 佘	佘	zo2	
@@ -6192,8 +6192,9 @@
 堊	垩	o1	
 家	家	o1	又音 僅限於「頭家」
 啞	哑	o3	
-瘂	哑	o3	
 唖	哑	o3	
+瘂	哑	o3	
+瘂	痖	o3	
 𦫪	𦫪	o3	
 惑	惑	o3	又音 僅限於「疑心疑惑」
 掗	挜	o5	掗賣
@@ -6218,6 +6219,7 @@
 驫	骉	piau1	
 贆	贆	piau1	
 鑣	镖	piau1	
+鑣	镳	piau1	
 鏢	镖	piau1	
 瀌	瀌	piau1	
 髟	髟	piau1	
@@ -7276,7 +7278,7 @@
 旰	旰	he5	
 厂	厂	he5	
 孩	孩	ghe2	
-頦	頦	ghe2	
+頦	颏	ghe2	
 駭	骇	ghe2	
 豥	豥	ghe2	
 亥	亥	ghe6	
@@ -7301,7 +7303,7 @@
 靄	霭	e5	
 愛	爱	e5	
 璦	瑷	e5	
-噯	噯	e5	
+噯	嗳	e5	
 瞹	瞹	e5	
 僾	僾	e5	
 嬡	嫒	e5	
@@ -7406,6 +7408,7 @@
 鋬	鋬	phae5	
 盻	盻	phae5	
 爿	爿	bae2	量詞
+丬	丬	bae2	同「爿」
 𤖭	𤖭	bae2	
 牌	牌	bae2	兒化殘留
 魬	魬	bae2	
@@ -7929,6 +7932,7 @@
 鹸	碱	kae3	
 鹻	碱	kae3	
 碱	碱	kae3	
+硷	碱	kae3	
 揀	拣	kae3	
 間	间	kae3	量詞
 襇	裥	kae3	打襇
@@ -8156,6 +8160,7 @@
 飂	飂	lieu6	
 鷚	鹨	lieu6	
 溜	溜	lhieu1	溜走
+熘	熘	lhieu1	官話方言字，一種烹飪方法
 鑽	钻	tsoe1	
 鑚	钻	tsoe1	
 專	专	tsoe1	
@@ -8520,6 +8525,7 @@
 裯	裯	jieu2	
 惆	惆	jieu2	
 讎	仇	jieu2	
+讎	雠	jieu2	
 讐	仇	jieu2	
 雔	雔	jieu2	
 酬	酬	jieu2	
@@ -9634,8 +9640,8 @@
 劊	刽	kuei5	
 膾	脍	kuei5	
 鱠	鲙	kuei5	
-儈	儈	kuei5	
-獪	獪	kuei5	
+儈	侩	kuei5	
+獪	狯	kuei5	
 圭	圭	kuei5	
 閨	闺	kuei5	
 筀	筀	kuei5	
@@ -9747,7 +9753,7 @@
 揮	挥	huei1	
 輝	辉	huei1	
 煇	辉	huei1	
-暉	辉	huei1	
+暉	晖	huei1	
 翬	翚	huei1	
 𤟤	𤟤	huei1	
 琿	珲	huei1	
@@ -10380,7 +10386,7 @@
 夥	伙	hou3	
 邩	邩	hou3	
 呵	呵	hou5	
-訶	呵	hou5	
+訶	诃	hou5	
 𧬱	𧬱	hou5	
 貨	货	hou5	
 火	火	hou5	僅限於「動火」
@@ -11353,7 +11359,7 @@
 漾	漾	yan6	
 羕	羕	yan6	
 恙	恙	yan6	
-煬	烊	yan6	
+煬	炀	yan6	
 烊	烊	yan6	
 眻	眻	yan6	
 諹	諹	yan6	
@@ -11701,7 +11707,7 @@
 贓	赃	tsaon1	
 𢈜	𢈜	tsaon1	
 匨	匨	tsaon1	
-顙	顙	tsaon1	又音 䱀顙魚
+顙	颡	tsaon1	又音 䱀顙魚
 章	章	tsaon1	
 樟	樟	tsaon1	
 蟑	蟑	tsaon1	
@@ -13384,7 +13390,7 @@
 籈	籈	cin1	
 枮	枮	cin1	
 金	金	cin1	
-釒	釒	cin1	
+釒	钅	cin1	
 今	今	cin1	
 經	经	cin1	
 経	经	cin1	
@@ -13489,7 +13495,7 @@
 瑱	瑱	cin5	
 敬	敬	cin5	
 徑	径	cin5	
-逕	径	cin5	
+逕	迳	cin5	
 剄	刭	cin5	
 脛	胫	cin5	
 踁	胫	cin5	
@@ -13911,6 +13917,7 @@
 審	审	shin3	
 嬸	婶	shin3	
 瀋	沈	shin3	
+瀋	渖	shin3	
 沈	沈	shin3	
 省	省	shin3	反省
 𢜫	𢜫	shin3	
@@ -14960,6 +14967,7 @@
 衷	衷	tson1	
 鐘	钟	tson1	
 鍾	钟	tson1	
+鍾	锺	tson1	
 籦	籦	tson1	
 終	终	tson1	
 柊	柊	tson1	
@@ -18389,6 +18397,7 @@
 隉	隉	gniq8	
 湼	湼	gniq8	
 掜	掜	gniq8	
+陧	陧	gniq8	
 鷁	鹢	gniq8	
 屹	屹	gniq8	
 圪	圪	gniq8	

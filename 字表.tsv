@@ -3308,8 +3308,8 @@
 醎	醎		yi2										
 檐	檐		yi2	1	yii2	9	yi2	10	yen2	11			
 簷	檐	yin	yi2	1									
-顏	颜	yin	yi2	6	yii2	9					0.05		
-顔	颜	yin	yi2	6							0.05		
+顏	颜	yin	yi2	6	yii2	9					0.00		
+顔	颜	yin	yi2	6							0.00		
 㘖	㘖	yin	yi2	7									
 楌	楌		yi2										
 閒	闲				yii2	9					0.00	文讀	
@@ -6910,6 +6910,7 @@
 惑	惑		o3	3							0.00	又音 僅限於「疑心疑惑」	
 #		ô3	o3										
 掗	挜		o5	1	o5	9	uo5	10	o5	11		掗賣	
+𢛟	𢛟		o5										
 下	下		o5	4							0.05	①使；投入②裝入③施（肥）	
 #		ô5	o5										
 標	标	piao	piau1	2	piau1	9	piau1	10	piau1	11			
@@ -17726,6 +17727,7 @@
 昒	昒		vaq8										
 沕	沕		vaq8										
 #		veh8	vaq8									割韻	
+搭	搭		taq7	1	taq7	9	taq7	10	taq7	11	831253		
 妲	妲	tah	taq7	7									
 靼	靼		taq7										
 怛	怛	tah	taq7	7	taq7	9							
@@ -17741,7 +17743,6 @@
 #		tah7	taq7									格韻	
 答	答	teh	taq7	2	taq7	9	taq7	10	taq7	11			
 荅	荅	teh	taq7	7									
-搭	搭		taq7	1	taq7	9	taq7	10	taq7	11	831253		
 溚	溚		taq7	1								溚溚渧	
 嗒	嗒		taq7	1								品味兒	
 㿯	㿯		taq7	3					taq7	11		寬㿯㿯	
@@ -17776,6 +17777,7 @@
 #		teh7	taq7									割韻	
 塔	塔	tʽah	thaq7	1	thaq7	9	thaq7	10	thaq7	11			
 墖	塔		thaq7	1									
+搭	搭		thaq7	3							0.01	又音	
 獺	獭	tʽah	thaq7	2	thaq7	9	thaq7	10	thaq7	11		水獺	
 塌	塌	tʽah	thaq7	1	thaq7	9	thaq7	10	thaq7	11			
 榻	榻	tʽah	thaq7	2	thaq7	9	thaq7	10	thaq7	11			
@@ -17815,7 +17817,6 @@
 慝	慝	tʽeh	thaq7	7									
 拓	拓		thaq7		thaq7	9	thaq7	10	thaq7	11	0.05	拓碑	
 突	突	deh	thaq7	3							0.05	僅限眼珠凸出一義	
-搭	搭		thaq7	3							0.05	又音	
 脦	脦		thaq7										
 侻	侻		thaq7										
 宊	宊		thaq7	4									
@@ -19083,7 +19084,7 @@
 築	築	coh	toq7	3							0.05	表豎、直插義的「篤」本字爲「築」	
 得	得	teh	toq7	3							0.00	僅限於「得知」	
 跌	跌	tih	toq7	3							0.00	又音 僅限於「跌落」	
-搭	搭		toq7	3							0.05	又音	
+搭	搭		toq7	3							0.01	又音	
 豰	豰		toq7										
 裻	裻		toq7										
 #		toh7	toq7										
@@ -19988,7 +19989,7 @@
 甋	甋		tiq7										
 笘	笘		tiq7										
 聑	聑		tiq7										
-搭	搭		tiq7	3							0.05	又音	
+搭	搭		tiq7	3							0.01	又音	
 肑	肑		tiq7										
 蹢	蹢		tiq7										
 跕	跕		tiq7										

@@ -219,7 +219,7 @@
 鉹	鉹		tshy3										
 #		tsʽ3	tshy3										
 次	次	tsʽ	tshy5	1	tshy5	9	tshy5	10	tshy5	11			
-粢	粢		tshy5	3					tshyu3	11		粢飯	
+粢	粢		tshy5	3					tshyu3	11	0.50	粢飯	
 刺	刺	tsʽ	tshy5	1	tshy5	9	tshy5	10	tshy5	11			
 莿	莿	tsʽ	tshy5	7									
 蛓	蛓	tsʽ	tshy5	7									
@@ -565,7 +565,7 @@
 沮	沮	cü	tsyu1	7									
 菹	菹	cü	tsyu1	7									
 蛆	蛆	cü	tsyu1	6									
-趄	趄	cü	tsyu1	7									
+趄	趄	cü	tsyu1	7							0.00		
 置	置	cü	tsyu1	2	tsyu5	9	tsyu5	10					
 櫧	槠		tsyu1										
 蠩	蠩		tsyu1										
@@ -688,7 +688,7 @@
 覰	觑		tshyu5	1									
 刞	刞		tshyu5										
 痸	痸		tshyu5										
-粢	粢		tshyu5	1					tshyu3	11		粢飯	
+粢	粢		tshyu5	1					tshyu3	11	0.45	粢飯	
 餈	糍				tshyu1	9					0.00	餈飯	#
 糍	糍				tshyu1	9					0.00	餈飯	#
 懘	懘		tshyu5										
@@ -1247,7 +1247,7 @@
 #		min4	mi4									煙韻	
 未	未		mi6	1	mi6	9	mi6	10	mi6	11	0.05	還需要很長時間；還早着	
 味	味		mi6	1	mi6	9	mi6	10	mi6	11		白讀	
-彌	弥	mi	mi6	1	mi2	9	mi2	10	mi2	11		彌海碗	
+彌	弥	mi	mi6	1	mi2	9	mi2	10	mi2	11	0.00	彌海碗	
 #		mi6	mi6									衣韻	
 面	面	min	mi6	1	mii6	9	mi6	10	mien6	11			
 靣	面		mi6	1									
@@ -2204,7 +2204,7 @@
 劔	劔		ci5										
 劎	劎		ci5										
 趝	趝		ci5										
-間	间	kyin	ci5	2	cii5	9			cien5	11		間斷	
+間	间	kyin	ci5	2	cii5	9			cien5	11	0.10	間斷	
 鑒	鉴	kyin	ci5	7					cien5	11		文讀	
 鑑	鉴		ci5	7	cii1	9	ci5	10	cien5	11		文讀	
 鍳	鉴		ci5	7			ci5	10				文讀	
@@ -2435,9 +2435,9 @@
 筯	箸		ji2	1								筷箸籠	
 踟	踟	dzi	ji2	7									
 畤	畤	dzi	ji2	3									
-岻	岻		ji2										
-謘	謘		ji2										
-遟	遟		ji2										
+岻	岻		ji2								0.50		
+謘	謘		ji2								0.50		
+遟	遟		ji2								0.40		
 懠	懠		ji2										
 麡	麡		ji2										
 #		dzi2	ji2									尖音、衣韻	
@@ -2569,8 +2569,8 @@
 褫	褫	dzi	ji4	7									
 滍	滍		ji4										
 豸	豸	dzi	ji4	7									
-洔	洔		ji4										
-秲	秲		ji4										
+洔	洔		ji4								0.50		
+秲	秲		ji4								0.50		
 啙	啙		ji4										
 #		dzi4	ji4									尖音、衣韻	
 技	技	gyi	ji4	2	ji6	9	ji6	10	ji6	11			
@@ -2720,7 +2720,7 @@
 礒	𥐟		gni4										
 艤	舣		gni4										
 齮	齮		gni4										
-耳	耳		gni4	1	gni6	9	gni6	10	gni2	11		白讀	
+耳	耳		gni4	1	gni6	9	gni6	10	gni2	11	0.50	白讀	
 擬	拟	nyi	gni4	2	gni2	9	gni6	10	gni4	11			
 儗	拟	nyi	gni4	2									
 旎	旎		gni4										
@@ -3646,7 +3646,7 @@
 抪	抪		pu5										
 #		pu5	pu5										
 鋪	铺	pʽu	phu1	1	phu1	9	phu1	10	phu1	11		鋪陳	
-脯	脯		phu1	1	fu1	9			fu3	11			
+脯	脯		phu1	1	fu1	9			fu3	11	0.10		
 䮒	䮒	pʽu	phu1	7									
 捕	捕								phu1	11			
 潽	潽		phu1	1	phu5	9			phu3	11			
@@ -3759,7 +3759,7 @@
 鴀	𫛜		fu1										
 妋	妋		fu1										
 #		fu1	fu1									fu	
-乎	乎		fu1	1					fu1	11		燥乎乎	
+乎	乎		fu1	1					fu1	11	0.01	燥乎乎	
 呼	呼	hwu	fu1	1	fu1	9	fu1	10	fu1	11			
 嘑	呼	hwu	fu1	1									
 虖	呼	hwu	fu1	1									
@@ -4156,9 +4156,9 @@
 徂	徂	dzu	dzu2	7									
 齟	龃	dzu	dzu2	7									
 殂	殂	dzu	dzu2	7									
-鋤	锄	dzu	dzu2	1	dzu6	9			dzu2	11		鋤地	
-耡	锄		dzu2	1								鋤地	
-鉏	锄		dzu2	1								鋤地	
+鋤	锄	dzu	dzu2	1	dzu6	9			dzu2	11	0.20	鋤地	
+耡	锄		dzu2	1							0.20	鋤地	
+鉏	锄		dzu2	1							0.20	鋤地	
 助	助	dzu	dzu2	2	dzu6	9	dzu6	10	dzu2	11		幫助	
 豠	豠		dzu2										
 秨	秨		dzu2										
@@ -4186,7 +4186,7 @@
 橾	橾		su1										
 踈	踈		su1										
 #		su1	su1										
-數	数	su	su3	1	su3	9			su3	11		清點	
+數	数	su	su3	1	su3	9			su3	11	0.40	清點	
 鬚	须		su3	1	su1	9	su1	10				牙鬚	
 盨	𪾔		su3										
 齭	𫜭		su3										
@@ -4607,8 +4607,8 @@
 犭	犭		chiu3										
 畎	畎	kyʽün	chiu3	7									
 埍	埍	kyʽün	chiu3	7									
-圈	圈	kyʽün	chiu3	1									
-圏	圈		chiu3	1									
+圈	圈	kyʽün	chiu3	1							0.01		
+圏	圈		chiu3	1							0.01		
 虇	虇		chiu3										
 裷	裷		chiu3										
 #		kyʽün3	chiu3									圓韻	
@@ -4722,8 +4722,8 @@
 韏	韏		jiu6										
 #		gyün6	jiu6									圓韻	
 虞	虞	nyü	gniu2	2	gniu2	9	gniu2	10	gniu2	11			
-娛	娱		gniu2	2			gniu2	10	gniu2	11			
-娯	娱		gniu2	2									
+娛	娱		gniu2	2			gniu2	10	gniu2	11	0.10		
+娯	娱		gniu2	2							0.10		
 鋙	铻		gniu2										
 禺	禺	nyü	gniu2	7	gniu2	9							
 隅	隅	nyü	gniu2	7									
@@ -5049,7 +5049,7 @@
 豫	豫	yü	yu6	2	yu2	9	yu6	10	yu6	11			
 蕷	蓣	yü	yu6	7									
 瑗	瑗		yu6	7									
-芋	芋	yü	yu6	2			yu6	10	yu6	11		文讀	
+芋	芋	yü	yu6	2			yu6	10	yu6	11	0.10	文讀	
 諭	谕	yü	yu6	7	yu2	9							
 礜	礜		yu6										
 忬	忬		yu6										
@@ -5121,7 +5121,7 @@
 裷	裷		iu1										
 嬽	嬽		iu1										
 #		ün1	iu1									圓韻	
-椅	椅		iu3	1			iu3	10					
+椅	椅		iu3	1			iu3	10			0.05		
 杌	杌								iu5	11	0.00	杌子	#
 #		ü3	iu3									余韻	
 𩌑	𩌑	ün	iu3	3								稱東西時容器的重量	
@@ -5216,7 +5216,7 @@
 韛	𫖔		ba6										
 棑	棑		ba6										
 #		ba6	ba6										
-埋	埋		ma2	1	ma2	9						埋怨	
+埋	埋		ma2	1	ma2	9					0.10	埋怨	
 嘛	嘛		ma2										
 霾	霾	mæ	ma2	7									
 薶	薶	mæ	ma2	7									
@@ -5289,17 +5289,17 @@
 𠯈	𠯈	da	da6	7									
 汏	汏	da	da6	7									
 #		da6	da6										
-拿	拿		na2	2								拿手好戲	
-挐	拿		na2	2								拿手好戲	
-拏	拿		na2	2								拿手好戲	
+拿	拿		na2	2							0.05	拿手好戲	
+挐	拿		na2	2							0.05	拿手好戲	
+拏	拿		na2	2							0.05	拿手好戲	
 鎿	镎		na2									化學元素	
 淖	淖		na2	1			na2	10			0.00	淖泥	#
 艿	艿	na	na2	1									
 誽	誽		na2										
 南	南		na2								0.00	南無阿彌陀佛	
 倷	倷		na2								55	「倷阿姆」合音，多用於詈語	
-吶	呐		na2	4									
-呐	呐		na2	4									
+吶	呐		na2	4							0.40		
+呐	呐		na2	4							0.40		
 哪	哪		na2	4									
 #		na2	na2										
 奶	奶	na	na4	1	na6	9	na6	10	na4	11			
@@ -5311,11 +5311,11 @@
 嬲	嬲	biao	na6	1			na2	10			0.00	嬲和	
 娜	娜		na6										
 #		na6	na6										
-哪	哪		nha1	1			nha3	10					
+哪	哪		nha1	1			nha3	10			0.25		
 吶	呐		nha1	3									
 呐	呐		nha1	3									
 #		n̆a1	nha1										
-哪	哪		nha5	2					nha5	11			
+哪	哪		nha5	2					nha5	11	0.25		
 那	那		nha5	1	nha5	9	na6	10					
 挪	挪								nha5	11			
 #		n̆a5	nha5										
@@ -5339,7 +5339,7 @@
 老	老						la6	10			0.00	又音 老太婆(北侖)	
 犡	犡		la6										
 #		la6	la6										
-拉	拉		lha1	1	lha5	9	lha5	10	lha1	11			
+拉	拉		lha1	1	lha5	9	lha5	10	lha1	11	0.50		
 啦	啦		lha1	1					lha1	11			
 菈	菈		lha1										
 拉	拉								lha5	11	0.00	渠拉(定海)	
@@ -5362,7 +5362,7 @@
 詐	诈								tsa5	11	0.05		
 榨	榨								tsa5	11	0.05		
 #		tsa5	tsa5										
-差	差	tsʽa	tsha1	1	tsha1	9	tsha1	10	tsha1	11		出差	
+差	差	tsʽa	tsha1	1	tsha1	9	tsha1	10	tsha1	11	0.20	出差	
 叉	叉		tsha1	3					tsha1	11	0.00	僅限於「軋叉」	
 杈	杈								tsha1	11			
 釵	钗	tsʽa	tsha1	7	tshe1	9	tsha1	10	tsha1	11		文讀	
@@ -5433,7 +5433,7 @@
 咖	咖		ka1									咖喱	
 鮫	鲛		ka1								0.00	又音「馬鮫魚」	
 #		ka1	ka1										
-解	解		ka3	1	ka3	9	ka3	10	ka3	11			
+解	解		ka3	1	ka3	9	ka3	10	ka3	11	0.10		
 檞	檞		ka3										
 廨	廨		ka3										
 尕	尕		ka3									西北方言字，小	
@@ -5502,7 +5502,7 @@
 鞵	鞋	yi	gha2	1									
 還	还		gha2	2							0.10	白讀 還有	
 #		ʽa2	gha2										
-啊	啊		gha4	2	gha2	9						表驚疑	
+啊	啊		gha4	2	gha2	9					0.10	表驚疑	
 也	也		gha4				gha6	10					
 #		ʽa4	gha4										
 捱	挨		a1	1							0.00		
@@ -5518,9 +5518,9 @@
 躷	躷		a3									古同「矮」	
 㢊	㢊		a3	1									
 #		a3	a3										
-阿	阿		a5	2	a5	9			a5	11		阿姆	
+阿	阿		a5	2	a5	9			a5	11	0.30	阿姆	
 靉	叆		a5	1			a5	10					
-隘	隘		a5										
+隘	隘		a5								0.50		
 賹	賹		a5										
 阸	阸		a5										
 #		a5	a5										
@@ -5532,8 +5532,8 @@
 袓	袓		cia1										
 謯	𫍹		cia1										
 #		tsia1	cia1									尖音	
-家	家	kyüô	cia1	1	cia1	9	cia1	10	cia1	11		文讀	
-傢	傢	kyüô	cia1	2			cia1	10				文讀	
+家	家	kyüô	cia1	1	cia1	9	cia1	10	cia1	11	0.20	文讀	
+傢	傢	kyüô	cia1	2			cia1	10			0.20	文讀	
 稼	稼	kyüô	cia1	2					cia5	11		文讀	
 鎵	镓		cia1									化學元素	
 加	加	kyüô	cia1	2					cia1	11	0.06	文讀	
@@ -5687,7 +5687,7 @@
 野	野		ya4	1	ya6	9	ya6	10	ya4	11			
 埜	野		ya4	1									
 壄	野		ya4	1									
-也	也	yiæ	ya4	2	ya6	9	ya6	10	ya4	11		白讀	
+也	也	yiæ	ya4	2	ya6	9	ya6	10	ya4	11	0.20	白讀	
 雅	雅	yüô					ya6	10			0.00		
 厊	厊		ya4										
 庌	庌		ya4										
@@ -5699,8 +5699,8 @@
 夜	夜	yiæ	ya6	1	ya6	9	ya6	10	ya6	11			
 鵺	鵺		ya6										
 #		yia6	ya6										
-鴉	鸦	üô	ia1	2	ia5	9	ia1	10				文讀	
-鵶	鸦		ia1	2	ia5	9						文讀	
+鴉	鸦	üô	ia1	2	ia5	9	ia1	10			0.10	文讀	
+鵶	鸦		ia1	2	ia5	9					0.10	文讀	
 訝	讶	üô	ia1	2								文讀	
 迓	迓	üô	ia1	2								文讀	
 䃁	䃁	üô	ia1	0								文讀	
@@ -6317,7 +6317,7 @@
 鷱	鷱		kau1										
 倃	倃		kau1										
 #		kao1	kau1										
-絞	绞		kau3	1	kau3	9	kau3	10				白讀	
+絞	绞		kau3	1	kau3	9	kau3	10			0.10	白讀	
 鉸	铰		kau3	1	kau3	9	kau3	10				鉸鏈	
 杲	杲	kao	kau3	7									
 縞	缟		kau3	1									
@@ -6840,13 +6840,13 @@
 加	加		ko1	2	ko1	9	ko1	10	ko1	11		白讀	
 嘉	嘉		ko1	2	ko1	9	ko1	10	ko1	11	0.05	白讀	
 枷	枷		ko1	1									
-架	架		ko1	3	ko5	9	ko5	10	ko5	11		量詞，塊	
+架	架		ko1	3	ko5	9	ko5	10	ko5	11	0.10	量詞，塊	
 #		kô1	ko1										
 假	假		ko3	2	ko3	9	ko3	10	ko3	11		真假	
 叚	假		ko3	2								真假	
 戈	戈								ko3	11	0.00		
 #		kô3	ko3										
-假	假		ko5	2	ko5	9	ko5	10				放假	
+假	假		ko5	2	ko5	9	ko5	10			0.20	放假	
 架	架		ko5	1	ko5	9	ko5	10	ko5	11		白讀	
 嫁	嫁		ko5	1	ko5	9	ko5	10	ko5	11		白讀	
 價	价		ko5	1	ko5	9	ko5	10	ko5	11		白讀	*
@@ -6883,7 +6883,7 @@
 丅	下		gho4	1								白讀	
 雫	雫		gho4									日語漢字，音同「下」	
 #		ʽô4	gho4										
-下	下		gho6	2	gho6	9	wo6	10	gho6	11		白讀 下飯	
+下	下		gho6	2	gho6	9	wo6	10	gho6	11	0.10	白讀 下飯	
 嗄	嗄	ʽô	gho6	3								「下飯」也作「嗄飯」	
 ⿰飠夏	⿰饣夏		gho6	3								「下飯」也作「⿰飠夏飯」	#
 夏	夏		gho6	2	gho6	9	wo6	10	gho6	11		白讀	
@@ -6939,7 +6939,7 @@
 瀌	瀌	piao	piau1	7									
 髟	髟	piao	piau1	7									
 儦	儦	piao	piau1	7									
-杓	杓	piao	piau1	7									
+杓	杓	piao	piau1	7							0.10		
 爂	爂		piau1										
 #		piao1	piau1										
 表	表	piao	piau3	1	piau3	9	piau3	10	piau3	11			
@@ -7487,7 +7487,7 @@
 #		hyiao3	shiau3									團音	
 笑	笑	siao	shiau5	1	shiau5	9	shiau5	10	shiau5	11			
 咲	笑		shiau5	1									
-少	少	siao	shiau5	1			shiau5	10				少年	
+少	少	siao	shiau5	1			shiau5	10			0.10	少年	
 哨	哨	siao	shiau5	7	shiau1	9			sau1	11			
 韒	韒		shiau5										
 歗	歗		shiau5										
@@ -7716,7 +7716,7 @@
 #		wô4	wo4										
 話	话	wô	wo6	1	wo6	9	wo6	10	wo6	11	228952		
 諙	话		wo6	1									
-華	华	wô	wo6	2			wo6	10	wo6	11			
+華	华	wô	wo6	2			wo6	10	wo6	11	0.10		
 鏵	铧	wô	wo6	2			wo2	10	wo2	11			
 樺	桦		wo6				wo6	10	wo6	11			
 畫	画	wô	wo6	1	wo6	9	wo6	10	wo6	11			
@@ -7956,7 +7956,7 @@
 榸	榸		tse1										
 #		cæ1	tse1										
 宰	宰	tsæ	tse3	2	tse1	9	tse3	10	tse3	11			
-載	载	tsæ	tse3	2			tse3	10	tse3	11		一年半載	
+載	载	tsæ	tse3	2			tse3	10	tse3	11	0.10	一年半載	
 #		tsæ3	tse3										
 者	者		tse3	2									
 鍺	锗		tse3									化學元素	
@@ -8079,7 +8079,7 @@
 嘅	慨	kʽæ	khe5	2									
 #		kʽæ5	khe5										
 看	看	kʽen	khe5	1			khe5	10			0.05	用在動詞或動詞結構後面，表示試一試（前面的動詞常用重疊式）	
-墈	墈		khe5	1								高的堤岸	
+墈	墈		khe5	1							0.10	高的堤岸	
 #		kʽen5	khe5										
 戤	戤	gæ	ge4	1	ge6	9	ge6	10				斜靠	
 隑	𬮿		ge4	1					ge6	11	0.00	斜靠；倚	
@@ -8916,7 +8916,7 @@
 碱	碱		kae3	2									
 硷	碱		kae3	2									
 揀	拣		kae3	1	kae3	9	kae3	10					
-間	间		kae3	1								量詞	
+間	间		kae3	1							0.10	量詞	
 襇	裥		kae3	1	kae3	9			kae3	11		打襇	
 襉	裥		kae3	1	kae3	9	kae3	10	kae3	11		打襇	
 𧟉	裥		kae3	1	kae3	9	kae3	10	kae3	11		打襇	
@@ -8971,7 +8971,7 @@
 #		kʽæn5	khae5										
 夾	夹		gae2	3							0.05	用手指、腳趾夾物	
 #		gæn2	gae2										
-諫	谏		gae6	1	gae6	9	gae6	10					
+諫	谏		gae6	1	gae6	9	gae6	10			0.05		
 #		gæn6	gae6										
 岩	岩		ngae2	1	ngae2	9							
 巖	岩	ngæn	ngae2	1	ngae2	9	ngae2	10	ngae2	11			
@@ -9065,7 +9065,7 @@
 #		hwæn3	huae3										
 甩	甩	hwæn	huae5	3			huae5	10	huae1	11	0.05	搖	
 #		hwæn5	huae5										
-還	还	wæn	wae2	1	wae2	9	wae2	10				歸還	
+還	还	wæn	wae2	1	wae2	9	wae2	10			0.20	歸還	
 環	环	wæn	wae2	2	wae2	9	wae6	10					
 圜	圜	wæn	wae2	7									
 澴	澴	wæn	wae2	7									
@@ -9091,8 +9091,8 @@
 岏	岏	ngwun	wae2	7									
 忨	忨		wae2										
 #		ngwun2	wae2										
-懷	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11		文讀	
-懐	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11		文讀	
+懷	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11	0.10	文讀	
+懐	怀	wæ	wae2	2	wae2	9	wae2	10	wae2	11	0.10	文讀	
 蘹	蘹		wae2									文讀	
 瀤	瀤	wæ	wae2	7									
 櫰	櫰	wæ	wae2	7									
@@ -9106,7 +9106,7 @@
 睅	睅		wae4										
 睆	睆		wae4										
 #		wæn4	wae4										
-環	环	wæn	wae6	1	wae2	9	wae6	10				下垂	
+環	环	wæn	wae6	1	wae2	9	wae6	10			0.01	下垂	
 繯	缳	wæn	wae6	7									
 擐	擐	wæn	wae6	7									
 蘾	蘾		wae6										
@@ -9732,7 +9732,7 @@
 糅	糅		gnieu6										
 腬	腬		gnieu6										
 #		nyiu6	gnieu6										
-扭	扭		knieu1	1	gnieu6	9	gnieu6	10	gnieu4	11			
+扭	扭		knieu1	1	gnieu6	9	gnieu6	10	gnieu4	11	0.10		
 #		n̆yiu1	knieu1										
 收	收	siu	shieu1	1	shieu1	9			shieu1	11			
 収	收		shieu1	1									
@@ -10533,7 +10533,7 @@
 #		tsʽen5	tshei-tshe5										
 ⿱咋會	⿱咋会		dzei2	1								「咋會」的合音詞，怎麼會	
 #		dze2	dzei2										
-墜	坠		dzei6	2								又音	
+墜	坠		dzei6	2							0.10	又音	
 #		dze6	dzei6										
 雖	虽	se	sei1	1	sei1	9	sei1	10	sei1	11			
 綏	绥	se	sei1	2	sei5	9	sei1	10	sei1	11			
@@ -10780,7 +10780,7 @@
 莟	莟		ghei-ghe6										
 蜭	蜭		ghei-ghe6										
 #		ʽen6	ghei-ghe6										
-哎	哎		ei-e1	1								嘆詞，用於招呼及應答	
+哎	哎		ei-e1	1							0.20	嘆詞，用於招呼及應答	
 #		e1	ei-e1										
 安	安	en	ei-e1	1	ei1	9	ei1	10	ei1	11			
 揞	揞								ei3	11	0.00	放好	#
@@ -12917,7 +12917,7 @@
 撗	撗	wang	wan2	7	wan3	9							
 潢	潢								wan2	11	0.00	灘潢頭(定海)	
 #		wang2	wan2										
-橫	横		wan6	1			wan6	10				打橫	
+橫	横		wan6	1			wan6	10			0.10	打橫	
 #		wang6	wan6										
 橫	横		uan1	1	uan5	9	uan1	10			0.00	僅限於「橫至至」	
 挖	挖								uan5	11	0.00	挖耳(定海)	
@@ -13082,8 +13082,8 @@
 蛧	蛧		vaon4										
 誷	𫍬		vaon4										
 #		vông4	vaon4										
-望	望	vông	vaon6	1	vaon6	9	vaon6	10	vaon6	11		白讀	
-朢	望		vaon6	1								文讀	
+望	望	vông	vaon6	1	vaon6	9	vaon6	10	vaon6	11	0.10	白讀	
+朢	望		vaon6	1							0.10	文讀	
 亡	亡	vông	vaon6	2	vaon6	9	vaon2	10	vaon2	11			
 亾	亡		vaon6	2									
 忘	忘	vông	vaon6	2	vaon6	9	vaon6	10	vaon6	11		文讀	
@@ -14566,7 +14566,7 @@
 根	根	keng	ken1	1	ken1	9	ken1	10	ken1	11			
 跟	跟	keng	ken1	1	ken1	9	ken1	10	ken1	11			
 耕	耕	keng	ken1	2	ken1	9			kan1	11	0.06	文讀	
-更	更	keng	ken1	2	ken1	9	ken1	10				更換	
+更	更	keng	ken1	2	ken1	9	ken1	10			0.06	更換	
 哽	哽	keng	ken1	7	ken1	9							
 亙	亘		ken1	2									
 亘	亘	keng	ken1	2									
@@ -16042,7 +16042,7 @@
 𢷍	𢷍		in5	1	in5	9						比測容器大小，或以容器估量物之多少	
 懚	懚		in5										
 檼	檼		in5										
-應	应	ing	in5	1	in5	9	in5	10	in5	11			
+應	应	ing	in5	1	in5	9	in5	10	in5	11	0.20		
 噟	噟		in5										
 譍	譍		in5										
 印	印	ing	in5	1	in5	9	in5	10	in5	11			
@@ -16956,7 +16956,7 @@
 #		tsong5	tson5									平舌	
 衆	众	cong	tson5	2	tson5	9	tson5	10					
 眾	众		tson5	1	tson5	9	tson5	10					
-種	种	cong	tson5	1	tson5	9	tson5	10	tson5	11		動詞	*
+種	种	cong	tson5	1	tson5	9	tson5	10	tson5	11	0.40	動詞	*
 湩	湩	cong	tson5	7									
 堹	堹	cong	tson5	7									
 偅	偅		tson5										
@@ -17795,7 +17795,7 @@
 撻	挞	tʽah	thaq7	7	daq8	9							
 闥	闼	tʽah	thaq7	7									
 貼	贴		thaq7	1							0.05	貼大餅	#
-沓	沓		thaq7	1									
+沓	沓		thaq7	1							0.20		
 䵬	䵬		thaq7	3								黑䵬䵬	
 㒓	𠉂		thaq7	3								𠇱㒓	
 狧	狧		thaq7										
@@ -17886,8 +17886,8 @@
 辣	辣	lah	naq8	3							0.00	又音 僅限於「煞辣」	
 痆	痆		naq8										
 #		nah8	naq8									格韻	
-吶	呐	neh	naq8	3									
-呐	呐	neh	naq8	3									
+吶	呐	neh	naq8	3							0.10		
+呐	呐	neh	naq8	3							0.10		
 鈉	钠		naq8									化學元素	
 納	纳	neh	naq8	1	naq8	9	naq8	10	naq8	11			
 衲	衲	neh	naq8	1	naq8	9							
@@ -18445,9 +18445,9 @@
 #		ʽeh8	ghaq8									割韻	
 壓	压		aq7	1	aq7	9	aq7	10	aq7	11			
 圧	压		aq7	1									
-鴨	鸭		aq7	1	aq7	9	aq7	10	aq7	11			
-𩿼	鸭		aq7	1									
-𪀌	鸭		aq7	1									
+鴨	鸭		aq7	1	aq7	9	aq7	10	aq7	11	0.20		
+𩿼	鸭		aq7	1							0.20		
+𪀌	鸭		aq7	1							0.20		
 押	押		aq7	1	aq7	9	aq7	10	aq7	11			
 閼	阏		aq7										
 阿	阿	ah	aq7	1	aq7	9	aq7	10	aq7	11			
@@ -19079,7 +19079,7 @@
 䐁	䐁		toq7	1								「㞘」亦作「䐁」	
 𡰪	𡰪		toq7	1								「㞘」俗作「𡰪」	
 沰	沰		toq7	1								量詞，指稠黏的液體或有較多水分的堆狀固體	
-啄	啄		toq7	1								禽類用嘴叩擊、夾食	
+啄	啄		toq7	1							0.05	禽類用嘴叩擊、夾食	
 裰	裰	toh	toq7										
 築	築	coh	toq7	3							0.05	表豎、直插義的「篤」本字爲「築」	
 得	得	teh	toq7	3							0.00	僅限於「得知」	
@@ -19523,7 +19523,7 @@
 淑	淑	joh	zoq8	2	zoq8	9	zoq8	10	zoq8	11			
 婌	婌		zoq8										
 碩	硕		zoq8	2	zaq8	9							
-若	若		zoq8	6			zoq8	10					
+若	若		zoq8	6			zoq8	10			0.10		
 鄀	鄀		zoq8										
 勺	勺		zoq8	1	zoq8	9	zoq8	10	zoq8	11			
 杓	杓		zoq8									同「勺」	
@@ -19717,7 +19717,7 @@
 貈	貈		ghoq8										
 #		ʽôh8	ghoq8										
 個	个	go	ghoq8	3							1607642	又音	
-箇	个		ghoq8	3								又音	
+箇	个		ghoq8	3							0.10	又音	
 嗰	个		ghoq8	3								又音	
 #		go-ʽôh8	goq8										
 屋	屋	oh	oq7	1	oq7	9	oq7	10	oq7	11			
@@ -21438,7 +21438,7 @@
 母	母						m6	10			0.00	白讀	
 #		m2	m2										
 呣	呣		mh1	2								應答聲	
-姆	姆		mh1	1	mh5	9	mh5	10				姆媽	
+姆	姆		mh1	1	mh5	9	mh5	10			0.01	姆媽	
 #		m̆1	mh1										
 嘸	呒	m̆	mh5	1			nh5	10	m2	11			
 無	无				mh5	9					0.00	白讀 無賬得算	#
@@ -21459,7 +21459,7 @@
 #		ng2	ng2										
 五	五		ng4	1	ng2	9	ng6	10	ng4	11		白讀	
 𠄡	五		ng4	1								白讀	
-耳	耳		ng4	1			ng6	10					
+耳	耳		ng4	1			ng6	10			0.44		
 午	午		ng4	1					ng4	11	0.00	限於「端午」	
 伍	伍		ng4	14			ng6	10	ng4	11	0.00	白讀	
 尾	尾		ng4	1	gni2	9	gni6	10			0.01	白讀 船尾巴	
